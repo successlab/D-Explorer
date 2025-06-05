@@ -1,0 +1,4 @@
+Alexa, open marketing quiz
+Alexa, launch marketing quiz
+Alexa, start marketing quiz
+Alexa, disable marketing quiz

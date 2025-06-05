@@ -1,0 +1,5 @@
+Alexa, open truth music radio
+Alexa play truth music radio
+Alexa start truth music radio
+Alexa ask truth music radio what is playing
+Alexa, disable truth music radio

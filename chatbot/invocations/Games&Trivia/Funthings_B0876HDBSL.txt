@@ -1,0 +1,4 @@
+Alexa, open fun things
+Alexa, stop
+Alexa, start fun things
+Alexa, disable fun things

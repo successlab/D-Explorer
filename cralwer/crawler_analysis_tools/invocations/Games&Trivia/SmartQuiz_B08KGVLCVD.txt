@@ -1,0 +1,3 @@
+Alexa, open smart quiz
+Alexa, start smart quiz
+Alexa, disable smart quiz

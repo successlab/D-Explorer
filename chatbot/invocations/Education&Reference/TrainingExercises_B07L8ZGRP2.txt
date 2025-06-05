@@ -1,0 +1,3 @@
+Alexa, open training exercises
+Alexa ask training exercises for the next exercise
+Alexa, disable training exercises

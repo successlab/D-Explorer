@@ -1,0 +1,8 @@
+Alexa, open taj mahal
+Alexa, Start Taj Mahal 
+Alexa, give me a fact
+Alexa, tell me a fact
+Alexa, Start Taj Mahal
+give me a fact
+tell me a fact
+Alexa, disable taj mahal

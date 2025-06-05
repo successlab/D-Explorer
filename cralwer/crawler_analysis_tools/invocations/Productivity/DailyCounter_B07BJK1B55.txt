@@ -1,0 +1,9 @@
+Alexa, open daily counter
+Alexa, ask daily counter for the count of yesterday
+Alexa, ask daily counter for the count of last Sunday
+Alexa, ask daily counter for the sum of last week
+Alexa, ask daily counter for the sum in August
+Alexa, start daily counter and increase by one
+Alexa, start daily counter and set the count to three for yesterday
+Alexa, ask daily counter for the count
+Alexa, disable daily counter

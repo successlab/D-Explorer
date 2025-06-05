@@ -1,0 +1,4 @@
+Alexa, open recognize me
+Alexa, tell recognize me that I graduated
+Alexa, tell recognize me that I got married.
+Alexa, disable recognize me

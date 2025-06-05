@@ -1,0 +1,4 @@
+Alexa, open ocean library
+read The Dawn-Breakers starting from chapter 10
+play the tutorial
+Alexa, disable ocean library

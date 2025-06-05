@@ -1,0 +1,5 @@
+Alexa, open halo
+Alexa, tell Halo i am going out
+Alexa, tell Halo i am home
+Alexa, tell Halo to Arm my Cameras
+Alexa, disable halo

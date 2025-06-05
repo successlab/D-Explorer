@@ -1,0 +1,4 @@
+Alexa, open daily compliments
+Alexa, ask daily compliments to compliment me
+Alexa, ask daily compliments for a compliment
+Alexa, disable daily compliments

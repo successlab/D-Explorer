@@ -1,0 +1,4 @@
+Alexa, open hey muse
+Alexa, join channel 'Seahawks' using Hey Muse
+Alexa, say 'hello everyone' using Hey Muse
+Alexa, disable hey muse

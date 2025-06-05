@@ -1,0 +1,4 @@
+Alexa, open elder happiness facts
+Alexa, start elder happiness facts
+Alexa, ask elder happiness facts for a fact
+Alexa, disable elder happiness facts

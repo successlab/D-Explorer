@@ -1,0 +1,5 @@
+Alexa, open epson printer
+Alexa, ask Epson printer to print a help page.
+Alexa, ask Epson printer to print a design paper.
+Alexa, ask Epson printer to print a sudoku.
+Alexa, disable epson printer

@@ -1,0 +1,4 @@
+Alexa, open dinosaur facts
+Alexa, launch dinosaur facts
+Alexa, start dinosaur facts
+Alexa, disable dinosaur facts

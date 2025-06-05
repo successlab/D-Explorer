@@ -1,0 +1,5 @@
+Alexa, open pregnancy countdown
+Alexa, tell pregnancy countdown I am having a baby
+Alexa, ask pregnancy countdown for the size of my baby
+Alexa, ask pregnancy countdown how many weeks I have left
+Alexa, disable pregnancy countdown

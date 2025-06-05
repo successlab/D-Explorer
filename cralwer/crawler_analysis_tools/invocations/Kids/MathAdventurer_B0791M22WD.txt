@@ -1,0 +1,4 @@
+Alexa, open math adventurer
+Alexa ask Math Adventurer to start a new game
+Alexa ask Math Adventurer how to play
+Alexa, disable math adventurer

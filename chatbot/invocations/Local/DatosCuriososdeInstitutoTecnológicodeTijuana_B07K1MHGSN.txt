@@ -1,0 +1,5 @@
+Alexa, open datos tec tijuana
+Alexa, dame un dato de Datos Tec Tijuana
+Alexa, abre Datos Tec Tijuana
+Alexa, abre Datos Tec Tijuana y dame un dato
+Alexa, disable datos tec tijuana

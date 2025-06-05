@@ -1,0 +1,5 @@
+Alexa, open e. d. a. radio
+Alexa, Abre e. d. a. radio
+Alexa, Reproduce e. d. a. radio
+Alexa, Inicia e. d. a. radio
+Alexa, disable e. d. a. radio

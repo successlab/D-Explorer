@@ -1,0 +1,3 @@
+Alexa, open what am i
+Alexa, start what am i
+Alexa, disable what am i

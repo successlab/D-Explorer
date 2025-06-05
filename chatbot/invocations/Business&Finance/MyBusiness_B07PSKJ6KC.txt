@@ -1,0 +1,4 @@
+Alexa, open my business
+Alexa, start my business
+Alexa, launch my business
+Alexa, disable my business

@@ -1,0 +1,4 @@
+Alexa, open useful design patterns
+Alexa, ask Useful Design Patterns to tell me something
+Alexa, tell me something from Useful Design Patterns
+Alexa, disable useful design patterns

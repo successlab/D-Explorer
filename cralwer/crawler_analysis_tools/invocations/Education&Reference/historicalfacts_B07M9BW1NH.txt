@@ -1,0 +1,5 @@
+Alexa, open historical facts
+Alexa, ask historical facts to give me some historical facts
+Alexa, open historical facts.
+Alexa, launch historical facts.
+Alexa, disable historical facts

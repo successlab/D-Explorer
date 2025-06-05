@@ -1,0 +1,5 @@
+Alexa, open the prize inside
+Alexa, ask The Prize Inside what's at McDonald's
+Alexa, ask The Prize Inside what's at Burger King
+Alexa, ask The Prize Inside what's at Wendy's
+Alexa, disable the prize inside

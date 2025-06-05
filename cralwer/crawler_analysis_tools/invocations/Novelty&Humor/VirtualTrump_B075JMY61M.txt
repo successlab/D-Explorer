@@ -1,0 +1,4 @@
+Alexa, open virtual trump
+Alexa, launch Virtual Trump
+Alexa, start Virtual Trump
+Alexa, disable virtual trump

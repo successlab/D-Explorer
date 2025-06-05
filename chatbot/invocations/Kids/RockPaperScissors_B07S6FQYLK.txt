@@ -1,0 +1,4 @@
+Alexa, open rock paper scissors
+Alexa, Start Rock Paper Scissors
+Alexa, Play Rock Paper Scissors
+Alexa, disable rock paper scissors

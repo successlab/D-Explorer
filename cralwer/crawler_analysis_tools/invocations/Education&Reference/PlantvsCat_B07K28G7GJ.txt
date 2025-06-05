@@ -1,0 +1,5 @@
+Alexa, open doctor cat
+Alexa ask Doctor Cat if English Ivy is toxic to cats
+Alexa ask Doctor Cat if Silver Dollar is toxic to cats
+Alexa ask doctor cat if boston fern is poisonous to cats
+Alexa, disable doctor cat

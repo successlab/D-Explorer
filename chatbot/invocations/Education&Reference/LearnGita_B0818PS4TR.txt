@@ -1,0 +1,4 @@
+Alexa, open learn gita
+Alexa, start learn Gita
+Alexa, launch learn Gita
+Alexa, disable learn gita

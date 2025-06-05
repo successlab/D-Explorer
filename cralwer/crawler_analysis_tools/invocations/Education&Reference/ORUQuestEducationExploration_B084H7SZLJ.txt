@@ -1,0 +1,4 @@
+Alexa, open my vision
+Alexa, start my vision
+Alexa, launch my vision
+Alexa, disable my vision

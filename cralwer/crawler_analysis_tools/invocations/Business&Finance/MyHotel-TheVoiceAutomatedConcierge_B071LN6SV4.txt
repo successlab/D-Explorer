@@ -1,0 +1,5 @@
+Alexa, open my hotel
+Alexa ask My Hotel for more towels
+Alexa ask My Hotel what time is checkout
+Alexa ask My Hotel to send housekeeping
+Alexa, disable my hotel

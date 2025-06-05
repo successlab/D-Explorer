@@ -1,0 +1,3 @@
+Alexa, open programming language
+Alexa, ask programming language about a new language
+Alexa, disable programming language

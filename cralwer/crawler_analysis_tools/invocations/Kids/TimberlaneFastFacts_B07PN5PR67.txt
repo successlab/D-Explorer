@@ -1,0 +1,6 @@
+Alexa, open timberlane fast facts
+Alexa, next
+Alexa, stop
+Alexa, start Timberlane Fast Facts
+Alexa, ask Timberlane Fast Facts for a fact
+Alexa, disable timberlane fast facts

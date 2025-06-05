@@ -1,0 +1,5 @@
+Alexa, open ecua ambato radio
+Alexa, abre ecua ambato radio
+Alexa, reproduce ecua ambato radio
+Alexa, comenzar ecua ambato radio
+Alexa, disable ecua ambato radio

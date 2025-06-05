@@ -1,0 +1,3 @@
+Alexa, turn on switch
+Alexa, turn off switch
+Alexa, disable eWeLinkSmartHome

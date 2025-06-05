@@ -1,0 +1,4 @@
+Alexa, open random color facts
+Alexa, ask Random Color Facts to give me a fact
+Alexa, ask Random Color Facts a fact
+Alexa, disable random color facts

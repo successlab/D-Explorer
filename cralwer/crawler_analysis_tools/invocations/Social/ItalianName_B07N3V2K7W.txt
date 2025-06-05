@@ -1,0 +1,4 @@
+Alexa, open italian name
+Alexa, ask italian name what is today's italian name
+Alexa, ask italian name today's name
+Alexa, disable italian name

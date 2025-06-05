@@ -1,0 +1,3 @@
+Alexa, turn on pool alarm
+Alexa, turn off pool alarm
+Alexa, disable BConePoolAlarm

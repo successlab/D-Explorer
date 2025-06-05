@@ -1,0 +1,4 @@
+Alexa, open dice throne
+Alexa, Ask Dice Throne to randomize season 1.
+Randomize both seasons
+Alexa, disable dice throne

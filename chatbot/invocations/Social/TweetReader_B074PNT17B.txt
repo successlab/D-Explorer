@@ -1,0 +1,5 @@
+Alexa, open tweet reader
+Alexa, ask Tweet Reader to read tweets of Barack Obama
+Alexa, ask Tweet Reader what is Donald Trump tweeting today
+Alexa, open Tweet Reader and give me recent tweets by NFL
+Alexa, disable tweet reader

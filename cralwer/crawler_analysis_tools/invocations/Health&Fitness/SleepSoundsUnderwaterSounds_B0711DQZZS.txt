@@ -1,0 +1,6 @@
+Alexa, open underwater sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Underwater Sounds
+Alexa, launch Underwater Sounds
+Alexa, disable underwater sounds

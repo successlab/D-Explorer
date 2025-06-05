@@ -1,0 +1,4 @@
+Alexa, open my fish feeder
+have I fed my fish
+feed my fish
+Alexa, disable my fish feeder

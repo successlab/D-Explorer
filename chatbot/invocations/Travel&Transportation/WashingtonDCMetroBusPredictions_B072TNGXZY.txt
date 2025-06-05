@@ -1,0 +1,4 @@
+Alexa, open metro bus
+Alexa, ask metro bus for arrival times
+when is the next bus coming?
+Alexa, disable metro bus

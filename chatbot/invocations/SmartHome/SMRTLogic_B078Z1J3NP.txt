@@ -1,0 +1,4 @@
+Alexa, open smart logic
+Alexa, ask smart logic to turn on Zone 1 for 5 minutes
+Alexa, launch smart logic
+Alexa, disable smart logic

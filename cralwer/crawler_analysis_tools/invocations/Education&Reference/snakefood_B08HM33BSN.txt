@@ -1,0 +1,4 @@
+Alexa, open snake food
+Alexa, stop
+Alexa, start snake food
+Alexa, disable snake food

@@ -1,0 +1,4 @@
+Alexa, open garbage truck
+Alexa tell Garbage Truck
+Alexa ask Garbage Truck
+Alexa, disable garbage truck

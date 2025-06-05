@@ -1,0 +1,4 @@
+Alexa, open knock knock jokes
+who is there
+ready
+Alexa, disable knock knock jokes

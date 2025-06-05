@@ -1,0 +1,4 @@
+Alexa, lock garage door.
+Alexa, unlock east shed door.
+Alexa, is garage door 3 locked?
+Alexa, disable TailwindSmartHome

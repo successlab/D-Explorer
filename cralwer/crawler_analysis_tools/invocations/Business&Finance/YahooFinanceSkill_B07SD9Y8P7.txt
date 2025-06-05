@@ -1,0 +1,5 @@
+Alexa, open yahoo finance
+Alexa, open Yahoo Finance.
+Alexa, ask Yahoo Finance what stocks are trending.
+Alexa, ask Yahoo Finance how is the market doing today
+Alexa, disable yahoo finance

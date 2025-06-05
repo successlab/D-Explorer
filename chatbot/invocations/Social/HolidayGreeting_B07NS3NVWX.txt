@@ -1,0 +1,3 @@
+Alexa, open holiday greeting
+Alexa, start Holiday Greeting
+Alexa, disable holiday greeting

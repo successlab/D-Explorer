@@ -1,0 +1,4 @@
+Alexa, open horror movie quiz
+Alexa, start Horror Movie Quiz
+Alexa, play Horror Movie Quiz
+Alexa, disable horror movie quiz

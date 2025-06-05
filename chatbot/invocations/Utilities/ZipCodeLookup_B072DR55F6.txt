@@ -1,0 +1,5 @@
+Alexa, open zip code lookup
+Alexa, ask zip code lookup where is 19808?
+21904 is where?
+Where is 90210?
+Alexa, disable zip code lookup

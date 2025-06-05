@@ -1,0 +1,4 @@
+Alexa, open hangout generator
+Alexa, stop
+Alexa, start hangout generator
+Alexa, disable hangout generator

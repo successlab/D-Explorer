@@ -1,0 +1,5 @@
+Alexa, open keto calc
+Alexa, Ask KetoCalc what is the exchange for cucumber?
+Alexa, Ask KetoCalc what is the exchange for bacon?
+Alexa, Ask KetoCalk the exchange for strawberry.
+Alexa, disable keto calc

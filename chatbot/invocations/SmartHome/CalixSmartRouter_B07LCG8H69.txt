@@ -1,0 +1,4 @@
+Alexa, open my router
+Alexa ask my router how many devices are on the network
+Alexa ask my router to check my speed
+Alexa, disable my router

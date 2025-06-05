@@ -1,0 +1,6 @@
+Alexa, open facts two
+Alexa, next
+Alexa, stop
+Alexa, start facts two
+Alexa, ask facts two for a fact
+Alexa, disable facts two

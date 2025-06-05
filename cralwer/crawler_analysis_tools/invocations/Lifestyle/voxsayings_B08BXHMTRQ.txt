@@ -1,0 +1,4 @@
+Alexa, open vox sayings
+Alexa, start vox sayings
+Alexa, launch vox sayings
+Alexa, disable vox sayings

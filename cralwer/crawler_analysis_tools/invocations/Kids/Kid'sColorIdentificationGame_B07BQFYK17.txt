@@ -1,0 +1,4 @@
+Alexa, open kid's color game
+Alexa, play Kid's Color Game
+Is it green?
+Alexa, disable kid's color game

@@ -1,0 +1,4 @@
+Alexa, open sun valley report
+Alexa, Ask Sun Valley Report what lifts are open on Bald Mountain
+Alexa, Ask Sun Valley Report what runs are groomed on Bald Mountain
+Alexa, disable sun valley report

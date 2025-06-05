@@ -1,0 +1,4 @@
+Alexa, open noms tracker
+Alexa, ask Noms Tracker if the cats are hungry
+Alexa, tell Noms Tracker that I fed Fido
+Alexa, disable noms tracker

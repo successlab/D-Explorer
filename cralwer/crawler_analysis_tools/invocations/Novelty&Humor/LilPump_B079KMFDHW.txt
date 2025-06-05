@@ -1,0 +1,4 @@
+Alexa, open lil pump
+alexa ask Lil Pump
+alexa launch Lil Pump
+Alexa, disable lil pump

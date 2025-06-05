@@ -1,0 +1,4 @@
+Alexa, open phoenix guide
+Alexa, ask phoenix guide to tell me a good attraction
+Alexa, ask phoenix guide to tell me the top five things
+Alexa, disable phoenix guide

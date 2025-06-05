@@ -1,0 +1,5 @@
+Alexa, open arnie quotes
+Alexa, ask arnie quotes for a quote
+Alexa, ask arnie quotes for a movie quote
+Alexa, ask arnie quotes for a random quote
+Alexa, disable arnie quotes

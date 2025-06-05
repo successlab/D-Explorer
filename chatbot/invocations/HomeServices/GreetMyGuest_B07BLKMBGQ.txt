@@ -1,0 +1,5 @@
+Alexa, open my greeter
+Alexa, Launch My Greeter
+Ask my greeter to add my guest
+Ask my greeter to greet my guest
+Alexa, disable my greeter

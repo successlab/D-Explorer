@@ -1,0 +1,12 @@
+Alexa, turn on Fireplace
+Alexa, turn off Fireplace
+Alexa, turn on Fireplace downlight
+Alexa, turn off Fireplace downlight
+Alexa, turn on Fireplace log
+Alexa, turn off Fireplace log
+Alexa, turn on Fireplace flame
+Alexa, turn off Fireplace flame
+Alexa, turn on Fireplace heater
+Alexa, turn off Fireplace heater
+Alexa, set Fireplace heat to 70
+Alexa, disable SEIFirebox

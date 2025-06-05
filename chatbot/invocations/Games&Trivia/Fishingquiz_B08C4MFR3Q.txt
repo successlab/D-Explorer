@@ -1,0 +1,3 @@
+Alexa, open fishing quiz
+Alexa, start fishing quiz
+Alexa, disable fishing quiz

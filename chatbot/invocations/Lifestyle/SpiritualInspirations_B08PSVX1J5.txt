@@ -1,0 +1,5 @@
+Alexa, open spiritual inspirations
+Alexa, next
+Alexa, stop
+Alexa, start spiritual inspirations
+Alexa, disable spiritual inspirations

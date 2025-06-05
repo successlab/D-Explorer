@@ -1,0 +1,6 @@
+Alexa, open my programming sam
+Alexa, next
+Alexa, stop
+Alexa, start my programming sam
+Alexa, ask my programming sam for a fact
+Alexa, disable my programming sam

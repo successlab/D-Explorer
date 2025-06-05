@@ -1,0 +1,4 @@
+Alexa, open parks libro
+Alexa ask Parks Libro to search for a book by Dan Brown
+Alexa ask Parks Libro to search for an events organized by Greg Davis
+Alexa, disable parks libro

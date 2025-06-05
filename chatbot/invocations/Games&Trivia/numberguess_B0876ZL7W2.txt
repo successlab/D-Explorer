@@ -1,0 +1,4 @@
+Alexa, open number guess
+Alexa start number guess
+Alexa, launch number guess
+Alexa, disable number guess

@@ -1,0 +1,5 @@
+Alexa, open comic information
+Alexa, ask Comic Information to tell me about Spiderman
+Alexa, ask Comic Information to tell me about a random character
+Alexa, ask Comic Information to talk about Batman
+Alexa, disable comic information

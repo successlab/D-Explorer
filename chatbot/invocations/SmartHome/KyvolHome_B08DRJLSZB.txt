@@ -1,0 +1,4 @@
+Alexa, turn on the robot.
+Alexa, turn off the robot.
+Alexa，turn on the robot
+Alexa, disable KyvolHome

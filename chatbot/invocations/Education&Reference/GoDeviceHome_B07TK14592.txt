@@ -1,0 +1,3 @@
+Alexa, open go device home
+Alexa Go Device Home
+Alexa, disable go device home

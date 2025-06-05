@@ -1,0 +1,4 @@
+Alexa, turn off the TV
+Alexa, turn on the air conditioner
+Alexa, turn off the light
+Alexa, disable Currant

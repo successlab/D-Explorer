@@ -1,0 +1,4 @@
+Alexa, open tale of evolution
+Alexa, stop
+Alexa, start tale of evolution
+Alexa, disable tale of evolution

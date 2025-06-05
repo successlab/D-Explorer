@@ -1,0 +1,3 @@
+Alexa, open morning list
+Alexa, start Morning List
+Alexa, disable morning list

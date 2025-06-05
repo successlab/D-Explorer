@@ -1,0 +1,4 @@
+Alexa, open walmart stories
+Alexa, launch Walmart Stories
+Alexa, pause
+Alexa, disable walmart stories

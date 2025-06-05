@@ -1,0 +1,4 @@
+Alexa, open fitness coach
+Give me a motivational quote
+Give me instructions for barbell curl
+Alexa, disable fitness coach

@@ -1,0 +1,5 @@
+Alexa, open the biking wizard
+Alexa, ask The Biking Wizard if I should go biking in Whistler today
+Alexa, ask The Biking Wizard if I should go for a ride in Portland, Oregon
+Alexa, ask The Biking Wizard if I should go biking in Malibu
+Alexa, disable the biking wizard

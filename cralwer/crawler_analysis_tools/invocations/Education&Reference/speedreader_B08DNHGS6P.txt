@@ -1,0 +1,4 @@
+Alexa, open speed reader
+Alexa, start speed reader
+Alexa, launch speed reader
+Alexa, disable speed reader

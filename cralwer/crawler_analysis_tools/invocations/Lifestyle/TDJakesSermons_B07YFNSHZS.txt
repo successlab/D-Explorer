@@ -1,0 +1,9 @@
+Alexa, open t. d. jakes sermons
+Alexa, play TD Jakes Sermons.
+Alexa, pause
+Alexa, resume.
+Alexa, play the previous episode.
+Alexa, ask TD Jakes Sermons for the title of this episode.
+Alexa, ask TD Jakes Sermons for the date of this episode.
+Alexa, open TD Jakes Sermons
+Alexa, disable t. d. jakes sermons

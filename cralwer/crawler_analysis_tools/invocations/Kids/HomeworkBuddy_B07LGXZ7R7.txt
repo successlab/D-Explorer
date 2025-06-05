@@ -1,0 +1,3 @@
+Alexa, open homework buddy
+Alexa, tell homework buddy that i finished my homework
+Alexa, disable homework buddy

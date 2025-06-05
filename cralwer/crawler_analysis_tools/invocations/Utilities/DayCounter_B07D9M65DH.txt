@@ -1,0 +1,5 @@
+Alexa, open day counter
+Alexa, ask Day Counter how long until 10th December
+Alexa, ask Day Counter how many sleeps until Santa
+Alexa, ask Day Counter how many weeks since 1st January 2001
+Alexa, disable day counter

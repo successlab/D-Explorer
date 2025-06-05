@@ -1,0 +1,5 @@
+Alexa, open barbeque mate
+Alexa, open Barbeque Mate and tell me the target temperature for medium rare
+Alexa, open Barbeque Mate and tell me how to make a simple rub
+Alexa, open Barbeque Mate and tell me how to cook a pork steak
+Alexa, disable barbeque mate

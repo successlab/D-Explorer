@@ -1,0 +1,5 @@
+Alexa, open asthma device helper
+Alexa, ask Asthma Device Helper how to use Advair Diskus.
+How do I use Proair inhaler?
+What are the instructions for using Breo Ellipta?
+Alexa, disable asthma device helper

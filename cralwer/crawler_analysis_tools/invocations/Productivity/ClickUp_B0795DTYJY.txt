@@ -1,0 +1,6 @@
+Alexa, open click up
+Alexa, open ClickUp
+Alexa, open click up.
+Alexa, ask click up to create a task.
+List my tasks due today.
+Alexa, disable click up

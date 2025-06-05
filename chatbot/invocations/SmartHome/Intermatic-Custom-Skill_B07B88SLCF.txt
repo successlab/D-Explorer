@@ -1,0 +1,5 @@
+Alexa, open intermatic
+Alexa, ask Intermatic to turn on the lights
+Alexa, ask Intermatic to turn off the lights
+Alexa, ask Intermatic to set the mode
+Alexa, disable intermatic

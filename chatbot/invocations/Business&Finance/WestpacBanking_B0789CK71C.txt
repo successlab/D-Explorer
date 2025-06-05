@@ -1,0 +1,5 @@
+Alexa, open westpac
+Alexa, ask Westpac what's the balance of my credit card?
+Alexa, ask Westpac what are my recent transactions?
+Alexa, ask Westpac how many reward points do I have?
+Alexa, disable westpac

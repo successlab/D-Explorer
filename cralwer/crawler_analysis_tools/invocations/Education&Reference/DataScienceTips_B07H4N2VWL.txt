@@ -1,0 +1,5 @@
+Alexa, open data science tips
+Alexa, open data science tips.
+give me a data science tip
+tell me a data science tip
+Alexa, disable data science tips

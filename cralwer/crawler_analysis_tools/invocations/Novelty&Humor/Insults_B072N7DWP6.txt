@@ -1,0 +1,4 @@
+Alexa, open insult me
+Alexa, ask insult me
+Alexa, launch insult me
+Alexa, disable insult me

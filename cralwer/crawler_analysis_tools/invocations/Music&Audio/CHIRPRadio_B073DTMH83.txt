@@ -1,0 +1,6 @@
+Alexa, open chirp radio
+Alexa, tell CHIRP Radio...
+Alexa, open CHIRP Radio.
+Tell CHIRP Radio to listen live.
+Ask CHIRP Radio to play the podcast.
+Alexa, disable chirp radio

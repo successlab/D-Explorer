@@ -1,0 +1,5 @@
+Alexa, open my bridge radio
+Alexa, play My Bridge Radio
+Alexa, start My Bridge Radio
+Alexa, launch My Bridge Radio
+Alexa, disable my bridge radio

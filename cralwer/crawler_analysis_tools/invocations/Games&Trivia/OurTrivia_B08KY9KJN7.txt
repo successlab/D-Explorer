@@ -1,0 +1,3 @@
+Alexa, open our trivia
+Alexa, start our trivia
+Alexa, disable our trivia

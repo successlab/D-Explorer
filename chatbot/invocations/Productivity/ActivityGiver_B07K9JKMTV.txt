@@ -1,0 +1,4 @@
+Alexa, open activity giver
+Alexa, ask Activity Giver about what should I do?
+Alexa, open Activity Giver.
+Alexa, disable activity giver

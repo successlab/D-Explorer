@@ -1,0 +1,7 @@
+Alexa, open delay say
+Alexa, tell/ask Delay Say to say [your phrase] in/after [any delay in minutes or seconds less than 11 minutes]
+Alexa, tell Delay Say to say 'Don't forget to turn off the rice' in 10 minutes.
+Alexa, ask Delay Say to say 'welcome home mom' after 55 seconds
+Alexa, start Delay Say
+Alexa, launch Delay Say
+Alexa, disable delay say

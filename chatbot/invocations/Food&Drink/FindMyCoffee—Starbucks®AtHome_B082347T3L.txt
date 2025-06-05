@@ -1,0 +1,5 @@
+Alexa, open find my starbucks coffee
+Alexa, find my Starbucks coffee.
+Alexa, open find my Starbucks coffee.
+Alexa, start find my Starbucks coffee
+Alexa, disable find my starbucks coffee

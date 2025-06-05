@@ -1,0 +1,4 @@
+Alexa, set the living room to 18 degrees.
+Alexa, what's the temperature in the bedroom?
+Alexa, increase the kitchen temperature by 3 degrees.
+Alexa, disable MysaSmartThermostat

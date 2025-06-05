@@ -1,0 +1,3 @@
+Alexa, open keds
+Alexa, Launch Keds.
+Alexa, disable keds

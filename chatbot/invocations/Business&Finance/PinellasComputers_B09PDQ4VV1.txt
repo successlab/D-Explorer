@@ -1,0 +1,4 @@
+Alexa, open pinellas computers
+Alexa, ask pinellas computers to check ticket status
+Alexa, ask pinellas computers to book an appointment
+Alexa, disable pinellas computers

@@ -1,0 +1,4 @@
+Alexa, open pocket casts
+Alexa, ask Pocket Casts to give me a recommendation
+Alexa, ask Pocket Casts about the featured podcast
+Alexa, disable pocket casts

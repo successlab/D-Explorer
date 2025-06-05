@@ -1,0 +1,5 @@
+Alexa, open cave game quiz
+Alexa, next
+Alexa, stop
+Alexa, start cave game quiz
+Alexa, disable cave game quiz

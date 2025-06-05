@@ -1,0 +1,3 @@
+Alexa, open fun list
+Alexa ask fun list to give me an idea
+Alexa, disable fun list

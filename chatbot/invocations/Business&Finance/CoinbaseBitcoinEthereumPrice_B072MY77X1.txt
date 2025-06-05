@@ -1,0 +1,5 @@
+Alexa, open coin base
+Alexa, ask coin base how much is bitcoin?
+Alexa, give me realtime bitcoin price from coin base.
+Alexa, ask coin base how much is ethereum?
+Alexa, disable coin base

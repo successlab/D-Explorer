@@ -1,0 +1,3 @@
+Alexa, open grill me
+Alexa, Start Grill Me
+Alexa, disable grill me

@@ -1,0 +1,5 @@
+Alexa, open subway status
+Alexa, ask subway status to add a line
+Delete a line
+Check a line
+Alexa, disable subway status

@@ -1,0 +1,5 @@
+Alexa, open ground hog
+Alexa, ask groundhog to check its shadow
+Alexa, ask groundhog to check his shadow
+Alexa, ask groundhog to check her shadow
+Alexa, disable ground hog

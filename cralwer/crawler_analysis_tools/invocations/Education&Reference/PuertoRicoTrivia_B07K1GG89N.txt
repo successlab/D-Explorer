@@ -1,0 +1,4 @@
+Alexa, open puerto rico trivia
+Yes
+No
+Alexa, disable puerto rico trivia

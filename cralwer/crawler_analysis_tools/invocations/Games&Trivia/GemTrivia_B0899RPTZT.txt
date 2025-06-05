@@ -1,0 +1,3 @@
+Alexa, open gem trivia
+Alexa, start gem trivia
+Alexa, disable gem trivia

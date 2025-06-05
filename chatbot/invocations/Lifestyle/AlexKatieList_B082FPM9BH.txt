@@ -1,0 +1,4 @@
+Alexa, open alex katie list
+Alexa, ask alex katie list to read my chore list
+Alexa, ask alex katie list to log a chore
+Alexa, disable alex katie list

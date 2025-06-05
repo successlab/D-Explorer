@@ -1,0 +1,4 @@
+Alexa, open my list
+Please add getting groceries to my list
+Alexa ask my list to delete the last item from it
+Alexa, disable my list

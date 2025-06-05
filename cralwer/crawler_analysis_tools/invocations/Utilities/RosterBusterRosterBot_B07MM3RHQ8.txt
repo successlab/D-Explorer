@@ -1,0 +1,5 @@
+Alexa, open roster bot
+Alexa, start Roster Bot.
+What is my next duty?
+Alexa, ask Roster Bot about today.
+Alexa, disable roster bot

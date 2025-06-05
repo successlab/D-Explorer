@@ -1,0 +1,4 @@
+Alexa, open travis bot
+Alexa, Ask Travis bot best season to visit Haridwar
+Alexa, Ask Travis bot temperature of Haridwar
+Alexa, disable travis bot

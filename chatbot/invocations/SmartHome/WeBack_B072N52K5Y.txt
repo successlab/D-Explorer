@@ -1,0 +1,6 @@
+Alexa, discover my devices
+Alexa,turn on the robot.
+Alexa,turn off the robot.
+Alexa, turn on robot
+Alexa, turn off robot
+Alexa, disable WeBack

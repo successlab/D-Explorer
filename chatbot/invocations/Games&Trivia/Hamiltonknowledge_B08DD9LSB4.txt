@@ -1,0 +1,3 @@
+Alexa, open hamilton knowledge
+Alexa, start hamilton knowledge
+Alexa, disable hamilton knowledge

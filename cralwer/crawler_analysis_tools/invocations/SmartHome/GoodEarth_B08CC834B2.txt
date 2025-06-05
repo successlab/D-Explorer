@@ -1,0 +1,5 @@
+Alexa, turn off my light
+Alexa, set Basement light to blue
+Alexa, set Bedroom light to warm white
+Alexa, turn on light
+Alexa, disable GoodEarth

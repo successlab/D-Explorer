@@ -1,0 +1,4 @@
+Alexa, open some music
+Alexa, play some music
+Alexa, launch some music
+Alexa, disable some music

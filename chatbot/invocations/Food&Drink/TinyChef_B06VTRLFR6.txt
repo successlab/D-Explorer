@@ -1,0 +1,3 @@
+Alexa, open klove chef
+Alexa, tell klove chef that I am cooking sizzling pasta
+Alexa, disable klove chef

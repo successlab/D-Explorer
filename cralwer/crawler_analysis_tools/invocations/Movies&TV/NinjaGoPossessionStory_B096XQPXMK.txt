@@ -1,0 +1,4 @@
+Alexa, open ninja go possession
+Alexa, stop
+Alexa, start ninja go possession
+Alexa, disable ninja go possession

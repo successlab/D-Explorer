@@ -1,0 +1,11 @@
+Alexa, open atalaya de estudio
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask Atalaya de estudio for the latest talk
+Alexa, start Atalaya de estudio
+Alexa, disable atalaya de estudio

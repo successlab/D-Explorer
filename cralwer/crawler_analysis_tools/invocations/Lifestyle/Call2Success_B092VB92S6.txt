@@ -1,0 +1,4 @@
+Alexa, open call two success
+set prayer reminder
+delete prayer reminders
+Alexa, disable call two success

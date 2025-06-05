@@ -1,0 +1,4 @@
+Alexa, open braille bot
+Alexa, use braille bot and convert dots one two and four
+Alexa, use braille bot and convert F
+Alexa, disable braille bot

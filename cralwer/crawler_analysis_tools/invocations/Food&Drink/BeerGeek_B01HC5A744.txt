@@ -1,0 +1,5 @@
+Alexa, open beer geek
+Alexa ask beer geek
+Alexa, ask beer geek to tell me some beer trivia
+Alexa, ask beer geek to tell me a beer fact
+Alexa, disable beer geek

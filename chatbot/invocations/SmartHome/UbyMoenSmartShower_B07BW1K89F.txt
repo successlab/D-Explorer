@@ -1,0 +1,5 @@
+Alexa, open moen
+Alexa, turn on the shower
+Alexa, start my morning shower
+Alexa, turn on the shower to 105 degrees
+Alexa, disable moen

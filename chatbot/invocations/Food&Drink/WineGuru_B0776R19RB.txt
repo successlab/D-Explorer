@@ -1,0 +1,4 @@
+Alexa, open wine guru
+Alexa start Wine Guru
+Alexa ask Wine Guru what goes with chicken
+Alexa, disable wine guru

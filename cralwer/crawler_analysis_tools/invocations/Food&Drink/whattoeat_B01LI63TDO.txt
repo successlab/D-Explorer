@@ -1,0 +1,5 @@
+Alexa, open food expert
+Alexa, ask food expert
+Alexa, tell food expert
+Alexa, begin food expert
+Alexa, disable food expert

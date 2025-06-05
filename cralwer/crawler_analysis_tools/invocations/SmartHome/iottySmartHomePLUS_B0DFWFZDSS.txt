@@ -1,0 +1,3 @@
+Alexa, turn on Kitchen Light
+Alexa, turn off Kitchen Light
+Alexa, disable iottySmartHomePLUS

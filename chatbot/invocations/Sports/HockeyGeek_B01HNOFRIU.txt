@@ -1,0 +1,4 @@
+Alexa, open hockey geek
+Alexa, ask hockey geek to tell me some trivia
+Alexa, ask hockey geek to tell me a fact
+Alexa, disable hockey geek

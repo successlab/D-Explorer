@@ -1,0 +1,3 @@
+Alexa, open mega trivia
+Alexa, start mega trivia
+Alexa, disable mega trivia

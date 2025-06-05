@@ -1,0 +1,5 @@
+Alexa, open gilbert guide
+Alexa, ask gilbert guide to tell me about gilbert
+Alexa, ask gilbert guide for the top five things to do
+Alexa, ask gilbert guide to tell me an attraction
+Alexa, disable gilbert guide

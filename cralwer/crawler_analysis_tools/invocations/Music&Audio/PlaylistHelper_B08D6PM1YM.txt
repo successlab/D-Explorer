@@ -1,0 +1,4 @@
+Alexa, open playlist helper
+Alexa, ask Playlist Helper to add song to my rock classics playlist!
+Alexa ask playlist helper to add song to playlist Christmas Songs
+Alexa, disable playlist helper

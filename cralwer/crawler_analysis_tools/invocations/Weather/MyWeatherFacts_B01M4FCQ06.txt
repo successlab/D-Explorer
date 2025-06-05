@@ -1,0 +1,3 @@
+Alexa, open my weather facts
+Alexa, start my weather facts.
+Alexa, disable my weather facts

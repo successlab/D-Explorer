@@ -1,0 +1,4 @@
+Alexa, open my thing
+turn light on
+turn light off
+Alexa, disable my thing

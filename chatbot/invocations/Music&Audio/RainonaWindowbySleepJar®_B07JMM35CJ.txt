@@ -1,0 +1,9 @@
+Alexa, open rain on a window
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Rain on a Window to turn on Background Mode
+Alexa, ask Rain on a Window to turn Background Mode off
+Alexa, start Rain on a Window
+Alexa, launch Rain on a Window
+Alexa, disable rain on a window

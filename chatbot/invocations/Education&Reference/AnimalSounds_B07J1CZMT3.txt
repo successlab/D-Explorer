@@ -1,0 +1,5 @@
+Alexa, open animal sounds
+Alexa start Animal Sounds
+Alexa ask Animal Sounds for cow sounds
+Alexa ask Animal Sounds what does a cow sound like
+Alexa, disable animal sounds

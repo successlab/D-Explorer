@@ -1,0 +1,4 @@
+Alexa, Arm my Security System in away mode
+Alexa, is the front door open?
+Alexa, disarm home
+Alexa, disable Connect2Go

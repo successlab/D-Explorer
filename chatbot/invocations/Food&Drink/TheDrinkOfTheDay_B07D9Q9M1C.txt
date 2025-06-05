@@ -1,0 +1,3 @@
+Alexa, open drink of the day
+Alexa drink of the day
+Alexa, disable drink of the day

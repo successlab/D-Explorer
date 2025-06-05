@@ -1,0 +1,3 @@
+Alexa, open cuánto falta
+Alexa, abre cuánto falta
+Alexa, disable cuánto falta

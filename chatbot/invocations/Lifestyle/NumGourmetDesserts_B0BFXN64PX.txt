@@ -1,0 +1,5 @@
+Alexa, open bakery weekly specials
+Alexa, ask Bakery Weekly Specials
+What is launching this weekend
+What is launching next weekend
+Alexa, disable bakery weekly specials

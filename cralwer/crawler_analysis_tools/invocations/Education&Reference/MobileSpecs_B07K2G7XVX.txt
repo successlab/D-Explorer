@@ -1,0 +1,5 @@
+Alexa, open mobile specs
+Alexa, launch mobile specs
+Alexa, ask mobile specs to tell me about iPhone X
+Alexa, ask mobile specs to tell me about Redmi Note 5 Pro
+Alexa, disable mobile specs

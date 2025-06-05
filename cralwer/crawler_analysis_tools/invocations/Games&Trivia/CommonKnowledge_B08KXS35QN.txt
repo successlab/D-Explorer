@@ -1,0 +1,4 @@
+Alexa, open common knowledge
+Alexa, start common knowledge
+Alexa, play common knowledge
+Alexa, disable common knowledge

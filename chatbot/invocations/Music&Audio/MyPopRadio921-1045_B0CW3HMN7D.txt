@@ -1,0 +1,4 @@
+Alexa, open my pop radio
+Alexa, ask my pop radio what's playing.
+Alexa, ask my pop radio to play live.
+Alexa, disable my pop radio

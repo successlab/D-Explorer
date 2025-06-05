@@ -1,0 +1,4 @@
+Alexa, open basketball facts
+Alexa, ask basketball facts to give me some information about basketball
+Alexa, ask basketball facts to tell me a basketball fact
+Alexa, disable basketball facts

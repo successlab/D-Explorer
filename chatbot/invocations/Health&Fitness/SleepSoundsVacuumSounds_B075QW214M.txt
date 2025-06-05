@@ -1,0 +1,6 @@
+Alexa, open vacuum sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Vacuum Sounds
+Alexa, launch Vacuum Sounds
+Alexa, disable vacuum sounds

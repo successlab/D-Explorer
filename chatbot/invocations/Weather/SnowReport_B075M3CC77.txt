@@ -1,0 +1,5 @@
+Alexa, open snow report
+Alexa, ask snow report about Keystone weather
+Alexa, ask snow report about Beaver Creek conditions
+Alexa, ask snow report about Vail snow report
+Alexa, disable snow report

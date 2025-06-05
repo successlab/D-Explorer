@@ -1,0 +1,5 @@
+Alexa, open konkani guide
+Alexa, ask konkani guide What is konkani language
+Alexa, ask konkani guide What region speaks konkani
+Alexa, ask konkani guide tell me about konkani food
+Alexa, disable konkani guide

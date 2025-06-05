@@ -1,0 +1,5 @@
+Alexa, open russian reversal
+Alexa, Ask Russian Reversal to tell me a joke.
+Alexa, Ask Russian Reversal for a joke.
+Alexa, tell Russian Reversal to give me a new joke.
+Alexa, disable russian reversal

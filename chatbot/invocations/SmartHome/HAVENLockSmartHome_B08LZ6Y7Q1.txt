@@ -1,0 +1,4 @@
+Alexa, lock front door
+Alexa, what is the status of front door?
+Alexa, is front door locked?
+Alexa, disable HAVENLockSmartHome

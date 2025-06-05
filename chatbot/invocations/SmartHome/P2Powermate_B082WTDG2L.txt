@@ -1,0 +1,3 @@
+Alexa, open the shade
+Alexa, close the shade
+Alexa, disable P2Powermate

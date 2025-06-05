@@ -1,0 +1,5 @@
+Alexa, open d. t. smart
+Alexa, ask d. t. smart
+Alexa, start d. t. smart and turn on the room
+Alexa, start d. t. smart and turn off the room
+Alexa, disable d. t. smart

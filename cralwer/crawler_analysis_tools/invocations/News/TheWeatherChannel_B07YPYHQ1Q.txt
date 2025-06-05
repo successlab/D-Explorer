@@ -1,0 +1,4 @@
+Alexa, open weather channel
+Alexa, ask weather channel what's the weather.
+Alexa, ask weather channel for the pollen level outside
+Alexa, disable weather channel

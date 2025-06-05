@@ -1,0 +1,5 @@
+Alexa, open control tower
+Alexa, ask Control Tower what is the weather at Portland
+Alexa, ask Control Tower what is the weather at Kilo Hotel India Oscar
+Alexa, ask Control Tower what is the airport identifier for Los Angeles
+Alexa, disable control tower

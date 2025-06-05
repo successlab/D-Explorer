@@ -1,0 +1,3 @@
+Alexa, open word guru
+Alexa, start word guru
+Alexa, disable word guru

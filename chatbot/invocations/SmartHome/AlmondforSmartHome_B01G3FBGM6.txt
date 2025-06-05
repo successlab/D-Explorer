@@ -1,0 +1,5 @@
+Alexa, dim the Living Room lights
+Alexa, turn on Kitchen Lights
+Alexa, brighten Living Room
+Alexa, set Thermostat to 70 degrees
+Alexa, disable AlmondforSmartHome

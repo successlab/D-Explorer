@@ -1,0 +1,5 @@
+Alexa, open exploit reader
+Alexa, tell exploit reader to read me a random exploit
+Alexa, start exploit reader
+Alexa, tell exploit reader to random
+Alexa, disable exploit reader

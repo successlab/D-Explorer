@@ -1,0 +1,5 @@
+Alexa, open yoga lala
+Alexa, tell yoga lala to play morning session
+Alexa, tell yoga lala to play evening session
+Alexa, tell yoga lala to play midday session
+Alexa, disable yoga lala

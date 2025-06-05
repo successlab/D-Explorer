@@ -1,0 +1,5 @@
+Alexa, open e. r.
+Alexa, ask e. r. for the wait time
+Alexa, ask e. r. for the nearest wait time
+Alexa, ask e. r. for wait time in chicago
+Alexa, disable e. r.

@@ -1,0 +1,7 @@
+Alexa, open psychological fact
+Alexa, launch Psychological Facts
+Alexa, open Psychological Facts
+Alexa, stop
+Alexa ask psychological fact for a fact
+Alexa launch psychological fact
+Alexa, disable psychological fact

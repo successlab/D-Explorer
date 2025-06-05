@@ -1,0 +1,4 @@
+Alexa, open memory bank
+Alexa ask Memory Bank to add that I need to pick up Jimmy at five
+Alexa ask Memory Bank to recall
+Alexa, disable memory bank

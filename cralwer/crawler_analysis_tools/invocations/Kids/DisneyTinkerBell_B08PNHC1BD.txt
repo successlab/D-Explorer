@@ -1,0 +1,4 @@
+Alexa, open disney tinker bell alarm
+Alexa, wake me up at 7:00 AM to disney tinker bell alarm tone
+Alexa, set an alarm at 7:00 AM to disney tinker bell alarm tone
+Alexa, disable disney tinker bell alarm

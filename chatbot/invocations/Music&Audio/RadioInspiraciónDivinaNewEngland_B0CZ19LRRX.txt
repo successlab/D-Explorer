@@ -1,0 +1,4 @@
+Alexa, open mi radio
+Alexa, Abre Mi Radio
+Alexa, Empieza Mi Radio
+Alexa, disable mi radio

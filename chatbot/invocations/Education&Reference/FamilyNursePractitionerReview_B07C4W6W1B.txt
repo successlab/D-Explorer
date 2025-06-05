@@ -1,0 +1,4 @@
+Alexa, open nurse practitioner questions
+Alexa, ask Nurse Practitioner Questions
+The answer is 3
+Alexa, disable nurse practitioner questions

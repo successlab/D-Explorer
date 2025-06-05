@@ -1,0 +1,5 @@
+Alexa, open channel x. radio
+Alexa, Enable Channel X. Radio skill.
+Alexa, launch channel x. radio
+Alexa, play channel x. radio
+Alexa, disable channel x. radio

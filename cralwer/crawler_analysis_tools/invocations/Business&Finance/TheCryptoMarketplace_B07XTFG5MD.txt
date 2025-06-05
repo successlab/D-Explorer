@@ -1,0 +1,4 @@
+Alexa, open the crypto marketplace
+Alexa, launch the Crypto Marketplace
+Alexa, ask the Crypto Marketplace for the price of Bitcoin
+Alexa, disable the crypto marketplace

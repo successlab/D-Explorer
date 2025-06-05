@@ -1,0 +1,4 @@
+Alexa, open beautiful dreams
+Alexa, pause
+Alexa, resume
+Alexa, disable beautiful dreams

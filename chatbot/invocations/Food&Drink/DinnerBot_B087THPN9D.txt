@@ -1,0 +1,4 @@
+Alexa, open dinner bot
+What should I have for dinner
+What's for dinner
+Alexa, disable dinner bot

@@ -1,0 +1,5 @@
+Alexa, open meow cat
+Alexa ask meow cat
+Alexa ask meow cat to meow
+Alexa tell meow cat to meow
+Alexa, disable meow cat

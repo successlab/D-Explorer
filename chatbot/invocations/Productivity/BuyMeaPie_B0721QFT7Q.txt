@@ -1,0 +1,5 @@
+Alexa, open buy me a pie
+Alexa, ask Buy Me a Pie to add milk
+Alexa, open Buy Me a Pie and add apples
+Alexa, ask Buy Me a Pie to add an item to the list Walmart
+Alexa, disable buy me a pie

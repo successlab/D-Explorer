@@ -1,0 +1,5 @@
+Alexa, open farm sounds alarm
+Alexa, set an alarm to Farm Sounds
+Alexa, wake me up at 7:00 AM to farm sounds alarm tone
+Alexa, set an alarm at 7:00 AM to farm sounds alarm tone
+Alexa, disable farm sounds alarm

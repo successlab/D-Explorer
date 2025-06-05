@@ -1,0 +1,5 @@
+Alexa, open piano dreams
+Alexa, stop.” To resume it again, say 
+Alexa, start piano dreams
+Alexa, launch piano dreams
+Alexa, disable piano dreams

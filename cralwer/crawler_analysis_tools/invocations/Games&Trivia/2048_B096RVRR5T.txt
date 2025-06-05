@@ -1,0 +1,5 @@
+Alexa, open twenty forty eight
+Alexa, move left
+Alexa, show stats
+Alexa, new game
+Alexa, disable twenty forty eight

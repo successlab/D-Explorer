@@ -1,0 +1,6 @@
+Alexa, open axolotl facts
+Alexa, next
+Alexa, stop
+Alexa, start axolotl facts
+Alexa, ask axolotl facts for a fact
+Alexa, disable axolotl facts

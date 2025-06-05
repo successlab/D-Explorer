@@ -1,0 +1,3 @@
+Alexa, open tira un dado
+Alexa, abre tira un dado
+Alexa, disable tira un dado

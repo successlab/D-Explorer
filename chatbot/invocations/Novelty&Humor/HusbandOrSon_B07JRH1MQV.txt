@@ -1,0 +1,4 @@
+Alexa, open husband or son
+Alexa, ask husband or son to say a quote
+Alexa, ask husband or son to tell me a quote
+Alexa, disable husband or son

@@ -1,0 +1,6 @@
+Alexa, open ruckus unleashed
+Alexa, ask ruckus unleashed to restart Bulldog
+Alexa, ask ruckus unleashed how many clients are connected
+Alexa, ask ruckus unleashed are there any update
+Alexa, ask ruckus unleashed to check internet connection
+Alexa, disable ruckus unleashed

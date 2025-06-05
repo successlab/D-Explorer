@@ -1,0 +1,6 @@
+Alexa, arm my security panel
+Alexa, is my security panel disarmed?
+Alexa, turn on the desk lamp.
+Alexa, is the Front Door locked?
+Alexa, arm my security panel in away mode
+Alexa, disable YaleSmartLiving

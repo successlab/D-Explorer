@@ -1,0 +1,3 @@
+Alexa, open hotel tycoon
+Alexa, start hotel tycoon
+Alexa, disable hotel tycoon

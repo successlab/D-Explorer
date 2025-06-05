@@ -1,0 +1,4 @@
+Alexa, open survivor trivia
+Alexa, play Survivor Trivia
+Alexa, launch Survivor Trivia
+Alexa, disable survivor trivia

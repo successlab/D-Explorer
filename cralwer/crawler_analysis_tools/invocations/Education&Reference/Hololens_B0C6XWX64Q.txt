@@ -1,0 +1,4 @@
+Alexa, open headset buddy
+Alexa, start headset buddy
+Alexa, begin headset buddy
+Alexa, disable headset buddy

@@ -1,0 +1,5 @@
+Alexa, open event hub
+Alexa, ask Event Hub to find Bruno Mars events near Boston
+Alexa, ask Event Hub for rock music events
+Alexa, ask Event Hub to find events near Seattle
+Alexa, disable event hub

@@ -1,0 +1,4 @@
+Alexa, open remember your keys
+Alexa, ask Remember Your Keys if I am ready to go
+Alexa, ask Remember Your Keys if I can leave
+Alexa, disable remember your keys

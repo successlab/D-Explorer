@@ -1,0 +1,5 @@
+Alexa, open airport info
+Alexa open airport info and tell me the delay at SEA
+tell me the weather at Nasvhille international airport
+Tell me the delay at Salt Lake City airport
+Alexa, disable airport info

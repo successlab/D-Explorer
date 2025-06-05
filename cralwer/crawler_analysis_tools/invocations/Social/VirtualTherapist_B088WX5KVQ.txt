@@ -1,0 +1,4 @@
+Alexa, open virtual therapist
+Alexa, Virtual Therapist
+Alexa, start Virtual Therapist
+Alexa, disable virtual therapist

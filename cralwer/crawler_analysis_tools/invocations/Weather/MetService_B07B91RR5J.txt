@@ -1,0 +1,5 @@
+Alexa, open met service
+Alexa, ask Met Service what the weather in Wellington is like
+Alexa, tell Met Service to check if there are warnings for Christchurch
+Alexa, open Met Service and give me the forecast for Auckland
+Alexa, disable met service

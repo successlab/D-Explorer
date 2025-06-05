@@ -1,0 +1,4 @@
+Alexa, open mary kay quote
+Alexa ask Mary Kay Quote for a quote
+Alexa ask Mary Kay Quote for a Mary Kay quote
+Alexa, disable mary kay quote

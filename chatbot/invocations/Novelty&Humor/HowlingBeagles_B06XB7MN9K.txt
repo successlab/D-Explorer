@@ -1,0 +1,5 @@
+Alexa, open howling beagles
+Alexa, ask Howling Beagles to howl
+Alexa, ask Howling Beagles for a howl
+Alexa, tell Howling Beagles to howl
+Alexa, disable howling beagles

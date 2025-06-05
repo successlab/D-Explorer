@@ -1,0 +1,4 @@
+Alexa, open metronome pro
+play a beat at Andante for 1 minute
+play at 40 beats per minute for 30 seconds
+Alexa, disable metronome pro

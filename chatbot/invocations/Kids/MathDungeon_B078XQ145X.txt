@@ -1,0 +1,5 @@
+Alexa, open math dungeon
+Alexa, start Math Dungeon
+Alexa, ask Math Dungeon to move forward
+Alexa, ask Math Dungeon is the answer seven
+Alexa, disable math dungeon

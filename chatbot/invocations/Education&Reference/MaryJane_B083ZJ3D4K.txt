@@ -1,0 +1,4 @@
+Alexa, open mary jane
+Alexa, start Mary Jane
+Alexa, launch Mary Jane
+Alexa, disable mary jane

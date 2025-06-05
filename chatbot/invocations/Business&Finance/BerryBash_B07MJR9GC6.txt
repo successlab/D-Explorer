@@ -1,0 +1,4 @@
+Alexa, open berry bash
+i choose strawberry
+tell me more
+Alexa, disable berry bash

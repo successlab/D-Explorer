@@ -1,0 +1,4 @@
+Alexa, open flex tape
+Alexa, ask Flex tape to compliment me
+Alexa, ask Flex tape for a compliment
+Alexa, disable flex tape

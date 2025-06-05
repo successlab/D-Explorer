@@ -1,0 +1,5 @@
+Alexa, open pure f. m. london
+Alexa, play Pure F. M. London
+Alexa, pause
+Alexa, resume
+Alexa, disable pure f. m. london

@@ -1,0 +1,4 @@
+Alexa, open sonic
+Alexa ask SONIC for locations
+Alexa ask SONIC what's new
+Alexa, disable sonic

@@ -1,0 +1,4 @@
+Alexa, open atmospheres audio
+Alexa, Start Atmospheres Audio
+Alexa, Play Atmospheres Audio
+Alexa, disable atmospheres audio

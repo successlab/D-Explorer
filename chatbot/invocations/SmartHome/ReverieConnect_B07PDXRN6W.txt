@@ -1,0 +1,5 @@
+Alexa, open reverie connect
+Alexa, open Reverie Connect and set bed to flat
+Alexa, open Reverie Connect and move bed to zero gravity
+Alexa, open Reverie Connect and change my bed to antisnore
+Alexa, disable reverie connect

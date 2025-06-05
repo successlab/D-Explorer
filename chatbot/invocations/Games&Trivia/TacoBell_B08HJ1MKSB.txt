@@ -1,0 +1,4 @@
+Alexa, open taco bell
+Alexa, start Taco Bell
+Alexa, launch Taco Bell
+Alexa, disable taco bell

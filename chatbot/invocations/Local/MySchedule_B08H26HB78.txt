@@ -1,0 +1,4 @@
+Alexa, open my schedule
+the time is seven twenty
+it is noon
+Alexa, disable my schedule

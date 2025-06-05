@@ -1,0 +1,5 @@
+Alexa, open birthday song
+Alexa, open Birthday Song and play Happy Birthday
+Alexa, ask Birthday Song to play
+Alexa, ask Birthday Song to play Happy Birthday
+Alexa, disable birthday song

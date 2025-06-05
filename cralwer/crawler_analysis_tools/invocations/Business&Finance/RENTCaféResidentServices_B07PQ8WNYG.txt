@@ -1,0 +1,5 @@
+Alexa, open rent cafe
+Alexa, Open RENTCafe
+Alexa, Start RENTCafe
+Alexa, ask RENTCafe to pay my rent
+Alexa, disable rent cafe

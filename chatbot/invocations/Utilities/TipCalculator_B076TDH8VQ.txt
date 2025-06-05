@@ -1,0 +1,5 @@
+Alexa, open tip calculator
+Alexa ask tip calculator how much should I tip a server on a one hundred dollar check
+Alexa ask tip calculator how much is the tip for a bartender on an eighty dollars and twenty five cents check
+Alexa ask tip calculator how much should I tip a hotel porter
+Alexa, disable tip calculator

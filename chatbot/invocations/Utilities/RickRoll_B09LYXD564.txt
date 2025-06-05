@@ -1,0 +1,4 @@
+Alexa, open rick roll
+Alexa, start Rick Roll
+Alexa, launch Rick Roll
+Alexa, disable rick roll

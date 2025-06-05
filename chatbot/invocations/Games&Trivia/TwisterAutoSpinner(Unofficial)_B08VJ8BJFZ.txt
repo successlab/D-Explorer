@@ -1,0 +1,4 @@
+Alexa, open auto spinner
+Spin automatically
+Change spin interval to five seconds
+Alexa, disable auto spinner

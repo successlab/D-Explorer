@@ -1,0 +1,5 @@
+Alexa, open atmosphere
+Alexa, ask atmosphere to set mode to turbo.
+Alexa, tell atmosphere to set fan to speed three.
+Alexa, tell atmosphere to turn the fan down.
+Alexa, disable atmosphere

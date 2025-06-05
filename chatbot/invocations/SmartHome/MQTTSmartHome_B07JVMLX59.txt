@@ -1,0 +1,4 @@
+Alexa, turn on the lamp
+Alexa, turn on the kitchen lights
+Alexa, turn off the fan
+Alexa, disable MQTTSmartHome

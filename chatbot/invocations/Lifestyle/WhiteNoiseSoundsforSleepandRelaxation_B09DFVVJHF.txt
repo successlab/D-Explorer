@@ -1,0 +1,5 @@
+Alexa, open white noise
+Alexa, stop.” To resume it again, say 
+Alexa, start White Noise
+Alexa, launch White Noise
+Alexa, disable white noise

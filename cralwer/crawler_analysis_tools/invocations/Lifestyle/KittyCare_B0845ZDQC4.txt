@@ -1,0 +1,4 @@
+Alexa, open kitty care
+Alexa, what is Bandit's evening schedule?
+Alexa, start kitty care
+Alexa, disable kitty care

@@ -1,0 +1,5 @@
+Alexa, open patient education
+Alexa patient education
+hello
+help
+Alexa, disable patient education

@@ -1,0 +1,3 @@
+Alexa, open audio scholar
+Alexa, ask audio scholar
+Alexa, disable audio scholar

@@ -1,0 +1,5 @@
+Alexa, open count me
+Alexa, ask count me to start
+Alexa, ask count me to increment
+Alexa, ask count me to clear
+Alexa, disable count me

@@ -1,0 +1,3 @@
+Alexa, open fairy trivia
+Alexa, start fairy trivia
+Alexa, disable fairy trivia

@@ -1,0 +1,4 @@
+Alexa, open forrest gump
+Alexa, ask Forrest Gump for a quote
+Alexa, tell Forrest Gump I need a quote
+Alexa, disable forrest gump

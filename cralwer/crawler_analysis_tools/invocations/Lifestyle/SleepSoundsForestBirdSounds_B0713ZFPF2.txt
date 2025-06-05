@@ -1,0 +1,6 @@
+Alexa, open forest bird sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Forest Bird Sounds
+Alexa, launch Forest Bird Sounds
+Alexa, disable forest bird sounds

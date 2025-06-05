@@ -1,0 +1,4 @@
+Alexa, open starship
+Start the simulation
+Fire missiles
+Alexa, disable starship

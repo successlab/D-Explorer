@@ -1,0 +1,5 @@
+Alexa, open electric cost finder
+Alexa, ask electric cost finder to tell me how much electricity costs
+Alexa, ask electric cost finder to tell me how much electricity costs in my area
+Alexa, ask electric cost finder what is the electric rate near me
+Alexa, disable electric cost finder

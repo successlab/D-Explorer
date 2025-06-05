@@ -1,0 +1,5 @@
+Alexa, open ingredient list
+Alexa, ask ingredient list what is in apple pie.
+Alexa, ask ingredient list how to make pancakes.
+Alexa, ask ingredient list what goes in scrambled eggs.
+Alexa, disable ingredient list

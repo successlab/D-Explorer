@@ -1,0 +1,14 @@
+Alexa, open c. b. n. radio
+Alexa, play CBN Radio
+Alexa, stop
+Alexa, ask CBN Radio to play {Station Name}
+Alexa, ask CBN Radio to play Cross Country
+Alexa, ask CBN Radio to play Selah
+Alexa, ask CBN Radio to List Stations
+Alexa, ask CBN Radio who's playing?
+Alexa, ask CBN Radio to play Daily Devotion ...
+Alexa, ask CBN Radio to play ...
+Alexa, play C. B. N. Radio
+Alexa, ask C. B. N. Radio to play Cross Country
+Alexa, ask C. B. N. Radio to list stations
+Alexa, disable c. b. n. radio

@@ -1,0 +1,5 @@
+Alexa, open my cloud
+Alexa, ask My Cloud to play music
+Alexa, ask My Cloud to play the song THRILLER
+Alexa, ask My Cloud to play music by MICHAEL JACKSON
+Alexa, disable my cloud

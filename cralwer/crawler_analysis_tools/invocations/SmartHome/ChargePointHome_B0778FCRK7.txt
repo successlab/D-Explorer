@@ -1,0 +1,3 @@
+Alexa, turn on ChargePoint Home.
+Alexa, turn off ChargePoint Home.
+Alexa, disable ChargePointHome

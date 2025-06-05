@@ -1,0 +1,5 @@
+Alexa, open my novo
+Alexa, ask my Novo to give me a massage.
+Alexa, ask my Novo to restore.
+Alexa, ask my Novo to run energize.
+Alexa, disable my novo

@@ -1,0 +1,4 @@
+Alexa, open portland waste
+Alexa, ask Portland Waste when does my garbage come?
+Alexa, tell Portland Waste my address is 12804 E Burnside Street
+Alexa, disable portland waste

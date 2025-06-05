@@ -1,0 +1,4 @@
+Alexa, open grocery store
+Alexa, ask grocery store to find chips
+Alexa, ask grocery store where is the chips
+Alexa, disable grocery store

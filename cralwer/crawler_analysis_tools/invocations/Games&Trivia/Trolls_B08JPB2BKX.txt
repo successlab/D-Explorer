@@ -1,0 +1,3 @@
+Alexa, open trolls
+help
+Alexa, disable trolls

@@ -1,0 +1,3 @@
+Alexa, open be social
+Alexa, ask Be Social to give stats of my account
+Alexa, disable be social

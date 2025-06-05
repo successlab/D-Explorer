@@ -1,0 +1,4 @@
+Alexa, open movie quotes trivia
+Alexa, start Movie Quotes Trivia
+the answer is one
+Alexa, disable movie quotes trivia

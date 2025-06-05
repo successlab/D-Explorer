@@ -1,0 +1,5 @@
+Alexa, open my points
+Alexa, ask my points to add 5
+Alexa, ask my points to subtract 5
+Alexa, ask my points to set to 5
+Alexa, disable my points

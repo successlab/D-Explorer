@@ -1,0 +1,5 @@
+Alexa, open miele
+Alexa, start the vacuum on turbo.
+Alexa, turn on fridge-freezer super cooling.
+Alexa, turn hood cooking light on.
+Alexa, disable miele

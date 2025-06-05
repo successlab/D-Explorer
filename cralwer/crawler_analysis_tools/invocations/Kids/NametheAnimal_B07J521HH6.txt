@@ -1,0 +1,3 @@
+Alexa, open name the animal
+Alexa, start Name the Animal
+Alexa, disable name the animal

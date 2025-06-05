@@ -1,0 +1,4 @@
+Alexa, open train horns
+Alexa, play train horns
+Alexa, ask train horns
+Alexa, disable train horns

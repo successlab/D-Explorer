@@ -1,0 +1,4 @@
+Alexa, open space bones
+Alexa, Start Space Bones
+Alexa, play Space Bones
+Alexa, disable space bones

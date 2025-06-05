@@ -1,0 +1,4 @@
+Alexa, open trainer road
+Alexa, start Trainer road
+Alexa, ask Trainer road to start workout
+Alexa, disable trainer road

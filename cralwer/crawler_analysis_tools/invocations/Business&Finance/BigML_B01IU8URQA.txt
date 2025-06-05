@@ -1,0 +1,7 @@
+Alexa, open big m. l.
+Alexa, ask BigML to give me a demo
+Alexa, open BigML
+Alexa, ask BigML to set the project
+Alexa, ask BigML to load the latest model
+make a prediction
+Alexa, disable big m. l.

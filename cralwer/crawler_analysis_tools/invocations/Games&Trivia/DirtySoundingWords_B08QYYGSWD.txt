@@ -1,0 +1,4 @@
+Alexa, open dirty words
+yes
+help
+Alexa, disable dirty words

@@ -1,0 +1,4 @@
+Alexa, open santa secrets
+Alexa ask santa secrets to tell me a fact
+Alexa ask santa secrets to give me a fact
+Alexa, disable santa secrets

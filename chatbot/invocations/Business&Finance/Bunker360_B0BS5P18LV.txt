@@ -1,0 +1,4 @@
+Alexa, open bunker three sixty
+Alexa start bunker three sixty
+Alexa, ask bunker three sixty to dashboard
+Alexa, disable bunker three sixty

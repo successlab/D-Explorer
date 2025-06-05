@@ -1,0 +1,4 @@
+Alexa, open kindness counts
+Log a kindness
+Set a reminder
+Alexa, disable kindness counts

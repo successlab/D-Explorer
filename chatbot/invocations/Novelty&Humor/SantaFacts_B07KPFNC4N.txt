@@ -1,0 +1,4 @@
+Alexa, open santa facts
+Alexa, ask santa facts to give me a fact
+Alexa, launch santa facts
+Alexa, disable santa facts

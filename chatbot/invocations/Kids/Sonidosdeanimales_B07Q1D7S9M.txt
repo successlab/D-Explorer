@@ -1,0 +1,5 @@
+Alexa, open sonidos de animales
+Alexa, abre sonidos de animales y ruge como un león
+Alexa, abre sonidos de animales y dime como hacen los patos
+Alexa, abre sonidos de animales y has como un caballo
+Alexa, disable sonidos de animales

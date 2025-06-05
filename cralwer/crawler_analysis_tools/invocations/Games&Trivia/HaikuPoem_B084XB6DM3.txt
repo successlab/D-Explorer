@@ -1,0 +1,4 @@
+Alexa, open haiku poem
+Alexa, tell “Haiku Poem to read me a poem.
+Alexa launch Haiku Poem
+Alexa, disable haiku poem

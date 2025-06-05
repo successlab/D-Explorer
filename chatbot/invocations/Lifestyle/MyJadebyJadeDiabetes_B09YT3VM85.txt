@@ -1,0 +1,5 @@
+Alexa, open my jade
+Alexa ask my jade for my blood sugar
+Alexa ask my jade to log twenty grams
+Alexa ask my jade for active insulin
+Alexa, disable my jade

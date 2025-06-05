@@ -1,0 +1,4 @@
+Alexa, what is the thermostat set to?
+Alexa, what is the temperature of the thermostat?
+Alexa, increase the thermostat by 1 degree.
+Alexa, disable RentlySmartHome

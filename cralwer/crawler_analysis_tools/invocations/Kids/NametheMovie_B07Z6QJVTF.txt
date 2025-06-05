@@ -1,0 +1,3 @@
+Alexa, open name the movie
+Alexa, start name the movie
+Alexa, disable name the movie

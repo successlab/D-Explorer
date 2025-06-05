@@ -1,0 +1,4 @@
+Alexa, open hove radio
+Alexa, start hove radio
+Alexa, ask hove radio what's playing
+Alexa, disable hove radio

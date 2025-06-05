@@ -1,0 +1,19 @@
+Alexa, turn down the volume on [TV name].
+Alexa, set volume to 5 on [TV name].
+Alexa, mute [TV name].
+Alexa, fast forward.
+Alexa, pause.
+Alexa, play.
+Alexa, switch input to HDMI1.
+Alexa, turn off [TV name].
+Alexa, change channel to [Channel Number].
+Alexa, change channel to [Channel Name].
+Alexa, channel up on [TV name].
+Alexa, start recording.
+Alexa, go to Home page.
+Alexa, go to Network settings.
+Alexa, move down.
+Alexa, search for comedy movies.
+Alexa, launch Prime Video.
+Alexa, turn up the volume on TV.
+Alexa, disable VIDAA

@@ -1,0 +1,4 @@
+Alexa, turn on the kitchen lights
+Alexa, brighten the living room lights
+Alexa, set the basement thermostat to 70 degrees
+Alexa, disable CrestronforSmartHomeandConferenceRoom

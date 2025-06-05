@@ -1,0 +1,3 @@
+Alexa, open hello hello
+Alexa, ask hello hello who should take out the trash
+Alexa, disable hello hello

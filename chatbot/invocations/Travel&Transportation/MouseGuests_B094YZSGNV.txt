@@ -1,0 +1,5 @@
+Alexa, open mouse guests
+Alexa, ask Mouse Guests what is the wait time for Pirates of the Caribbean?
+Alexa, ask Mouse Guests what time does Disneyland open tomorrow?
+Alexa, ask Mouse Guests what time is World of Color?
+Alexa, disable mouse guests

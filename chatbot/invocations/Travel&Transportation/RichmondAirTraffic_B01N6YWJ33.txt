@@ -1,0 +1,5 @@
+Alexa, open richmond air
+Alexa, ask Richmond Air for local traffic
+what flights are scheduled to depart Charlottesville
+what flights have left Hanover
+Alexa, disable richmond air

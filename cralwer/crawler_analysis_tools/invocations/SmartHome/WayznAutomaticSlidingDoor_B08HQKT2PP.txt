@@ -1,0 +1,2 @@
+Alexa, open the sliding door.
+Alexa, disable WayznAutomaticSlidingDoor

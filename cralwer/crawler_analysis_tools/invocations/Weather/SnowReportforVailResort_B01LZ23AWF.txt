@@ -1,0 +1,4 @@
+Alexa, open vail resort
+Alexa, ask Vail Resort for the snow report
+Alexa, ask Vail Resort for latest conditions
+Alexa, disable vail resort

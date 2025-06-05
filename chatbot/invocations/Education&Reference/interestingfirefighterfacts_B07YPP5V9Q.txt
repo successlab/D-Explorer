@@ -1,0 +1,4 @@
+Alexa, open firefighter facts
+Alexa, start firefighter facts
+Alexa, launch firefighter facts
+Alexa, disable firefighter facts

@@ -1,0 +1,4 @@
+Alexa, open hogwarts house
+Alexa, launch Hogwarts House
+Alexa, ask Hogwarts House what house would I be in
+Alexa, disable hogwarts house

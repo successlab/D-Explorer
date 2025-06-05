@@ -1,0 +1,5 @@
+Alexa, open guess the country
+Alexa, ask guess the country a question
+Alexa, start guess the country
+Alexa, play guess the country
+Alexa, disable guess the country

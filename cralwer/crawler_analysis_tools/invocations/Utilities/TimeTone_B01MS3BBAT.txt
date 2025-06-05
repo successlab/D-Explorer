@@ -1,0 +1,4 @@
+Alexa, open time tone
+Alexa ask time tone to start timer
+Alexa ask time tone for second timer
+Alexa, disable time tone

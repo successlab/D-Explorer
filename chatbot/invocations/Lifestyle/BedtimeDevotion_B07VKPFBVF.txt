@@ -1,0 +1,4 @@
+Alexa, open bedtime devotion
+Alexa, start bedtime devotion
+Alexa, launch bedtime devotion
+Alexa, disable bedtime devotion

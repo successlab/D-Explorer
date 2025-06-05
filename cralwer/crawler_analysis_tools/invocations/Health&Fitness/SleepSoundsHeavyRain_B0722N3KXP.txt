@@ -1,0 +1,6 @@
+Alexa, open heavy rain
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Heavy Rain
+Alexa, launch Heavy Rain
+Alexa, disable heavy rain

@@ -1,0 +1,4 @@
+Alexa, turn on the home.
+Alexa, what is the temperature of the home?
+Alexa, make the home warmer.
+Alexa, disable VineControl

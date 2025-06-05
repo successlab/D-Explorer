@@ -1,0 +1,5 @@
+Alexa, open which world
+Alexa, ask Which World, where can I ride today?
+Alexa, ask Which World, what guest world is next?
+Alexa, ask Which World, when can I run in London?
+Alexa, disable which world

@@ -1,0 +1,3 @@
+Alexa, open time off
+Alexa, start time off
+Alexa, disable time off

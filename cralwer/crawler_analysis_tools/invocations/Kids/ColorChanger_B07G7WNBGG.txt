@@ -1,0 +1,2 @@
+Alexa, open color changer
+Alexa, disable color changer

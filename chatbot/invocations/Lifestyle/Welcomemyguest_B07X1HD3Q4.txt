@@ -1,0 +1,3 @@
+Alexa, open welcome my guest
+Alexa, start Welcome my guest
+Alexa, disable welcome my guest

@@ -1,0 +1,4 @@
+Alexa, open electric state radio
+Alexa, start electric state radio
+Alexa, ask electric state radio what's playing
+Alexa, disable electric state radio

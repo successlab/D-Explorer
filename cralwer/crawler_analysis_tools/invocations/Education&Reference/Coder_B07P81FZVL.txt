@@ -1,0 +1,4 @@
+Alexa, open coder assistant
+Alexa ask coder assistant to show me how to write If statement in Java.
+Alexa ask coder assistant for a code snippet of For in JavaScript.
+Alexa, disable coder assistant

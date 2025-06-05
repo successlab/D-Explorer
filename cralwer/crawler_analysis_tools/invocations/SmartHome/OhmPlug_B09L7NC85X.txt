@@ -1,0 +1,4 @@
+Alexa, turn on the coffee maker
+Alexa, are the porch lights on?
+Alexa, turn on the fan in Carter's room.
+Alexa, disable OhmPlug

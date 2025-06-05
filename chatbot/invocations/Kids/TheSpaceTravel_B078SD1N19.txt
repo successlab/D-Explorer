@@ -1,0 +1,5 @@
+Alexa, open space travel
+Alexa,Launch Space travel
+Alexa,Start space travel
+Alexa, ask space travel to take off
+Alexa, disable space travel

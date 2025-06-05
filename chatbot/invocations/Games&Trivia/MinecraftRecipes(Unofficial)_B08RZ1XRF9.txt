@@ -1,0 +1,5 @@
+Alexa, open minecraft recipes
+Alexa ask minecraft recipes how to craft a piston
+Alexa ask minecraft recipes how to craft oak boat
+Alexa ask minecraft recipes how to craft an enchanting table
+Alexa, disable minecraft recipes

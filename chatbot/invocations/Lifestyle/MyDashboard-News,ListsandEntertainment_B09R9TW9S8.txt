@@ -1,0 +1,4 @@
+Alexa, open my dashboard
+Alexa, open home page
+Alexa, launch my Dashboard
+Alexa, disable my dashboard

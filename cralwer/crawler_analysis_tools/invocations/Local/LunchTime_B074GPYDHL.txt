@@ -1,0 +1,5 @@
+Alexa, open lunch time
+Alexa, ask lunch time lets go for lunch near Seattle
+Alexa, ask lunch time to search for Indian restaurants in Chicago within ten miles
+Alexa, launch lunch time and give me a Italian restaurant in Boston
+Alexa, disable lunch time

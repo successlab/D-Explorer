@@ -1,0 +1,7 @@
+Alexa, open web analytics
+Alexa, ask web analytics for the report
+Alexa, ask web analytics for the report for yesterday
+Alexa, ask web analytics for the complete report
+Alexa, ask web analytics for the complete report for yesterday
+Alexa, ask web analytics for the complete report for last month
+Alexa, disable web analytics

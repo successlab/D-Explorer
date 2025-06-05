@@ -1,0 +1,5 @@
+Alexa, open sun humidifier
+Alexa, open sun humidifier.
+turn on humidifier
+adjust humidifier to medium mist
+Alexa, disable sun humidifier

@@ -1,0 +1,4 @@
+Alexa, open australian truck radio
+Alexa, play Australian Truck Radio
+Alexa, start Australian Truck Radio
+Alexa, disable australian truck radio

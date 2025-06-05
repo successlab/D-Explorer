@@ -1,0 +1,5 @@
+Alexa, open healthy snacker
+Alexa, ask Healthy Snacker to recommend a snack.
+Alexa, open Healthy Snacker and tell me a snack.
+What should I eat?
+Alexa, disable healthy snacker

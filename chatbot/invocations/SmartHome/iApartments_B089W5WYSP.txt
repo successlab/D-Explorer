@@ -1,0 +1,4 @@
+Alexa, turn on smart plug
+Alexa, set thermostat mode to cool
+Alexa, set the thermostat to 72 degrees
+Alexa, disable iApartments

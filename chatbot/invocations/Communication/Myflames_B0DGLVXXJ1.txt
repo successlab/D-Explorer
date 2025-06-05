@@ -1,0 +1,5 @@
+Alexa, open my flames
+Alexa, next
+Alexa, stop
+Alexa, start my flames
+Alexa, disable my flames

@@ -1,0 +1,5 @@
+Alexa, open torah facts
+Alexa, ask Torah Facts to tell me a Torah Fact
+Alex, ask Torah Facts to give me a fact
+Alex, ask Torah Facts to tell me something interesting
+Alexa, disable torah facts

@@ -1,0 +1,5 @@
+Alexa, open college teams
+Alexa, ask College Teams for Arizona
+Alexa, ask College Teams who is Notre Dame?
+Alexa, ask College Teams what is the nickname for Clemson University?
+Alexa, disable college teams

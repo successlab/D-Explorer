@@ -1,0 +1,3 @@
+Alexa, open show sign
+What is the sign for ball
+Alexa, disable show sign

@@ -1,0 +1,4 @@
+Alexa, open wii shop music
+Alexa, start Wii Shop Music
+Alexa, launch Wii Shop Music
+Alexa, disable wii shop music

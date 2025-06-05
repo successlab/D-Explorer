@@ -1,0 +1,4 @@
+Alexa, open horror story
+Alexa, ask horror story to tell me a horror story
+Alexa, ask horror story to tell me a short horror story
+Alexa, disable horror story

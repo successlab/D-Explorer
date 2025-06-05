@@ -1,0 +1,5 @@
+Alexa, open star wars quotes
+Alexa, ask star wars Quotes for random quote
+Alexa, ask star wars quotes for movie quote
+Alexa, ask star wars quotes for quote
+Alexa, disable star wars quotes

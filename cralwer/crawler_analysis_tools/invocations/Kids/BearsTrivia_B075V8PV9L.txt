@@ -1,0 +1,4 @@
+Alexa, open bears trivia
+Yes
+One
+Alexa, disable bears trivia

@@ -1,0 +1,4 @@
+Alexa, open what time is shabbos
+Alexa, what time is Shabbos?
+Alexa, ask What Time is Shabbos in 10001
+Alexa, disable what time is shabbos

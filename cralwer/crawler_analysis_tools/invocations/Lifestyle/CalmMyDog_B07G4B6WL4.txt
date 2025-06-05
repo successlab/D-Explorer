@@ -1,0 +1,5 @@
+Alexa, open calm my dog
+Alexa, stop
+Alexa, start Calm My Dog
+Alexa, launch Calm My Dog
+Alexa, disable calm my dog

@@ -1,0 +1,12 @@
+Alexa, open honeywell
+Alexa, arm {location name}
+Alexa, discover my devices
+Alexa, is my home armed/disarmed?
+Alexa, what's status of {location name}?
+Alexa, is my home armed in away mode?
+Alexa, is my home armed in stay mode?
+Alexa, is my home in night mode?
+Alexa, arm my home
+Alexa, turn on bedtime
+Alexa, status of my home
+Alexa, disable honeywell

@@ -1,0 +1,4 @@
+Alexa, open senior shopping hours
+Alexa, launch Senior shopping hours
+Alexa, Ask Senior shopping hours at target what is the timing for senior
+Alexa, disable senior shopping hours

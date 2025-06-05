@@ -1,0 +1,5 @@
+Alexa, open trigger c. m. d.
+Alexa, open Trigger C M D
+Run Calculator on Office
+Trigger Reboot on Raspberry Pi
+Alexa, disable trigger c. m. d.

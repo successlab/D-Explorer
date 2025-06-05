@@ -1,0 +1,5 @@
+Alexa, open my therapist
+Alexa, tell My Therapist I am excited.
+Alexa, tell My Therapist I feel sad.
+Alexa, tell My Therapist i am feeling happy.
+Alexa, disable my therapist

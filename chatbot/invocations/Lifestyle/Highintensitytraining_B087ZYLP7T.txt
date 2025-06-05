@@ -1,0 +1,4 @@
+Alexa, open high intensity training
+Alexa, start high intensity training
+Alexa, ask high intensity training to start workout
+Alexa, disable high intensity training

@@ -1,0 +1,5 @@
+Alexa, open cube tracker
+Alexa, ask Cube Tracker to ring my keys
+Alexa, ask Cube Tracker to Find my Keys
+Alexa, ask Cube Tracker to ring my phone
+Alexa, disable cube tracker

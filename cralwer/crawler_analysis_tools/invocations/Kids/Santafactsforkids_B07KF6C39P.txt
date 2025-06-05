@@ -1,0 +1,5 @@
+Alexa, open santa facts
+Alexa, open Santa facts!
+Alexa, open Santa facts and give me a fact!
+Alexa, open Santa facts and tell me something!
+Alexa, disable santa facts

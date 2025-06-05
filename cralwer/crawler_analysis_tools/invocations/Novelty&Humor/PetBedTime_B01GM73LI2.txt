@@ -1,0 +1,5 @@
+Alexa, open sand man
+Alexa, ask Sand Man to tell the cat to go to bed
+Alexa, ask Sand Man to tell the dog to go to bed
+Alexa, ask Sand Man to tell the pets it is time for bed
+Alexa, disable sand man

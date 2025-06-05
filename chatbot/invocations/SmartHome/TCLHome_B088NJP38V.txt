@@ -1,0 +1,4 @@
+Alexa, turn on tcl ac
+Alexa, set tcl ac to auto mode
+Alexa, set tcl ac to twenty degrees
+Alexa, disable TCLHome

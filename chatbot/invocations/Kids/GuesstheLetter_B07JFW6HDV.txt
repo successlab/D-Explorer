@@ -1,0 +1,4 @@
+Alexa, open guess the letter
+Is it A?
+How about B?
+Alexa, disable guess the letter

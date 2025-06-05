@@ -1,0 +1,4 @@
+Alexa, open blink blink
+Alexa, begin Blink Blink
+Alexa, Blink Blink
+Alexa, disable blink blink

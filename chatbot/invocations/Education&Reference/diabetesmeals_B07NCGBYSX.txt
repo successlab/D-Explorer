@@ -1,0 +1,4 @@
+Alexa, open diabetes meals
+Alexa, start diabetes meals
+Alexa, launch diabetes meals
+Alexa, disable diabetes meals

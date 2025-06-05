@@ -1,0 +1,5 @@
+Alexa, open interview simulator
+Alexa ask interview simulator for a question
+Alexa tell interview simulator next question
+Alexa tell interview simulator that I'm ready for another question
+Alexa, disable interview simulator

@@ -1,0 +1,4 @@
+Alexa, open batman adventures
+Alexa, play Batman Adventures
+Alexa, open Batman Adventures and go to the Stories Menu
+Alexa, disable batman adventures

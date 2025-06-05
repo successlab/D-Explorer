@@ -1,0 +1,5 @@
+Alexa, open laser five five eight
+Alexa, play Laser five five eight
+Alexa, start Laser five five eight
+Alexa, ask Laser five five eight what song is playing
+Alexa, disable laser five five eight

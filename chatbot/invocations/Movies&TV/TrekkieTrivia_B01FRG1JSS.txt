@@ -1,0 +1,4 @@
+Alexa, open trekkie trivia
+Alexa Start Trekkie Trivia
+The answer is One
+Alexa, disable trekkie trivia

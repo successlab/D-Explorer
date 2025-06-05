@@ -1,0 +1,5 @@
+Alexa, open wrestling facts
+Alexa start wrestling facts.
+Alexa ask wrestling facts for a fact.
+Alexa ask wrestling facts help.
+Alexa, disable wrestling facts

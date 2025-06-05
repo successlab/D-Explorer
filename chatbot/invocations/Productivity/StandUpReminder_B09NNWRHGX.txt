@@ -1,0 +1,4 @@
+Alexa, open stand up reminder
+Alexa, start stand up reminder
+three
+Alexa, disable stand up reminder

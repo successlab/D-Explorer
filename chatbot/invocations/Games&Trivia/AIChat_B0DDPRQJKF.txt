@@ -1,0 +1,7 @@
+Alexa, open a. i. chat
+Alexa, open AI Chat,
+Alexa, exit
+Alexa, quit.
+How many people survived the Titanic?
+How many are alive today?
+Alexa, disable a. i. chat

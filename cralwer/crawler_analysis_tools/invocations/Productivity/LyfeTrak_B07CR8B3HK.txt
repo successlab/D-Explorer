@@ -1,0 +1,5 @@
+Alexa, open life track
+Alexa, ask Life Track to set up a new metric.
+Alexa, tell Life Track to add progress.
+How am I doing?
+Alexa, disable life track

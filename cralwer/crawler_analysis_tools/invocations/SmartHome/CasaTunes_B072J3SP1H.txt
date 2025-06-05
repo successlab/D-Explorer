@@ -1,0 +1,5 @@
+Alexa, open kasa tunes
+Alexa, ask kasa tunes to power on Living Room
+Alexa, ask kasa tunes to play album Duets by Tony Bennett
+Alexa, ask kasa tunes to set alarm for 8 a.m.
+Alexa, disable kasa tunes

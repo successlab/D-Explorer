@@ -1,0 +1,5 @@
+Alexa, open memory palace
+Alexa,ask memory palace,where is my tissue
+remember my diary is in my pocket
+remember my bottle is on my pocket
+Alexa, disable memory palace

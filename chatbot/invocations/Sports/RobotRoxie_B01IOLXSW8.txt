@@ -1,0 +1,4 @@
+Alexa, open robot roxie
+Alexa, ask Robot Roxie to start game
+Pitch the ball
+Alexa, disable robot roxie

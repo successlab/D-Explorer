@@ -1,0 +1,4 @@
+Alexa, open sunlight mountain
+Alexa, ask Sunlight Mountain for the snow report
+Alexa, ask Sunlight Mountain for latest conditions
+Alexa, disable sunlight mountain

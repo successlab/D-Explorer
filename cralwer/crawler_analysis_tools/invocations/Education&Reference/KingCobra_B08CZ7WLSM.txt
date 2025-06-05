@@ -1,0 +1,4 @@
+Alexa, open king cobra
+Alexa, stop
+Alexa, start king cobra
+Alexa, disable king cobra

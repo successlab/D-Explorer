@@ -1,0 +1,13 @@
+Alexa, open my pillar
+Alexa, tell my Pillar to unlock
+Alexa, ask my Pillar to change color to red
+Alexa, tell my Pillar to change style to solid night
+Alexa, tell my Pillar to set brightness to five percent
+Alexa, tell my Pillar to change access time to 10 seconds
+Alexa, ask my Pillar for help
+Alexa, ask my Pillar for color choices
+Alexa, learn my voice
+Alexa, tell My Pillar to unlock
+Alexa, ask My Pillar for help?
+Alexa, launch My Pillar
+Alexa, disable my pillar

@@ -1,0 +1,4 @@
+Alexa, open zona salsa
+Alexa, Abre Zona Salsa
+Alexa, Empieza Zona Salsa
+Alexa, disable zona salsa

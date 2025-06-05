@@ -1,0 +1,4 @@
+Alexa, open everyday spanish
+tell me a spanish word
+tell me a conversational phrase
+Alexa, disable everyday spanish

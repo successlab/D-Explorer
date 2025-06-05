@@ -1,0 +1,4 @@
+Alexa, open unsolved mystery
+Alexa, start unsolved mystery
+Alexa, launch unsolved mystery
+Alexa, disable unsolved mystery

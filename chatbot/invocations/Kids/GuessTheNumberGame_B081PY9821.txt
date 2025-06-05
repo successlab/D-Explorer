@@ -1,0 +1,4 @@
+Alexa, open guess the number game
+Alexa, start Guess The Number Game
+Alexa, launch Guess The Number Game
+Alexa, disable guess the number game

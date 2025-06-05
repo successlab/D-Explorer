@@ -1,0 +1,4 @@
+Alexa, open misri speakers
+Alexa, stop
+Alexa, start misri speakers
+Alexa, disable misri speakers

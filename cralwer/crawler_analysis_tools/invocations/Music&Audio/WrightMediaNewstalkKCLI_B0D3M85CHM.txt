@@ -1,0 +1,4 @@
+Alexa, open wright media newstalk
+Alexa, ask wright media newstalk what's playing.
+Alexa, ask wright media newstalk to play live.
+Alexa, disable wright media newstalk

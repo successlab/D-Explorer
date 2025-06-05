@@ -1,0 +1,5 @@
+Alexa, open travel dates
+Alexa, ask Travel Dates for my departure date of June 5th, 2017
+Alexa, ask Travel Dates for a departure of August 8th, 2017
+Alexa, ask Travel Dates for November 5th
+Alexa, disable travel dates

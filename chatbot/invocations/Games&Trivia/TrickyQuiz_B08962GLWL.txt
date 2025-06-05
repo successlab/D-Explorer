@@ -1,0 +1,3 @@
+Alexa, open tricky quiz
+Alexa start tricky quiz
+Alexa, disable tricky quiz

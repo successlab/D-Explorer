@@ -1,0 +1,6 @@
+Alexa, open blizzard sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Blizzard Sounds
+Alexa, launch Blizzard Sounds
+Alexa, disable blizzard sounds

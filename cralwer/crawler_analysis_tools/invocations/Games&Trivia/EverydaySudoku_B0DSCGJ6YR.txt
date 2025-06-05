@@ -1,0 +1,3 @@
+Alexa, open everyday sudoku
+Alexa, start Everyday Sudoku
+Alexa, disable everyday sudoku

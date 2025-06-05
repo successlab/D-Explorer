@@ -1,0 +1,4 @@
+Alexa, open personal fight
+Alexa, tell personal fight I want to train kickboxing hard
+Alexa, tell personal fight I want to train boxing easy
+Alexa, disable personal fight

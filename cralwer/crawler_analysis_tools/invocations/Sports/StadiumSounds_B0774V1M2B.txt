@@ -1,0 +1,4 @@
+Alexa, open stadium sounds
+Alexa, Start Stadium Sounds
+Alexa, Play Stadium Sounds
+Alexa, disable stadium sounds

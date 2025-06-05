@@ -1,0 +1,4 @@
+Alexa, open trainer two
+Alexa, start trainer two
+Alexa, ask trainer two to start workout
+Alexa, disable trainer two

@@ -1,0 +1,4 @@
+Alexa, open i sneezed
+Alexa, launch I sneezed
+Alexa, start I sneezed
+Alexa, disable i sneezed

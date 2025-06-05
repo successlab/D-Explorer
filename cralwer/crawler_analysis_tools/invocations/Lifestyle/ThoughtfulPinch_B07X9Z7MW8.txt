@@ -1,0 +1,5 @@
+Alexa, open thoughtful pinch
+Alexa, ask thoughtful pinch what is the pinch of the day
+Alexa, ask thoughtful pinch for today's thoughtful pinch
+Alexa, ask thoughtful pinch for today's pinch
+Alexa, disable thoughtful pinch

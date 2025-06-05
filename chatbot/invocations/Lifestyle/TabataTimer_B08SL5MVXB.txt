@@ -1,0 +1,2 @@
+Alexa, open tabata timer
+Alexa, disable tabata timer

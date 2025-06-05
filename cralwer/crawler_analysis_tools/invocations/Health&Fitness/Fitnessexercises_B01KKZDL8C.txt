@@ -1,0 +1,3 @@
+Alexa, open fitness exercises
+Alexa, launch fitness exercises
+Alexa, disable fitness exercises

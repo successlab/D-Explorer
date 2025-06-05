@@ -1,0 +1,5 @@
+Alexa, open phyn device
+Alexa, ask Phyn Device how much water I have used today
+Alexa, ask Phyn Device to turn off my water
+Alexa, ask Phyn Device what is my water status
+Alexa, disable phyn device

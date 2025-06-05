@@ -1,0 +1,4 @@
+Alexa, open controller player
+Alexa, Start Controller Player
+Alexa, Launch Controller Player
+Alexa, disable controller player

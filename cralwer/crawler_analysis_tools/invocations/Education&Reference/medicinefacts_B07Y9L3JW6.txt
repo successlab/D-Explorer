@@ -1,0 +1,2 @@
+Alexa, open medicine facts
+Alexa, disable medicine facts

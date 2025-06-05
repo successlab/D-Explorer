@@ -1,0 +1,4 @@
+Alexa, open sheep count
+Alexa, start Sheep Count
+Alexa, ask sheep count to count 10 sheep
+Alexa, disable sheep count

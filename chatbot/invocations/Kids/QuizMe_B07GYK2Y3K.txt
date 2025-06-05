@@ -1,0 +1,5 @@
+Alexa, open quiz me
+Alexa, open Quiz Me.
+Alexa, load Quiz Me.
+Alexa, launch Quiz Me.
+Alexa, disable quiz me

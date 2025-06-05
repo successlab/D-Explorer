@@ -1,0 +1,3 @@
+Alexa, open synthesizer seeker radio
+Alexa, play synthesizer seeker radio
+Alexa, disable synthesizer seeker radio

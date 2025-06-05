@@ -1,0 +1,5 @@
+Alexa, open t. v. helper
+Alexa, ask TV Helper where can I watch Game of Thrones
+Alexa, ask TV Helper to recommend shows like Westworld
+Alexa, ask TV Helper to recommend movies like The Parent Trap
+Alexa, disable t. v. helper

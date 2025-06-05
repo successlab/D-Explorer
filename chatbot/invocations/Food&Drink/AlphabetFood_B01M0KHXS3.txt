@@ -1,0 +1,5 @@
+Alexa, open alphabet food
+Alexa, ask Alphabet Food for foods that start with the letter A.
+Alexa, ask Alphabet Food what foods start with the letter C?
+Alexa, ask Alphabet Food for foods that start with G
+Alexa, disable alphabet food

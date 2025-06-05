@@ -1,0 +1,7 @@
+Alexa, open plancorp perspective
+Alexa, play the latest update from Plancorp.
+Alexa, open Plancorp Perspective.
+Alexa, ask plancorp perspective to play the latest update
+Alexa, ask plancorp perspective to tell me about the company
+Alexa, ask plancorp perspective to tell me about the president
+Alexa, disable plancorp perspective

@@ -1,0 +1,5 @@
+Alexa, open vantage
+Alexa, ask Vantage to turn on the light of the living.
+Alexa, Ask Vantage to set the schedule of the living to home.
+Alexa, tell Vantage i am away.
+Alexa, disable vantage

@@ -1,0 +1,4 @@
+Alexa, open walnut creek station
+Alexa ask Walnut Creek Station for train times
+Alexa ask Walnut Creek Station for times
+Alexa, disable walnut creek station

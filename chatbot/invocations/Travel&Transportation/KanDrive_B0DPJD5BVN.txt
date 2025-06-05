@@ -1,0 +1,3 @@
+Alexa, open can drive
+Alexa, open KanDrive
+Alexa, disable can drive

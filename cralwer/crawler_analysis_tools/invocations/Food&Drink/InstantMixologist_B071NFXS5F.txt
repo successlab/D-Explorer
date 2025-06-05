@@ -1,0 +1,4 @@
+Alexa, open instant mixologist
+Alexa, Ask Instant Mixologist what's the recipe for a Whiskey Sour
+Alexa, Ask Instant Mixologist how do I make a Mojito
+Alexa, disable instant mixologist

@@ -1,0 +1,3 @@
+Alexa, turn on roborock
+Alexa, turn off roborock
+Alexa, disable RoborockHome

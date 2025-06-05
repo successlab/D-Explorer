@@ -1,0 +1,4 @@
+Alexa, open c. t. a. bot
+Alexa, ask c. t. a. bot when the next train from western o'hare is.
+Alexa, ask c. t. a. bot when the next bus at fullerton and kedzie eastbound is
+Alexa, disable c. t. a. bot

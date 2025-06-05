@@ -1,0 +1,3 @@
+Alexa, open mood magic
+Alexa, open mood magic and name that mood
+Alexa, disable mood magic

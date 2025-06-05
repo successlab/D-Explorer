@@ -1,0 +1,4 @@
+Alexa, open blood pressure check
+Assess my blood pressure.
+Give me some tips on measuring my blood pressure.
+Alexa, disable blood pressure check

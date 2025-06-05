@@ -1,0 +1,4 @@
+Alexa, open state pod automatism
+Alexa, start state pod automatism
+Alexa, launch state pod automatism
+Alexa, disable state pod automatism

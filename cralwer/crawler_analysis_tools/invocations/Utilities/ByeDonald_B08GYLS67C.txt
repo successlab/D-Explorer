@@ -1,0 +1,3 @@
+Alexa, open bye donald
+Alexa, start bye donald
+Alexa, disable bye donald

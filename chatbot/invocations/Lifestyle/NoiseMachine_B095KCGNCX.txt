@@ -1,0 +1,5 @@
+Alexa, open noise machine
+Alexa, previous
+Alexa, start noise machine
+Alexa, launch noise machine
+Alexa, disable noise machine

@@ -1,0 +1,7 @@
+Alexa, open Home
+Alexa, close Home
+Alexa, is Home open?
+Alexa, open Garage
+Alexa, close Garage
+Alexa, is Garage open?
+Alexa, disable Garadget-SmartHome

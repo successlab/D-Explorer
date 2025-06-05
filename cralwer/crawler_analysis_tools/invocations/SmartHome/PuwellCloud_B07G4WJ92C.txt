@@ -1,0 +1,10 @@
+Alexa, turn on the Bedroom light
+Alexa, turn off the Bedroom light
+Alexa, set hallway light to 50 percent
+Alexa, make the Kitchen light warmer
+Alexa, set the Bedroom light to green
+Alexa, set the Living Room light to cool white
+Alexa, turn on the living room light
+Alexa, set the living room light to 50 percent
+Alexa, set the living room light to red
+Alexa, disable PuwellCloud

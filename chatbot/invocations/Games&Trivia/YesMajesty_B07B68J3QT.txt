@@ -1,0 +1,4 @@
+Alexa, open yes majesty
+Yes
+No
+Alexa, disable yes majesty

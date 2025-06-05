@@ -1,0 +1,5 @@
+Alexa, open blink
+Alexa, show me the driveway camera.
+Alexa, arm home.
+Alexa, turn on the backyard floodlight.
+Alexa, disable blink

@@ -1,0 +1,4 @@
+Alexa, open snowbasin mountain report
+Alexa, Ask Snowbasin Mountain Report what lifts are open
+Alexa, Ask Snowbasin Mountain Report what runs are groomed
+Alexa, disable snowbasin mountain report

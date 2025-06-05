@@ -1,0 +1,4 @@
+Alexa, open would you rather
+Alexa, start Would You Rather
+Alexa, play Would You Rather
+Alexa, disable would you rather

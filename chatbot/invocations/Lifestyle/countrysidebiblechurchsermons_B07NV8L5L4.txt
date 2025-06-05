@@ -1,0 +1,11 @@
+Alexa, open countryside bible church sermons
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask countryside bible church sermons for the latest talk
+Alexa, start countryside bible church sermons
+Alexa, disable countryside bible church sermons

@@ -1,0 +1,6 @@
+Alexa, open city rain
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start City Rain
+Alexa, launch City Rain
+Alexa, disable city rain

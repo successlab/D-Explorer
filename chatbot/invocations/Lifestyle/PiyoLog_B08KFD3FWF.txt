@@ -1,0 +1,5 @@
+Alexa, open piyo log
+Alexa, open PiyoLog.
+Alexa, Open PiyoLog and record formula.
+Alexa, Open PiyoLog and check recent sleep.
+Alexa, disable piyo log

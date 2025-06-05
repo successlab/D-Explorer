@@ -1,0 +1,5 @@
+Alexa, open kiwilimón
+Alexa, abre Kiwilimón.
+Alexa, abre Kiwilimón y busca una receta con aguacate y jitomate.
+Alexa, pregunta a Kiwilimón ¿cómo preparo pozole?
+Alexa, disable kiwilimón

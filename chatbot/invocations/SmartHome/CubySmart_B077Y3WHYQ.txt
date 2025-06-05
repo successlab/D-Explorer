@@ -1,0 +1,16 @@
+Alexa, discover devices
+Alexa, turn on <device> 
+Alexa, turn off <device> 
+Alexa, set <device> to <X> Degrees
+Alexa, set <device> to <mode> Mode
+Alexa, make <device> warmer 
+Alexa, make <device> cooler
+Alexa, increase <device> by <X> degrees
+Alexa, decrease <device> by X degrees
+Alexa, what is temperature of the <device> 
+Alexa, what is <device> set to?
+Alexa, is <device> ON?
+Alexa, turn on Bedroom
+Alexa, set bedroom to 25 degrees
+Alexa, what is the temperature of the Bedroom
+Alexa, disable CubySmart

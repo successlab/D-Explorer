@@ -1,0 +1,4 @@
+Alexa, open unit conversion
+Alexa, ask Unit Conversion to Convert 1 pound to ounces.
+Alexa, ask Unit Conversion to Convert 1 dot 5 miles to feet.
+Alexa, disable unit conversion

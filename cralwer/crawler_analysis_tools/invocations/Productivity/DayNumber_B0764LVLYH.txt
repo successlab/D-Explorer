@@ -1,0 +1,4 @@
+Alexa, open day number
+Alexa ask day number for today's number
+Alexa get the number from day number
+Alexa, disable day number

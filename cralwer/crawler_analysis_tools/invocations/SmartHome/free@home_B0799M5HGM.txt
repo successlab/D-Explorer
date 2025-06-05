@@ -1,0 +1,5 @@
+Alexa, set livingroom to 21 degrees
+Alexa, turn on ceiling light
+Alexa, turn off ceiling light
+Alexa, set living room to 23 degrees
+Alexa, disable free@home

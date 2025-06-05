@@ -1,0 +1,3 @@
+Alexa, open weekdays task
+Alexa, start weekdays task
+Alexa, disable weekdays task

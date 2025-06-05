@@ -1,0 +1,4 @@
+Alexa, open guess the answer
+Alexa, start Guess the Answer
+Alexa, launch Guess the Answer
+Alexa, disable guess the answer

@@ -1,0 +1,4 @@
+Alexa, open lucky spell
+Alexa, start lucky spell
+Alexa, launch lucky spell
+Alexa, disable lucky spell

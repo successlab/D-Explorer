@@ -1,0 +1,4 @@
+Alexa, open seattle tower
+Alexa, ask Seattle Tower for the latest talk
+Alexa, start Seattle Tower
+Alexa, disable seattle tower

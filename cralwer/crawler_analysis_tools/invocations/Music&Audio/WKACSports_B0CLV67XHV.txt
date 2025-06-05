@@ -1,0 +1,4 @@
+Alexa, open w. k. a. c. sports
+Alexa, ask w. k. a. c. sports what's playing.
+Alexa, ask w. k. a. c. sports to play live.
+Alexa, disable w. k. a. c. sports

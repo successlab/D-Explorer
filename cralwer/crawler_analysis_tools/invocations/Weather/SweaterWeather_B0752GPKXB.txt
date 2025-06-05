@@ -1,0 +1,4 @@
+Alexa, open sweater weather
+Alexa, ask sweater weather what to wear today
+Alexa, ask sweater weather about Sunday
+Alexa, disable sweater weather

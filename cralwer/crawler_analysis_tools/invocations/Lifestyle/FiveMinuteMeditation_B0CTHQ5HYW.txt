@@ -1,0 +1,3 @@
+Alexa, open five minute meditation
+Alexa stop
+Alexa, disable five minute meditation

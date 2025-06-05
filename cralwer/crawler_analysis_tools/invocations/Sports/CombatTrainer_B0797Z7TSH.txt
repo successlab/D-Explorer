@@ -1,0 +1,5 @@
+Alexa, open combat trainer
+alexa ask combat trainer to give me a combination
+alexa ask combat trainer to give me a exercise
+alexa ask combat trainer another exercise
+Alexa, disable combat trainer

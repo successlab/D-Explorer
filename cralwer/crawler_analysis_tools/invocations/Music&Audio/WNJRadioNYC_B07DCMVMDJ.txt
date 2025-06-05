@@ -1,0 +1,5 @@
+Alexa, open w. n. j. r.
+Alexa, play WNJR
+Alexa, open WNJR
+Alexa, start WNJR
+Alexa, disable w. n. j. r.

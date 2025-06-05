@@ -1,0 +1,7 @@
+Alexa, open police car
+Alexa, play Police Car
+Alexa, stop
+Alexa, cancel
+Play Police Car
+Ask Police Car
+Alexa, disable police car

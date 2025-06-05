@@ -1,0 +1,5 @@
+Alexa, open count dracula
+Alexa, Enable Zombie Racing
+Alexa, ask Count Dracula how many nights till halloween
+Alexa, ask Count Dracula how many weeks till halloween
+Alexa, disable count dracula

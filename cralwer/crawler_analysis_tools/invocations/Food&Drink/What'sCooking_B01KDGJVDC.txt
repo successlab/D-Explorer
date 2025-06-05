@@ -1,0 +1,5 @@
+Alexa, open what's cooking
+Alexa ask what's cooking I want a recipe
+Alexa tell what's cooking to give me a recipe
+Alexa ask what's cooking for a recipe
+Alexa, disable what's cooking

@@ -1,0 +1,5 @@
+Alexa, open trap trivia
+Alexa, next
+Alexa, stop
+Alexa, start trap trivia
+Alexa, disable trap trivia

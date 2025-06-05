@@ -1,0 +1,4 @@
+Alexa, open sassy weather
+Alexa, start sassy weather
+Alexa, run sassy weather
+Alexa, disable sassy weather

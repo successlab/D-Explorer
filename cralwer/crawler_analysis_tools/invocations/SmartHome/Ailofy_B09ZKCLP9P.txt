@@ -1,0 +1,5 @@
+Alexa, turn on the light
+Alexa, enable the Ailofy Skill
+Alexa, open my bathroom light.
+Alexa, turn on the couch light
+Alexa, disable Ailofy

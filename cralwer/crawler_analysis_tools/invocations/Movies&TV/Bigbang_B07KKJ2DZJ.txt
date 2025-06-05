@@ -1,0 +1,5 @@
+Alexa, open big bang fact
+Alexa, ask big bang fact to tell me a fact
+Alexa, ask big bang fact to tell me something
+Alexa, ask big bang fact to give me a fact
+Alexa, disable big bang fact

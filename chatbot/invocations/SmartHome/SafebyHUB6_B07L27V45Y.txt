@@ -1,0 +1,9 @@
+Alexa, open hub six
+Alexa, ask HUB SIX to arm away [home name]
+Alexa, ask HUB SIX to arm stay [home name]
+Alexa, ask HUB SIX to check status for [home name]
+Alexa, ask HUB SIX what's the current status of [home name]
+Alexa, ask hub six to arm away my home
+Alexa, ask hub six to arm stay my home
+Alexa, ask hub six to check status for my home
+Alexa, disable hub six

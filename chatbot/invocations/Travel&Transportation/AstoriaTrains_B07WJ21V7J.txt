@@ -1,0 +1,5 @@
+Alexa, open astoria trains
+Alexa ask Astoria Trains about Manhattan bound Broadway trains
+Alexa ask Astoria Trains when the next Queens bound 39th Ave train is
+Alexa ask Astoria Trains next 30th Avenue South trains
+Alexa, disable astoria trains

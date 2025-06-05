@@ -1,0 +1,4 @@
+Alexa, open relax my pet
+Alexa, Start Relax My Pet
+Alexa, Launch Relax My Pet
+Alexa, disable relax my pet

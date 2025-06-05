@@ -1,0 +1,5 @@
+Alexa, open yahoo fantasy football
+Alexa, ask Yahoo Fantasy Football about my matchup
+Alexa, ask Yahoo Fantasy Football to show me the forecast for Julio Jones this coming week
+Alexa, ask Yahoo Fantasy Football about Baker Mayfield's stats for this week
+Alexa, disable yahoo fantasy football

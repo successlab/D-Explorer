@@ -1,0 +1,5 @@
+Alexa, open chirp
+Alexa, ask Chirp to continue my last book.
+Alexa, tell Chirp to play Treasure Island.
+Alexa, stream Orphan Train Escape using Chirp.
+Alexa, disable chirp

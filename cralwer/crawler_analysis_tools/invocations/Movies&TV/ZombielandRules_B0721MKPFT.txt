@@ -1,0 +1,5 @@
+Alexa, open zombieland rules
+Alexa, ask Zombieland Rules what is rule number 3
+is there a rule about sprinting
+what's your favorite rule
+Alexa, disable zombieland rules

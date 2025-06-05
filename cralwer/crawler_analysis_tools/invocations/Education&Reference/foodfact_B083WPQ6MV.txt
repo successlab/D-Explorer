@@ -1,0 +1,7 @@
+Alexa, open food fact
+Alexa, launch Space Facts
+Alexa, open Space Facts
+Alexa, stop
+Alexa start food fact
+Alexa launch food fact
+Alexa, disable food fact

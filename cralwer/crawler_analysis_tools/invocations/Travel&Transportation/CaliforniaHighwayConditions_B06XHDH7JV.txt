@@ -1,0 +1,5 @@
+Alexa, open california highway conditions
+Alexa, ask California Highway Conditions about 88
+Alexa, ask California Highway Conditions to get information about highway 101
+Alexa, ask California Highway Conditions about highway 50
+Alexa, disable california highway conditions

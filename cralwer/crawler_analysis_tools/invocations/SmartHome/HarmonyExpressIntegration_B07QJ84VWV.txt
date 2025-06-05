@@ -1,0 +1,9 @@
+Alexa, turn on TV
+Alexa, go to ESPN
+Alexa, go to channel 29
+Alexa, turn up the volume
+Alexa, mute
+Alexa, go to Netflix app
+Alexa, turn off TV
+Alexa, pause
+Alexa, disable HarmonyExpressIntegration

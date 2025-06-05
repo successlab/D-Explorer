@@ -1,0 +1,5 @@
+Alexa, open rev radio
+Alexa, play rev radio
+Alexa, play the rev radio
+Alexa, rev radio
+Alexa, disable rev radio

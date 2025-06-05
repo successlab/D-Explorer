@@ -1,0 +1,3 @@
+Alexa, open kids fortunes
+Alexa, ask Kids Fortunes for a fortune
+Alexa, disable kids fortunes

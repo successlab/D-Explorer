@@ -1,0 +1,5 @@
+Alexa, open beach cast
+Alexa ask Beach Cast for the forecast in Miami Florida
+Alexa ask Beach Cast for the forecast in Atlantic City
+Alexa ask Beach Cast for the weather
+Alexa, disable beach cast

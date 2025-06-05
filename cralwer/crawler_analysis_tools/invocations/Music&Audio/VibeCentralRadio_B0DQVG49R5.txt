@@ -1,0 +1,5 @@
+Alexa, open vibe central
+Alexa, play Vibe Central
+Alexa, start Vibe Central
+Alexa, ask Vibe Central what song is playing
+Alexa, disable vibe central

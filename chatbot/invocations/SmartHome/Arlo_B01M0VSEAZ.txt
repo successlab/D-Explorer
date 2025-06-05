@@ -1,0 +1,4 @@
+Alexa, show the backyard
+Alexa, hide the front door
+Alexa, show the last motion detected by my front door camera
+Alexa, disable Arlo

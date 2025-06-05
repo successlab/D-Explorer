@@ -1,0 +1,9 @@
+Alexa, open vintage radio
+Alexa, pause 
+Alexa, stop
+Alexa, resume
+Alexa, shuffle on
+Alexa, next
+Alexa, previous
+Alexa, ask Vintage Radio for help
+Alexa, disable vintage radio

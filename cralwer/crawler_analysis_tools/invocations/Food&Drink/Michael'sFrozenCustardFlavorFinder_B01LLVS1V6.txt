@@ -1,0 +1,5 @@
+Alexa, open michael's frozen custard
+Alexa, Ask Michael's Frozen Custard what the flavor is today
+Alexa, Ask Michael's Frozen Custard what the flavor will be this Saturday
+Alexa, Ask Michael's Frozen Custard when is cookie dough up
+Alexa, disable michael's frozen custard

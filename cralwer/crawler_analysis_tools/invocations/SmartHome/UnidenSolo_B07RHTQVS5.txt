@@ -1,0 +1,2 @@
+Alexa, show Uniden Solo on TV
+Alexa, disable UnidenSolo

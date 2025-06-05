@@ -1,0 +1,5 @@
+Alexa, open cloud ninja
+Alexa, ask Cloud Ninja What's New
+Tell me more about Amazon S3
+Learn to tell me what alarms need attention
+Alexa, disable cloud ninja

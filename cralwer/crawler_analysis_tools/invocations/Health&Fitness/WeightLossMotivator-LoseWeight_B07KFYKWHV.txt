@@ -1,0 +1,5 @@
+Alexa, open weight loss motivator
+Alexa, ask Weight Loss Motivator for some motivation.
+Alexa, tell Weight Loss Motivator that I weigh 150 pounds.
+Alexa, ask Weight Loss Motivator how many pounds I need to lose.
+Alexa, disable weight loss motivator

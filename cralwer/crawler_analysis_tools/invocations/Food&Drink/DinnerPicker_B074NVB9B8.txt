@@ -1,0 +1,5 @@
+Alexa, open dinner picker
+Alexa, ask Dinner Picker for any suggestion for dinner
+Alexa, ask Dinner Picker for any idea for dinner
+Alexa, ask Dinner Picker where should we go for dinner
+Alexa, disable dinner picker

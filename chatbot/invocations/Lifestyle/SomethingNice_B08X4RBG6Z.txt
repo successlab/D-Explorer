@@ -1,0 +1,5 @@
+Alexa, open say something nice
+Alexa, say something nice
+thanks
+say something clever
+Alexa, disable say something nice

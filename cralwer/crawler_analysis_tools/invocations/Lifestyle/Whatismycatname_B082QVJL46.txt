@@ -1,0 +1,4 @@
+Alexa, open what is my cats name
+Alexa, ask what is my cats name to pick a name
+Alexa, ask what is my cats name to name my kitty
+Alexa, disable what is my cats name

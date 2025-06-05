@@ -1,0 +1,5 @@
+Alexa, open wind speed
+Alexa, ask wind speed for 10001.
+Alexa, ask wind speed for the current wind speed in 10001.
+Alexa, ask wind speed 10001.
+Alexa, disable wind speed

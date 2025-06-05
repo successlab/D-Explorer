@@ -1,0 +1,3 @@
+Alexa, open naruto quiz
+Alexa, start Naruto Quiz
+Alexa, disable naruto quiz

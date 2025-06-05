@@ -1,0 +1,4 @@
+Alexa, open nursery rhyme
+repeat
+next
+Alexa, disable nursery rhyme

@@ -1,0 +1,3 @@
+Alexa, open the garage door
+Alexa, close the garage door
+Alexa, disable NiceGO

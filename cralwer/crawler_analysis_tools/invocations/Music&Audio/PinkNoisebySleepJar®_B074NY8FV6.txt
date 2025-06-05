@@ -1,0 +1,9 @@
+Alexa, open pink noise
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Pink Noise to turn on Background Mode
+Alexa, ask Pink Noise to turn Background Mode off
+Alexa, start Pink Noise
+Alexa, launch Pink Noise
+Alexa, disable pink noise

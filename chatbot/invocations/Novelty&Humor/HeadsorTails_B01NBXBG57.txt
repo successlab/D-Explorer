@@ -1,0 +1,4 @@
+Alexa, open heads or tails
+Alexa, ask heads or tails to flip a coin
+Alexa, tell heads or tails to give me heads or tails
+Alexa, disable heads or tails

@@ -1,0 +1,4 @@
+Alexa, open doomsday countdown
+Alexa, ask doomsday countdown what time it is?
+Alexa, ask doomsday countdown is it over?
+Alexa, disable doomsday countdown

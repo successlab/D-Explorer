@@ -1,0 +1,5 @@
+Alexa, open good janet
+Alexa, ask good janet to tell me something
+Alexa, ask good janet for a fact
+Alexa, ask good janet for a cactus
+Alexa, disable good janet

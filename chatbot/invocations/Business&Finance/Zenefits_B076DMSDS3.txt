@@ -1,0 +1,5 @@
+Alexa, open zenefits
+Alexa, ask Zenefits to take time off
+Alexa, tell Zenefits to take time off on March first
+Alexa, ask Zenefits to take time off from tomorrow to next Friday
+Alexa, disable zenefits

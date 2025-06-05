@@ -1,0 +1,4 @@
+Alexa, open robot charades
+Alexa, launch Robot Charades
+Alexa, play Robot Charades
+Alexa, disable robot charades

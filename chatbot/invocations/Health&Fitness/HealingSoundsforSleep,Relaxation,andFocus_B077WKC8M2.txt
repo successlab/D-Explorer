@@ -1,0 +1,4 @@
+Alexa, open healing sounds
+Alexa ask healing sounds to play healing sounds for three hours
+Alexa stop
+Alexa, disable healing sounds

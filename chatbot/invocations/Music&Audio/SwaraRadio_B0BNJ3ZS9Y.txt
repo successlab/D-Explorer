@@ -1,0 +1,3 @@
+Alexa, open swara radio
+Alexa, start swara radio
+Alexa, disable swara radio

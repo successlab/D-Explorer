@@ -1,0 +1,7 @@
+Alexa, set the bedroom light to red
+Alexa, make the living room warm white
+Alexa, Discover Devices
+Alexa, turn on kitchen light
+Alexa, dim hallway light
+Alexa, brighten kitchen light by 80 percent
+Alexa, disable FluxWiFi

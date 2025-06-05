@@ -1,0 +1,3 @@
+Alexa, open all power access radio
+Alexa play all power access radio
+Alexa, disable all power access radio

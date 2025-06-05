@@ -1,0 +1,5 @@
+Alexa, open r. c. i.
+Alexa, play r. c. i.
+Alexa, launch r. c. i.
+Alexa, ask r. c. i. what is playing
+Alexa, disable r. c. i.

@@ -1,0 +1,5 @@
+Alexa, open the spark
+Alexa, Ask The Spark about my Balance
+Alexa, Ask The Spark About My Usage
+Alexa, Ask The Spark To Call Me
+Alexa, disable the spark

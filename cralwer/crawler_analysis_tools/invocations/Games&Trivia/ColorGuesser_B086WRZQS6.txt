@@ -1,0 +1,3 @@
+Alexa, open color guesser
+Alexa, start color guesser
+Alexa, disable color guesser

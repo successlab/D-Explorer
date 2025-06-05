@@ -1,0 +1,4 @@
+Alexa, open school lunch
+Alexa ask school lunch what's for lunch
+Alexa ask school lunch to get lunch
+Alexa, disable school lunch

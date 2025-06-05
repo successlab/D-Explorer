@@ -1,0 +1,4 @@
+Alexa, show the living room
+Alexa, show the camera
+Alexa, stop
+Alexa, disable ieGeekCam

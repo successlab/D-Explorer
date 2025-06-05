@@ -1,0 +1,5 @@
+Alexa, open egg test
+Alexa, start egg test.
+Alexa, ask Egg Test up or down.
+Alexa, tell Egg Test the egg floats.
+Alexa, disable egg test

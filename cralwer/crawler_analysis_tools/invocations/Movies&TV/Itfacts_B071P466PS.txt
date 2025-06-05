@@ -1,0 +1,4 @@
+Alexa, open it facts
+cancel
+stop
+Alexa, disable it facts

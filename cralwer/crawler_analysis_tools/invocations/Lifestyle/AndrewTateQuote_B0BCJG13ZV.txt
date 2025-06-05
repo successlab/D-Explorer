@@ -1,0 +1,4 @@
+Alexa, open tate quote
+Alexa, play Tate Quote
+Alexa, start Tate Quote
+Alexa, disable tate quote

@@ -1,0 +1,8 @@
+Alexa, open audible clock
+Alexa, ask Audible Clock for a mantle clock
+Alexa, ask Audible Clock for a list of clocks.
+Alexa, ask Audible Clock for free clocks
+Alexa, ask Audible Clock for a cuckoo clock
+Alexa, ask Audible Clock for talking clocks
+Alexa, ask Audible Clock for a list of clocks
+Alexa, disable audible clock

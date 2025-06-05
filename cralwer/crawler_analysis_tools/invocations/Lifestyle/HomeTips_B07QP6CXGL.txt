@@ -1,0 +1,5 @@
+Alexa, open home tips
+Alexa, next
+Alexa, stop
+Alexa, open home tips.
+Alexa, disable home tips

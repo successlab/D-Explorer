@@ -1,0 +1,4 @@
+Alexa,turn on light
+Alexa,dim light
+set light to 20 percent
+Alexa, disable GoKitLight

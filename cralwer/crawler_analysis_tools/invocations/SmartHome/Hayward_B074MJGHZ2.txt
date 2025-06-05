@@ -1,0 +1,7 @@
+Alexa, open hayward
+Alexa, ask Hayward for the status of my pool
+Alexa, ask Hayward to turn on my spa party.
+Alexa, ask Hayward to turn my pool lights on Voodoo Lounge
+Alexa, ask Hayward what is the status of my pool?
+Alexa, ask Hayward turn on the Pool Lights
+Alexa, disable hayward

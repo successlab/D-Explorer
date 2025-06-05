@@ -1,0 +1,3 @@
+Alexa, open brewers baseball trivia
+Alexa, start brewers baseball trivia
+Alexa, disable brewers baseball trivia

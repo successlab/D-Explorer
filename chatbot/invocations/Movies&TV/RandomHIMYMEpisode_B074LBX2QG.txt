@@ -1,0 +1,4 @@
+Alexa, open legendary episode
+Alexa, ask Legendary Episode for random episode
+Alexa, ask Legendary Episode for random episode with rating above 8.9
+Alexa, disable legendary episode

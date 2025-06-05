@@ -1,0 +1,3 @@
+Alexa, open good movie
+Alexa, Start Good Movie
+Alexa, disable good movie

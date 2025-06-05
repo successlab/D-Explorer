@@ -1,0 +1,5 @@
+Alexa, open operating status
+Alexa ask Operating Status what is the status
+Alexa ask Operating Status what was the status yesterday
+Alexa ask Operating Status what was the operating status on January 27th 2016
+Alexa, disable operating status

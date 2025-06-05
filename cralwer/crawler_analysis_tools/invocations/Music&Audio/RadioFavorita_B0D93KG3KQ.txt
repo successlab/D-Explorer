@@ -1,0 +1,5 @@
+Alexa, open radio favorita
+Alexa, Abre Radio Favorita
+Alexa, Reproduce Radio Favorita
+Alexa, Escuchar Radio Favorita
+Alexa, disable radio favorita

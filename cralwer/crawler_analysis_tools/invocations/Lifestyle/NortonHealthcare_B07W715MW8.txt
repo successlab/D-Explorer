@@ -1,0 +1,4 @@
+Alexa, open norton healthcare
+Alexa, tell Norton Healthcare to find the nearest Immediate Care Center.
+Alexa, ask Norton Healthcare what is the current wait at the Brownsboro Immediate Care Center?
+Alexa, disable norton healthcare

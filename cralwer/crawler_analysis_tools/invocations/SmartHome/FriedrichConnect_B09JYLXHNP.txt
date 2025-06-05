@@ -1,0 +1,9 @@
+Alexa, what is the [thermostat name] thermostat current temperature
+Alexa, what is the [thermostat name] thermostat current mode
+Alexa, make it warmer in here
+Alexa, make it cooler in here
+Alexa, set the [thermostat name] to [temperature value]
+Alexa, set [thermostat name] to [available mode]
+Alexa, set the living thermostat mode to cool.
+Alexa, what is the living room thermostat current mode.
+Alexa, disable FriedrichConnect

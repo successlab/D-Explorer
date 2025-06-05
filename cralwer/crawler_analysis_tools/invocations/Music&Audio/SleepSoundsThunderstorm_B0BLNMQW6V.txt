@@ -1,0 +1,4 @@
+Alexa, open sleep sounds thunderstorm
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds thunderstorm

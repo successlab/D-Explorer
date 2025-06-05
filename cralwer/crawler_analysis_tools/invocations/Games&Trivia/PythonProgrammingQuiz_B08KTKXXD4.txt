@@ -1,0 +1,3 @@
+Alexa, open python quiz
+Alexa, start python quiz
+Alexa, disable python quiz

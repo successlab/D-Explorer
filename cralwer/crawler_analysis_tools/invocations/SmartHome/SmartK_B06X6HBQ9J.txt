@@ -1,0 +1,3 @@
+Alexa, turn on my plug
+Alexa, turn off my plug
+Alexa, disable SmartK

@@ -1,0 +1,5 @@
+Alexa, open times table quiz
+Alexa, open Times Table Quiz and start a quiz
+Alexa, ask Times Table Quiz to start a quiz for the five times table
+Alexa, open Times Table Quiz and start the ten times table
+Alexa, disable times table quiz

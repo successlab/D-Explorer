@@ -1,0 +1,4 @@
+Alexa, open metric school
+Alexa, open Metric School.
+Alexa, ask Metric School to tell me a metric fact.
+Alexa, disable metric school

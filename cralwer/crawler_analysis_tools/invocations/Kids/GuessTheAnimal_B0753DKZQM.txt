@@ -1,0 +1,5 @@
+Alexa, open guess the animal
+Alexa, start Guess The Animal.
+Alexa, open Guess The Animal.
+That's a Dog.
+Alexa, disable guess the animal

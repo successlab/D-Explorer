@@ -1,0 +1,4 @@
+Alexa, set bedroom to 20
+Alexa, turn on the bedroom AC unit
+Alexa, set the bedroom AC unit to cool
+Alexa, disable Gidbo

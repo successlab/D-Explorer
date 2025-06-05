@@ -1,0 +1,4 @@
+Alexa, open accuradio
+Alexa, PLAY Magic Sunny Lite Mix FROM AccuRadio
+Alexa, PLAY Country FROM AccuRadio
+Alexa, disable accuradio

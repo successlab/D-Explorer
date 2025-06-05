@@ -1,0 +1,4 @@
+Alexa, open get outta bed
+Alexa, start get outta bed
+Alexa, ask get outta bed to start workout
+Alexa, disable get outta bed

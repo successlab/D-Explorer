@@ -1,0 +1,4 @@
+Alexa, open my chatbot
+Who is CEO of Victory Capital
+Tell me more about Victory Capital
+Alexa, disable my chatbot

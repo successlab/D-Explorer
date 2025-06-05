@@ -1,0 +1,5 @@
+Alexa, open trump impeachment clock
+Alexa, ask Trump Impeachment Clock whether Trump will be impeached
+Alexa, ask Trump Impeachment Clock for Trump's latest tweet
+Alexa, ask Trump Impeachment Clock if Trump is still president
+Alexa, disable trump impeachment clock

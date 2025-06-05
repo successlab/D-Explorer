@@ -1,0 +1,5 @@
+Alexa, open fight card
+Alexa, ask Fight Card for the next event
+Alexa, ask Fight Card when is the next event
+Alexa run Fight Card
+Alexa, disable fight card

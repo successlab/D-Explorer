@@ -1,0 +1,5 @@
+Alexa, open aera
+Alexa, tell Aera to turn on.
+Alexa, ask Aera what the scent level is.
+Alexa, tell Aera to adjust the scent level.
+Alexa, disable aera

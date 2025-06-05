@@ -1,0 +1,4 @@
+Alexa, open credit card tracker
+Alexa, Ask credit card tracker to add a new card
+Alexa, Ask credit card tracker to list my cards
+Alexa, disable credit card tracker

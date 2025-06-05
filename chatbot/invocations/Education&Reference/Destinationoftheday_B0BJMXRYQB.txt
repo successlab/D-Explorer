@@ -1,0 +1,3 @@
+Alexa, open todays destination
+Alexa launch todays destination
+Alexa, disable todays destination

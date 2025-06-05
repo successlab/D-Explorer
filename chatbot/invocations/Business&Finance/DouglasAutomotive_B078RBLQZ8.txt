@@ -1,0 +1,5 @@
+Alexa, open douglas automotive
+Alexa, Schedule an appointment with Douglas Automotive.
+Alexa, tell Douglas Automotive to book an appointment tomorrow at ten am.
+Alexa, ask Douglas Automotive are you open?
+Alexa, disable douglas automotive

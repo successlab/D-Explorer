@@ -1,0 +1,2 @@
+Alexa, open deep sleep frequency
+Alexa, disable deep sleep frequency

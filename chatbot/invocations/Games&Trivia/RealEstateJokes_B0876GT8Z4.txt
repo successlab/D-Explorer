@@ -1,0 +1,6 @@
+Alexa, open real estate jokes
+Alexa, next
+Alexa, stop
+Alexa, start real estate jokes
+Alexa, ask real estate jokes for a joke
+Alexa, disable real estate jokes

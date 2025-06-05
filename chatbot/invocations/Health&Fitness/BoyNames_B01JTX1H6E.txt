@@ -1,0 +1,5 @@
+Alexa, open boy names
+Alexa, ask Boy Names to say a name
+Alexa, ask Boy Names for a name
+Alexa, ask Boy Names to provide a name
+Alexa, disable boy names

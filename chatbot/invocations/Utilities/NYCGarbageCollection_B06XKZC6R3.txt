@@ -1,0 +1,4 @@
+Alexa, open garbage collection
+Alexa, ask Garbage Collection if it is in effect today
+Alexa, ask Garbage Collection what is the status
+Alexa, disable garbage collection

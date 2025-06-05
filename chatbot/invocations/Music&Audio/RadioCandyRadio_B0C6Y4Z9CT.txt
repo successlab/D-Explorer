@@ -1,0 +1,5 @@
+Alexa, open radio candy radio
+Alexa, play Radio Candy Radio
+Alexa, start Radio Candy Radio
+Alexa, ask Radio Candy Radio what song is playing
+Alexa, disable radio candy radio

@@ -1,0 +1,5 @@
+Alexa, open daily fortune
+Alexa, ask Daily Fortune for my fortune
+Ask Daily Fortune to give me a fortune
+Ask Daily Fortune for a fortune
+Alexa, disable daily fortune

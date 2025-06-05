@@ -1,0 +1,4 @@
+Alexa, open word speller
+Alexa, open word speller and spell test
+Spell the word test
+Alexa, disable word speller

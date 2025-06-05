@@ -1,0 +1,7 @@
+Alexa, show my [front door camera]
+Alexa, stop my [front door camera]
+Alexa, hide my [front door camera]
+Alexa, show my front door camera
+Alexa, stop my front door camera
+Alexa, hide my front door camera
+Alexa, disable Remo+Show

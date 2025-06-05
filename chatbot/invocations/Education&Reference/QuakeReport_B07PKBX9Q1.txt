@@ -1,0 +1,5 @@
+Alexa, open quake report
+Alexa, open Quake Report.
+Alexa, ask Quake Report for earthquakes last hour.
+Alexa, ask Quake Report for earthquakes previous week.
+Alexa, disable quake report

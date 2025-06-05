@@ -1,0 +1,5 @@
+Alexa, open kitchen aid
+Alexa, tell KitchenAid to preheat the oven.
+Alexa, ask KitchenAid for time remaining on the oven.
+Alexa, tell KitchenAid to turn on the oven light.
+Alexa, disable kitchen aid

@@ -1,0 +1,3 @@
+Alexa, open chocolate trivia
+Alexa, start Chocolate trivia
+Alexa, disable chocolate trivia

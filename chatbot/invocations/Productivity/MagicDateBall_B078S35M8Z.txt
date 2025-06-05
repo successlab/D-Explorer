@@ -1,0 +1,5 @@
+Alexa, open magic date ball
+alexa, ask Magic Date Ball to tell me a pickup line
+give me a pickup line
+tell me a pickup line
+Alexa, disable magic date ball

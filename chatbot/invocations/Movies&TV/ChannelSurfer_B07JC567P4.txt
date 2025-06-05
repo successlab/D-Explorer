@@ -1,0 +1,5 @@
+Alexa, open channel surfer
+Alexa, ask Channel Surfer to tune to channel 62
+Alexa, ask Channel Surfer to find The Big Bang Theory
+Alexa, ask Channel Surfer what am I watching
+Alexa, disable channel surfer

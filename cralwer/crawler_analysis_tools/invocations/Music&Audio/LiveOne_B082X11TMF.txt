@@ -1,0 +1,4 @@
+Alexa, play pop on Slacker
+Alexa, play Post Malone on Slacker
+Alexa, play the album Revolver on Slacker
+Alexa, disable LiveOne

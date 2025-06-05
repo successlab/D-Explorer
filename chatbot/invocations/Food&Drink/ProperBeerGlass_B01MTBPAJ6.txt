@@ -1,0 +1,5 @@
+Alexa, open proper beer glass
+Alexa, ask Proper Beer Glass what style of glass I should use for an Old Ale
+What is an American Pint
+Find me the correct glass type for a Barleywine
+Alexa, disable proper beer glass

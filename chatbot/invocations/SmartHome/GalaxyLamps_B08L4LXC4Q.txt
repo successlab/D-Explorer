@@ -1,0 +1,4 @@
+Alexa, Galaxy Lamp to green.
+Alexa, set Galaxy Lamp to cool white.
+Alexa, turn on the Galaxy Lamp
+Alexa, disable GalaxyLamps

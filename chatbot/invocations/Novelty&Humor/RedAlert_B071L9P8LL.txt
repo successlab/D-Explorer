@@ -1,0 +1,4 @@
+Alexa, open red alert
+Alexa red alert
+tell red alert fire
+Alexa, disable red alert

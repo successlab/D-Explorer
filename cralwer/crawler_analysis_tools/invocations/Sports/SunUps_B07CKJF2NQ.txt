@@ -1,0 +1,5 @@
+Alexa, open sun ups
+Alexa, Begin sun ups
+Alexa, ask sun ups to begin workout
+Alexa, ask sun ups to begin meditation
+Alexa, disable sun ups

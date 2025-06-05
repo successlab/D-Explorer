@@ -1,0 +1,11 @@
+Alexa, open plug four twenty
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask plug four twenty for the latest update
+Alexa, start plug four twenty
+Alexa, disable plug four twenty

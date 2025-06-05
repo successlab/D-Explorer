@@ -1,0 +1,4 @@
+Alexa, open my date
+Alexa, ask my date something about himself
+Alexa, ask my date a question
+Alexa, disable my date

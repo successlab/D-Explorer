@@ -1,0 +1,4 @@
+Alexa, open organizations quiz
+set a reminder
+start new game
+Alexa, disable organizations quiz

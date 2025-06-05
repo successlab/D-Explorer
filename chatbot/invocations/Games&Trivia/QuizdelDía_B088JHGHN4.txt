@@ -1,0 +1,5 @@
+Alexa, open quiz del día
+Alexa, lanza Quiz del Día
+Alexa, juega Quiz del Día
+Alexa, abre Quiz del Día
+Alexa, disable quiz del día

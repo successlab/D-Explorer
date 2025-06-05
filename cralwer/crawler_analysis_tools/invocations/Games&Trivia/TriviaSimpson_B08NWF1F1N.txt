@@ -1,0 +1,4 @@
+Alexa, open trivia simpson
+Alexa, abre trivia simpson
+Alexa, juega trivia simpson
+Alexa, disable trivia simpson

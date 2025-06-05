@@ -1,0 +1,5 @@
+Alexa, open trivia movie
+Alexa, launch Trivia Movie
+Repeat
+Help
+Alexa, disable trivia movie

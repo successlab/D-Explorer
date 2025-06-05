@@ -1,0 +1,4 @@
+Alexa, open normal facts
+Alexa, normal facts
+Alexa, tell normal facts
+Alexa, disable normal facts

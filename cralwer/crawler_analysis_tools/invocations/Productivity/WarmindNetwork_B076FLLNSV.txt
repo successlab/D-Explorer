@@ -1,0 +1,9 @@
+Alexa, open warmind network
+Alexa, ask Warmind Network to list the top activities.
+Alexa, ask Warmind Network what weapons are in the meta.
+Alexa, mix up my gear.
+Alexa, ask Warmind Network to list my saved loadouts
+Alexa tell Warmind Network to max the power on my current character.
+Alexa ask Warmind Network to save this loadout for later.
+Alexa ask Warmind Network to tell me how many legendary shards I have.
+Alexa, disable warmind network

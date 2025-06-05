@@ -1,0 +1,3 @@
+Alexa, discover devices”. Wait till Echo says 
+Alexa, turn on the light.
+Alexa, disable ELEGRPHOME

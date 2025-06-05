@@ -1,0 +1,4 @@
+Alexa, open baldy mountain
+Alexa, ask Baldy Mountain for the snow report
+Alexa, ask Baldy Mountain for latest conditions
+Alexa, disable baldy mountain

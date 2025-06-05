@@ -1,0 +1,4 @@
+Alexa, lock the Front Door.
+Alexa, turn on the Bedroom Light.
+Alexa, set the Bedroom Light to twenty percent.
+Alexa, disable BrivoSmartHome

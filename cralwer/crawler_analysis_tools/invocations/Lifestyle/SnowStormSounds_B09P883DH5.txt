@@ -1,0 +1,4 @@
+Alexa, open snow storm sounds
+Alexa, Pause
+Alexa, Resume
+Alexa, disable snow storm sounds

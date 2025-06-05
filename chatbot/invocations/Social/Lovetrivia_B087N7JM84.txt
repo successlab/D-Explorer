@@ -1,0 +1,3 @@
+Alexa, open love trivia
+Alexa, start love trivia
+Alexa, disable love trivia

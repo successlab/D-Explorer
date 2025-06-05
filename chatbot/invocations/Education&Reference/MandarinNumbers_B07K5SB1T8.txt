@@ -1,0 +1,6 @@
+Alexa, open mandarin numbers
+Alexa, launch Mandarin Numbers
+Alexa, stop
+Alexa ask Mandarin Numbers for a number
+Alexa ask Mandarin Numbers for a random number
+Alexa, disable mandarin numbers

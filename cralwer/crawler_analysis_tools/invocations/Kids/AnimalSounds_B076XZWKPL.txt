@@ -1,0 +1,5 @@
+Alexa, open animal sounds
+Alexa, ask Animal Sounds for a Random Animal
+Alexa, ask Animal Sounds for an Animal Noise
+Alexa, ask Animal Sounds to tell me an Animal Sound
+Alexa, disable animal sounds

@@ -1,0 +1,9 @@
+Alexa, discover my devices
+Alexa, turn on the <kettle name>
+Alexa, turn off the <kettle name>
+Alexa, set the <kettle name> temperature to 120 degrees
+Alexa, what is the temperature of the <kettle name>?
+Alexa, turn on Kitchen Kettle
+Alexa, set Kitchen kettle to 170 degrees
+Alexa, turn off Kitchen Kettle
+Alexa, disable SmarteriKettle30andCoffee20

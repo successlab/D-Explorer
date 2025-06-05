@@ -1,0 +1,4 @@
+Alexa, open riddle arena
+Alexa, start riddle arena
+Alexa, ask riddle arena for a new riddle
+Alexa, disable riddle arena

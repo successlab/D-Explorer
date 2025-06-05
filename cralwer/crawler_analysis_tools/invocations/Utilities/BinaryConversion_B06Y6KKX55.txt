@@ -1,0 +1,4 @@
+Alexa, open binary conversion
+Alexa, ask Binary Conversion to convert the number ten
+Alexa, ask Binary Conversion, what is the binary for five
+Alexa, disable binary conversion

@@ -1,0 +1,3 @@
+Alexa, open would you do it
+Alexa, ask would you do it for a scenario
+Alexa, disable would you do it

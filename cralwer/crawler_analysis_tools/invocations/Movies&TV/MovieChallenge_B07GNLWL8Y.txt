@@ -1,0 +1,3 @@
+Alexa, open movie challenge
+Alexa, ask Movie Challenge to start the game
+Alexa, disable movie challenge

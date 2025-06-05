@@ -1,0 +1,3 @@
+Alexa, open yes or no
+Alexa, start yes or no
+Alexa, disable yes or no

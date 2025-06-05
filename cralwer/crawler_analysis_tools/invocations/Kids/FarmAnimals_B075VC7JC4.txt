@@ -1,0 +1,5 @@
+Alexa, open farm animals
+Alexa, ask farm animals to find a dog
+ask farm animals to find the pig
+ask farm animals what does a duck say
+Alexa, disable farm animals

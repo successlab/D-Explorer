@@ -1,0 +1,5 @@
+Alexa, open beautiful piano
+Alexa, play beautiful piano
+Alexa, pause
+Alexa, resume
+Alexa, disable beautiful piano

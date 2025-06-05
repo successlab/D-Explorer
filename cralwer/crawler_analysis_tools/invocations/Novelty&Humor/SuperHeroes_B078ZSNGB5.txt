@@ -1,0 +1,10 @@
+Alexa, open super heroes
+Alexa, ask Super Heroes for a quote.
+Alexa, ask Super Heroes to Inspire me.
+Alexa, ask Super Heroes to Motivate me.
+Alexa, ask Super Heroes for a fact.
+Alexa, ask Super Heroes for trivia.
+Alexa, ask Super Heroes to inspire me.
+Alexa, ask Super Heroes to motivate me.
+Alexa, ask Super Heroes to tell me something interesting.
+Alexa, disable super heroes

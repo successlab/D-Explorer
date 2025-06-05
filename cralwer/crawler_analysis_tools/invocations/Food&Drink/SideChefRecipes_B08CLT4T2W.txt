@@ -1,0 +1,3 @@
+Alexa, open side chef
+Alexa, ask Side Chef to show me pasta recipes
+Alexa, disable side chef

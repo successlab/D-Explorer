@@ -1,0 +1,5 @@
+Alexa, open chinese proverbs
+Alexa, open Chinese Proverbs.
+Alexa, ask Chinese Proverbs for a proverb.
+Alexa, ask Chinese Proverbs for a Chinese proverb.
+Alexa, disable chinese proverbs

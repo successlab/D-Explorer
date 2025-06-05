@@ -1,0 +1,4 @@
+Alexa, Show the baby room
+Alexa, Show the front door
+Alexa, Hide the front door
+Alexa, disable ANNKE

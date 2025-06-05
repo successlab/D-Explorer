@@ -1,0 +1,10 @@
+Alexa, open aquanta
+Alexa, tell Aquanta to boost
+Alexa, ask Aquanta to boost for 1 day
+Alexa, tell Aquanta to stop boosting
+Alexa, turn on away on (device name)
+Alexa, turn off away
+Alexa, ask Aquanta to boost
+Alexa, turn on away
+Alexa, ask Aquanta if boost is running
+Alexa, disable aquanta

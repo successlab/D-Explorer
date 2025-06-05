@@ -1,0 +1,5 @@
+Alexa, open phoenix theater
+Alexa, ask Phoenix Theater when does the show start
+Alexa, ask Phoenix Theater when is the show on Friday
+Alexa, ask Phoenix Theater when is the show tonight
+Alexa, disable phoenix theater

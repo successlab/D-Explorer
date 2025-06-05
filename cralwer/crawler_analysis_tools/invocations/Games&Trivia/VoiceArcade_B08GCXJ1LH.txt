@@ -1,0 +1,3 @@
+Alexa, open voice arcade
+Alexa, start voice arcade
+Alexa, disable voice arcade

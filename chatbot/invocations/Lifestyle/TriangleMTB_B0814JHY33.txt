@@ -1,0 +1,5 @@
+Alexa, open trail status
+Alexa ask trail status what trails are open?
+Alexa open trail status.
+Alexa ask trail status if I can ride Briar Chapel?
+Alexa, disable trail status

@@ -1,0 +1,3 @@
+Alexa, open chicago seventy six
+Alexa, ask Chicago Seventy Six when the next bus is coming
+Alexa, disable chicago seventy six

@@ -1,0 +1,5 @@
+Alexa, open layla bed
+Alexa, ask layla bed to find device.
+Alexa, ask layla bed to zero g
+Alexa, ask layla bed to lower foot
+Alexa, disable layla bed

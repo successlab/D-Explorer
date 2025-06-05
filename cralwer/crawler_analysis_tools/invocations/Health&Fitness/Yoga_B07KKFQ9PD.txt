@@ -1,0 +1,4 @@
+Alexa, open yoga trainer
+Alexa, launch yoga trainer
+Alexa, yoga trainer
+Alexa, disable yoga trainer

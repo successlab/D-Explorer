@@ -1,0 +1,9 @@
+Alexa, open digital canvas
+Alexa, turn on canvas
+Alexa, turn off canvas
+Alexa, brighten canvas to fifty percent
+Alexa, next on canvas
+Alexa, ask digital canvas to show next image on canvas
+Alexa, previous on canvas
+Alexa, ask digital canvas to show previous image on canvas
+Alexa, disable digital canvas

@@ -1,0 +1,5 @@
+Alexa, open ortho facts
+Alexa, ask ortho facts
+Alexa, start ortho facts
+Alexa, launch ortho facts
+Alexa, disable ortho facts

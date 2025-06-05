@@ -1,0 +1,5 @@
+Alexa, open math machine
+Alexa, tell Math Machine to quiz math facts up to five
+Test addition facts
+Try the operations challenge
+Alexa, disable math machine

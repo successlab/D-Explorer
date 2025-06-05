@@ -1,0 +1,5 @@
+Alexa, open portland bus
+Alexa, ask Portland Bus to save stop 755.
+Ask Portland Bus to get next arrivals at my stop.
+Ask Portland Bus to get arrivals for stop 755.
+Alexa, disable portland bus

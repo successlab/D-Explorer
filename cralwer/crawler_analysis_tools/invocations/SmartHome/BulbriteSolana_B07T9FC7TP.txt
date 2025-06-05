@@ -1,0 +1,10 @@
+Alexa, discover my devices.
+Alexa, turn on the hallway light.
+Alexa, set the porch light to 80%.
+Alexa, brighten Bedroom.
+Alexa, dim the living room to 20%.
+Alexa, brighten the kitchen by 30%.
+Alexa, make the living room green.
+Alexa, turn the desk lamp to cool white.
+Alexa, make the bedroom lights warmer.
+Alexa, disable BulbriteSolana

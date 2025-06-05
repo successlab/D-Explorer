@@ -1,0 +1,7 @@
+Alexa, open any list
+Alexa, ask AnyList to add apples to my grocery list
+Alexa, ask AnyList to show my salmon recipe
+Alexa, ask AnyList to add apples to my grocery list.
+Alexa, ask AnyList to add toothbrush to my packing list.
+Alexa, ask AnyList to show my salmon recipe.
+Alexa, disable any list

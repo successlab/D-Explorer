@@ -1,0 +1,6 @@
+Alexa, open k. p. b. s.
+Alexa, ask KPBS to play Live
+Alexa, ask KPBS to play 'Morning Edition'
+Alexa, stop
+Alexa, ask KPBS to play Morning Edition
+Alexa, disable k. p. b. s.

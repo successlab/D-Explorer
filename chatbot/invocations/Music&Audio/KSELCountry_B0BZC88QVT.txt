@@ -1,0 +1,4 @@
+Alexa, open k. sell country
+Alexa start k. sell country
+Alexa launch k. sell country
+Alexa, disable k. sell country

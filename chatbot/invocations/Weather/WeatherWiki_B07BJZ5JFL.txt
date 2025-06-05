@@ -1,0 +1,4 @@
+Alexa, open weather wiki
+Alexa, ask Weather Wiki to tell me the weather in Chicago
+Alexa, launch Weather Wiki
+Alexa, disable weather wiki

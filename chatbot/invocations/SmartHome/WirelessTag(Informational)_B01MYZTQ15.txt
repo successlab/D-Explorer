@@ -1,0 +1,24 @@
+Alexa, open wireless tag
+Alexa, ask Wireless Tag for the lowest temperature last week.
+Alexa, ask Wireless Tag for the temperature at Attic yesterday.
+Alexa, ask Wireless Tag what happened Yesterday
+Alexa, ask Wireless Tag what happened for Garage Freezer Yesterday
+Alexa, ask Wireless Tag if Mailbox is open
+Alexa, ask Wireless Tag if Keys is out of range
+Alexa, ask Wireless Tag to beep keys
+Alexa, ask Wireless Tag to beep keys 5 times
+Alexa, ask Wireless Tag to stop beep keys
+Alexa, ask Wireless Tag to arm keys
+Alexa, ask Wireless Tag to disarm keys
+Alexa, ask Wireless Tag to set downstairs at Living Room
+Alexa, ask Wireless Tag to use Living Room for downstairs
+Alexa, ask Wireless Tag to set Living Room temperature to 70
+Alexa, ask Wireless Tag to monitor temperature at Kitchen Freezer
+Alexa, ask Wireless Tag to stop temperature monitoring at Kitchen Freezer
+Alexa, ask Wireless Tag to set temperature at Kitchen Freezer between -40 and 0
+Alexa, ask Wireless Tag to monitor humidity at Kitchen Freezer
+Alexa, ask Wireless Tag to set humidity at Kitchen Freezer between 0 and 80
+Alexa ask wireless tag what happened today
+Alexa ask wireless tag for the temperature at Garage Freezer yesterday
+Alexa ask wireless tag if Mailbox is open
+Alexa, disable wireless tag

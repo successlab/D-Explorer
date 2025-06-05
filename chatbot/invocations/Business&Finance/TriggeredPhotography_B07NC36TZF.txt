@@ -1,0 +1,4 @@
+Alexa, open triggered photography
+Alexa, start triggered photography
+Alexa, launch triggered photography
+Alexa, disable triggered photography

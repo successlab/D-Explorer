@@ -1,0 +1,5 @@
+Alexa, open soccer news
+Alexa, ask soccer news update
+Alexa, ask soccer news briefing
+Alexa, ask soccer news English league results
+Alexa, disable soccer news

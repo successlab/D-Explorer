@@ -1,0 +1,4 @@
+Alexa, open smoke detector tracker
+Get a detector
+Save a detector
+Alexa, disable smoke detector tracker

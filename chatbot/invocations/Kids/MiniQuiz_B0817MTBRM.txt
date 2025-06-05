@@ -1,0 +1,5 @@
+Alexa, open mini quiz
+Alexa, next
+Alexa, stop
+Alexa, start Mini Quiz
+Alexa, disable mini quiz

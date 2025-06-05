@@ -1,0 +1,4 @@
+Alexa, open entercom
+Alexa, play W-F-A-N
+Alexa, play 93 X-R-T
+Alexa, disable entercom

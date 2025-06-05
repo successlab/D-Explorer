@@ -1,0 +1,3 @@
+Alexa, open give motivation
+Alexa, start give motivation
+Alexa, disable give motivation

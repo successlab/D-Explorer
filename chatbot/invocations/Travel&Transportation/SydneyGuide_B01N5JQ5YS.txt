@@ -1,0 +1,7 @@
+Alexa, open sydney guide
+Alexa, ask Sydney Guide for the top five things to do.
+Alexa, ask Sydney Guide for the local news
+Alexa, ask Sydney Guide about Sydney
+Alexa, ask Sydney Guide
+Alexa, ask Sydney Guide to tell me the top five things to do
+Alexa, disable sydney guide

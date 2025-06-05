@@ -1,0 +1,4 @@
+Alexa, open take my survey
+Alexa, launch take my survey
+Alexa, start take my survey
+Alexa, disable take my survey

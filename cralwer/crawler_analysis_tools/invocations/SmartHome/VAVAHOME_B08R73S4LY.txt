@@ -1,0 +1,3 @@
+Alexa, show the front door camera.
+Alexa, turn off front door camera.
+Alexa, disable VAVAHOME

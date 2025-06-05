@@ -1,0 +1,4 @@
+Alexa, open sushi or anime
+Alexa, ask sushi or anime, start,
+Alexa, ask sushi or anime, skip
+Alexa, disable sushi or anime

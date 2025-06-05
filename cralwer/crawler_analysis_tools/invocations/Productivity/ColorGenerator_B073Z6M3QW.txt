@@ -1,0 +1,5 @@
+Alexa, open color generator
+Alexa, ask Color Generator to give me a random color.
+Alexa, ask Color Generator to pick any warm color.
+Alexa, ask Color Generator to tell me any non-neutral color.
+Alexa, disable color generator

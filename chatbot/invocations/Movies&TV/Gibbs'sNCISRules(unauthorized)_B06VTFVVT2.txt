@@ -1,0 +1,5 @@
+Alexa, open marine rules
+Alexa, ask Marine Rules for rule number 1.
+Alexa, ask Marine Rules for rule number 40.
+Alexa, ask Marine Rules for the rule of the day.
+Alexa, disable marine rules

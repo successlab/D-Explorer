@@ -1,0 +1,6 @@
+Alexa, open nepali calendar
+Alexa, ask Nepali calendar what day is today
+Alexa, ask nepali calendar to convert june 12th 2008 to Nepali date
+Alexa, ask nepali calendar to convert tomorrow to English Date
+Alexa, ask nepali calendar what day is today
+Alexa, disable nepali calendar

@@ -1,0 +1,4 @@
+Alexa, turn on kitchen light
+Alexa, turn off kitchen light
+Alexa, dim living room light
+Alexa, disable PremierSmart

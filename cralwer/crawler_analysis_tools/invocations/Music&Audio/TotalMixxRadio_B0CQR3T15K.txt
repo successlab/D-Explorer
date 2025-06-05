@@ -1,0 +1,5 @@
+Alexa, open total mix radio
+Alexa, play Total Mixx Radio
+Alexa, start Total Mixx Radio
+Alexa, ask Total Mixx Radio what song is playing
+Alexa, disable total mix radio

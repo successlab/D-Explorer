@@ -1,0 +1,5 @@
+Alexa, open guardian
+Alexa, tell Guardian to turn on the lights
+Alexa, tell Guardian to run sleep scene
+Alexa, ask Guardian to arm stay
+Alexa, disable guardian

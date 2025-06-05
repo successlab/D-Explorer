@@ -1,0 +1,5 @@
+Alexa, open drink genie
+Alexa ask drink genie to suggest a drink
+Alexa ask drink genie to make me a drink
+Alexa tell drink genie to make me a drink
+Alexa, disable drink genie

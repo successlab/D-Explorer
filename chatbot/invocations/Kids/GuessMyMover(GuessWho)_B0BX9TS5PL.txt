@@ -1,0 +1,4 @@
+Alexa, open guess my mover
+Alexa, start Guess My Mover
+Alexa, launch Guess My Mover
+Alexa, disable guess my mover

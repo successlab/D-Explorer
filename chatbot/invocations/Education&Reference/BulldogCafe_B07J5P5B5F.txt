@@ -1,0 +1,5 @@
+Alexa, open bulldog cafe
+Alexa ask Bulldog Cafe elementary what's for lunch today?
+Alexa ask Bulldog Cafe high school what's for lunch tomorrow?
+Alexa ask Bulldog Cafe middle school what's for lunch today?
+Alexa, disable bulldog cafe

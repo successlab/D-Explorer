@@ -1,0 +1,4 @@
+Alexa, open heads or tails
+Alexa, Heads or Tails?
+Alexa, heads or tails?
+Alexa, disable heads or tails

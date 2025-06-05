@@ -1,0 +1,5 @@
+Alexa, open pill me
+Alexa, open Pill Me.
+Alexa, ask Pill Me to log a pill.
+Alexa, ask Pill Me if I have taken my medication.
+Alexa, disable pill me

@@ -1,0 +1,5 @@
+Alexa, open eva
+Alexa, ask Eva, What was the Average Ticket Price?
+Alexa, ask Eva, What is my average booking cost?
+Alexa, ask Eva, When is my next flight?
+Alexa, disable eva

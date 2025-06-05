@@ -1,0 +1,4 @@
+Alexa, open breckenridge resort
+Alexa, ask Breckenridge Resort for the snow report
+Alexa, ask Breckenridge Resort for latest conditions
+Alexa, disable breckenridge resort

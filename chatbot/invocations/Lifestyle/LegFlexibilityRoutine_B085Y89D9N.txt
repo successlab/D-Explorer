@@ -1,0 +1,4 @@
+Alexa, open stretching routine
+Alexa, start stretching routine
+Alexa, ask stretching routine to start workout
+Alexa, disable stretching routine

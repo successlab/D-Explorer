@@ -1,0 +1,4 @@
+Alexa, open golden girls trivia
+Alexa, tell Golden Girls Trivia to start.
+Alexa, ask Golden Girls Trivia for help.
+Alexa, disable golden girls trivia

@@ -1,0 +1,4 @@
+Alexa, open children jokes
+Alexa start children Jokes
+Alexa tell children jokes to say joke
+Alexa, disable children jokes

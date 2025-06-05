@@ -1,0 +1,5 @@
+Alexa, open the bible
+Alexa, open The Bible.
+Alexa, tell The Bible to give me inspiration.
+Alexa, ask The Bible to read Luke chapter 2.
+Alexa, disable the bible

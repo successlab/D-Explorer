@@ -1,0 +1,4 @@
+Alexa, open coffee talk trivia
+Alexa, launch Coffee Talk Trivia
+Alexa, start Coffee Talk Trivia
+Alexa, disable coffee talk trivia

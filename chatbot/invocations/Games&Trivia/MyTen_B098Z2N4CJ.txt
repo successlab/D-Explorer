@@ -1,0 +1,6 @@
+Alexa, open my ten
+Alexa, next
+Alexa, stop
+Alexa, start my ten
+Alexa, ask my ten for a fact
+Alexa, disable my ten

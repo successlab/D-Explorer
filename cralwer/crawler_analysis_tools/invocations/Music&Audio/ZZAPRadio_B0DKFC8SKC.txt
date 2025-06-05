@@ -1,0 +1,4 @@
+Alexa, open zap radio
+Alexa, play zap radio
+help
+Alexa, disable zap radio

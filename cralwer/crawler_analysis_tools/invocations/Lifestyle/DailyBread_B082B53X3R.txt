@@ -1,0 +1,5 @@
+Alexa, open daily bread
+Alexa, ask Daily Bread to read
+Alexa, ask Daily Bread to sign up for daily emails
+Alexa, ask Daily Bread to list verses
+Alexa, disable daily bread

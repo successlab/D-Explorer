@@ -1,0 +1,9 @@
+Alexa, open snoring sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Snoring Sounds to turn on Background Mode
+Alexa, ask Snoring Sounds to turn Background Mode off
+Alexa, start Snoring Sounds
+Alexa, launch Snoring Sounds
+Alexa, disable snoring sounds

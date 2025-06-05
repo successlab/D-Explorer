@@ -1,0 +1,5 @@
+Alexa, open calming thunder
+Alexa, open rain music.
+Alexa, start Calming Thunder
+Alexa, launch Calming Thunder
+Alexa, disable calming thunder

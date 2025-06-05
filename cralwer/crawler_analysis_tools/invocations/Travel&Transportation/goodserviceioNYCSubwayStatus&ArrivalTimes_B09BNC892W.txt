@@ -1,0 +1,9 @@
+Alexa, open good service
+Alexa, ask good service for the next trains at 42nd Street Port Authority Bus Terminal
+Alexa, ask good service for the next train times
+Alexa, ask good service for the status of the F train
+Alexa, ask good service for the status of the Rockaway Shuttle
+Alexa, ask good service for currently delayed trains
+Alexa, ask good service for the next trains at bedford avenue
+Alexa, ask good service for the status of the A train
+Alexa, disable good service

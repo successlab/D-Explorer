@@ -1,0 +1,5 @@
+Alexa, open surprise me
+Alexa, ask surprise me to make me laugh
+Alexa, ask surprise me to play scary prank
+Alexa, ask surprise me to scare me
+Alexa, disable surprise me

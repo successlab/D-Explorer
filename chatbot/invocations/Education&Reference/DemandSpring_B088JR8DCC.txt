@@ -1,0 +1,4 @@
+Alexa, open demand spring
+Alexa, ask Demand Spring to play the Jay Baer episode
+Alexa, ask Demand Spring to play the latest podcast
+Alexa, disable demand spring

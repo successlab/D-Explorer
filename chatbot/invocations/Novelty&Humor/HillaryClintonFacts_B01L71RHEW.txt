@@ -1,0 +1,4 @@
+Alexa, open hillary fact
+Alexa, start hillary fact
+Alexa, launch hillary fact
+Alexa, disable hillary fact

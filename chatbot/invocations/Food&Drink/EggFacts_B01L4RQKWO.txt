@@ -1,0 +1,4 @@
+Alexa, open egg facts
+Alexa, launch egg facts
+Alexa, start egg facts
+Alexa, disable egg facts

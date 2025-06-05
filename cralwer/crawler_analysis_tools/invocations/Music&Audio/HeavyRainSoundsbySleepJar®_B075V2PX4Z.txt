@@ -1,0 +1,9 @@
+Alexa, open heavy rain sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Heavy Rain Sounds to turn on Background Mode
+Alexa, ask Heavy Rain Sounds to turn Background Mode off
+Alexa, start Heavy Rain Sounds
+Alexa, launch Heavy Rain Sounds
+Alexa, disable heavy rain sounds

@@ -1,0 +1,4 @@
+Alexa, open order updates
+Alexa, ask order updates where are my deliveries
+Alexa, ask order updates to give me an update from store name
+Alexa, disable order updates

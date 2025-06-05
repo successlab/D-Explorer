@@ -1,0 +1,4 @@
+Alexa, open flashcard maid
+Alexa tell flashcard maid to practice
+Alexa tell flashcard maid to add concept BLANK
+Alexa, disable flashcard maid

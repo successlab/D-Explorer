@@ -1,0 +1,4 @@
+Alexa, arm Agent in away mode
+Alexa, disarm Agent
+Alexa, show Agent camera
+Alexa, disable Agent

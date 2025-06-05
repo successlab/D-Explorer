@@ -1,0 +1,4 @@
+Alexa, show the front door
+Alexa, show the living room
+Alexa, stop
+Alexa, disable MiboSmart

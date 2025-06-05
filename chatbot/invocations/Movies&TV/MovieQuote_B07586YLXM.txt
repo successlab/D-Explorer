@@ -1,0 +1,5 @@
+Alexa, open movie quote
+Alexa, ask Movie Quote to give me a movie quote
+Alexa, ask Movie Quote to give me a good one
+Alexa, ask Movie Quote to give me a nice quote
+Alexa, disable movie quote

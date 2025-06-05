@@ -1,0 +1,4 @@
+Alexa, open talking ghost
+ghost how was your day today?
+help
+Alexa, disable talking ghost

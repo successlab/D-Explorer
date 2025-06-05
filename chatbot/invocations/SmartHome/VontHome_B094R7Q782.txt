@@ -1,0 +1,16 @@
+Alexa, turn on the smart light bulb.
+Alexa, turn off the smart light bulb .
+Alexa, set the smart light bulb to red.
+Alexa, set the smart light bulb to blue.
+Alexa, set the smart light bulb to green.
+Alexa, set the smart light bulb to yellow.
+Alexa, set the smart light bulb to orange.
+Alexa, set the smart light bulb to violet.
+Alexa, set the smart light bulb to fifty percent.
+Alexa, make the smart light bulb warm white.
+Alexa, dim the smart light bulb .
+Alexa, brighten the smart light bulb .
+Alexa, turn on the smart light bulb
+Alexa, turn off the smart light bulb
+Alexa, set the smart light bulb to red
+Alexa, disable VontHome

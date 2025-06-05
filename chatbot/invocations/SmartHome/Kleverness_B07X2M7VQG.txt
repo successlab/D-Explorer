@@ -1,0 +1,4 @@
+Alexa, turn on Living Room lights
+Alexa, turn on Kitchen outlet
+Alexa, turn off Office
+Alexa, disable Kleverness

@@ -1,0 +1,5 @@
+Alexa, open i. broadcast
+Alexa, launch i. Broadcast
+Shuffle my library
+Resume playing
+Alexa, disable i. broadcast

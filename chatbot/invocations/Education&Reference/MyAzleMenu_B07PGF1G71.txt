@@ -1,0 +1,4 @@
+Alexa, open azle menu
+Alexa, Launch Azle Menu
+Alexa, Start Azle Menu
+Alexa, disable azle menu

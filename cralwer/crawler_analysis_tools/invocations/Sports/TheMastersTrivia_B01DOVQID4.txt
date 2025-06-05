@@ -1,0 +1,5 @@
+Alexa, open the masters trivia
+Alexa, play The Masters Trivia
+The answer is 3
+I don't know that
+Alexa, disable the masters trivia

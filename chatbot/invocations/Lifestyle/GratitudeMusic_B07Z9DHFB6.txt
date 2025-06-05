@@ -1,0 +1,4 @@
+Alexa, open gratitude music
+play Universe relaxing
+play something energizing
+Alexa, disable gratitude music

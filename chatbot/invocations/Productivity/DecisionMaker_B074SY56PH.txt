@@ -1,0 +1,5 @@
+Alexa, open decision maker
+Alexa, ask decision maker what I should eat today
+Alexa, ask decision maker what I should wear today
+Alexa, ask decision maker what movie I should watch today
+Alexa, disable decision maker

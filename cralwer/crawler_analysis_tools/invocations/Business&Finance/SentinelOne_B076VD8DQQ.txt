@@ -1,0 +1,8 @@
+Alexa, open sentinelone
+Alexa, ask SentinelOne for the summary report
+Alexa, ask SentinelOne for the daily report
+Alexa, ask SentinelOne for the server name and version number
+Alexa, ask SentinelOne for summary report
+Alexa, ask SentinelOne for daily report
+Alexa, ask SentinelOne for server version
+Alexa, disable sentinelone

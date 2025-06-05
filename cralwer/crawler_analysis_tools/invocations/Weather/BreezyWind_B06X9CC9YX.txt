@@ -1,0 +1,5 @@
+Alexa, open breezy wind
+Alexa, ask Breezy Wind what the wind is like in Chicago
+Alexa, open Breezy Wind!
+How windy is it in San Francisco?
+Alexa, disable breezy wind

@@ -1,0 +1,4 @@
+Alexa, open green things
+Alexa, stop
+Alexa, start Green things
+Alexa, disable green things

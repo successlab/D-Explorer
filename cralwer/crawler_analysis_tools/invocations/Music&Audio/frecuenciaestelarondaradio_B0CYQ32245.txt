@@ -1,0 +1,4 @@
+Alexa, open frecuencia estelar
+Alexa, Abre frecuencia estelar
+Alexa, Empieza frecuencia estelar
+Alexa, disable frecuencia estelar

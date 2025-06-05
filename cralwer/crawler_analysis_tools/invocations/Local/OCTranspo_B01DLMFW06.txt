@@ -1,0 +1,5 @@
+Alexa, open oh see transpo
+Alexa, ask Oh See Transpo when is the next route 95 at halt 3047
+Alexa, ask Oh See Transpo when is the next bus for halt 3060
+Alexa, ask Oh See Transpo for next 95 at 3047
+Alexa, disable oh see transpo

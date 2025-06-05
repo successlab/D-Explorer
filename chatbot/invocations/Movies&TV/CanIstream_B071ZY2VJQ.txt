@@ -1,0 +1,5 @@
+Alexa, open can i stream
+Alexa, ask can I stream Game of Thrones
+Alexa, ask can I stream Manchester by the Sea
+Alexa, ask can I stream Raiders of the Lost Ark
+Alexa, disable can i stream

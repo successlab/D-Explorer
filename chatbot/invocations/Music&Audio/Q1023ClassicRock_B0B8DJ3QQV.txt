@@ -1,0 +1,5 @@
+Alexa, open q. one oh two three
+Alexa, open Q. one oh two three.
+Alexa, launch Q. one oh two three
+Alexa, play Q. one oh two three
+Alexa, disable q. one oh two three

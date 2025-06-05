@@ -1,0 +1,3 @@
+Alexa, open moon landing
+Alexa, start Moon Landing
+Alexa, disable moon landing

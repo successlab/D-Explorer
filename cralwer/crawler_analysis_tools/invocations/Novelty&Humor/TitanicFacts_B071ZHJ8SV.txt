@@ -1,0 +1,4 @@
+Alexa, open titanic facts
+give me a fact
+i want a titanic fact
+Alexa, disable titanic facts

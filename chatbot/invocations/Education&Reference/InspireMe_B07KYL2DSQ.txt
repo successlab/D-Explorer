@@ -1,0 +1,5 @@
+Alexa, open inspire me
+Alexa, open inspire me and tell me something inspiring
+start inspire me
+repeat
+Alexa, disable inspire me

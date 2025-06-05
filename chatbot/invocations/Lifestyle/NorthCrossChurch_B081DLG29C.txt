@@ -1,0 +1,10 @@
+Alexa, open north cross church
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, previous
+Alexa, next
+Alexa, ask north cross church to begin podcast
+Alexa, ask north cross church to rewind thirty seconds
+Alexa, disable north cross church

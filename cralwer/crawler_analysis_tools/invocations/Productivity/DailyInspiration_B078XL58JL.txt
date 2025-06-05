@@ -1,0 +1,5 @@
+Alexa, open daily inspiration
+Alexa, ask daily inspiration for a quote
+Alexa, ask daily inspiration for a daily quote
+Alexa, ask daily inspiration for my daily quote
+Alexa, disable daily inspiration

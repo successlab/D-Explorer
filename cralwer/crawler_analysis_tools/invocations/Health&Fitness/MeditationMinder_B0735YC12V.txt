@@ -1,0 +1,5 @@
+Alexa, open meditation minder
+Alexa, ask Meditation Minder to set a timer for twenty minutes
+Alexa, ask Meditation Minder to set a timer for one hour with five intervals
+Alexa, ask Meditation Minder for an alarm in forty-five seconds
+Alexa, disable meditation minder

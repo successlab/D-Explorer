@@ -1,0 +1,4 @@
+Alexa, open the golden knight
+Alexa, stop
+Alexa, start the golden knight
+Alexa, disable the golden knight

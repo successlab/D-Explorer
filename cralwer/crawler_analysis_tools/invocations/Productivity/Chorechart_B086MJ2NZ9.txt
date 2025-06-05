@@ -1,0 +1,4 @@
+Alexa, open i forgot
+Alexa, ask i forgot to read my chore list
+Alexa, ask i forgot to log a chore
+Alexa, disable i forgot

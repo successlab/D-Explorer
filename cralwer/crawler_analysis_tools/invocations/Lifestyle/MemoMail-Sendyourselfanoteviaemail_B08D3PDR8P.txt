@@ -1,0 +1,4 @@
+Alexa, open memo mail
+Alexa start Memo Mail
+Alexa start Memo Mail and send me the text Buy some flowers
+Alexa, disable memo mail

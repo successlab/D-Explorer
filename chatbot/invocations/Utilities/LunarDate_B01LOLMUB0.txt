@@ -1,0 +1,5 @@
+Alexa, open lunar date
+Alexa, Ask lunar date for today
+Alexa, Ask lunar date for yesterday
+Alexa, Ask lunar date for the day after tomorrow
+Alexa, disable lunar date

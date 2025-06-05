@@ -1,0 +1,6 @@
+Alexa, open p. b. x.
+Alexa, ask PBX to link
+Alexa, launch PBX and place call to 2 3 4 5 6 7 7 8 9 0
+Alexa, ask PBX to call Thomas
+Alexa, ask PBX to Link
+Alexa, disable p. b. x.

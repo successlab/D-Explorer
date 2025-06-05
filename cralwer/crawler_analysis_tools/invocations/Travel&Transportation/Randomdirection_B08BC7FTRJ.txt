@@ -1,0 +1,5 @@
+Alexa, open random direction
+Alexa, ask Random direction for 5 kilometers.
+Alexa, ask Random direction for 8 miles.
+Alexa, ask Random direction for 600 meters.
+Alexa, disable random direction

@@ -1,0 +1,4 @@
+Alexa, open the love test
+Alexa, ask The Love Test about me and Tom Cruise
+Alexa, ask The Love Test if I should break up with my partner
+Alexa, disable the love test

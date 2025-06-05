@@ -1,0 +1,3 @@
+Alexa, open astrology quiz
+Alexa, start astrology quiz
+Alexa, disable astrology quiz

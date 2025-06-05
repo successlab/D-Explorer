@@ -1,0 +1,4 @@
+Alexa, open spidey facts
+Alexa, open spidey facts and tell me a fact about spiderman
+Alexa, ask spidey facts to give me a fact
+Alexa, disable spidey facts

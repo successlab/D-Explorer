@@ -1,0 +1,3 @@
+Alexa, set my Dining Room temperature to 68.
+Alexa, set my Dining Room temperature to 68
+Alexa, disable AprilAire

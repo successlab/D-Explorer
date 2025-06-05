@@ -1,0 +1,5 @@
+Alexa, open korean air
+Alexa, ask Korean Air
+Alexa, ask Korean Air flight number 017
+Alexa, ask Korean Air flight from Los Angeles to Incheon
+Alexa, disable korean air

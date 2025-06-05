@@ -1,0 +1,4 @@
+Alexa, show the front door.
+Alexa, go home.
+Alexa, discover devices.
+Alexa, disable SwannSecurity

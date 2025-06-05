@@ -1,0 +1,6 @@
+Alexa, open j. d.
+Alexa, ask J. D. to give me a fact
+Alexa, ask JD to give me a fact
+Alexa, ask JD to tell me a fact
+Alexa, ask JD to tell me something
+Alexa, disable j. d.

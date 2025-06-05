@@ -1,0 +1,4 @@
+Alexa, open healing music
+Alexa, Start Healing Music
+Alexa, Launch Healing Music
+Alexa, disable healing music

@@ -1,0 +1,4 @@
+Alexa, open short workout
+Alexa, start short workout
+Alexa, ask short workout to start workout
+Alexa, disable short workout

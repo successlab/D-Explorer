@@ -1,0 +1,4 @@
+Alexa, set living room to 80
+Alexa, change living room to cooling
+Alexa, what is bedroom temperature
+Alexa, disable HabitatHomeLink

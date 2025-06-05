@@ -1,0 +1,12 @@
+Alexa, open shield
+Alexa, open Prime Video.
+Alexa, ask SHIELD to find my remote.
+Alexa, ask SHIELD to find my SHIELD remote.
+Alexa, ask SHIELD where my remote is.
+Alexa, ask SHIELD where my SHIELD remote is.
+Alexa, ask SHIELD to locate my remote.
+Alexa, ask SHIELD to locate my SHIELD remote.
+Alexa, turn on SHIELD
+Alexa, open Netflix
+Alexa, ask SHIELD to find my remote
+Alexa, disable shield

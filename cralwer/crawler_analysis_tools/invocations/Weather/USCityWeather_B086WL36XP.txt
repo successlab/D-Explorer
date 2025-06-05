@@ -1,0 +1,3 @@
+Alexa, open weather man
+Alexa, open weather man and give me the current temperature for Chicago Illinois
+Alexa, disable weather man

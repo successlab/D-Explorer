@@ -1,0 +1,5 @@
+Alexa, open santas workshop
+Alexa, open Santa's Workshop
+Visit the Toy Hall.
+Visit the Naughty and Nice Department.
+Alexa, disable santas workshop

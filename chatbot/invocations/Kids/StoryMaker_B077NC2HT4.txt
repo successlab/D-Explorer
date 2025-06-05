@@ -1,0 +1,5 @@
+Alexa, open story maker
+Alexa, start story maker
+Start a new story
+Go back a word
+Alexa, disable story maker

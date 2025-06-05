@@ -1,0 +1,3 @@
+Alexa, open trivia fight
+Alexa, start Trivia Fight
+Alexa, disable trivia fight

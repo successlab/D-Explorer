@@ -1,0 +1,5 @@
+Alexa, open discovery menu
+Alexa, ask Discovery Menu what's for lunch today
+Alexa, ask Discovery Menu what's for breakfast tomorrow
+Alexa, ask Discovery Menu what's for lunch Friday
+Alexa, disable discovery menu

@@ -1,0 +1,5 @@
+Alexa, open h. s. n.
+Alexa, open HSN.
+Alexa, ask HSN what's the Today's Special.
+Alexa, ask HSN to play the live stream.
+Alexa, disable h. s. n.

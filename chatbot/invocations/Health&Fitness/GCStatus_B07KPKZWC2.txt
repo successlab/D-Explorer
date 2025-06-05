@@ -1,0 +1,5 @@
+Alexa, open g. c. status
+Alexa, open GC Status
+Alexa, ask GC Status for platforms
+Alexa, ask GC Status for features
+Alexa, disable g. c. status

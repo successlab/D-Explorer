@@ -1,0 +1,8 @@
+Alexa, open rhyming game
+Alexa, ask rhyming game to start a [normal/timed] game.
+Alexa, ask rhyming game for help.
+Alexa, ask rhyming game
+Alexa, ask rhyming game to start a normal game
+start a timed game
+help me
+Alexa, disable rhyming game

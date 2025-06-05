@@ -1,0 +1,4 @@
+Alexa, open zombie survival
+Alexa ask Zombie Survival to start a new game
+Alexa, ask Zombie Survival to continue my game
+Alexa, disable zombie survival

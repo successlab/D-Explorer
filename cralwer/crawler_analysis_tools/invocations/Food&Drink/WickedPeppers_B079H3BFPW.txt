@@ -1,0 +1,5 @@
+Alexa, open wicked peppers
+Alexa, ask Wicked Peppers how hot are jalapenos
+Alexa, ask Wicked Peppers how hot is a jalapeno pepper
+Alexa, ask Wicked Peppers how hot is a ghost pepper
+Alexa, disable wicked peppers

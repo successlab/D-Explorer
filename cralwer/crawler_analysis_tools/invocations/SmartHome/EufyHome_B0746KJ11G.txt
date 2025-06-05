@@ -1,0 +1,4 @@
+Alexa, turn on Kitchen light.
+Alexa, set Bedroom light to 20%.
+Alexa, make Living Room warmer.
+Alexa, disable EufyHome

@@ -1,0 +1,4 @@
+Alexa, open random conversation
+Alexa, start random conversation
+Alexa, stop
+Alexa, disable random conversation

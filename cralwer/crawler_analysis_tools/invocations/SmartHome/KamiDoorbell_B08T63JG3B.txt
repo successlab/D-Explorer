@@ -1,0 +1,5 @@
+Alexa, show kami one
+Alexa, show the backyard
+Alexa, show the room doorbell
+Alexa, show the office doorbell
+Alexa, disable KamiDoorbell

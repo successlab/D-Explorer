@@ -1,0 +1,4 @@
+Alexa, open rain drop
+Alexa, start rain drop
+Alexa, launch rain drop
+Alexa, disable rain drop

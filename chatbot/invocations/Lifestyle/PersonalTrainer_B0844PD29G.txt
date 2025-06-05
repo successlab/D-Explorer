@@ -1,0 +1,5 @@
+Alexa, open personal trainer
+Alexa, ask personal trainer to exercise me
+Alexa, ask personal trainer to start exercise
+Alexa, ask personal trainer to start workout
+Alexa, disable personal trainer

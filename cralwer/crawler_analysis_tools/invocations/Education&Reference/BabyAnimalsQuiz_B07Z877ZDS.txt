@@ -1,0 +1,7 @@
+Alexa, open baby animals quiz
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start Baby Animals Quiz
+Alexa, disable baby animals quiz

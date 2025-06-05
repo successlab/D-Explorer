@@ -1,0 +1,4 @@
+Alexa, open water sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable water sounds

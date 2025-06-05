@@ -1,0 +1,5 @@
+Alexa, play some music in the <device name>
+Alexa, turn on the living room.
+Alexa, turn up the volume in the living room.
+Alexa, play music in the living room.
+Alexa, disable SamsungWirelessAudio

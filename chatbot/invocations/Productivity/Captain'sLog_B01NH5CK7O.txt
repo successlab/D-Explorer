@@ -1,0 +1,4 @@
+Alexa, open captain's log
+Alexa, Ask Captain's Log To List All Activities
+Alexa, Ask Captain's Log To Start Activity WORK
+Alexa, disable captain's log

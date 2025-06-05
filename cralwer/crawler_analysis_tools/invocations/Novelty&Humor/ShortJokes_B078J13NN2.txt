@@ -1,0 +1,5 @@
+Alexa, open short jokes
+alexa ask short jokes to tell me a joke
+alexa tell short jokes to make me laugh
+alexa ask short jokes to tell me a short joke
+Alexa, disable short jokes

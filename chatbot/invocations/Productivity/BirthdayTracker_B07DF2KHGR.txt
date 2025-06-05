@@ -1,0 +1,24 @@
+Alexa, open birthday tracker
+Alexa, ask birthday tracker to add [name's] birthday
+Alexa, ask birthday tracker when [name's] birthday is?
+Alexa, ask birthday tracker who has a birthday in July
+Alexa, ask birthday tracker whose birthday is next?
+Alexa, ask birthday tracker how long until [name's] birthday
+Alexa, ask birthday tracker how many days until [name's] birthday
+Alexa, ask birthday tracker what day [name's] birthday is
+Alexa, ask birthday tracker what day [name's] birthday was in 1980
+Alexa, ask birthday tracker what day [name's] birthday will be on in 2050
+Alexa, ask birthday tracker what is [name's] zodiac sign
+Alexa, ask birthday tracker to get all my birthdays
+Alexa, ask birthday tracker how old [name] is?
+Alexa, ask birthday tracker when [name] will be 40?
+Alexa, ask birthday tracker how old [name] will be in 2025
+Alexa, ask birthday tracker what day of the week [name] will be 21
+Alexa, ask birthday tracker to delete [name's] birthday
+Alexa, ask birthday tracker to update [name's] birthday
+Alexa, tell birthday tracker [name's] birthday is on [date]
+Alexa, tell birthday tracker [name] was born on [date]
+Alexa, ask birthday tracker to add Mom's birthday
+Alexa, ask birthday tracker when Mom's birthday is?
+Alexa, ask birthday tracker whose birthday is next month
+Alexa, disable birthday tracker

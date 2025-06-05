@@ -1,0 +1,5 @@
+Alexa, open kitchen plus
+Alexa, tell kitchen plus to set airfryer cooking time to 6 minutes and temperature to 200 degrees.
+Alexa, tell kitchen plus to turn off my airfryer.
+Alexa, tell kitchen plus to turn on my airfryer.
+Alexa, disable kitchen plus

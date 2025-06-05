@@ -1,0 +1,6 @@
+Alexa, open shine phone
+Alexa, ask shine phone to refresh
+Alexa, ask shine phone to add a reminder.
+Alexa, open shine phone.
+Alexa, ask shine phone to refresh.
+Alexa, disable shine phone

@@ -1,0 +1,4 @@
+Alexa, open still waters
+Alexa, pause
+Alexa, resume
+Alexa, disable still waters

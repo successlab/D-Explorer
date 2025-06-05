@@ -1,0 +1,4 @@
+Alexa, open similac
+Alexa, ask Similac for feeding tips
+Alexa, ask Similac for the tip of the day
+Alexa, disable similac

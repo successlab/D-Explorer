@@ -1,0 +1,5 @@
+Alexa, open river flows
+Alexa, Ask River Flows for the flow on the Snake River
+Alexa, River Flows
+Alexa, Ask River Flows for the flow on the Green River below Flaming Gorge
+Alexa, disable river flows

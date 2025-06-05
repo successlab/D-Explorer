@@ -1,0 +1,3 @@
+Alexa, open driving time
+how long it take to go from Paris to London
+Alexa, disable driving time

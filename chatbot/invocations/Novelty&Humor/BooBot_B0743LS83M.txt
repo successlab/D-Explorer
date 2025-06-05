@@ -1,0 +1,4 @@
+Alexa, open boo bot
+Alexa, ask Boo Bot for a random short scary story from reddit
+Alexa, ask Boo Bot for a scary story
+Alexa, disable boo bot

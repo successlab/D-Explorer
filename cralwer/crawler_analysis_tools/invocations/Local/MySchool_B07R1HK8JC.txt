@@ -1,0 +1,4 @@
+Alexa, open my school
+Alexa, ask my school what's for lunch
+Alexa, ask my school tell me whats for lunch
+Alexa, disable my school

@@ -1,0 +1,4 @@
+Alexa, open the lunch menu
+Alexa, ask the lunch menu what's for lunch tomorrow.
+Alexa, ask the lunch menu what's for lunch today.
+Alexa, disable the lunch menu

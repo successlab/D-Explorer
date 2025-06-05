@@ -1,0 +1,4 @@
+Alexa, open chemistry quiz
+Alexa, start chemistry quiz
+Alexa, launch chemistry quiz
+Alexa, disable chemistry quiz

@@ -1,0 +1,5 @@
+Alexa, open cat theme
+Alexa, start Cat Theme
+Alexa, launch Cat Theme
+Alexa, enable Cat Theme
+Alexa, disable cat theme

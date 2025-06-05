@@ -1,0 +1,3 @@
+Alexa, open quién va
+Alexa, abre quién va
+Alexa, disable quién va

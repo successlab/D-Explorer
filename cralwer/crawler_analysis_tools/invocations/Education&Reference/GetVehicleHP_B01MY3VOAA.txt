@@ -1,0 +1,3 @@
+Alexa, open get horsepower
+Alexa, ask get horsepower how much power does a 2015 toyota corolla have
+Alexa, disable get horsepower

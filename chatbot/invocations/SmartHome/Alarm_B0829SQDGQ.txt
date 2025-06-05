@@ -1,0 +1,2 @@
+Alexa, open siren alarm
+Alexa, disable siren alarm

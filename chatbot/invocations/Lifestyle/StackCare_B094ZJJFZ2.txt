@@ -1,0 +1,5 @@
+Alexa, open stack care
+Alexa, ask Stack Care for the daily update
+Alexa, ask Stack Care to give me the daily update for Jane
+Alexa, ask Stack Care for the kitchen activity
+Alexa, disable stack care

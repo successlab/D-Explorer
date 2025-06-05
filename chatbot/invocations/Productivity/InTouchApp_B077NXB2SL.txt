@@ -1,0 +1,5 @@
+Alexa, open intouch
+Alexa, ask intouch how many people can I remember
+Alexa, ask intouch how many contacts can I remember
+Alexa, ask intouch how many phone numbers can I remember
+Alexa, disable intouch

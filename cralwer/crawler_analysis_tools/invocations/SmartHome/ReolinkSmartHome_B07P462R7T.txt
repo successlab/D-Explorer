@@ -1,0 +1,8 @@
+Alexa, show me the bedroom camera
+Alexa, show the backyard camera.
+Alexa, hide the backyard camera.
+Alexa, turn on the bedroom light.
+Alexa, turn off the bedroom light.
+Alexa, show the front door camera.
+Alexa, hide the front door camera.
+Alexa, disable ReolinkSmartHome

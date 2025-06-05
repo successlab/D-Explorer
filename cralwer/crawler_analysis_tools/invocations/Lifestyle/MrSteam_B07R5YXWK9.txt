@@ -1,0 +1,5 @@
+Alexa, open mr steam
+Alexa, ask Mr steam to turn on the steam bath
+Alexa, ask Mr steam to set temperature to eighty degrees
+Alexa, ask Mr steam to set the time to ten minutes
+Alexa, disable mr steam

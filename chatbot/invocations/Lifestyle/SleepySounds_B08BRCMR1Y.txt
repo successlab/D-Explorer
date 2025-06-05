@@ -1,0 +1,4 @@
+Alexa, open sleepy sounds
+Alexa, start Sleepy Sounds
+Alexa, launch Sleepy Sounds
+Alexa, disable sleepy sounds

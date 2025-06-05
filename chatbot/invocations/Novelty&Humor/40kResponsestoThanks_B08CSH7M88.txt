@@ -1,0 +1,4 @@
+Alexa, open thank you
+Alexa, start Thank You
+Alexa, launch Thank You
+Alexa, disable thank you

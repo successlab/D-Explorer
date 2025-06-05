@@ -1,0 +1,4 @@
+Alexa, open lego city
+Alexa, start Lego City
+Alexa, launch Lego City
+Alexa, disable lego city

@@ -1,0 +1,3 @@
+Alexa, turn on Max
+Alexa, turn off Max
+Alexa, disable TrifoHome

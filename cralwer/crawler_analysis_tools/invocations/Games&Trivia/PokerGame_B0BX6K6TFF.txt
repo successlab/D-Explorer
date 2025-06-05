@@ -1,0 +1,3 @@
+Alexa, open poker game
+Alexa, open The Poker Game
+Alexa, disable poker game

@@ -1,0 +1,8 @@
+Alexa, open pub quiz
+Alexa, next
+Alexa, repeat
+Alexa, repeat the answers to the bonus questions
+Alexa, play Pub Quiz.
+Alexa, open Pub Quiz.
+Alexa, launch Pub Quiz.
+Alexa, disable pub quiz

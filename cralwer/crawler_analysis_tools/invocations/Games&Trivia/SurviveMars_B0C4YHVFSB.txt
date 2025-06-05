@@ -1,0 +1,4 @@
+Alexa, open survive mars
+Alexa, start Survive Mars
+Alexa, play Survive Mars
+Alexa, disable survive mars

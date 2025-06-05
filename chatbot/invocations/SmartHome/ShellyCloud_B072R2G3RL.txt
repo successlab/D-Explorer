@@ -1,0 +1,4 @@
+Alexa, turn on lamp
+Alexa, turn off lamp
+Alexa, set lamp to 30 percent
+Alexa, disable ShellyCloud

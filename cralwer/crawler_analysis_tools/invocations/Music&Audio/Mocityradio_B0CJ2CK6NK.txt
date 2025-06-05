@@ -1,0 +1,4 @@
+Alexa, open mocity radio
+Alexa, start mocity radio
+Alexa, ask mocity radio what's playing
+Alexa, disable mocity radio

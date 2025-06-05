@@ -1,0 +1,4 @@
+Alexa, open notificaciones de goles
+Alexa, lee mis notificaciones
+Alexa, abre Notificaciones de goles
+Alexa, disable notificaciones de goles

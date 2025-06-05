@@ -1,0 +1,5 @@
+Alexa, open my robot
+Alexa，ask my robot to start cleaning
+Alexa, ask my robot to stop cleaning
+Alexa，ask my robot to clean living room
+Alexa, disable my robot

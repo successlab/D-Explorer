@@ -1,0 +1,5 @@
+Alexa, turn on the bedroom light
+Alexa, turn on the living room light
+Alexa,turn on the bedroom light
+Alexa,turn on the living room light
+Alexa, disable LIVOLO

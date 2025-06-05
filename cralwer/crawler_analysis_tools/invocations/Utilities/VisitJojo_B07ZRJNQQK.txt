@@ -1,0 +1,3 @@
+Alexa, open visit jojo
+When can I visit Jojo?
+Alexa, disable visit jojo

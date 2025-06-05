@@ -1,0 +1,4 @@
+Alexa, open lit player
+Alexa skip
+Alexa previous
+Alexa, disable lit player

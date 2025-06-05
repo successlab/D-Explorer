@@ -1,0 +1,4 @@
+Alexa, open dog calming sounds
+Alexa, Pause
+Alexa, Resume
+Alexa, disable dog calming sounds

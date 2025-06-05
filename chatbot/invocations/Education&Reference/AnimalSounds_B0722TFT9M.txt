@@ -1,0 +1,6 @@
+Alexa, open animal sounds
+Alexa, ask Animal Sounds for the sound of a bird.
+Alexa, ask Animal Sounds for the sound of a cat.
+for the sound of a cow
+What is the sound of a dog?
+Alexa, disable animal sounds

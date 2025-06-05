@@ -1,0 +1,4 @@
+Alexa, open Honeycomb 1
+Alexa, close Roller 2
+Alexa, open Honeycomb 1 to 35 percent
+Alexa, disable BLISS™AutomationbyAlta

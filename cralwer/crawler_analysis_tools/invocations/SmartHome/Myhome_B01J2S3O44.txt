@@ -1,0 +1,5 @@
+Alexa, open home security
+Alexa ask home security to switch on security camera
+Alexa start home security to set as arm away
+Alexa ask home security what is the front door status
+Alexa, disable home security

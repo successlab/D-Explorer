@@ -1,0 +1,4 @@
+Alexa, open pringles
+Alexa ask Pringles how many stack combinations are there
+Alexa launch Pringles
+Alexa, disable pringles

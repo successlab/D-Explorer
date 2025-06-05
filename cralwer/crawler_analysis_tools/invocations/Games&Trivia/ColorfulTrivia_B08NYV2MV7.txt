@@ -1,0 +1,3 @@
+Alexa, open colorful trivia
+Alexa, start colorful trivia
+Alexa, disable colorful trivia

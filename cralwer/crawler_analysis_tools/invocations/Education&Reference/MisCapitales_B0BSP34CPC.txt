@@ -1,0 +1,6 @@
+Alexa, open mis capitales
+Alexa, modo de revisión
+Alexa, modo de examen
+Alexa, siguiente
+Alexa, abre mis capitales
+Alexa, disable mis capitales

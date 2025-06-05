@@ -1,0 +1,4 @@
+Alexa, open a. k. trains
+What trains are departing Avondale at 7 AM?
+What stations are there?
+Alexa, disable a. k. trains

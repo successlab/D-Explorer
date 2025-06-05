@@ -1,0 +1,5 @@
+Alexa, open pixoo sixty four
+Alexa, ask pixoo sixty four to power on
+Alexa, ask pixoo sixty four to increase the brightness
+Alexa, ask pixoo sixty four to display the bitcoin clock
+Alexa, disable pixoo sixty four

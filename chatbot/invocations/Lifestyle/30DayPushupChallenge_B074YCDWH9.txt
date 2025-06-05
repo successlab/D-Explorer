@@ -1,0 +1,4 @@
+Alexa, open pushup challenge
+Alexa ask pushup challenge to give me todays challenge
+Alexa tell pushup challenge that I finished my challenge
+Alexa, disable pushup challenge

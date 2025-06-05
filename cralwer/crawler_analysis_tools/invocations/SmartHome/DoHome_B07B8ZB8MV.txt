@@ -1,0 +1,6 @@
+Alexa, set bedroom light to green.
+Alexa, set bedroom light to cool white.
+Alexa, turn on bedroom light.
+Alexa, turn on kitchen light.
+Alexa, set the bedroom light to red.
+Alexa, disable DoHome

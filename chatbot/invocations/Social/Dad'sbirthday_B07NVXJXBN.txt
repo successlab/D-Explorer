@@ -1,0 +1,4 @@
+Alexa, open dad's birthday
+Alexa, stop
+Alexa, start Dad's birthday
+Alexa, disable dad's birthday

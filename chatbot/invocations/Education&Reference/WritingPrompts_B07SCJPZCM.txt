@@ -1,0 +1,4 @@
+Alexa, open writing prompts
+Alexa, start Writing Prompts
+Alexa, ask Writing Prompts for a fact
+Alexa, disable writing prompts

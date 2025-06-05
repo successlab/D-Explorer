@@ -1,0 +1,3 @@
+Alexa,turn on Zaco.
+Alexa,turn off Zaco.
+Alexa, disable ILIFERobot

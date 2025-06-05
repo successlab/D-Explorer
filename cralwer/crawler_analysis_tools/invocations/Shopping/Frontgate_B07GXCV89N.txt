@@ -1,0 +1,4 @@
+Alexa, open frontgate
+Alexa, ask Frontgate where is my order?
+Alexa, ask Frontgate where is my table?
+Alexa, disable frontgate

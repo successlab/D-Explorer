@@ -1,0 +1,4 @@
+Alexa, open dos facts
+Alexa ask DOS facts to give me a DOS fact
+Alexa ask DOS facts for a fact
+Alexa, disable dos facts

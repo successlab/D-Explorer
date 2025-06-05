@@ -1,0 +1,5 @@
+Alexa, open knowledge of history
+Alexa, next
+Alexa, stop
+Alexa, open knowledge of history.
+Alexa, disable knowledge of history

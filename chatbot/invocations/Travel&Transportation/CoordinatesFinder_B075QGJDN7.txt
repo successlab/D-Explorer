@@ -1,0 +1,5 @@
+Alexa, open coordinates finder
+Alexa, ask coordinates finder What are the Coordinates for Phoenix
+Alexa, ask coordinates finder for Boston
+Find me the Grid Reference for New York
+Alexa, disable coordinates finder

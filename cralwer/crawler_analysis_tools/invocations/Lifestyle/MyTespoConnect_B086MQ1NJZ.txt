@@ -1,0 +1,3 @@
+Alexa, open my dispenser
+Alexa, ask my dispenser for help.
+Alexa, disable my dispenser

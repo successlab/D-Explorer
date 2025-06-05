@@ -1,0 +1,4 @@
+Alexa, open guard dog
+Alexa, start Guard Dog
+Alexa, launch Guard Dog
+Alexa, disable guard dog

@@ -1,0 +1,4 @@
+Alexa, open ikra player
+Alexa, ask ikra player to play chapter fifty three
+Alexa, ask ikra player to play audio
+Alexa, disable ikra player

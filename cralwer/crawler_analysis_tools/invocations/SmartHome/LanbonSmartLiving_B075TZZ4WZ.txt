@@ -1,0 +1,4 @@
+Alexa, turn on room
+Alexa, turn off room
+Alexa,set dimmer to 50 percent
+Alexa, disable LanbonSmartLiving

@@ -1,0 +1,4 @@
+Alexa, open bird noise
+Alexa, Pause
+Alexa, Resume
+Alexa, disable bird noise

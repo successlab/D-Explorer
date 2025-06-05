@@ -1,0 +1,4 @@
+Alexa, open rock cruise radio
+Alexa, start rock cruise radio
+Alexa, ask rock cruise radio what's playing
+Alexa, disable rock cruise radio

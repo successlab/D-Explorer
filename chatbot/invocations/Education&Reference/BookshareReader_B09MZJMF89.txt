@@ -1,0 +1,5 @@
+Alexa, open bookshare reader
+Alexa, launch Bookshare Reader
+Read a book
+Get my history
+Alexa, disable bookshare reader

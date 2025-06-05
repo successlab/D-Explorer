@@ -1,0 +1,4 @@
+Alexa, open wally the robot
+Alexa, ask wally the robot to give me a recycling tip
+Alexa, ask wally the robot for a fact
+Alexa, disable wally the robot

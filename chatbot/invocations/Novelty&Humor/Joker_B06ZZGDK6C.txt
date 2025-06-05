@@ -1,0 +1,6 @@
+Alexa, open my joker
+Alexa, ask my joker to tell me about John
+Alexa, ask my joker to tell me something about John
+Alexa, ask my joker to tell a joke about Jane
+Alexa, ask my joker find out something about Joe
+Alexa, disable my joker

@@ -1,0 +1,6 @@
+Alexa, open get music home
+Alexa, start Get Music Home
+Alexa, launch Get Music Home
+Alexa, stop
+Alexa, stop playing in 1 hour
+Alexa, disable get music home

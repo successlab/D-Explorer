@@ -1,0 +1,5 @@
+Alexa, open will smith fan
+Alexa, ask Will Smith Fan for the latest vlog
+Alexa, ask Will Smith Fan for a vlog
+Alexa, ask Will Smith Fan if there is a new vlog
+Alexa, disable will smith fan

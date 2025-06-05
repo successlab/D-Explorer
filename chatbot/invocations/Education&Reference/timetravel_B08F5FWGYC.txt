@@ -1,0 +1,4 @@
+Alexa, open time travel
+Alexa, stop
+Alexa, start time travel
+Alexa, disable time travel

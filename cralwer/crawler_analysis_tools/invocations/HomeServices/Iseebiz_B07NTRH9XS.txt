@@ -1,0 +1,4 @@
+Alexa, open iseebiz feeder
+Alexa, start iseebiz feeder
+Alexa, launch iseebiz feeder
+Alexa, disable iseebiz feeder

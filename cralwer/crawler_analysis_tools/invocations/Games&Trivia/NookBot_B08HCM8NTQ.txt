@@ -1,0 +1,5 @@
+Alexa, open nook bot
+Alexa ask nook bot price of red snapper
+Alexa ask nook bot price of atlas moth
+Alexa ask nook bot price of gold
+Alexa, disable nook bot

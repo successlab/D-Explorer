@@ -1,0 +1,30 @@
+Alexa, open my oven
+Alexa, tell My Oven to start
+Alexa, tell My Oven to start fast preheat
+Alexa, tell My Oven to start a Bake program
+Alexa, tell My Oven to start Bake for 10 minutes
+Alexa, tell My Oven to start Bake at 350 degrees for 10 minutes
+Alexa, tell My Oven to start microwave at 600 watt for 2 minutes
+Alexa, tell My Oven to start my favorite program
+Alexa, ask My Oven about my favorites
+Alexa, tell My Oven to decrease the temperature
+Alexa, tell My Oven to add ten degrees
+Alexa, tell My Oven to add ten minutes
+Alexa, tell My Oven to increase duration by 30 min
+Alexa, ask My Oven for the status
+Alexa, ask My Oven when dinner is ready
+Alexa, tell My Oven to stop
+Alexa, tell My Oven to stop beeping
+Alexa, tell My Oven to open the door
+Alexa, tell My Oven to show me my food
+Alexa, tell My Oven Number Two* to start
+Alexa, tell My Oven Oliver* to start
+Alexa, tell My Oven Top* to start
+Alexa, turn on Oven
+Alexa, turn off Oven
+Alexa, tell My Oven Oliver to start
+Alexa, discover devices
+Alexa, tell my oven to preheat
+Alexa, tell my oven to start bake at 400 degrees
+Alexa, ask my oven when dinner is ready
+Alexa, disable my oven

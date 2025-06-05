@@ -1,0 +1,5 @@
+Alexa, open fictional character facts
+Alexa, tell fictional character facts I want a fact.
+Alexa, ask fictional character facts for a fact.
+Alexa, tell fictional character facts to give me a fact.
+Alexa, disable fictional character facts

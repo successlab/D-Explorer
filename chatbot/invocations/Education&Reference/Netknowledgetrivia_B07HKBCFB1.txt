@@ -1,0 +1,4 @@
+Alexa, open knowledge trivia
+ask me a question
+repeat
+Alexa, disable knowledge trivia

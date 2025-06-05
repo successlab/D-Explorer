@@ -1,0 +1,5 @@
+Alexa, open inspire you
+Alexa, next
+Alexa, stop
+Alexa, start inspire you
+Alexa, disable inspire you

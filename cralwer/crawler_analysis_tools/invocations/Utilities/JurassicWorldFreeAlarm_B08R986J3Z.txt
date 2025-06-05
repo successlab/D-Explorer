@@ -1,0 +1,4 @@
+Alexa, open jurassic world alarms
+Alexa, wake me up at 7:00 AM to jurassic world alarms tone
+Alexa, set an alarm at 7:00 AM to jurassic world alarms tone
+Alexa, disable jurassic world alarms

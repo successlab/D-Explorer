@@ -1,0 +1,4 @@
+Alexa, show me bedroom camera
+Alexa, show the office camera
+Alexa, turn on office camera
+Alexa, disable zosismart

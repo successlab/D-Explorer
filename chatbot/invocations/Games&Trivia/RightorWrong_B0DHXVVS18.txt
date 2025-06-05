@@ -1,0 +1,4 @@
+Alexa, open right or wrong
+Alexa, start right or wrong
+Alexa, launch right or wrong
+Alexa, disable right or wrong

@@ -1,0 +1,4 @@
+Alexa, open markiplier quotes
+tell me a Markiplier quote
+give me a quote
+Alexa, disable markiplier quotes

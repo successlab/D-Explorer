@@ -1,0 +1,9 @@
+Alexa, open dyson care
+Alexa, open Dyson Care.
+Alexa, ask Dyson Care to introduce me to my new Dyson.
+Alexa, ask Dyson Care to help clean my filter.
+Alexa, ask Dyson Care to help me fix a power issue.
+Alexa, ask Dyson Care to help with a broken vacuum part.
+Alexa, ask Dyson Care to help clean my filter
+Alexa, ask Dyson Care to introduce me to my new Dyson
+Alexa, disable dyson care

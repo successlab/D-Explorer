@@ -1,0 +1,5 @@
+Alexa, open my cookbook
+Alexa, Find a chocolate cake with My CookBook
+Alexa, Run My CookBook and read ingredients
+Alexa, Ask My CookBook steps
+Alexa, disable my cookbook

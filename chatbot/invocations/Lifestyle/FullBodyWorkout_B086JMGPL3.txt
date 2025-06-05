@@ -1,0 +1,4 @@
+Alexa, open full body workout
+Alexa, start full body workout
+Alexa, ask full body workout to start workout
+Alexa, disable full body workout

@@ -1,0 +1,5 @@
+Alexa, open waterfall sound
+Alexa, activate premium
+Alexa, pause
+Alexa, resume
+Alexa, disable waterfall sound

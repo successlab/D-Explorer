@@ -1,0 +1,3 @@
+Alexa, open hide seek
+Alexa, start hide seek
+Alexa, disable hide seek

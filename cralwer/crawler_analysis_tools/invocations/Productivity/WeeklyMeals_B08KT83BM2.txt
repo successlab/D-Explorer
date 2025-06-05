@@ -1,0 +1,4 @@
+Alexa, open weekly meals
+Alexa tell weekly meals I'm going to make steak on Wednesday
+Alexa ask weekly meals what am I having tomorrow for dinner
+Alexa, disable weekly meals

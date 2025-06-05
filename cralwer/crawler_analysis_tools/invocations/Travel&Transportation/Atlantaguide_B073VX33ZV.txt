@@ -1,0 +1,4 @@
+Alexa, open atlanta guide
+Alexa, ask atlanta guide to tell me the top five things
+Alexa, ask atlanta guide where should I go
+Alexa, disable atlanta guide

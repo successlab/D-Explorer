@@ -1,0 +1,4 @@
+Alexa, brighten Kitchen Pendants
+Alexa, turn on Dinner Scene
+Alexa, decrease Thermostat by 2 degrees
+Alexa, disable URCSmartHome

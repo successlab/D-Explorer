@@ -1,0 +1,5 @@
+Alexa, open lingo lad
+Alexa, ask lingo lad to give me some linguistic trivia
+give me a language fact
+tell me a lingo fact
+Alexa, disable lingo lad

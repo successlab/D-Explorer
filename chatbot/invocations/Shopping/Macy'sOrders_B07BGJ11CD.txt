@@ -1,0 +1,5 @@
+Alexa, open macy's orders
+Alexa, ask macys orders where is my package
+Alexa, ask macys orders to track my package
+Alexa, ask macys orders what is the status of my package
+Alexa, disable macy's orders

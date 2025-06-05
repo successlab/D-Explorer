@@ -1,0 +1,4 @@
+Alexa, open pensacola guide
+Alexa, ask Pensacola Guide for an attraction
+Alexa, ask Pensacola Guide to tell me more about Pensacola
+Alexa, disable pensacola guide

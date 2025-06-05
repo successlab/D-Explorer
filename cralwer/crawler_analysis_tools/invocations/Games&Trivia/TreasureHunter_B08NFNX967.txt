@@ -1,0 +1,4 @@
+Alexa, open treasure hunter
+hint
+Inventory
+Alexa, disable treasure hunter

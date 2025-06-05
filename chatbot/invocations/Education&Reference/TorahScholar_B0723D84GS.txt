@@ -1,0 +1,5 @@
+Alexa, open torah scholar
+Alexa, ask Torah Scholar to read genesis chapter one verses one through three
+Alexa, ask Torah Scholar for commentary on joshua five verse twelve
+Alexa, ask Torah Scholar to get deuteronomy six verse four
+Alexa, disable torah scholar

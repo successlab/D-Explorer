@@ -1,0 +1,4 @@
+Alexa, open walked the dog
+Alexa, ask walked the dog how long ago did the dog walk
+Alexa, ask walked the dog did the dog have her walk already?
+Alexa, disable walked the dog

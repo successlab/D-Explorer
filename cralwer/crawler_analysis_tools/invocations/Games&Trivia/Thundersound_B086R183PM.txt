@@ -1,0 +1,5 @@
+Alexa, open thunder sound
+Alexa, activate premium
+Alexa, pause
+Alexa, resume
+Alexa, disable thunder sound

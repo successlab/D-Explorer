@@ -1,0 +1,5 @@
+Alexa, open boston rail
+Alexa Ask Boston Rail for next train from Ashland to Back Bay
+What is the status of trip five ten
+are there any alerts for the Needham line
+Alexa, disable boston rail

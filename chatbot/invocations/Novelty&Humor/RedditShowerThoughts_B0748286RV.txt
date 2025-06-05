@@ -1,0 +1,4 @@
+Alexa, open shower thoughts
+Alexa, ask shower thoughts to tell me a thought.
+Alexa, ask shower thoughts to tell me something
+Alexa, disable shower thoughts

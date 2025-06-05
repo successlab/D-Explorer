@@ -1,0 +1,4 @@
+Alexa, open birthday wishes
+Alexa, stop
+Alexa, start birthday wishes
+Alexa, disable birthday wishes

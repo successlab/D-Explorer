@@ -1,0 +1,4 @@
+Alexa, open sleep sounds space station
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds space station

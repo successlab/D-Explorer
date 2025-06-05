@@ -1,0 +1,5 @@
+Alexa, open recipe speak
+Alexa, ask Recipe Speak to get my recipe for roast chicken
+Alexa, ask Recipe Speak to start recipe super search
+Alexa, ask Recipe Speak what's for dinner
+Alexa, disable recipe speak

@@ -1,0 +1,4 @@
+Alexa, open emprise bank
+What's my balance
+Pay my credit card
+Alexa, disable emprise bank

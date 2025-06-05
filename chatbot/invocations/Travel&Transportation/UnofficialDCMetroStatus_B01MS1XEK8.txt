@@ -1,0 +1,5 @@
+Alexa, open metro status
+Alexa, ask metro status about Clarendon
+Alexa, ask metro status Anacostia trains
+Alexa, ask metro status about Chinatown
+Alexa, disable metro status

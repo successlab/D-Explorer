@@ -1,0 +1,4 @@
+Alexa, open traveler information
+Alexa, ask traveler information if the roads to Cheyenne are okay
+Alexa, ask traveler information about the roads
+Alexa, disable traveler information

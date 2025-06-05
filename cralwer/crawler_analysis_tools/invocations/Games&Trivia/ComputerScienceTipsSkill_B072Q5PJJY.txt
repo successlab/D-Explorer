@@ -1,0 +1,4 @@
+Alexa, open computer science tips
+give me a tip
+teach me something
+Alexa, disable computer science tips

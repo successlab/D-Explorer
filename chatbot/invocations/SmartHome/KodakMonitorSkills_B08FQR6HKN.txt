@@ -1,0 +1,4 @@
+Alexa, turn on melody one on name
+Alexa, what's the temperature on name
+Alexa, turn off melody one on name
+Alexa, disable KodakMonitorSkills

@@ -1,0 +1,5 @@
+Alexa, open fridge storage times
+Alexa ask fridge storage times how long can I keep a steak
+Alexa ask fridge storage times how long can I store chicken
+Alexa ask fridge storage times how long can I freeze tomatoes
+Alexa, disable fridge storage times

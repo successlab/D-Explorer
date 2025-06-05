@@ -1,0 +1,4 @@
+Alexa, open hollywood quiz
+start new game
+repeat
+Alexa, disable hollywood quiz

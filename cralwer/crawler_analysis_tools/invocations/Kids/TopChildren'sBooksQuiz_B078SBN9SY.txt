@@ -1,0 +1,5 @@
+Alexa, open book quiz
+Alexa ask book quiz about The Cat in the Hat
+Alexa ask book quiz to start a quiz
+Alexa ask book quiz about Corduroy
+Alexa, disable book quiz

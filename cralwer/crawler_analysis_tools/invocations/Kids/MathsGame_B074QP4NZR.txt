@@ -1,0 +1,4 @@
+Alexa, open maths game
+Alexa ask Maths Game to ask me a question
+Alexa ask Maths Game to ask me an easy question
+Alexa, disable maths game

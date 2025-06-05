@@ -1,0 +1,4 @@
+Alexa, open sample map
+Alexa, start sample map
+Alexa, launch sample map
+Alexa, disable sample map

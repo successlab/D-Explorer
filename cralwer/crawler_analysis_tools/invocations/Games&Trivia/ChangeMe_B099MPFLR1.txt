@@ -1,0 +1,7 @@
+Alexa, open change me
+Alexa, launch Change me
+Alexa, open Change me to get a fact
+Alexa, stop
+Alexa ask change me for a fact
+Alexa tell change me to tell me trivia
+Alexa, disable change me

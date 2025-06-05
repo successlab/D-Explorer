@@ -1,0 +1,6 @@
+Alexa, show me latest event on [your configured camera name]
+Alexa, show me the last motion on [your configured camera name]
+Alexa, turn on lamp.
+Alexa, show me the last event on the nursery camera.
+Alexa, is the window open?
+Alexa, disable mydlinkSmart

@@ -1,0 +1,5 @@
+Alexa, open bond track
+Alexa, ask Bond Track for the last trading information for this cusip
+Alexa, open BondTrack
+what is the description
+Alexa, disable bond track

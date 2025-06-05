@@ -1,0 +1,5 @@
+Alexa, open decide por mi
+Alexa, decide por mi
+blanco o negro
+cara o cruz
+Alexa, disable decide por mi

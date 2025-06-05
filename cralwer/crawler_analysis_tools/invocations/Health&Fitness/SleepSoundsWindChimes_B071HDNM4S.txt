@@ -1,0 +1,6 @@
+Alexa, open wind chimes
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Wind Chimes
+Alexa, launch Wind Chimes
+Alexa, disable wind chimes

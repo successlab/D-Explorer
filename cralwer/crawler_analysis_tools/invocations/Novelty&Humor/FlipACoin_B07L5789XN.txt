@@ -1,0 +1,4 @@
+Alexa, open flip a coin
+Alexa, ask flip a coin to flip
+Alexa, ask flip a coin to flip a coin
+Alexa, disable flip a coin

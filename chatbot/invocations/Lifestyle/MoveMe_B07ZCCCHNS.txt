@@ -1,0 +1,5 @@
+Alexa, open move me
+Alexa, next
+Alexa, stop
+Alexa, start move me
+Alexa, disable move me

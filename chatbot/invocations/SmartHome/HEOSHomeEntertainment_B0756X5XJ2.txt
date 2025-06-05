@@ -1,0 +1,5 @@
+Alexa, discover my devices
+Alexa, play The Beatles on Kitchen
+Alexa, pause on Bedroom
+Alexa, volume up on Family Room
+Alexa, disable HEOSHomeEntertainment

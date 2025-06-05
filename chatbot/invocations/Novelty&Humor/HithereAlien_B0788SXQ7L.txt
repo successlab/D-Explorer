@@ -1,0 +1,5 @@
+Alexa, open hi there alien
+Alexa, ask hi there alien
+Alexa, ask hi there alien for a question
+Alexa, ask hi there alien for a fact
+Alexa, disable hi there alien

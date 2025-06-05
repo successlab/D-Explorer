@@ -1,0 +1,3 @@
+Alexa, open city helper
+Alexa, ask city helper how do I pay a parking ticket?
+Alexa, disable city helper

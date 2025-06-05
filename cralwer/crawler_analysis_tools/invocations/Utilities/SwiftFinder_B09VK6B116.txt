@@ -1,0 +1,6 @@
+Alexa, open okay swift
+Alexa, ask okay swift to generate my PIN code
+Alexa, ask okay swift to Generate PIN code
+Alexa, ask okay swift to ring my phone
+Alexa, ask okay swift to ring keys
+Alexa, disable okay swift

@@ -1,0 +1,15 @@
+Alexa, open sharp copier
+Alexa, ask SHARP Copier to register device.
+Alexa, ask SHARP Copier to copy.
+Alexa, ask SHARP Copier to copy with 2-sided and monochrome.
+Alexa, ask SHARP Copier to make 3 copies.
+Alexa, ask SHARP Copier to make 7 copies with stapled.
+Alexa, ask SHARP Copier to make a copy with monochrome.
+Alexa, ask SHARP Copier to scan document to me.
+Alexa, ask SHARP Copier to scan with 1-sided.
+Alexa, ask SHARP Copier to scan with 2-sided and monochrome(*).
+Alexa, ask SHARP Copier to unregister device.
+Alexa, ask SHARP Copier to copy
+Alexa, ask SHARP Copier to scan to me
+Alexa, ask SHARP Copier to make three copies with two sided
+Alexa, disable sharp copier

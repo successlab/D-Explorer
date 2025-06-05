@@ -1,0 +1,4 @@
+Alexa, open pink noise
+Alexa ask pink noise to play for 30 minutes
+Alexa stop
+Alexa, disable pink noise

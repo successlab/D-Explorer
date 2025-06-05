@@ -1,0 +1,4 @@
+Alexa, open family share
+Alexa, ask Family Share for my fortune
+Alexa, start Family Share
+Alexa, disable family share

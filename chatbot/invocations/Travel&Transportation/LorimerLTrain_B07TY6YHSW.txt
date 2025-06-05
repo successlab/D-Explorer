@@ -1,0 +1,3 @@
+Alexa, open next train
+next train
+Alexa, disable next train

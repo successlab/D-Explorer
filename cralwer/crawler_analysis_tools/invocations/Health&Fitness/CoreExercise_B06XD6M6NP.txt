@@ -1,0 +1,4 @@
+Alexa, open core exercise
+Alexa, ask core exercise to give me an exercise
+Alexa, ask core exercise to tell me a core exercise
+Alexa, disable core exercise

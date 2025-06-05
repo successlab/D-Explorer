@@ -1,0 +1,5 @@
+Alexa, open daily intention
+Alexa, ask Daily Intention to set my intention
+Alexa, ask Daily intention what my intention is
+Alexa, ask Daily Intention to tell me an intention
+Alexa, disable daily intention

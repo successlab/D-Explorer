@@ -1,0 +1,5 @@
+Alexa, open basketball doctor
+Alexa, ask basketball doctor who's injured on the Nets
+Alexa, ask basketball doctor who's injured on the Phoenix Suns
+Alexa, ask basketball doctor to list the injuries on the San Antonio Spurs
+Alexa, disable basketball doctor

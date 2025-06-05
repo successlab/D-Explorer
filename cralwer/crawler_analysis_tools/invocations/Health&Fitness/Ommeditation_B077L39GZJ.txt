@@ -1,0 +1,4 @@
+Alexa, open om recital
+Alexa, play om recital
+Alexa, start om recital
+Alexa, disable om recital

@@ -1,0 +1,3 @@
+Alexa, open cumplidos diarios
+Alexa, abre cumplidos diarios
+Alexa, disable cumplidos diarios

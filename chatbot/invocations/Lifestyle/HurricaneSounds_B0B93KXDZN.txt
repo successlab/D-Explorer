@@ -1,0 +1,4 @@
+Alexa, open hurricane sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable hurricane sounds

@@ -1,0 +1,5 @@
+Alexa, open washington state pass
+Alexa, ask Washington State Pass about Snoqualmie Pass
+Alexa, ask Washington State Pass about White Pass
+Alexa, ask Washington State Pass about Crystal to Greenwater
+Alexa, disable washington state pass

@@ -1,0 +1,5 @@
+Alexa, open lebron facts
+Alexa, ask LeBron Facts to give me facts about LeBron
+Alexa, ask LeBron Facts for information about LeBron
+Alexa, ask LeBron Facts to tell me a fact
+Alexa, disable lebron facts

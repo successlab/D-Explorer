@@ -1,0 +1,16 @@
+Alexa, open islamic services
+Alexa, Play [morning/evening] Adhkar from Islamic Services.
+Alexa, Play Adhkar in from Islamic Services.
+Alexa, open Friday ceremony in [English/Arabic/Urdu] from Islamic Services.
+Alexa, play Friday khutba in [English/Arabic/Urdu] from Islamic Services.
+Alexa, start khutba from Islamic Services.
+Alexa, play sign language video from Islamic Services.
+Alexa, Friday sermon in sign language from Islamic Services.
+Alexa, khutba title from Islamic Services.
+Alexa, nearest mosque around [address] from Islamic Services.
+Alexa, find nearest mosque from Islamic Services.
+Alexa, How much Nisab today from Islamic Services.
+Alexa, What is the Nisab today from Islamic Services.
+Alexa, launch Islamic services
+Alexa, start Islamic services
+Alexa, disable islamic services

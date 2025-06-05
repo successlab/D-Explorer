@@ -1,0 +1,4 @@
+Alexa, open fav sport
+cancel
+help
+Alexa, disable fav sport

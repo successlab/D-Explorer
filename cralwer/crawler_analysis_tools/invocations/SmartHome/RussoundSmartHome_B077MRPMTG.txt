@@ -1,0 +1,4 @@
+Alexa, turn on the Kitchen
+Alexa, mute the Living Room
+Alexa, turn up the volume on the Patio
+Alexa, disable RussoundSmartHome

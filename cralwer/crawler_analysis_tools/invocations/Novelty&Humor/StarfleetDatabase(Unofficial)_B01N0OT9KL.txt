@@ -1,0 +1,4 @@
+Alexa, open the starfleet unofficial database
+Alexa ask the starfleet unofficial database to lookup Captain Kirk
+Alexa ask the starfleet unofficial database to tell me about Trip
+Alexa, disable the starfleet unofficial database

@@ -1,0 +1,4 @@
+Alexa, open bad pass
+Alexa, launch bad pass
+Alexa, start bad pass
+Alexa, disable bad pass

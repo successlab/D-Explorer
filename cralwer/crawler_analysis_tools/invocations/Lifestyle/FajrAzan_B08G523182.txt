@@ -1,0 +1,4 @@
+Alexa, open fajr azan
+Alexa, play Fajr Azan.
+Alexa play Fajr Azan
+Alexa, disable fajr azan

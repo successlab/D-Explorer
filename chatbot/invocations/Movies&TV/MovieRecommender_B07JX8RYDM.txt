@@ -1,0 +1,6 @@
+Alexa, open movie recommendation
+Alexa, Recommend me a Movie
+Alexa, ask movie recommendation to recommend me a movie
+Alexa, ask movie recommendation to give me a movie
+Alexa, ask movie recommendation to tell a movie
+Alexa, disable movie recommendation

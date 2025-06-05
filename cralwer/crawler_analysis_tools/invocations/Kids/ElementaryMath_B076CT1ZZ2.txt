@@ -1,0 +1,4 @@
+Alexa, open elementary math
+Alexa, start Elementary Math
+the answer is 6
+Alexa, disable elementary math

@@ -1,0 +1,4 @@
+Alexa, open board game
+Alexa, ask board game what game should we play today?
+Alexa, ask board game what game should I play today?
+Alexa, disable board game

@@ -1,0 +1,4 @@
+Alexa, open alice one oh four nine
+Alexa, pause
+Alexa, resume
+Alexa, disable alice one oh four nine

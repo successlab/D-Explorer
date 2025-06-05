@@ -1,0 +1,4 @@
+Alexa, open story of ketchup
+Alexa, stop
+Alexa, start story of ketchup
+Alexa, disable story of ketchup

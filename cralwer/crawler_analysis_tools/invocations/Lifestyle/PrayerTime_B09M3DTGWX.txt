@@ -1,0 +1,4 @@
+Alexa, open prayer time
+Alexa, ask prayer time for prayer end
+Alexa, ask prayer time for morning prayer
+Alexa, disable prayer time

@@ -1,0 +1,4 @@
+Alexa, open daily affirmations
+Alexa, start Daily Affirmations
+Alexa, play Daily Affirmations
+Alexa, disable daily affirmations

@@ -1,0 +1,5 @@
+Alexa, open my inspirations
+Alexa, next
+Alexa, stop
+Alexa, start My Inspirations
+Alexa, disable my inspirations

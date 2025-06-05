@@ -1,0 +1,5 @@
+Alexa, open bible educational quiz
+Alexa, next
+Alexa, stop
+Alexa, start bible educational quiz
+Alexa, disable bible educational quiz

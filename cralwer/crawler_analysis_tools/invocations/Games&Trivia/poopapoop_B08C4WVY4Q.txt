@@ -1,0 +1,4 @@
+Alexa, open pop story
+Alexa, stop
+Alexa, start pop story
+Alexa, disable pop story

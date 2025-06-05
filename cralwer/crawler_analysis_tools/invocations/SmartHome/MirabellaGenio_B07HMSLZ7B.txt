@@ -1,0 +1,3 @@
+Alexa, turn on the bedroom light
+Alexa, turn off smart socket
+Alexa, disable MirabellaGenio

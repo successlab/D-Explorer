@@ -1,0 +1,4 @@
+Alexa, open refrigerator story
+Alexa, stop
+Alexa, start refrigerator story
+Alexa, disable refrigerator story

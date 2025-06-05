@@ -1,0 +1,5 @@
+Alexa, open health tracker
+Alexa, tell health tracker I ate a bowl of cheerios, two slices of bacon, and a glass of orange juice for breakfast
+Alexa, tell health tracker I had a chicken salad sandwich, a bag of cheetos, and a glass of water for lunch
+Alexa, tell health tracker I weigh one hundred and ten pounds
+Alexa, disable health tracker

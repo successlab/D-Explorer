@@ -1,0 +1,9 @@
+Alexa, open alfa noventa y uno punto tres
+Alexa, pausa
+Alexa, reanuda
+Alexa, cancela
+Alexa, abre Alfa 91.3 y ayuda
+Alexa, abre Alfa 91.3
+Alexa, inicia Alfa 91.3
+Alexa, quiero escuchar Alfa 91.3
+Alexa, disable alfa noventa y uno punto tres

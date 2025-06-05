@@ -1,0 +1,5 @@
+Alexa, open holiday genie
+Alexa, ask Holiday Genie to tell me about June 28th.
+Alexa, ask Holiday Genie what are we celebrating today.
+Alexa, tell me what holiday tomorrow is using Holiday Genie.
+Alexa, disable holiday genie

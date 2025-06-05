@@ -1,0 +1,5 @@
+Alexa, open simplisafe
+Alexa, ask SimpliSafe to arm my system in home mode
+Alexa, tell SimpliSafe I'm leaving
+Alexa, tell SimpliSafe good night
+Alexa, disable simplisafe

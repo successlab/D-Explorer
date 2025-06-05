@@ -1,0 +1,4 @@
+Alexa, turn on Living Room Lamp
+Alexa, turn off name
+Alexa, set Living Room Lamp to 50 percent
+Alexa, disable Homebridge

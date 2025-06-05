@@ -1,0 +1,2 @@
+Alexa, open name the artist
+Alexa, disable name the artist

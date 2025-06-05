@@ -1,0 +1,4 @@
+Alexa, open relaxation bowl
+Alexa, Ask Relaxation Bowl to ring bells
+Alexa, stop
+Alexa, disable relaxation bowl

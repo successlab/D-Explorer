@@ -1,0 +1,5 @@
+Alexa, open healthy salads
+Alexa, ask Healthy Salads what's the recipe for spinach salad with bacon and egg ?
+Alexa, ask Healthy Salads how is roasted chicken and pears salad cooked ?
+Alexa, ask Healthy Salads what ingredients do I need to cook wheat berries with thyme roasted grapes and spinach ?
+Alexa, disable healthy salads

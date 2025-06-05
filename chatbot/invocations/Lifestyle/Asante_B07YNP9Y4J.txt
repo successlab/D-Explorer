@@ -1,0 +1,5 @@
+Alexa, open asante
+Alexa, ask Asante to open the garage door.
+Alexa, ask Asante to open the garage door two.
+Alexa, ask Asante to check if the garage door is closed.
+Alexa, disable asante

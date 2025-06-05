@@ -1,0 +1,5 @@
+Alexa, open mini rules
+Alexa. ask MINI Rules to tell me a MINI rule
+Alexa. ask MINI Rules to tell me a rule
+Alexa. ask MINI Rules to give me a rule
+Alexa, disable mini rules

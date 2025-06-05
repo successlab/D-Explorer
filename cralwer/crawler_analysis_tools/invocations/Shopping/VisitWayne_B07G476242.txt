@@ -1,0 +1,5 @@
+Alexa, open visit wayne
+Alexa, ask Visit Wayne to get events for today.
+Alexa, ask Visit Wayne what are the current events
+Alexa, ask Visit Wayne for Help
+Alexa, disable visit wayne

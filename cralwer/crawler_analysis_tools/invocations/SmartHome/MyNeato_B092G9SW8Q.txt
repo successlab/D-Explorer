@@ -1,0 +1,5 @@
+Alexa, open my neato
+Alexa, ask MyNeato to start cleaning.
+Alexa, ask MyNeato to stop cleaning.
+Alexa, ask MyNeato where is my robot.
+Alexa, disable my neato

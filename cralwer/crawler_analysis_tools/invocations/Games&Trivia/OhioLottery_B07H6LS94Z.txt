@@ -1,0 +1,5 @@
+Alexa, open ohio lottery
+Alexa, ask Ohio Lottery for the latest Mega Millions numbers.
+Alexa, ask Ohio Lottery when is the next Classic Lotto drawing?
+Alexa, ask Ohio Lottery where is the closest place I can buy lottery tickets?
+Alexa, disable ohio lottery

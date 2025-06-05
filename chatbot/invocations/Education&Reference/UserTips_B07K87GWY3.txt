@@ -1,0 +1,4 @@
+Alexa, open user tips
+Alexa, ask user tips about how to use Alexa
+Alexa, ask user tips about easter eggs
+Alexa, disable user tips

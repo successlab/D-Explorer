@@ -1,0 +1,4 @@
+Alexa, open fun world
+tell me a fact
+tell me about the world
+Alexa, disable fun world

@@ -1,0 +1,5 @@
+Alexa, open random palpatine quote
+Alexa, launch random Palpatine quote
+Alexa, ask random Palpatine quote for three quotes
+Alexa, ask random Palpatine quote to play one quote
+Alexa, disable random palpatine quote

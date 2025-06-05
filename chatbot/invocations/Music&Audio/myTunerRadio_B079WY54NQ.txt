@@ -1,0 +1,5 @@
+Alexa, open mytuner radio
+Alexa, ask myTuner Radio to play Fox News Radio
+Alexa, ask myTuner Radio to play National Public Radio
+Alexa, ask myTuner Radio to play All The Best Oldies
+Alexa, disable mytuner radio

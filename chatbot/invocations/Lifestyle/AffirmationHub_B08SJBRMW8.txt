@@ -1,0 +1,4 @@
+Alexa, open affirmation hub
+Alexa, start Affirmation Hub
+Alexa, launch Affirmation Hub
+Alexa, disable affirmation hub

@@ -1,0 +1,4 @@
+Alexa, open my own metronome
+Alexa, launch my own metronome and set one hundred BPM and beat four quarters
+Alexa, ask my own metronome to increase speed
+Alexa, disable my own metronome

@@ -1,0 +1,5 @@
+Alexa, open movie list
+Alexa ask Movie List, top 10 movies
+Alexa ask Movie List, top movies
+Alexa ask Movie List, best movies
+Alexa, disable movie list

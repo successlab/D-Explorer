@@ -1,0 +1,21 @@
+Alexa, open nissan
+Alexa, start my car.
+Alexa, lock my Rogue.
+Alexa, set the temperature in my LEAF to 75 degrees.
+Alexa, turn on climate control in my LEAF.
+Alexa, charge my LEAF.
+Alexa, ask Nissan to list my vehicles.
+Alexa, ask Nissan to get the battery status of my LEAF.
+Alexa, ask Nissan to turn on Boundary Alert for my Sentra.
+Alexa, ask Nissan to send directions to [your favorite grocery store] to my ARIYA.
+Alexa, ask Nissan to turn on Valet Alert for my Murano.
+Alexa, ask Nissan to turn on Curfew Alert for my Pathfinder.
+Alexa, ask Nissan to honk the horn in my Rogue.
+Alexa, ask Nissan to flash the lights in my Murano.
+Alexa, ask Nissan to tell me my mileage for my Rogue.
+Alexa, ask Nissan to turn on Speed Alert for my Z.
+Alexa, ask Nissan to get my distance to empty for my TITAN.
+Alexa, ask Nissan to get my tire pressure for my Frontier.
+Alexa, lock my Rogue®.
+Alexa, set the temperature of my LEAF® to seventy degrees.
+Alexa, disable nissan

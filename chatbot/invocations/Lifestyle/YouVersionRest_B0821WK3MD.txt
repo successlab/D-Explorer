@@ -1,0 +1,6 @@
+Alexa, open youversion rest
+Alexa, ask YouVersion Rest to change my background,
+Alexa, ask YouVersion Rest to change the voice.
+Alexa, play YouVersion Rest
+Alexa, ask YouVersion Rest to change my background
+Alexa, disable youversion rest

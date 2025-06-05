@@ -1,0 +1,4 @@
+Alexa, open motiv ring
+Alexa, ask Motiv Ring for my stats
+Alexa, ask Motiv Ring for my heart rate
+Alexa, disable motiv ring

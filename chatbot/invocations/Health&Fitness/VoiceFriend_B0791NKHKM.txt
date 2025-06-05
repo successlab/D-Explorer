@@ -1,0 +1,5 @@
+Alexa, open voice friend
+Alexa, open voice friend.
+Alexa, ask voice friend for my messages.
+Alexa, ask voice friend for my meals.
+Alexa, disable voice friend

@@ -1,0 +1,4 @@
+Alexa, open club ready radio
+Alexa, play Club Ready Radio
+Alexa, start Club Ready Radio
+Alexa, disable club ready radio

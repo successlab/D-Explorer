@@ -1,0 +1,5 @@
+Alexa, open poetry quiz
+Alexa, next
+Alexa, stop
+Alexa, start poetry quiz
+Alexa, disable poetry quiz

@@ -1,0 +1,5 @@
+Alexa, open joule oven
+Alexa, open Joule Oven.
+Alexa, ask Joule Oven for a status update.
+Alexa, set the oven to bake at 350 degrees for 30 minutes.
+Alexa, disable joule oven

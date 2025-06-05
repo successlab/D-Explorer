@@ -1,0 +1,5 @@
+Alexa, open vivint
+Alexa, tell Vivint to lock my doors
+Alexa, tell Vivint to turn my heat up to 70 degrees
+Alexa, ask Vivint if my security system is armed
+Alexa, disable vivint

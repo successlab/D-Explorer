@@ -1,0 +1,3 @@
+Alexa, unlock my door lock
+Alexa, what is the status of my door lock?
+Alexa, disable ZigbangSmartDoorlock

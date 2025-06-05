@@ -1,0 +1,4 @@
+Alexa, open don pablo coffee
+Alexa, ask don pablo coffee to find me coffee
+Alexa, ask don pablo coffee for shipping policy
+Alexa, disable don pablo coffee

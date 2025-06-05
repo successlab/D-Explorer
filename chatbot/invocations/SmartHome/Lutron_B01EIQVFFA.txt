@@ -1,0 +1,4 @@
+Alexa, set the living room lights to 80 percent
+Alexa, open the bedroom shades
+Alexa, turn on the kitchen ceiling fan
+Alexa, disable Lutron

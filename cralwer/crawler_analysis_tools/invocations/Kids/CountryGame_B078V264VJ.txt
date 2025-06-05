@@ -1,0 +1,5 @@
+Alexa, open country game
+Alexa, play Country Game
+Start a game
+What is my rank?
+Alexa, disable country game

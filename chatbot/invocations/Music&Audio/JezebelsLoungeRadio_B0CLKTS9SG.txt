@@ -1,0 +1,5 @@
+Alexa, open jezebels radio
+Alexa, play Jezebels Radio
+Alexa, pause
+Alexa, resume
+Alexa, disable jezebels radio

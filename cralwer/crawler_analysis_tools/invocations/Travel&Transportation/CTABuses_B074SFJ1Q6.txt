@@ -1,0 +1,5 @@
+Alexa, open c. t. a. buses
+Alexa, ask CTA Buses when the next Northbound 151 from Union Station is
+Alexa, ask CTA Buses when is the next 22 from Clark and Division
+Alexa, open CTA Buses.
+Alexa, disable c. t. a. buses

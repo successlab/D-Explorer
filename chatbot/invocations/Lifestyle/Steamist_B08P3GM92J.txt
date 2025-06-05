@@ -1,0 +1,4 @@
+Alexa, open steamist
+Alexa ask Steamist to start steam
+Alexa ask Steamist what is the status
+Alexa, disable steamist

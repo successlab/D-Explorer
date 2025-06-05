@@ -1,0 +1,4 @@
+Alexa, open ram music box
+Alexa, start ram music box
+Alexa, launch ram music box
+Alexa, disable ram music box

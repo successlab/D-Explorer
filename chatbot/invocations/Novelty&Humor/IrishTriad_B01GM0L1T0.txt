@@ -1,0 +1,5 @@
+Alexa, open irish triad
+Alexa, ask Irish triad to tell me a triad
+Alexa, ask Irish triad to tell me an irish triad.
+Alexa, ask Irish triad to give me an irish triad.
+Alexa, disable irish triad

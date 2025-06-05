@@ -1,0 +1,6 @@
+Alexa, open beautiful dream
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Beautiful Dream
+Alexa, launch Beautiful Dream
+Alexa, disable beautiful dream

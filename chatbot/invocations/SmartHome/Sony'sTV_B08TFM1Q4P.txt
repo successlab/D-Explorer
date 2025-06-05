@@ -1,0 +1,20 @@
+Alexa, turn on TV.
+Alexa, turn off TV.
+Alexa, next channel on TV.
+Alexa, tune to channel 5 on TV.
+Alexa, set volume to 15 on TV.
+Alexa, volume down on TV.
+Alexa, switch input to HDMI 1 on TV.
+Alexa, play on TV.
+Alexa, pause on TV.
+Alexa, skip 10 seconds on TV.
+Alexa, launch Prime Video on TV.
+Alexa, go home on TV.
+Alexa, go right on TV
+Alexa, move down on TV
+Alexa, select this on TV
+Alexa, discover my devices
+Alexa, turn on TV
+Alexa, change to channel 5 on TV
+Alexa, set volume to fifteen on TV
+Alexa, disable Sony'sTV

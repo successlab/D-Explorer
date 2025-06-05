@@ -1,0 +1,9 @@
+Alexa, open border wait
+Alexa, ask Border Wait for help
+Alexa, ask Border Wait the status of Rio Grande City
+Alexa, ask Border Wait about Niagara Falls
+Alexa, ask Border Wait about Whirlpool Bridge
+Alexa, ask Border Wait for a list of ports.
+Alexa, ask Border Wait to list ports in Texas.
+Alexa, ask Border Wait about Peace Bridge
+Alexa, disable border wait

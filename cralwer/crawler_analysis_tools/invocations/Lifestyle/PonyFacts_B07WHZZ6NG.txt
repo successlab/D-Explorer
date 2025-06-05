@@ -1,0 +1,3 @@
+Alexa, open pony info
+Alexa, ask pony info for a fact
+Alexa, disable pony info

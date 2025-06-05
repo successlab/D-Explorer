@@ -1,0 +1,5 @@
+Alexa, open vamo radio podcast
+Alexa, start VaMo Radio Podcast
+Alexa, play VaMo Radio Podcast
+Alexa, ask VaMo Radio Podcast what is the current song
+Alexa, disable vamo radio podcast

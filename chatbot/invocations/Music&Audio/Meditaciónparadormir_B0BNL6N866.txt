@@ -1,0 +1,5 @@
+Alexa, open meditación para dormir
+Alexa, abre Meditación para dormir
+Alexa, pausa
+Alexa, reanudar
+Alexa, disable meditación para dormir

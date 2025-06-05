@@ -1,0 +1,8 @@
+Alexa, show front door camera
+Alexa, show feed from the backyard camera
+Alexa, hide backyard camera
+Alexa, turn on backyard camera
+Alexa, show front door camera.
+Alexa, show feed from the backyard camera.
+Alexa, hide backyard camera.
+Alexa, disable zmodo

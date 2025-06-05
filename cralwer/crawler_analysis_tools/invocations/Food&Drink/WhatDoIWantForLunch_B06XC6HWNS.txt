@@ -1,0 +1,5 @@
+Alexa, open food suggestion
+Alexa, start Food Suggestion
+Start Food Suggestion and give me a food suggestion
+Start Food Suggestion and tell me something
+Alexa, disable food suggestion

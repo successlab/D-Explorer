@@ -1,0 +1,9 @@
+Alexa, open ford pass
+Alexa, ask FordPass to start charging my car.
+Alexa, ask FordPass to stop charging my car.
+Alexa, ask FordPass for my vehicle's charge level.
+Alexa, ask FordPass to tell me my vehicle's charge status.
+Alexa, ask ford pass to unlock my car.
+Alexa, ask ford pass to lock my car.
+Alexa, ask ford pass what is my range?
+Alexa, disable ford pass

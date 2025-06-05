@@ -1,0 +1,4 @@
+Alexa, open deep sleep
+Alexa, Pause
+Alexa, Resume
+Alexa, disable deep sleep

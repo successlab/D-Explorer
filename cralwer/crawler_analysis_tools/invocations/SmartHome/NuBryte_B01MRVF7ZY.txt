@@ -1,0 +1,5 @@
+Alexa, dim the Living Room lights
+Alexa, turn on the downstairs lights.
+Alexa, dim the family room.
+Alexa, turn off bedroom lights.
+Alexa, disable NuBryte

@@ -1,0 +1,5 @@
+Alexa, open sprinkl control
+Alexa, ask Sprinkl Control to run zone 1 for 5 minutes
+Alexa, ask Sprinkl Control to run schedule
+Alexa, ask Sprinkl Control to stop
+Alexa, disable sprinkl control

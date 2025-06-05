@@ -1,0 +1,3 @@
+Alexa, turn on the Smart Plug
+Alexa, turn off the Smart Plug
+Alexa, disable PositivoCasaInteligente

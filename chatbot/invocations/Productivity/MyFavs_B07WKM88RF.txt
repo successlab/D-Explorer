@@ -1,0 +1,4 @@
+Alexa, open my favs
+Log a favorite
+Make a suggestion for a restaurant
+Alexa, disable my favs

@@ -1,0 +1,4 @@
+Alexa, Turn on My Fan
+Alexa, Turn on My Fan Light
+Alexa, Set My Fan speed to 1
+Alexa, disable BondHome

@@ -1,0 +1,4 @@
+Alexa, turn on bedroom lamp.
+Alexa, turn the volume up on TV by 10.
+Alexa, next channel on TV.
+Alexa, disable BroadLink

@@ -1,0 +1,4 @@
+Alexa, open vietnamese food
+Alexa, ask Vietnamese Food for the best restaurants in Houston Texas
+Alexa, ask Vietnamese Food for a fun fact
+Alexa, disable vietnamese food

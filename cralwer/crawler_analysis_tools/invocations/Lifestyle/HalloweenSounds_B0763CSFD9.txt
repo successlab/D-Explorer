@@ -1,0 +1,4 @@
+Alexa, open halloween sounds
+Alexa, ask Halloween Sounds to play Haunted House
+Alexa, ask Halloween Sounds to play Random
+Alexa, disable halloween sounds

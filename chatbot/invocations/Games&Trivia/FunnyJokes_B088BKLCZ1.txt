@@ -1,0 +1,6 @@
+Alexa, open funny jokes
+Alexa, next
+Alexa, stop
+Alexa, start funny jokes
+Alexa, ask funny jokes for a joke
+Alexa, disable funny jokes

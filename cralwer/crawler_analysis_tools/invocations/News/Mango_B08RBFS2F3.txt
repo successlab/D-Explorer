@@ -1,0 +1,4 @@
+Alexa, open mango news
+Alexa start mango news
+Alexa ask mango news to read articles from New York Times
+Alexa, disable mango news

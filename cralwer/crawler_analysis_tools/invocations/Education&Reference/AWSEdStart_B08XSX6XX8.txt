@@ -1,0 +1,4 @@
+Alexa, open a. w. s. edstart
+Alexa, open AWS EdStart
+Alexa, launch AWS EdStart
+Alexa, disable a. w. s. edstart

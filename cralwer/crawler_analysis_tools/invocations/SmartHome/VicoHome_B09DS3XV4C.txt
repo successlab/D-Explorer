@@ -1,0 +1,8 @@
+Alexa, show me the yard.
+Alexa, show me the camera.
+Alexa, stop.
+Alexa, go home.
+Alexa, show me the camera
+Alexa, show me the front door
+Alexa, stop
+Alexa, disable VicoHome

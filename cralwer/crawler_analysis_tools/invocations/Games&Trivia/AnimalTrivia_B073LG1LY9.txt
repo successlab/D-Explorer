@@ -1,0 +1,3 @@
+Alexa, open animal trivia
+Alexa start Animal Trivia
+Alexa, disable animal trivia

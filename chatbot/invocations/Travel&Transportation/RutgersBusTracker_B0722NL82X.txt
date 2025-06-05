@@ -1,0 +1,5 @@
+Alexa, open direct tracker
+Alexa, ask Direct Tracker to get next bus from Stadium to Science Building
+Alexa, ask Direct Tracker to find next bus from Liberty Street to Train Station
+Alexa, ask Direct Tracker to get next bus from Visitor Center to Stadium
+Alexa, disable direct tracker

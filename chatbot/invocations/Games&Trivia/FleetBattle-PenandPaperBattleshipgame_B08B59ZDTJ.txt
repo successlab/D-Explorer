@@ -1,0 +1,4 @@
+Alexa, open fleet battle
+Alexa, launch Fleet Battle
+Alexa, begin Fleet Battle
+Alexa, disable fleet battle

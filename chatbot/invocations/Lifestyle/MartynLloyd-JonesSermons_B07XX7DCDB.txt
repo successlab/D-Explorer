@@ -1,0 +1,9 @@
+Alexa, open m. l. j. sermons
+Alexa, play MLJ Sermons.
+Alexa, pause
+Alexa, resume.
+Alexa, play the previous episode.
+Alexa, ask MLJ Sermons for the title of this episode.
+Alexa, ask MLJ Sermons for the date of this episode.
+Alexa, open MLJ Sermons
+Alexa, disable m. l. j. sermons

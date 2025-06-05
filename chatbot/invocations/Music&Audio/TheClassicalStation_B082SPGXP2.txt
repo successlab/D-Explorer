@@ -1,0 +1,5 @@
+Alexa, open the classical station
+Alexa, play The Classical Station
+Alexa, Stop
+Alexa, launch The Classical Station
+Alexa, disable the classical station

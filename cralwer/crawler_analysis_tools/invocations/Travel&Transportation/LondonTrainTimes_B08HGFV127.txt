@@ -1,0 +1,5 @@
+Alexa, open train times
+Alexa, ask train times for the next train
+Alexa, ask train times next train from Kensal Green
+Alexa, ask train times next train from Paddington
+Alexa, disable train times

@@ -1,0 +1,5 @@
+Alexa, open doctor steve
+Alexa ask Doctor Steve a fun fact
+tell me a fun fact
+give me a fun fact
+Alexa, disable doctor steve

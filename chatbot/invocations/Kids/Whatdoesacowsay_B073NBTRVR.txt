@@ -1,0 +1,3 @@
+Alexa, open what does
+Alexa, ask "What does a cow say?
+Alexa, disable what does

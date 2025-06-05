@@ -1,0 +1,4 @@
+Alexa, open five minute pushups
+Alexa pause
+Alexa resume
+Alexa, disable five minute pushups

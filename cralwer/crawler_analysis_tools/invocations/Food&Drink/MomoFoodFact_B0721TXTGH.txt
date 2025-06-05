@@ -1,0 +1,4 @@
+Alexa, open himalayan chef
+Alexa, ask himalayan chef to tell me a momo fact
+Alexa, ask himalayan chef to give me a momo trivia
+Alexa, disable himalayan chef

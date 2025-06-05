@@ -1,0 +1,4 @@
+Alexa, open Red Bull TV
+Alexa, show me featured films on Red Bull TV
+Alexa, show me featured shows on Red Bull TV
+Alexa, disable RedBullTV

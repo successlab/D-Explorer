@@ -1,0 +1,4 @@
+Alexa, open build a bot workshop
+Alexa, start Build a Bot Workshop
+Alexa, launch Build a Bot Workshop
+Alexa, disable build a bot workshop

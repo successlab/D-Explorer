@@ -1,0 +1,4 @@
+Alexa, open eco watering
+Alexa, talk to eco watering
+Alexa, ask eco watering
+Alexa, disable eco watering

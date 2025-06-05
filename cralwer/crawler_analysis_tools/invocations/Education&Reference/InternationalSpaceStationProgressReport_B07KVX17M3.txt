@@ -1,0 +1,4 @@
+Alexa, open space station report
+Alexa, start space station report
+Alexa, launch space station report
+Alexa, disable space station report

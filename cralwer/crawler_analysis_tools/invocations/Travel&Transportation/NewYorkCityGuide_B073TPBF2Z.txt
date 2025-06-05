@@ -1,0 +1,5 @@
+Alexa, open new york city guide
+Alexa, ask New York City Guide to tell me top five things to do.
+Alexa, ask New York City Guide to open number one.
+Alexa, ask New York City Guide to tell me the news
+Alexa, disable new york city guide

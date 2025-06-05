@@ -1,0 +1,5 @@
+Alexa, open stats quiz
+Alexa, next
+Alexa, stop
+Alexa, start stats quiz
+Alexa, disable stats quiz

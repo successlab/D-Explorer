@@ -1,0 +1,5 @@
+Alexa, open air purifier
+Alexa, ask Air Purifier to start cleaning
+Alexa, tell Air Purifier to turn on automode
+Alexa, ask Air Purifier to run on max speed
+Alexa, disable air purifier

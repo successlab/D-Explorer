@@ -1,0 +1,4 @@
+Alexa, open sweet talker
+Alexa, tell Sweet Talker to whisper sweet nothings in my ear.
+Alexa, tell Sweet Talker to whisper sweet nothings to me.
+Alexa, disable sweet talker

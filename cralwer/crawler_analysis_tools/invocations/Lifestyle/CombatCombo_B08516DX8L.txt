@@ -1,0 +1,4 @@
+Alexa, open combat combo
+Alexa, start combat combo
+Alexa, ask combat combo to start workout
+Alexa, disable combat combo

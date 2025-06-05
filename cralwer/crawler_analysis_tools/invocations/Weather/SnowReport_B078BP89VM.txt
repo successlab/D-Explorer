@@ -1,0 +1,4 @@
+Alexa, open snow report
+Give me the snow report for Stevens Pass
+What is the weather going to be like on Friday at Crystal Mountain
+Alexa, disable snow report

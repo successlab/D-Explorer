@@ -1,0 +1,4 @@
+Alexa, open male or female
+Alexa, tell male or female Mike
+Alexa, ask male or female gender of Alice
+Alexa, disable male or female

@@ -1,0 +1,5 @@
+Alexa, open u. g. a. roster
+Alexa, ask UGA Roster who is Swift?
+Who is number eleven?
+Tell me more.
+Alexa, disable u. g. a. roster

@@ -1,0 +1,5 @@
+Alexa, open p. n. o.
+Alexa, ask PNO to play
+Alexa, tell PNO to play Billy Joel
+Alexa, tell the PNO to stop
+Alexa, disable p. n. o.

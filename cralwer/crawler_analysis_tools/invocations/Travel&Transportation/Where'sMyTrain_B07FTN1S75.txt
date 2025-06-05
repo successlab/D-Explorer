@@ -1,0 +1,4 @@
+Alexa, open boston train tracker
+Alexa, Ask Boston Train Tracker to Setup
+Alexa, Start Boston Train Tracker
+Alexa, disable boston train tracker

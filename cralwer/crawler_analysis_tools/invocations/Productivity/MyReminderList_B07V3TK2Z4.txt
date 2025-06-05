@@ -1,0 +1,3 @@
+Alexa, open my reminder list
+Alexa, start My Reminder List
+Alexa, disable my reminder list

@@ -1,0 +1,4 @@
+Alexa, open s. e. o. quiz
+Alexa start s. e. o. quiz
+Alexa launch s. e. o. quiz
+Alexa, disable s. e. o. quiz

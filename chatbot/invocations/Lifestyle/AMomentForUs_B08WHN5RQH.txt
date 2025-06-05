@@ -1,0 +1,4 @@
+Alexa, open our time
+Alexa, start Our Time
+Alexa, launch Our Time
+Alexa, disable our time

@@ -1,0 +1,5 @@
+Alexa, open my journal
+Alexa, create a new entry in my journal.
+Alexa, open my journal.
+Read the entry from last Thursday
+Alexa, disable my journal

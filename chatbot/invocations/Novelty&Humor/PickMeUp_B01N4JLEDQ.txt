@@ -1,0 +1,4 @@
+Alexa, open pick me up
+Alexa ask Pick Me Up to give me a pick up line
+Alexa ask Pick Me Up for a pick up line
+Alexa, disable pick me up

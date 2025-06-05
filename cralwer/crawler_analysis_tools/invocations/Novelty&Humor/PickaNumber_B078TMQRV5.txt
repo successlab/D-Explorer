@@ -1,0 +1,5 @@
+Alexa, open pick a number
+Alexa, pick a number
+Alexa, open Pick a number and choose a number
+Alexa, open Pick a number and pick a number
+Alexa, disable pick a number

@@ -1,0 +1,4 @@
+Alexa, open sentiment sweep
+Alexa, start Sentiment Sweep
+Alexa, play Sentiment Sweep
+Alexa, disable sentiment sweep

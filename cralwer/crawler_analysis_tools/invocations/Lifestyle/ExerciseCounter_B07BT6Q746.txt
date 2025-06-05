@@ -1,0 +1,3 @@
+Alexa, open exercise counter
+Alexa, Ask Exercise Counter for 5 rounds
+Alexa, disable exercise counter

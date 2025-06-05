@@ -1,0 +1,5 @@
+Alexa, open guess the president
+Alexa, launch Guess the President
+I guess four
+can you repeat
+Alexa, disable guess the president

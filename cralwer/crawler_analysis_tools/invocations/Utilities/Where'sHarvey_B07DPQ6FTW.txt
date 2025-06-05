@@ -1,0 +1,4 @@
+Alexa, open where's harvey
+Alexa, launch Where's Harvey
+Alexa, ask Where's Harvey his progress
+Alexa, disable where's harvey

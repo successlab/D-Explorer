@@ -1,0 +1,4 @@
+Alexa, open star date
+Alexa, Ask star date
+Alexa, tell star date
+Alexa, disable star date

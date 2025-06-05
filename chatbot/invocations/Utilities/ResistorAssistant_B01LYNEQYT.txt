@@ -1,0 +1,5 @@
+Alexa, open resistor assist
+Alexa ask resistor assist brown black red.
+calculate two hundred and three hundred in parallel.
+what is the series resistance of one thousand and three thousand?
+Alexa, disable resistor assist

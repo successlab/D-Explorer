@@ -1,0 +1,5 @@
+Alexa, open peso exchanger
+Alexa, ask peso exchanger current rate
+Alexa, ask peso exchanger what's today rate
+Alexa, ask peso exchanger how much is a peso today
+Alexa, disable peso exchanger

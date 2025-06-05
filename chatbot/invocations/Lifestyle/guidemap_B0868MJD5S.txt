@@ -1,0 +1,3 @@
+Alexa, open guide map
+Alexa, start guide map
+Alexa, disable guide map

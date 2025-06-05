@@ -1,0 +1,3 @@
+Alexa, open ozzy quote
+Alexa ask ozzy quote for a quote
+Alexa, disable ozzy quote

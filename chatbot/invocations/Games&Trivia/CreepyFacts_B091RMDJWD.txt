@@ -1,0 +1,4 @@
+Alexa, open creepy facts
+Alexa ask creepy facts for a fact
+Alexa tell creepy facts to tell me trivia
+Alexa, disable creepy facts

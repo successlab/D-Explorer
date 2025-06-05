@@ -1,0 +1,4 @@
+Alexa, open restaurant rush
+Alexa, start Restaurant Rush
+Alexa, launch Restaurant Rush
+Alexa, disable restaurant rush

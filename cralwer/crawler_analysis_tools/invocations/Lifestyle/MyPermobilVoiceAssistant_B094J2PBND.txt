@@ -1,0 +1,4 @@
+Alexa, open my permobil
+Alexa, ask my permobil What is the battery status
+Alexa, ask my permobil how far can i go?
+Alexa, disable my permobil

@@ -1,0 +1,5 @@
+Alexa, open smart work
+Alexa, turn on hallway light
+Alexa, turn off hallway light
+Alexa, set hallway light to 50 percent
+Alexa, disable smart work

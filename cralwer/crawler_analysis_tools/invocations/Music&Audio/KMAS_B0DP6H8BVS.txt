@@ -1,0 +1,4 @@
+Alexa, open k. m. a. s. radio
+Alexa, ask k. m. a. s. radio what's playing.
+Alexa, ask k. m. a. s. radio to play live.
+Alexa, disable k. m. a. s. radio

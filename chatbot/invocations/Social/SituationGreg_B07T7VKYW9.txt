@@ -1,0 +1,4 @@
+Alexa, open situation greg
+Alexa, start situation greg
+Alexa, launch situation greg
+Alexa, disable situation greg

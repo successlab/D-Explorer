@@ -1,0 +1,4 @@
+Alexa, open waterfall sounds
+Alexa ask waterfall sounds to play for 30 minutes
+Alexa stop
+Alexa, disable waterfall sounds

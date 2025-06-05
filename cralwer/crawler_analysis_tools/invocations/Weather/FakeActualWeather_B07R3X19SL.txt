@@ -1,0 +1,4 @@
+Alexa, open fake actual weather
+Alexa ask fake actual weather what's the weather like
+Alexa ask fake actual weather something
+Alexa, disable fake actual weather

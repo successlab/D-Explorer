@@ -1,0 +1,4 @@
+Alexa, open bollywood trivia
+Repeat
+Pass
+Alexa, disable bollywood trivia

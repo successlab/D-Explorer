@@ -1,0 +1,4 @@
+Alexa, show the front door
+Alexa, show the camera
+Alexa, stop
+Alexa, disable Mubview

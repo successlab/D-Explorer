@@ -1,0 +1,4 @@
+Alexa, open space news
+Alexa, start Space News
+Alexa, launch Space News
+Alexa, disable space news

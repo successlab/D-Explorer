@@ -1,0 +1,3 @@
+Alexa, open random animal
+Alexa, start random animal
+Alexa, disable random animal

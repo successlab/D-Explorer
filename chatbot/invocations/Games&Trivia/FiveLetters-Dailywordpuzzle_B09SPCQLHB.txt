@@ -1,0 +1,2 @@
+Alexa, open five letters
+Alexa, disable five letters

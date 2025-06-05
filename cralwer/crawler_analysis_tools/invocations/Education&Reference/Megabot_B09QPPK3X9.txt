@@ -1,0 +1,4 @@
+Alexa, open mega bot
+Alexa, start mega bot
+Alexa, launch mega bot
+Alexa, disable mega bot

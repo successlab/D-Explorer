@@ -1,0 +1,3 @@
+Alexa, open dogness
+Alexa, open dogness and list my device
+Alexa, disable dogness

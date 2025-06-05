@@ -1,0 +1,6 @@
+Alexa, open surf checker
+Alexa, Ask Surf Checker for Salt Creek on Tuesday
+Alexa, Ask Surf Checker what is the surf report for uppers
+Alexa, Ask Surf Checker for salt creek on Tuesday
+Alexa, Ask Surf Checker what is the tide report for Salt Creek on Monday
+Alexa, disable surf checker

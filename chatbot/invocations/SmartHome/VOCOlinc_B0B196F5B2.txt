@@ -1,0 +1,4 @@
+Alexa, turn on desk lamp
+Alexa, turn on television
+Alexa, turn off charger
+Alexa, disable VOCOlinc

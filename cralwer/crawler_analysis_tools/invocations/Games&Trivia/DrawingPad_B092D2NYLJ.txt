@@ -1,0 +1,4 @@
+Alexa, open drawing pad
+Alexa, give me an idea
+Alexa, ask Drawing Pad for today's idea
+Alexa, disable drawing pad

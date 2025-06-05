@@ -1,0 +1,5 @@
+Alexa, open juego de mesa
+Alexa, para
+Alexa, abre juego de mesa
+Alexa, inicia juego de mesa
+Alexa, disable juego de mesa

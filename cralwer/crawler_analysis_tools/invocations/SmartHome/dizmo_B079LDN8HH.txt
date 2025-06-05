@@ -1,0 +1,5 @@
+Alexa, open dizmo
+Alexa ask dizmo to pair with PERFUME FARMER.
+Alexa ask dizmo to start.
+Alexa ask dizmo to unpair from PERFUME FARMER.
+Alexa, disable dizmo

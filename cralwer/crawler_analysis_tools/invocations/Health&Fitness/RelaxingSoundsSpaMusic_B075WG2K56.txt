@@ -1,0 +1,4 @@
+Alexa, open spa music
+Alexa, Ask Spa Music
+Alexa, Start Spa Music
+Alexa, disable spa music

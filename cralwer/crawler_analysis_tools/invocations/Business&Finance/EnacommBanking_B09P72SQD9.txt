@@ -1,0 +1,5 @@
+Alexa, open enacomm banking
+Alexa, start Enacomm Banking.
+Alexa, open Enacomm Banking.
+Alexa, begin Enacomm Banking.
+Alexa, disable enacomm banking

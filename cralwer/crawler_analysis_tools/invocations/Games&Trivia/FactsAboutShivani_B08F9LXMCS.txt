@@ -1,0 +1,4 @@
+Alexa, open shivani's fun facts
+Alexa, stop
+Alexa ask Shivani's fun facts for a fact
+Alexa, disable shivani's fun facts

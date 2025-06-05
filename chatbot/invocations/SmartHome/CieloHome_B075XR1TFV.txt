@@ -1,0 +1,4 @@
+Alexa, turn on the Bedroom.
+Alexa, set Bedroom to heat.
+Alexa, increase Bedroom temperature.
+Alexa, disable CieloHome

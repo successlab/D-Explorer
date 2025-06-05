@@ -1,0 +1,5 @@
+Alexa, open movie helper
+Alexa ask movie helper to tell me more about the movie Transformers
+What is the movie SpiderMan about?
+What good movies are out?
+Alexa, disable movie helper

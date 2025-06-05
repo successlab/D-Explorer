@@ -1,0 +1,5 @@
+Alexa, open link collar
+Alexa, ask Link Collar to check today's activity
+Alexa, ask Link Collar to check yesterday's activity
+Alexa, ask Link Collar to tell me how many minutes until activity goal
+Alexa, disable link collar

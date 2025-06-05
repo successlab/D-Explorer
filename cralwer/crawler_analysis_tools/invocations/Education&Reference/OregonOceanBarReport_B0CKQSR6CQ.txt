@@ -1,0 +1,4 @@
+Alexa, open oregon ocean bar report
+list locations
+help
+Alexa, disable oregon ocean bar report

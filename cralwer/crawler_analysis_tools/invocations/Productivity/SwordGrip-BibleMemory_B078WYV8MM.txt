@@ -1,0 +1,5 @@
+Alexa, open sword grip
+Alexa, launch Sword Grip.
+Alexa, ask Sword Grip to read the Titus verses.
+Alexa, ask Sword Grip to change my default translation to the English Standard Version
+Alexa, disable sword grip

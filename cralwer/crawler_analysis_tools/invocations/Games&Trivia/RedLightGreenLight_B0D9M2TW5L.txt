@@ -1,0 +1,2 @@
+Alexa, open red light green light
+Alexa, disable red light green light

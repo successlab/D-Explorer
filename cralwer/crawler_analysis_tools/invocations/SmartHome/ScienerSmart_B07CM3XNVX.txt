@@ -1,0 +1,4 @@
+Alexa, unlock the door lock.
+Alexa,unlock my door lock
+Alexa,lock my door lock
+Alexa, disable ScienerSmart

@@ -1,0 +1,5 @@
+Alexa, open camping packer
+Alexa, start Camping Packer
+Alexa, ask Camping Packer to start a trip.
+Alexa, ask Camping Packer to resume trip.
+Alexa, disable camping packer

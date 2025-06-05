@@ -1,0 +1,7 @@
+Alexa, open my music vault
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, ask my music vault for the latest talk
+Alexa, start my music vault
+Alexa, disable my music vault

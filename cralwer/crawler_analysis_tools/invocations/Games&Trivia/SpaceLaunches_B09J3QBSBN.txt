@@ -1,0 +1,4 @@
+Alexa, open space launches
+Give me the flight number of the upcoming launch
+Give me all the information about the latest launch
+Alexa, disable space launches

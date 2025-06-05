@@ -1,0 +1,2 @@
+Alexa, open authors quiz
+Alexa, disable authors quiz

@@ -1,0 +1,4 @@
+Alexa, open hand washing time
+Alexa, start Hand Washing Time
+Alexa, launch Hand Washing Time
+Alexa, disable hand washing time

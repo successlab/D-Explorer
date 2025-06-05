@@ -1,0 +1,5 @@
+Alexa, open guía politécnica
+Alexa, abre guía politécnica
+Alexa, pide a guía politécnica un dato curioso
+Alexa, pregunta a guía politécnica un dato curioso
+Alexa, disable guía politécnica

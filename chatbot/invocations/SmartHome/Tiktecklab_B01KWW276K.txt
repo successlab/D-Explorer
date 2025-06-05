@@ -1,0 +1,4 @@
+alexa, turn on name
+Alexa, turn off name
+Alexa, set name to 20 percent
+Alexa, disable Tiktecklab

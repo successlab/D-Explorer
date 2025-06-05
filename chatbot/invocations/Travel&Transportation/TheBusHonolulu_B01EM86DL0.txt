@@ -1,0 +1,5 @@
+Alexa, open the bus honolulu
+Alexa, launch The Bus Honolulu
+Alexa, ask The Bus Honolulu when does the next bus arrive at 214
+Alexa, ask The Bus Honolulu get arrivals for stop 215
+Alexa, disable the bus honolulu

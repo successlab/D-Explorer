@@ -1,0 +1,4 @@
+Alexa, open words battle
+Alexa, start words battle
+Alexa, launch words battle
+Alexa, disable words battle

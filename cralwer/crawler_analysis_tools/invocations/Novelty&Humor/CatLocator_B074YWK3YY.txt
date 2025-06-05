@@ -1,0 +1,4 @@
+Alexa, open cat locator
+is the cat in the sink
+where is the cat
+Alexa, disable cat locator

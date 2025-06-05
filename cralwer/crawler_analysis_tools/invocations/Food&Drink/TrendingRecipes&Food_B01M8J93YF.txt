@@ -1,0 +1,5 @@
+Alexa, open trending recipes
+Alexa, ask Trending Recipes for the latest recipe
+Alexa, ask Trending Recipes for the fourth recipe
+Alexa, ask Trending Recipes for a recent recipe
+Alexa, disable trending recipes

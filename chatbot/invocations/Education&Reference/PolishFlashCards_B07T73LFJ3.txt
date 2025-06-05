@@ -1,0 +1,7 @@
+Alexa, open polish flash cards
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start Polish Flash Cards
+Alexa, disable polish flash cards

@@ -1,0 +1,5 @@
+Alexa, open any institution
+Alexa, ask Any Institution what is my balance?
+Alexa, ask Any Institution what is my spendable balance?
+Alexa, ask Any Institution how much money do I have in my account?
+Alexa, disable any institution

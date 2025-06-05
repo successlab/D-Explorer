@@ -1,0 +1,5 @@
+Alexa, open scout facts
+Alexa, ask Scout Facts to tell me a scout fact
+Alexa, Scout Facts
+Alexa, ask Scout Facts to tell me a fact
+Alexa, disable scout facts

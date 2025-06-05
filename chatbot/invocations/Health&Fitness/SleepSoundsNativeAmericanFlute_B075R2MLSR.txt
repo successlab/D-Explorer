@@ -1,0 +1,6 @@
+Alexa, open native american flute
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Native American Flute
+Alexa, launch Native American Flute
+Alexa, disable native american flute

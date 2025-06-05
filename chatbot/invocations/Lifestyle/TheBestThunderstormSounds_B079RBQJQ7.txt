@@ -1,0 +1,4 @@
+Alexa, open best thunderstorm sounds
+Alexa, set a sleep timer for 1 hour,
+Alexa, start best thunderstorm sounds
+Alexa, disable best thunderstorm sounds

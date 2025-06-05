@@ -1,0 +1,5 @@
+Alexa, open the banana man
+Alexa, ask the Banana Man if I am holding a banana
+Alexa, ask the Banana Man to tell me if I am holding a banana
+Alexa, ask the Banana Man to see if I am holding a banana
+Alexa, disable the banana man

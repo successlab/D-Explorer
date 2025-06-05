@@ -1,0 +1,4 @@
+Alexa, set Downstairs temperature to 72.
+Alexa, show my Camera.
+Alexa, what is the temperature of the Living Room?
+Alexa, disable Resideo(formerlyHoneywellHome)

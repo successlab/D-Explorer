@@ -1,0 +1,4 @@
+Alexa, open money talks
+Alexa, ask Money Talks what is an IRA
+Alexa, ask Money Talks should I invest in a 401k
+Alexa, disable money talks

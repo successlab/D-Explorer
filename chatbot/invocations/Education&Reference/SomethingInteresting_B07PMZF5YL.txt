@@ -1,0 +1,4 @@
+Alexa, open something interesting fact
+Alexa, start something interesting fact
+Alexa, launch something interesting fact
+Alexa, disable something interesting fact

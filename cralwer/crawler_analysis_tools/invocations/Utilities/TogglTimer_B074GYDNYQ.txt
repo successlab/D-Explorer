@@ -1,0 +1,4 @@
+Alexa, open toggle timer
+Alexa, ask toggle timer to start timer on project A
+Alexa, ask toggle timer how I spent yesterday
+Alexa, disable toggle timer

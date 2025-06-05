@@ -1,0 +1,3 @@
+Alexa, open soundcheck hero
+Alexa, play Soundcheck Hero
+Alexa, disable soundcheck hero

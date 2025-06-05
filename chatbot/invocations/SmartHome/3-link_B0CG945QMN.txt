@@ -1,0 +1,3 @@
+Alexa,discover devices.
+Alexa, show the camera
+Alexa, disable 3-link

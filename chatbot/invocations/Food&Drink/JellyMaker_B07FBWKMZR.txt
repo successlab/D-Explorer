@@ -1,0 +1,4 @@
+Alexa, open jelly maker
+Alexa, ask jelly maker to make some jelly
+Alexa, tell jelly maker to make jelly
+Alexa, disable jelly maker

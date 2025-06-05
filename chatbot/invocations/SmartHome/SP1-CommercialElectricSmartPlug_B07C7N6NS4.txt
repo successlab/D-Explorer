@@ -1,0 +1,2 @@
+Alexa,turn on the dining room plug
+Alexa, disable SP1-CommercialElectricSmartPlug

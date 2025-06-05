@@ -1,0 +1,5 @@
+Alexa, open nine cats
+Alexa, ask 9 Cats how many three pointers made did Stephen Curry have in 2015
+Alexa, ask 9 Cats what were Kawhi Leonard's average stats for 2016
+Alexa, ask 9 Cats for Kevin Durant's field goal percentage during 2017
+Alexa, disable nine cats

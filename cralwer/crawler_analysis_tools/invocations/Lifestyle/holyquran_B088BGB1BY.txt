@@ -1,0 +1,11 @@
+Alexa, open holy quran
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask holy quran for the latest talk
+Alexa, start holy quran
+Alexa, disable holy quran

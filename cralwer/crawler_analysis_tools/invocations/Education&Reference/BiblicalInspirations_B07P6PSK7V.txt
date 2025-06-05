@@ -1,0 +1,5 @@
+Alexa, open biblical inspirations
+Alexa, next
+Alexa, stop
+Alexa, start Biblical Inspirations
+Alexa, disable biblical inspirations

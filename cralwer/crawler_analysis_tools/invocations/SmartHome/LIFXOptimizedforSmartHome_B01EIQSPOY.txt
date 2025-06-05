@@ -1,0 +1,4 @@
+Alexa, turn on the Kitchen lights
+Alexa, make the lights red
+Alexa, turn on Movie Night
+Alexa, disable LIFXOptimizedforSmartHome

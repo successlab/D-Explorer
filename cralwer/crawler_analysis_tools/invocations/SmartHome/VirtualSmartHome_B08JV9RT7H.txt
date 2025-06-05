@@ -1,0 +1,4 @@
+Alexa, turn my virtual switch on
+Alexa, switch off my virtual device
+Alexa, dim my non-existing light to 50 percent
+Alexa, disable VirtualSmartHome

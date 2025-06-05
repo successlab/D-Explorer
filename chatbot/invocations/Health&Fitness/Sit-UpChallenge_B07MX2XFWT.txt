@@ -1,0 +1,5 @@
+Alexa, open situp challenge
+Alexa, start situp challenge
+Alexa, ask situp challenge to begin the challenge
+I did it!
+Alexa, disable situp challenge

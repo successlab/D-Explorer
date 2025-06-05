@@ -1,0 +1,4 @@
+Alexa, open rock paper scissor
+rock
+my score
+Alexa, disable rock paper scissor

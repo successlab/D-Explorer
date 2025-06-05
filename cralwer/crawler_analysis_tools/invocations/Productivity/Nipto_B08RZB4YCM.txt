@@ -1,0 +1,4 @@
+Alexa, open nipto assistant
+Alexa tell nipto assistant that Elodie just took the trash out
+Alexa ask nipto assistant what is the current score
+Alexa, disable nipto assistant

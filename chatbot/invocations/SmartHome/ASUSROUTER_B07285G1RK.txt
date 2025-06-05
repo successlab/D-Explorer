@@ -1,0 +1,5 @@
+Alexa, open asus router
+Alexa, ask my router to turn on the Guest Network
+Alexa, ask my router to upgrade the firmware
+Alexa, ask my router to pause the Internet
+Alexa, disable asus router

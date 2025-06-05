@@ -1,0 +1,4 @@
+Alexa, open mad river
+Alexa, ask Mad River for the snow report
+Alexa, ask Mad River for latest conditions
+Alexa, disable mad river

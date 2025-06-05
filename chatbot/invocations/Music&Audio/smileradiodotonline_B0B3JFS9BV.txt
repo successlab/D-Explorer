@@ -1,0 +1,5 @@
+Alexa, open smile radio
+Alexa, play Smile Radio
+Alexa, start Smile Radio
+Alexa, ask Smile Radio what song is playing
+Alexa, disable smile radio

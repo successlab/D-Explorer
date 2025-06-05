@@ -1,0 +1,4 @@
+Alexa, open number knowledge
+Alexa, ask number knowledge to tell me about 111
+Alexa, ask number knowledge for a fact about number 33
+Alexa, disable number knowledge

@@ -1,0 +1,5 @@
+Alexa, open chores picker
+Alexa, ask chores picker to give me a household chore
+Alexa, ask chores picker what's my household chore
+Alexa, ask chores picker what should I do
+Alexa, disable chores picker

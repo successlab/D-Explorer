@@ -1,0 +1,4 @@
+Alexa, open nidaa radio
+Alexa, play Nidaa radio
+Alexa, launch Nidaa radio
+Alexa, disable nidaa radio

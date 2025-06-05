@@ -1,0 +1,3 @@
+Alexa, open train status
+Alexa, train status
+Alexa, disable train status

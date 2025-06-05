@@ -1,0 +1,4 @@
+Alexa, turn on hallway light
+Alexa, set bedrooms to 72 degrees
+Alexa, turn on bedtime
+Alexa, disable UltraSync

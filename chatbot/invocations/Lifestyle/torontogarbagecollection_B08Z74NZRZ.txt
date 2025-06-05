@@ -1,0 +1,3 @@
+Alexa, open garbage collection
+Alexa, ask garbage collection what garbage it is this week?
+Alexa, disable garbage collection

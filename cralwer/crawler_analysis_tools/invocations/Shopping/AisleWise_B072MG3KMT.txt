@@ -1,0 +1,5 @@
+Alexa, open aisle wise
+Alexa Open Aisle Wise.
+Alexa ask Aisle Wise to add milk.
+Alexa tell Aisle Wise to add recipe Mexican Soup.
+Alexa, disable aisle wise

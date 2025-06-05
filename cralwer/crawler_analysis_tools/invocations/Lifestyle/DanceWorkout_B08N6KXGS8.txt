@@ -1,0 +1,4 @@
+Alexa, open dance workout
+Alexa, Start Dance Workout
+Alexa, Begin Dance Workout
+Alexa, disable dance workout

@@ -1,0 +1,5 @@
+Alexa, open speech editor
+Alexa, ask Speech Editor to give me my pin
+Alexa, open Speech Editor and speak
+Alexa, speak
+Alexa, disable speech editor

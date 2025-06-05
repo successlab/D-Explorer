@@ -1,0 +1,3 @@
+Alexa, turn on tv
+Alexa, turn off tv
+Alexa, disable SinricPro

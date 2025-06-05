@@ -1,0 +1,4 @@
+Alexa, open symptom helper
+Register me
+Let me log a symptom
+Alexa, disable symptom helper

@@ -1,0 +1,5 @@
+Alexa, open f. one
+Alexa ask f. one what events are happening tomorrow
+Alexa ask f. one what is happening on today
+Alexa ask f. one tell me about event one
+Alexa, disable f. one

@@ -1,0 +1,5 @@
+Alexa, open repeat after me
+Alexa, ask repeat after me to say Hello it's me
+Repeat goodbye
+Say I love you
+Alexa, disable repeat after me

@@ -1,0 +1,5 @@
+Alexa, open imaginuity
+Alexa ask Imaginuity what's in the news
+Alexa open Imaginuity and read me their blog
+Alexa open Imaginuity and read me the digital dictionary
+Alexa, disable imaginuity

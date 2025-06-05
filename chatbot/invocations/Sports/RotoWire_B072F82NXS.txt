@@ -1,0 +1,7 @@
+Alexa, open roto wire
+Alexa, what's the latest news from RotoWire?
+Alexa, get me the latest fantasy baseball news from RotoWire
+Alexa, what's the latest baseball news from RotoWire?
+Alexa, ask Rotowire for the latest fantasy basketball news.
+Alexa, read me recent NHL headlines from RotoWire.
+Alexa, disable roto wire

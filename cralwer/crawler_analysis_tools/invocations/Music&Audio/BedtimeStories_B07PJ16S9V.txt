@@ -1,0 +1,4 @@
+Alexa, open bedtime stories
+Alexa, stop.
+Alexa, start Bedtime Stories
+Alexa, disable bedtime stories

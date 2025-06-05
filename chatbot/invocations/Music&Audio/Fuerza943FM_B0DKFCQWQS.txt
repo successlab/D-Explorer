@@ -1,0 +1,5 @@
+Alexa, open fuerza nine four three f. m.
+Alexa, play Fuerza Nine Four Three F. M.
+Alexa, pause
+Alexa, resume
+Alexa, disable fuerza nine four three f. m.

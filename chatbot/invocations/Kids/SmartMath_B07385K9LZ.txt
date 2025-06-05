@@ -1,0 +1,5 @@
+Alexa, open smart math
+Alexa, open Smart Math.
+Alexa, open Smart Math and start addition.
+Alexa, open Smart Math and start division.
+Alexa, disable smart math

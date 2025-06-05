@@ -1,0 +1,4 @@
+Alexa, open bus link
+Alexa, open bus link and give me bus number sixteen
+tell me bus number ten please
+Alexa, disable bus link

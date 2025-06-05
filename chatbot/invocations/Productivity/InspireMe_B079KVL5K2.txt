@@ -1,0 +1,4 @@
+Alexa, open inspire me
+good morning
+tell me a quote
+Alexa, disable inspire me

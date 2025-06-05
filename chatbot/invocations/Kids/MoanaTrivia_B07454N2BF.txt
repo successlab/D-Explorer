@@ -1,0 +1,5 @@
+Alexa, open moana trivia
+Alexa start Moana Trivia
+Alexa ask Moana Trivia to start a quiz
+Alexa launch Moana Trivia
+Alexa, disable moana trivia

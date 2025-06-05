@@ -1,0 +1,3 @@
+Alexa, open alien garden
+Alexa, start alien garden
+Alexa, disable alien garden

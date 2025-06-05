@@ -1,0 +1,4 @@
+Alexa, open name accents
+My Name is Joaquin
+It is in Spanish language
+Alexa, disable name accents

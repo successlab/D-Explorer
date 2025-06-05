@@ -1,0 +1,5 @@
+Alexa, open tree facts
+Alexa, ask tree facts to tell me about tree
+Alexa, tree facts
+about tree
+Alexa, disable tree facts

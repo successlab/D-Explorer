@@ -1,0 +1,4 @@
+Alexa, set living room to 72 degrees
+Alexa, set living room to auto
+Alexa, turn on living room fan
+Alexa, disable Hx™Thermostat

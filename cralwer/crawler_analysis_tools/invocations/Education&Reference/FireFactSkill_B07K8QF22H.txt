@@ -1,0 +1,5 @@
+Alexa, open wildfire facts
+Alexa, ask wildfire facts if California is on fire
+Alexa, ask wildfire facts is Cali on fire again
+Alexa, ask Wildfire Facts tell me a fact
+Alexa, disable wildfire facts

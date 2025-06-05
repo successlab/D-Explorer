@@ -1,0 +1,4 @@
+Alexa, open seeking santa
+Alexa, start Seeking Santa
+Alexa, launch Seeking Santa
+Alexa, disable seeking santa

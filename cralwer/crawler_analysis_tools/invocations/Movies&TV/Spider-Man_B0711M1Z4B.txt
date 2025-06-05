@@ -1,0 +1,4 @@
+Alexa, open spiderman
+Alexa, ask Spiderman to go behind the scenes
+Alexa, ask Spiderman for a quiz
+Alexa, disable spiderman

@@ -1,0 +1,4 @@
+Alexa, open type finder
+Alexa, ask type finder to start the test
+Alexa, tell type finder to begin testing
+Alexa, disable type finder

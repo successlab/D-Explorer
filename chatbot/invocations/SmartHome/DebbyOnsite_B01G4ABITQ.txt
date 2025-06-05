@@ -1,0 +1,5 @@
+Alexa, open debby onsite
+Alexa, tell Debby onsite to say hello to Frank.
+Alexa, tell Debby Onsite I left the white extension cord in the family room filing cabinet.
+Alexa, ask Debby Onsite where is the white extension cord.
+Alexa, disable debby onsite

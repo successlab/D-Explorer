@@ -1,0 +1,4 @@
+Alexa, open jurassic park trivia
+Alexa, play Jurassic Park trivia
+Alexa, launch Jurassic Park trivia
+Alexa, disable jurassic park trivia

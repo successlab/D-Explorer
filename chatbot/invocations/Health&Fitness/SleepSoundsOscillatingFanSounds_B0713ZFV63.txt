@@ -1,0 +1,6 @@
+Alexa, open oscillating fan sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Oscillating Fan Sounds
+Alexa, launch Oscillating Fan Sounds
+Alexa, disable oscillating fan sounds

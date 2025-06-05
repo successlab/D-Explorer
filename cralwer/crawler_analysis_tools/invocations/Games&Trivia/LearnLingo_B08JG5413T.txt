@@ -1,0 +1,4 @@
+Alexa, open learn lingo
+Alexa start Learn Lingo
+Alexa launch Learn Lingo
+Alexa, disable learn lingo

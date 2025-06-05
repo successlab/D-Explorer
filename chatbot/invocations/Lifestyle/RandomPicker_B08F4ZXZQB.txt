@@ -1,0 +1,4 @@
+Alexa, open random picker
+Alexa, stop
+Alexa, start random picker
+Alexa, disable random picker

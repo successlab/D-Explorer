@@ -1,0 +1,5 @@
+Alexa, open count number
+Alexa begin count number
+Alexa ask count number upto 20
+Alexa ask count number from 10 upto 100 by 10
+Alexa, disable count number

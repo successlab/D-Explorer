@@ -1,0 +1,2 @@
+Alexa，turn on AC
+Alexa, disable PioneerSmartACLink

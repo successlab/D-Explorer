@@ -1,0 +1,5 @@
+Alexa, open somfy
+Alexa, ask Somfy to arm the alarm.
+Alexa, ask Somfy to enable night mode.
+Alexa, ask Somfy what happened this week.
+Alexa, disable somfy

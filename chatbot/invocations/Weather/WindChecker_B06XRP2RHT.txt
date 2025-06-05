@@ -1,0 +1,4 @@
+Alexa, open wind checker
+Alexa, ask Wind Checker if we can go sailing in Seattle tomorrow
+Can we go sailing in Sausalito on Tuesday
+Alexa, disable wind checker

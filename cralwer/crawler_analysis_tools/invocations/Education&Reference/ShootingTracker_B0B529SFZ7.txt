@@ -1,0 +1,5 @@
+Alexa, open shooting tracker
+Alexa, ask Shooting Tracker for information on the most recent mass shooting.
+Alexa ask Shooting Tracker when was the last mass shooting
+Alexa ask Shooting Tracker was there a mass shooting recently in the United States
+Alexa, disable shooting tracker

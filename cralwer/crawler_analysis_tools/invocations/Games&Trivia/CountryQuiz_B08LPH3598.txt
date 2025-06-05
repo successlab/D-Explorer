@@ -1,0 +1,5 @@
+Alexa, open country quiz
+Alexa, next
+Alexa, stop
+Alexa, start country quiz
+Alexa, disable country quiz

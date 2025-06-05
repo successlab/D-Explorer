@@ -1,0 +1,4 @@
+Alexa, open quiz game
+Alexa ask quiz game to start a quiz
+Alexa ask quiz game to tell me about countryname
+Alexa, disable quiz game

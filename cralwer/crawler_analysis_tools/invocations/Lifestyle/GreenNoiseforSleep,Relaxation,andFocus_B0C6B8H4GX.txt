@@ -1,0 +1,4 @@
+Alexa, open green noise
+Alexa ask green noise to play for 30 minutes
+Alexa stop
+Alexa, disable green noise

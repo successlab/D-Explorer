@@ -1,0 +1,3 @@
+Alexa, open good fact
+Alexa, start good fact
+Alexa, disable good fact

@@ -1,0 +1,5 @@
+Alexa, open american basketball trivia
+Alexa, ask american basketball trivia
+my answer is Two
+I don't know this question
+Alexa, disable american basketball trivia

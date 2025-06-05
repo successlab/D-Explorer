@@ -1,0 +1,4 @@
+Alexa, open settle up
+Alexa, ask Settle Up who should pay
+Alexa, ask Settle Up who should pay in group Skiing 2018
+Alexa, disable settle up

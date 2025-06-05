@@ -1,0 +1,8 @@
+Alexa, open sintonia espiritual
+Alexa, pausa
+Alexa, reanuda.
+Alexa, para
+Alexa, reproduce aleatoriamente
+Alexa, repite en bucle
+Alexa, abre sintonia espiritual
+Alexa, disable sintonia espiritual

@@ -1,0 +1,5 @@
+Alexa, open stitch counter
+Alexa start Stitch Counter
+Alexa ask Stitch Counter to count ten rows
+Alexa ask Stitch Counter to count five stitches
+Alexa, disable stitch counter

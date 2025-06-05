@@ -1,0 +1,5 @@
+Alexa, open virtual teacher
+Alexa, launch Virtual Teacher.
+Alexa, ask virtual teacher to record the morning register for classroom
+Alexa, ask virtual teacher to get today's attendance report for classroom
+Alexa, disable virtual teacher

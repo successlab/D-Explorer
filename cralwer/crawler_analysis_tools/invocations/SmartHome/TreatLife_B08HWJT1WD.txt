@@ -1,0 +1,4 @@
+Alexa, dim the Bedroom lights
+Alexa, make the bedroom warmer
+Alexa, turn on hallway light
+Alexa, disable TreatLife

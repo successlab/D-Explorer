@@ -1,0 +1,6 @@
+Alexa, open simple countdown
+Alexa, launch Simple Countdown.
+Alexa, launch simple countdown.
+Alexa, open simple countdown.
+Alexa, ask simple countdown to count down from 100.
+Alexa, disable simple countdown

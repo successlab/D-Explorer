@@ -1,0 +1,4 @@
+Alexa, open motivation quotes
+Motivate me
+Tell me a quote about life
+Alexa, disable motivation quotes

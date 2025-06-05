@@ -1,0 +1,4 @@
+Alexa, open jobs search
+Alexa, ask jobs search
+
+Alexa, disable jobs search

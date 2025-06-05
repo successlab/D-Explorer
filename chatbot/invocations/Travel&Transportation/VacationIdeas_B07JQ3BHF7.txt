@@ -1,0 +1,5 @@
+Alexa, open vacation ideas
+Alexa, ask vacation ideas where should I go next?
+Alexa, ask vacation ideas to give me a destination
+Alexa, ask vacation ideas to give me an idea
+Alexa, disable vacation ideas

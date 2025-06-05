@@ -1,0 +1,4 @@
+Alexa, open weekly core workout
+Alexa, start weekly core workout
+Alexa, ask weekly core workout to start workout
+Alexa, disable weekly core workout

@@ -1,0 +1,4 @@
+Alexa, open clean up game
+Alexa, start Clean Up Game
+Alexa, play Clean Up Game
+Alexa, disable clean up game

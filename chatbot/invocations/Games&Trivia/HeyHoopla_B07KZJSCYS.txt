@@ -1,0 +1,4 @@
+Alexa, open hey hoopla
+Alexa, start hey hoopla
+Alexa, launch hey hoopla
+Alexa, disable hey hoopla

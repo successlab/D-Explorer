@@ -1,0 +1,6 @@
+Alexa, open philly rails
+Alexa, ask philly rails for the times from PHILMONT to SUBURBAN STATION
+Alexa, ask Philly Rails for the times from PHILMONT to SUBURBAN STATION
+Alexa, ask Philly Rails whats the next train from PHILMONT to SUBURBAN STATION
+Alexa, ask Philly Rails if my train from PHILMONT to SUBURBAN STATION is late
+Alexa, disable philly rails

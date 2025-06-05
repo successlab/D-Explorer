@@ -1,0 +1,4 @@
+Alexa, open today's king james version
+Alexa, tell Today's King James Version to read John 3.
+Alexa, tell Today's King James Version to read today's chapter.
+Alexa, disable today's king james version

@@ -1,0 +1,5 @@
+Alexa, open kiwi holidays
+Alexa ask Kiwi Holidays for the holidays next week
+What holidays are there next month?
+Is there a holiday on December 25th?
+Alexa, disable kiwi holidays

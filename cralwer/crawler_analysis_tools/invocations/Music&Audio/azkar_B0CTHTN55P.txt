@@ -1,0 +1,3 @@
+Alexa, open daily remembrance
+Alexa, start daily remembrance
+Alexa, disable daily remembrance

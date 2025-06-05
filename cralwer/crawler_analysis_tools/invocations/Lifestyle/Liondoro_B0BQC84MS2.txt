@@ -1,0 +1,4 @@
+Alexa, open lion doro
+Alexa, lion doro
+Alexa, start lion doro
+Alexa, disable lion doro

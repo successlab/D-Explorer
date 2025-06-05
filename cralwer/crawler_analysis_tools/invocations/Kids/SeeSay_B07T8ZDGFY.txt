@@ -1,0 +1,4 @@
+Alexa, open see say
+Alexa, Play See Say
+Alexa, Start See Say.
+Alexa, disable see say

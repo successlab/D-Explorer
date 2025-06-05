@@ -1,0 +1,4 @@
+Alexa, open amity
+Alexa, ask Amity if there are any Lodges near Fort Worth
+Alexa, launch Amity
+Alexa, disable amity

@@ -1,0 +1,5 @@
+Alexa, open fun limericks
+Alexa, ask Fun Limericks to tell me a limerick.
+Tell me another one.
+Say a Limerick.
+Alexa, disable fun limericks

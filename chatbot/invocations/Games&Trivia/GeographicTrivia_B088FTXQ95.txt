@@ -1,0 +1,3 @@
+Alexa, open geographic trivia
+Alexa, launch Geographic trivia
+Alexa, disable geographic trivia

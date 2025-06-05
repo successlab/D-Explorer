@@ -1,0 +1,14 @@
+Alexa, open aprilaire
+Alexa, ask AprilAire to increase/decrease <thermostat name> temperature.
+Alexa, ask AprilAire to set <thermostat name> to <temperature>.
+Alexa, ask AprilAire to set <thermostat name> to <heat/cool/auto/emergency heat>.
+Alexa, ask AprilAire to turn on/off <thermostat name> away.
+Alexa, ask AprilAire to turn on/off <thermostat name> Air Cleaning.
+Alexa, ask AprilAire to turn on/off <thermostat name> Fresh Air.
+Alexa, ask AprilAire to turn on/off <thermostat name> Heat Blast.
+Alexa, ask AprilAire <thermostat name> status.
+Alexa, ask AprilAire what the <thermostat name> humidity is.
+Alexa, ask AprilAire to turn on air cleaning
+Alexa, ask AprilAire to turn off Heat Blast
+Alexa, ask AprilAire to turn off away
+Alexa, disable aprilaire

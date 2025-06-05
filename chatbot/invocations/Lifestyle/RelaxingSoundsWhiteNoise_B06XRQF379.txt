@@ -1,0 +1,5 @@
+Alexa, open white noise
+Alexa, Play White Noise
+Alexa, Start White Noise
+Alexa, Begin White Noise
+Alexa, disable white noise

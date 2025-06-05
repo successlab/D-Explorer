@@ -1,0 +1,3 @@
+Alexa, open jeopardy
+Alexa, play Jeopardy!
+Alexa, disable jeopardy

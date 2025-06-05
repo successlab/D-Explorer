@@ -1,0 +1,5 @@
+Alexa, open surf stat
+Alexa, ask Surf Stat what are the conditions at Manasquan
+Alexa ask surf stat what is the surf report at rockaway
+Alexa ask surf stat to give me the surf conditions for long beach
+Alexa, disable surf stat

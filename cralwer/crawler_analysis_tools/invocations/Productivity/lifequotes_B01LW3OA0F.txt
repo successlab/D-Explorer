@@ -1,0 +1,5 @@
+Alexa, open life quotes
+Alexa, start life quotes.
+Alexa, ask life quotes.
+Alexa, tell life quotes to give quotes.
+Alexa, disable life quotes

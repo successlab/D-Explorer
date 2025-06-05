@@ -1,0 +1,4 @@
+Alexa, show camera.
+Alexa, turn on air purifier.
+Alexa, set bedroom bulb to red.
+Alexa, disable MiHome

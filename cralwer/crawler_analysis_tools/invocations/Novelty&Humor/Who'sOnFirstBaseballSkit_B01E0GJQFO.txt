@@ -1,0 +1,5 @@
+Alexa, open baseball skit
+Alexa, ask Baseball Skit for instructions
+Alexa, ask Baseball Skit who's on first?
+whats my line?
+Alexa, disable baseball skit

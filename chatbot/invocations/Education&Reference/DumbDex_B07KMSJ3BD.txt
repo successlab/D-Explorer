@@ -1,0 +1,5 @@
+Alexa, open dumb dex
+Alexa, ask Dumb Dex to describe Charmander
+Alexa, ask Dumb Dex to tell me about Mewtwo
+Alexa, ask Dumb Dex who is Bulbasaur?
+Alexa, disable dumb dex

@@ -1,0 +1,5 @@
+Alexa, open daily exercise
+Alexa ask Daily Exercise What exercise should I do today
+Tell me what exercise I should do today
+Randomly pick my workout routine.
+Alexa, disable daily exercise

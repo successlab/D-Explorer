@@ -1,0 +1,4 @@
+Alexa, open s. a. r. menu
+Alexa, Open SAR Menu
+Alexa, ask S.A.R. Menu what's for lunch Monday?
+Alexa, disable s. a. r. menu

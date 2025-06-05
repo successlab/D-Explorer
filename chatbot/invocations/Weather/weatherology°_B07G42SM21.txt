@@ -1,0 +1,5 @@
+Alexa, open weatherology
+Alexa ask Weatherology to play the forecast
+Alexa ask Weatherology what's going on
+Alexa ask Weatherology to play a highlight
+Alexa, disable weatherology

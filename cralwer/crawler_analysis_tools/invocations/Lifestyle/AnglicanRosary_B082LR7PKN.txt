@@ -1,0 +1,4 @@
+Alexa, open anglican rosary
+Alexa, start anglican rosary
+Alexa, launch anglican rosary
+Alexa, disable anglican rosary

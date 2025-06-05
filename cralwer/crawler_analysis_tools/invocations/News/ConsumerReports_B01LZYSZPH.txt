@@ -1,0 +1,5 @@
+Alexa, open consumer reports
+Alexa, ask Consumer Reports for the top rated washing machine
+Alexa, ask Consumer Reports about current recalls
+Alexa, ask Consumer Reports for the latest news
+Alexa, disable consumer reports

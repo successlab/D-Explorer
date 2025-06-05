@@ -1,0 +1,3 @@
+Alexa, open lunch lady
+Alexa, ask lunch lady what's for lunch?
+Alexa, disable lunch lady

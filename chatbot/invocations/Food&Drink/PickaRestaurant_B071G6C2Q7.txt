@@ -1,0 +1,5 @@
+Alexa, open restaurant decider
+Alexa, ask Restaurant Decider where can I eat
+What type of restaurant do you recommend
+What are our options
+Alexa, disable restaurant decider

@@ -1,0 +1,4 @@
+Alexa, open smart camera
+Alexa, show camera
+Alexa, show camera.
+Alexa, disable smart camera

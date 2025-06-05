@@ -1,0 +1,6 @@
+Alexa, open blue facts
+Alexa, launch Blue Facts
+Alexa, stop
+Alexa launch blue facts
+Alexa start blue facts
+Alexa, disable blue facts

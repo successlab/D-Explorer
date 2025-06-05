@@ -1,0 +1,5 @@
+Alexa, open aggie facts
+Alexa, ask Aggie Facts for a fact
+Alexa, ask Aggie Facts to give me some Texas A&M information
+Alexa, ask Aggie Facts for some Aggie trivia
+Alexa, disable aggie facts

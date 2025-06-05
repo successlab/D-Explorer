@@ -1,0 +1,6 @@
+Alexa, open accent game
+Alexa, play Accent Game
+Alexa, stop
+Alexa play Accent Game
+Alexa start Accent Game
+Alexa, disable accent game

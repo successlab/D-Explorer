@@ -1,0 +1,4 @@
+Alexa, open critical hit table
+Alexa, launch the critical hit table
+Alexa, open the critical hit table
+Alexa, disable critical hit table

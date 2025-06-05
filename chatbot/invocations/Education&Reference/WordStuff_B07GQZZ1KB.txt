@@ -1,0 +1,4 @@
+Alexa, open word stuff
+Alexa, Launch Word Stuff
+Alexa, ask Word Stuff to add five hundred words to my project Crown of Shadows
+Alexa, disable word stuff

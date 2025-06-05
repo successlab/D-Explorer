@@ -1,0 +1,4 @@
+Alexa, open super info
+Alexa, ask super info who is goku?
+Alexa, ask super info who will win between batman and superman?
+Alexa, disable super info

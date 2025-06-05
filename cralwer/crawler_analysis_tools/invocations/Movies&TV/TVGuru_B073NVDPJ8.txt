@@ -1,0 +1,5 @@
+Alexa, open t. v. guru
+Alexa, ask T. V. Guru if Last Man Standing is canceled.
+Alexa, ask T. V. Guru is Scorpion canceled?
+Alexa, ask T. V. Guru for help.
+Alexa, disable t. v. guru

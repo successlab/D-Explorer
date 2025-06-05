@@ -1,0 +1,5 @@
+Alexa, open bot movies
+Alexa,ask bot movies to give me a latest movie
+Alexa,ask bot movies to tell me a new movie
+Alexa,ask bot movies to what is the latest movie
+Alexa, disable bot movies

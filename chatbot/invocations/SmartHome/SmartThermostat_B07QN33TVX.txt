@@ -1,0 +1,4 @@
+Alexa, increase Game Room by 2 degrees
+Alexa, decrease Game Room by 2 degrees
+Alexa, set Bedroom to 68 degrees
+Alexa, disable SmartThermostat

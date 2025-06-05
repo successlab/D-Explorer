@@ -1,0 +1,3 @@
+Alexa, open vacation countdown
+Alexa, start vacation countdown
+Alexa, disable vacation countdown

@@ -1,0 +1,4 @@
+Alexa, open learn python
+tell me a learn python
+learn python
+Alexa, disable learn python

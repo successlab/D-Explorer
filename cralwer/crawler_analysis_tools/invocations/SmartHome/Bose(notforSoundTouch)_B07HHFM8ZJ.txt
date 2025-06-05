@@ -1,0 +1,4 @@
+Alexa, next track.
+Alexa, previous track.
+Alexa, what is playing?
+Alexa, disable Bose(notforSoundTouch)

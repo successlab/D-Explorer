@@ -1,0 +1,3 @@
+Alexa, open beanstalk
+Alexa, start Beanstalk
+Alexa, disable beanstalk

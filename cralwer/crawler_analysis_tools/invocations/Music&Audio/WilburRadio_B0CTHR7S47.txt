@@ -1,0 +1,4 @@
+Alexa, open wilbur radio
+Alexa, ask wilbur radio what's playing.
+Alexa, ask wilbur radio to play live.
+Alexa, disable wilbur radio

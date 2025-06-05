@@ -1,0 +1,4 @@
+Alexa, open griffin lunch
+Alexa, start Griffin lunch
+Alexa, launch Griffin lunch
+Alexa, disable griffin lunch

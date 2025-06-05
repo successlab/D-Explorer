@@ -1,0 +1,5 @@
+Alexa, open rem sleep
+Alexa, ask rem sleep how long I should sleep.
+Alexa, ask rem sleep when to wake up.
+Alexa, ask rem sleep when I should wake up.
+Alexa, disable rem sleep

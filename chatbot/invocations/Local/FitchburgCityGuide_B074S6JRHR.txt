@@ -1,0 +1,4 @@
+Alexa, open fitchburg city guide
+Alexa ask Fitchburg City Guide tell me the local news
+Alexa ask Fitchburg City Guide where should I go
+Alexa, disable fitchburg city guide

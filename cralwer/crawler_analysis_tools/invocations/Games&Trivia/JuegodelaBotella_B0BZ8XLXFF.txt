@@ -1,0 +1,5 @@
+Alexa, open juego de la botella
+Alexa, abre Juego de la Botella
+Alexa, inicia Juego de la Botella
+Alexa, lanza Juego de la Botella
+Alexa, disable juego de la botella

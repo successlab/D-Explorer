@@ -1,0 +1,4 @@
+Alexa, open plur radio
+Alexa, start plur radio
+Alexa, ask plur radio what's playing
+Alexa, disable plur radio

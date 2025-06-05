@@ -1,0 +1,4 @@
+Alexa, open general conference
+Alexa, ask General Conference to play the general conference live
+Alexa, ask General Conference to play the latest general conference
+Alexa, disable general conference

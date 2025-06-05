@@ -1,0 +1,5 @@
+Alexa, open pep talk
+Alexa, ask Pep Talk for PEP 8.
+Alexa, ask Pep Talk what's PEP 4.
+Alexa, ask Pep Talk to read me PEP 1.
+Alexa, disable pep talk

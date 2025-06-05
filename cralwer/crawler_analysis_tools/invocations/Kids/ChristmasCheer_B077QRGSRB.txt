@@ -1,0 +1,4 @@
+Alexa, open christmas cheer
+give me a joke
+tell me a cheer
+Alexa, disable christmas cheer

@@ -1,0 +1,4 @@
+Alexa, open polish proverbs
+Alexa, tell Polish proverbs
+Alexa, ask Polish proverbs for a proverb
+Alexa, disable polish proverbs

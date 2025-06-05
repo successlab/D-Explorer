@@ -1,0 +1,4 @@
+Alexa, open cove security
+Alexa ask Cove Security to arm to away mode
+Alexa ask Cove Security for my alarm status
+Alexa, disable cove security

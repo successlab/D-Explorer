@@ -1,0 +1,5 @@
+Alexa, open pick a number
+Alexa, pick a number
+range is 45 to 89
+maybe 72
+Alexa, disable pick a number

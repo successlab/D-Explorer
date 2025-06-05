@@ -1,0 +1,4 @@
+Alexa, open cat poop
+Alexa, open cat litter
+Alexa, ask cat litter who should take out the trash
+Alexa, disable cat poop

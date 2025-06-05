@@ -1,0 +1,5 @@
+Alexa, open mix latina radio
+Alexa, Abre mix latina radio
+Alexa, Reproduce mix latina radio
+Alexa, Inicia mix latina radio
+Alexa, disable mix latina radio

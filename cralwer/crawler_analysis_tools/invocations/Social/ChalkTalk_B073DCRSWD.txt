@@ -1,0 +1,5 @@
+Alexa, open chalk talk
+Alexa, tell chalk talk to send a message
+Alexa, tell chalk talk to read my messages
+Alexa, tell chalk talk send a sound message
+Alexa, disable chalk talk

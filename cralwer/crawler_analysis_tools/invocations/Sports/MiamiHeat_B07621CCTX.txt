@@ -1,0 +1,5 @@
+Alexa, open heat
+Alexa, open the Heat
+Alexa, ask the Heat who's winning tonight
+Alexa, ask the Heat, when is the next game
+Alexa, disable heat

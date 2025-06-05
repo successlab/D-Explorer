@@ -1,0 +1,4 @@
+Alexa, open uplift efficiency
+Alexa, ask Uplift Efficiency to open the day planner
+Alexa, ask Uplift Efficiency to begin a work session
+Alexa, disable uplift efficiency

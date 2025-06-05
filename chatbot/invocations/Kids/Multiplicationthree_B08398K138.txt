@@ -1,0 +1,6 @@
+Alexa, open multiplication three
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, start multiplication three
+Alexa, disable multiplication three

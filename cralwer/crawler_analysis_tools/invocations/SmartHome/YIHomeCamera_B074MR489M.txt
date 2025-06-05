@@ -1,0 +1,4 @@
+Alexa, show me the office camera
+Alexa, show me the backyard camera
+Alexa, show me the room camera
+Alexa, disable YIHomeCamera

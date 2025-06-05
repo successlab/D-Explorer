@@ -1,0 +1,4 @@
+Alexa, open sleep sounds bubbles water
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds bubbles water

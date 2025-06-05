@@ -1,0 +1,4 @@
+Alexa, open tornado sirens
+Alexa ask tornado sirens to start the sirens
+Alexa ask tornado sirens to get on the floor
+Alexa, disable tornado sirens

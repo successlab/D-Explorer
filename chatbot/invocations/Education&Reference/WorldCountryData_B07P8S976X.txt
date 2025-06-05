@@ -1,0 +1,5 @@
+Alexa, open world country data
+Alexa, ask World Country Data what is the population of New Zealand
+Alexa, ask World Country Data play the national anthem of Belgium
+Alexa, ask World Country Data which countries export the most
+Alexa, disable world country data

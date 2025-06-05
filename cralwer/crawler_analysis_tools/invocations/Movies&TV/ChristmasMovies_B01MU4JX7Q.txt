@@ -1,0 +1,6 @@
+Alexa, open christmas movies
+Alexa, ask Christmas Movies to give me a fact.
+Alexa, ask Christmas Movies for a fact
+Alexa, ask Christmas Movies to give me a fact
+Alexa, ask Christmas Movies
+Alexa, disable christmas movies

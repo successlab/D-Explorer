@@ -1,0 +1,8 @@
+Alexa, turn on the 'coffee pot'
+Alexa, set the 'office lights' to 50%
+Alexa, dim/brighten the 'entry way lights'
+Alexa, turn on the 'after hours' scene
+Alexa, turn on the coffee pot
+Alexa, set the kitchen lights to 50%
+Alexa, dim the bedroom lights
+Alexa, disable Avi-onSmartHome

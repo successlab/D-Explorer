@@ -1,0 +1,5 @@
+Alexa, open reverse this
+Alexa launch Reverse This
+Alexa ask Reverse This to say hello
+Alexa tell Reverse This to reverse hello
+Alexa, disable reverse this

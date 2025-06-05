@@ -1,0 +1,5 @@
+Alexa, open teddy's jokes
+Alexa, ask Teddy's Jokes to tell me a joke.
+Alexa ask Teddy's Jokes for something funny
+Alexa ask Teddy's Jokes to give me a joke
+Alexa, disable teddy's jokes

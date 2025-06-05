@@ -1,0 +1,4 @@
+Alexa, open infinity war trivia
+yes
+no
+Alexa, disable infinity war trivia

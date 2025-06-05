@@ -1,0 +1,5 @@
+Alexa, open hubble
+Alexa, ask hubble to tell temperature
+Alexa, ask hubble to disable motion recording
+Alexa, ask hubble to play lullaby
+Alexa, disable hubble

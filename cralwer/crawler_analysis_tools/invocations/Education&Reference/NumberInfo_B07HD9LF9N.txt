@@ -1,0 +1,4 @@
+Alexa, open number info
+Alexa, ask number info to tell me information about thirty four
+Alexa, ask number info about eight
+Alexa, disable number info

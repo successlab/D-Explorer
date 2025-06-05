@@ -1,0 +1,5 @@
+Alexa, open french words
+Alexa, ask French Words for my word of the day
+Alexa, open French Words and get my word of the day
+Alexa, ask French Words to spell the word of the day
+Alexa, disable french words

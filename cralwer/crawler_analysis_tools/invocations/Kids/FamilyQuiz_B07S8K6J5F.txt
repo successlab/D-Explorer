@@ -1,0 +1,5 @@
+Alexa, open family quiz
+Alexa, next
+Alexa, stop
+Alexa, start Family Quiz
+Alexa, disable family quiz

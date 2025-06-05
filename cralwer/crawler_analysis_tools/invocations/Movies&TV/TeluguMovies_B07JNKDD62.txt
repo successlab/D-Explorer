@@ -1,0 +1,5 @@
+Alexa, open telugu movies
+Alexa ask telugu movies for upcoming movies
+Alexa ask telugu movies for new movies
+Alexa ask telugu movies for next coming movies
+Alexa, disable telugu movies

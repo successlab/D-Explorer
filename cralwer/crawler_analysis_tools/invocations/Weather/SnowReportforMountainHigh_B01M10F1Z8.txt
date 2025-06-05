@@ -1,0 +1,4 @@
+Alexa, open mountain high
+Alexa, ask Mountain High for the snow report
+Alexa, ask Mountain High for latest conditions
+Alexa, disable mountain high

@@ -1,0 +1,8 @@
+Alexa, open hoover robot
+Alexa, Ask Hoover Robot to start mission
+Alexa, Ask Hoover Robot to stop mission
+Alexa, Ask Hoover Robot to return to base
+Alexa, ask Hoover Robot to start mission.
+Alexa, ask Hoover Robot to stop mission.
+Alexa, ask Hoover Robot to return to base.
+Alexa, disable hoover robot

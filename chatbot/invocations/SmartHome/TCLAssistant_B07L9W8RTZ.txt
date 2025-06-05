@@ -1,0 +1,18 @@
+Alexa, turn off Bedroom TV.
+Alexa, turn on Bedroom TV.
+Alexa, turn up the volume by 30 on Bedroom TV.
+Alexa, turn down the volume by 20 percent on Bedroom TV.
+Alexa, set volume to 20 on Bedroom TV.
+Alexa, mute Bedroom TV.
+Alexa, unmute Bedroom TV.
+Alexa, change input to HDMI 1 on Bedroom TV.
+Alexa, change to channel 5.1 on Bedroom TV.
+Alexa, change channel to BBC on Bedroom TV.
+Alexa, pause on Bedroom TV.
+Alexa, resume play on Bedroom TV.
+Alexa, fast forward on Bedroom TV.
+Alexa, rewind on Bedroom TV.
+Alexa, set volume to 20 on Bedroom TV
+Alexa, switch input to HDMI 1 on Bedroom TV
+Alexa, change channel to BBC on Bedroom TV
+Alexa, disable TCLAssistant

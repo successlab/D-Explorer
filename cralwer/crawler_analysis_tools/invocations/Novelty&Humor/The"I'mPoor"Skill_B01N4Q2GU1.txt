@@ -1,0 +1,4 @@
+Alexa, open poor
+tell me
+who is poor
+Alexa, disable poor

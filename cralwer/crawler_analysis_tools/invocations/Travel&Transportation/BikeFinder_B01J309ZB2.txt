@@ -1,0 +1,5 @@
+Alexa, open bike finder
+Alexa, ask Bike Finder how many bikes are available at my station
+Alexa, ask Bike Finder if there are any bikes available
+Alexa, ask Bike Finder how many bikes are available
+Alexa, disable bike finder

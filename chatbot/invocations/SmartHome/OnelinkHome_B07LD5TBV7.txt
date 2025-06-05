@@ -1,0 +1,5 @@
+Alexa, open onelink
+Alexa, ask Onelink, what is the status of my smoke alarm
+Alexa, ask Onelink, status of home
+How do I test my alarm?
+Alexa, disable onelink

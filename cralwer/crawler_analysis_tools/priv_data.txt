@@ -1,0 +1,113 @@
+Privacy Data:
+- The developer reported that this skill does not collect personal information.: 33490
+
+- Your requests to this skill are not shared with the skill developer.: 7480
+
+- Developer Privacy Policy: 16476
+
+- Developer Privacy Policy (Spanish, US): 426
+
+- Developer Privacy Policy (Spanish, MX): 324
+
+- Developer Privacy Policy (Spanish, ES): 328
+
+- Developer Privacy Policy (English, GB): 7
+
+- Developer Privacy Policy (English, IN): 12
+
+- Developer Privacy Policy (Italian, IT): 6
+
+- Developer Privacy Policy (German, DE): 9
+
+- Developer Privacy Policy (French, FR): 6
+
+- Developer Privacy Policy (French, CA): 4
+
+- Developer Privacy Policy (Arabic, SA): 25
+
+- Developer Privacy Policy (Portuguese, BR): 9
+
+- Developer Privacy Policy (English, CA): 1
+
+- Developer Privacy Policy (English, AU): 3
+
+- Orange Rain Premium $4.99/month: 1
+
+- N: 10
+
+- Azure Noise Premium $4.99/month: 1
+
+- Park Fountain Premium $4.99/month: 1
+
+- Yoga Flow Premium $9.99/month: 1
+
+- This skill contains: dynamic content.: 1
+
+- Invocation Name: my care team: 1
+
+- Developer Terms of Use: 1
+
+- Sailing Sounds Premium $4.99/month: 1
+
+- Bedtime Fan Premium $1.50/month: 1
+
+- Musical Elements $1.99: 1
+
+- Premium Cat Sounds Alarm $1.99: 1
+
+- Duck Pond Gold $1.99: 1
+
+- Expanded Options $0.99: 1
+
+- Exercise Timer $2.99/year: 1
+
+- premium $2.99: 1
+
+- Punk Alarm Tone $1.99: 1
+
+- prem $1.99: 1
+
+- Crazy Carpet Tone $0.99: 1
+
+- Premium Ukulele Sounds Alarm $1.99: 1
+
+- Premium Heavy Rain Alarm $1.99: 1
+
+- 3P Discounts 8 Consumable In-Skill Product $0.99: 1
+
+- 3P Discounts 8 Entitlement In-Skill Product $0.99: 1
+
+- 3P Discounts 8 Subscription In-Skill Product $0.99/month: 1
+
+- Expansion Pack $0.99: 1
+
+- All Access $0.99: 2
+
+- Premium Entitlement Product $0.99: 1
+
+- Premium Subscription Product $0.99/month: 1
+
+- Developer Privacy Policy (Hindi, IN): 3
+
+- Additional graded item info $0.99: 1
+
+| Privacy Data Description                                      | Count |
+|---------------------------------------------------------------|-------|
+| Skill does not collect personal information                   | 33490 |
+| Requests to skill are not shared with developer               | 7480  |
+| Developer Privacy Policy                                      | 16476 |
+| Developer Privacy Policy (Spanish, US)                        | 426   |
+| Developer Privacy Policy (Spanish, MX)                        | 324   |
+| Developer Privacy Policy (Spanish, ES)                        | 328   |
+| Developer Privacy Policy (English, GB)                        | 7     |
+| Developer Privacy Policy (English, IN)                        | 12    |
+| Developer Privacy Policy (Italian, IT)                        | 6     |
+| Developer Privacy Policy (German, DE)                         | 9     |
+| Developer Privacy Policy (French, FR)                         | 6     |
+| Developer Privacy Policy (French, CA)                         | 4     |
+| Developer Privacy Policy (Arabic, SA)                         | 25    |
+| Developer Privacy Policy (Portuguese, BR)                     | 9     |
+| Developer Privacy Policy (English, CA)                        | 1     |
+| Developer Privacy Policy (English, AU)                        | 3     |
+| Developer Terms of Use                                        | 1     |
+| Developer Privacy Policy (Hindi, IN)                          | 3     |

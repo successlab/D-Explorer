@@ -1,0 +1,4 @@
+Alexa, open community resource
+Alexa ask community resource for balance
+Alexa ask community resource for transactions
+Alexa, disable community resource

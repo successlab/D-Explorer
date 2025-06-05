@@ -1,0 +1,5 @@
+Alexa, open currency converter
+Alexa, ask Currency Converter to convert twenty dollars to euros
+Alexa, tell Currency Converter to give me a rate
+Alexa, ask Currency Converter to exchange currency between reals and bolivars
+Alexa, disable currency converter

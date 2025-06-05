@@ -1,0 +1,4 @@
+Alexa, open intruder alarm
+Alexa, start intruder alarm
+Alexa, launch intruder alarm
+Alexa, disable intruder alarm

@@ -1,0 +1,4 @@
+Alexa, open washington state game
+Alexa, next
+Alexa, start washington state game
+Alexa, disable washington state game

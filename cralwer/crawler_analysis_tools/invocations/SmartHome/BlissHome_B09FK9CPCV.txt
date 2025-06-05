@@ -1,0 +1,4 @@
+Alexa, discover my devices
+Alexa, turn on my bedroom light
+Alexa, turn off my bedroom light
+Alexa, disable BlissHome

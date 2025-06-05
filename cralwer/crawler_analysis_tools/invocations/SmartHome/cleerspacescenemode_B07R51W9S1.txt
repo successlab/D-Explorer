@@ -1,0 +1,3 @@
+Alexa, open scene mode switch
+Alexa, scene mode switch
+Alexa, disable scene mode switch

@@ -1,0 +1,4 @@
+Alexa, open baymax
+Alexa, launch Baymax
+Alexa, start Baymax
+Alexa, disable baymax

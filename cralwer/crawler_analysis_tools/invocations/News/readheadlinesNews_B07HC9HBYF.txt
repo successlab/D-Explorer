@@ -1,0 +1,4 @@
+Alexa, open read headlines
+Alexa, launch read headlines
+Alexa, start read headlines
+Alexa, disable read headlines

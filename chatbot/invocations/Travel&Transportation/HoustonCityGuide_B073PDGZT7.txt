@@ -1,0 +1,4 @@
+Alexa, open houston city guide
+Alexa, ask houston city guide to give me an attraction
+Alexa, ask houston city guide to get me the news
+Alexa, disable houston city guide

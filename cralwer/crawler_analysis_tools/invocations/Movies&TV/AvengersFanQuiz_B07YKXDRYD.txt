@@ -1,0 +1,5 @@
+Alexa, open avengers fan quiz
+Alexa, next
+Alexa, stop
+Alexa, start Avengers Fan quiz
+Alexa, disable avengers fan quiz

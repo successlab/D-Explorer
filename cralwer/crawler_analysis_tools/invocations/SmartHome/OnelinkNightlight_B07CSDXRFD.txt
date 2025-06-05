@@ -1,0 +1,4 @@
+Alexa, turn on Office
+Alexa, set Baby Room to green
+Alexa, brighten the Bedroom by 70%
+Alexa, disable OnelinkNightlight

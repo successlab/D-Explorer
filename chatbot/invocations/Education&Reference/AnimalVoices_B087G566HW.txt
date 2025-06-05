@@ -1,0 +1,4 @@
+Alexa, open animal voices
+Zebra
+Dinosaur
+Alexa, disable animal voices

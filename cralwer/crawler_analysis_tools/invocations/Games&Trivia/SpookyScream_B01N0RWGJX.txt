@@ -1,0 +1,5 @@
+Alexa, open spooky scream
+Alexa, start Spooky Scream
+Alexa, ask Spooky Scream to start in five seconds
+Alexa, ask Spooky Scream to start in two minutes
+Alexa, disable spooky scream

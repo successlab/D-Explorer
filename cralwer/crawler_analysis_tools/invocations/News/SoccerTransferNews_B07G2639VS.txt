@@ -1,0 +1,5 @@
+Alexa, open transfer news
+Alexa, Ask transfer news update
+Alexa, Ask transfer news give me update
+Alexa, Ask transfer news flash briefing
+Alexa, disable transfer news

@@ -1,0 +1,3 @@
+Alexa, open captains log
+LOAD yesterday
+Alexa, disable captains log

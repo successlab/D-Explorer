@@ -1,0 +1,5 @@
+Alexa, open jurassic sounds
+Alexa, open Jurassic Sounds.
+Alexa, ask Jurassic Sounds how a Tyrannosaurus sounded.
+Alexa, ask Jurassic Sounds how big a Brachiosaurus was.
+Alexa, disable jurassic sounds

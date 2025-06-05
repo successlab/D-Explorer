@@ -1,0 +1,5 @@
+Alexa, open tennis geek
+Alexa, ask tennis geek for a fact
+Alexa, ask tennis geek for some information
+Alexa, ask tennis geek for a trivia
+Alexa, disable tennis geek

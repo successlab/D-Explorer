@@ -1,0 +1,4 @@
+Alexa, open pressure cooker
+Alexa, ask Pressure Cooker what the cooking time for chicken is
+Alexa, ask Pressure Cooker how long it takes to cook sweet potatoes
+Alexa, disable pressure cooker

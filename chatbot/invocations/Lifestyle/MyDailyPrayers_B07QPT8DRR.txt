@@ -1,0 +1,5 @@
+Alexa, open my daily prayers
+Alexa, next
+Alexa, stop
+Alexa, start my daily prayers
+Alexa, disable my daily prayers

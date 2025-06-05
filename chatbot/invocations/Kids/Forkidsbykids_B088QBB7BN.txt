@@ -1,0 +1,7 @@
+Alexa, open eight multiplication tables
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start eight multiplication tables
+Alexa, disable eight multiplication tables

@@ -1,0 +1,3 @@
+Alexa, open general knowledge
+Alexa, start general knowledge
+Alexa, disable general knowledge

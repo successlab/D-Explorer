@@ -1,0 +1,6 @@
+Alexa, open nikhil state capitals
+Alexa, I want to find the capital of [your state here]
+Alexa, [your state here]
+Alexa, I want to find the capital of [your state here]
+Alexa, [your state here]
+Alexa, disable nikhil state capitals

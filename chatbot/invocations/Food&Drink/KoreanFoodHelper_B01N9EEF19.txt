@@ -1,0 +1,5 @@
+Alexa, open korean food helper
+Alexa, ask korean food helper to How can I build a kimchi
+How can I build a bulgogi
+How can you build a gimbap
+Alexa, disable korean food helper

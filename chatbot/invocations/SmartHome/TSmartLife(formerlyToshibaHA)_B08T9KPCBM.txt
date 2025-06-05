@@ -1,0 +1,4 @@
+Alexa, turn on air purifier
+Alexa, set air purifier to smoke mode.
+Alexa, set air purifier to sleep mode.
+Alexa, disable TSmartLife(formerlyToshibaHA)

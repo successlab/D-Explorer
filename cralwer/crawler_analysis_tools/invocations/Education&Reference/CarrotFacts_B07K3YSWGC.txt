@@ -1,0 +1,5 @@
+Alexa, open carrot facts
+Alexa talk to Carrot Facts
+Alexa ask Carrot Facts to tell me a fact
+Alexa ask Carrot Facts for a fact
+Alexa, disable carrot facts

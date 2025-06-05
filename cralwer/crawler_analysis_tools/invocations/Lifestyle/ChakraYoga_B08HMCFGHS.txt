@@ -1,0 +1,4 @@
+Alexa, open chakra yoga
+Alexa, start chakra yoga
+Alexa, ask chakra yoga to start workout
+Alexa, disable chakra yoga

@@ -1,0 +1,5 @@
+Alexa, open day time
+Alexa, open day time for the time right now
+Alexa, open day time and day of August 1st 2017
+Alexa, ask day time for what day falls on December 1st 2017
+Alexa, disable day time

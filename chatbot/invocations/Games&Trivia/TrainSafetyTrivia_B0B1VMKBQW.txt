@@ -1,0 +1,4 @@
+Alexa, open train safety trivia
+help
+start game
+Alexa, disable train safety trivia

@@ -1,0 +1,6 @@
+Alexa, open general knowledge
+Alexa, launch States Quiz
+Alexa, open States Quiz
+Alexa, stop
+Alexa, play general knowledge
+Alexa, disable general knowledge

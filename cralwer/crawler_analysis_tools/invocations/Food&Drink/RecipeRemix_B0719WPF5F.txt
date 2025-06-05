@@ -1,0 +1,5 @@
+Alexa, open recipe remix
+Alexa, ask recipe remix to play
+Alexa, ask recipe remix to pause
+Alexa, ask recipe remix for ingredients
+Alexa, disable recipe remix

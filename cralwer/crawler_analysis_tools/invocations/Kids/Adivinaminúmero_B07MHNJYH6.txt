@@ -1,0 +1,5 @@
+Alexa, open adivina mi número
+Alexa, abre adivina mi número
+23
+terminar
+Alexa, disable adivina mi número

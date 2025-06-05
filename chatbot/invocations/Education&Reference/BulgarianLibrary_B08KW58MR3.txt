@@ -1,0 +1,5 @@
+Alexa, open bulgarian library
+Alexa, ask bulgarian library to play story stone in the swamp
+Alexa, ask bulgarian library to play album christmas songs
+Alexa, ask bulgarian library to play radio horizon
+Alexa, disable bulgarian library

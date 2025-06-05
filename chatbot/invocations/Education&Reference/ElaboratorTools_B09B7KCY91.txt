@@ -1,0 +1,3 @@
+Alexa, open elaborator tools
+Alexa, start elaborator tools
+Alexa, disable elaborator tools

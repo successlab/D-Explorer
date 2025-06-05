@@ -1,0 +1,4 @@
+Alexa, open sleep sounds birds
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds birds

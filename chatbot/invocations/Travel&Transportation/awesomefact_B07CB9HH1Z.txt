@@ -1,0 +1,2 @@
+Alexa, open awesome fact
+Alexa, disable awesome fact

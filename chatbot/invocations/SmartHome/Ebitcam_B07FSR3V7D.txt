@@ -1,0 +1,7 @@
+Alexa, show office.
+Alexa, show my office camera
+Alexa, turn on ofiice socket
+Alexa, turn off office socket
+Alexa, show my office camera.
+Alexa,hide office.
+Alexa, disable Ebitcam

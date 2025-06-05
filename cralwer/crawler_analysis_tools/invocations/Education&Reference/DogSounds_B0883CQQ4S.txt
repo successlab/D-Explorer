@@ -1,0 +1,3 @@
+Alexa, open dog sounds
+Alexa, play a golden retriever bark
+Alexa, disable dog sounds

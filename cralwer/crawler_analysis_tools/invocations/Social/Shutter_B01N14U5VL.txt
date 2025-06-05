@@ -1,0 +1,5 @@
+Alexa, open shutter remote
+Alexa, take a picture with Shutter Remote
+Alexa, tell Shutter Remote to take a picture
+Alexa, tell Shutter Remote to snap a selfie
+Alexa, disable shutter remote

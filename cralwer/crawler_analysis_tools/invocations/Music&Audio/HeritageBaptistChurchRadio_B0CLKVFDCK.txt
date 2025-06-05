@@ -1,0 +1,4 @@
+Alexa, open h. b. c. radio
+Alexa, start h. b. c. radio
+Alexa, ask h. b. c. radio what's playing
+Alexa, disable h. b. c. radio

@@ -1,0 +1,4 @@
+Alexa, open waste management
+Alexa, ask waste management what is the Christmas collection schedule for the city of Decatur
+Alexa, ask waste management what is the Thanksgiving trash schedule for the city of Decatur.
+Alexa, disable waste management

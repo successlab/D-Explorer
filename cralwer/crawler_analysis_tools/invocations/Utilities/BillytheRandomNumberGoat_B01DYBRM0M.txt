@@ -1,0 +1,5 @@
+Alexa, open billy goat
+Alexa ask Billy Goat for a number.
+Alexa ask Billy Goat, what's my random number?
+Alexa ask Billy Goat, give me a number between five and twenty.
+Alexa, disable billy goat

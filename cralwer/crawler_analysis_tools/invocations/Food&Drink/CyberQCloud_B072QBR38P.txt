@@ -1,0 +1,5 @@
+Alexa, open cyber q. cloud
+Alexa, launch cyber q cloud
+What is my food 1 temperature
+Set food 1 target temperature to 250
+Alexa, disable cyber q. cloud

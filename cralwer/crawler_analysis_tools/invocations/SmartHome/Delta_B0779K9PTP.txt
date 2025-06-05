@@ -1,0 +1,5 @@
+Alexa, open delta
+Alexa, ask Delta to dispense 1 cup
+Alexa, ask Delta to turn on
+Alexa, ask Delta to fill coffee pot
+Alexa, disable delta

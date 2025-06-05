@@ -1,0 +1,5 @@
+Alexa, open brunt
+Alexa, open Brunt.
+Alexa, ask brunt to raise the blind
+Alexa, tell brunt to lower blind
+Alexa, disable brunt

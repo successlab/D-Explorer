@@ -1,0 +1,5 @@
+Alexa, open eliza
+Alexa, tell Eliza that I am sad
+Alexa, tell Eliza that I am bored
+Alexa, tell Eliza that I want to talk about my father
+Alexa, disable eliza

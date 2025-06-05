@@ -1,0 +1,4 @@
+Alexa, open daily core
+Alexa, start daily core
+Alexa, ask daily core to start workout
+Alexa, disable daily core

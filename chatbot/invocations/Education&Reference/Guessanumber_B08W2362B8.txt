@@ -1,0 +1,4 @@
+Alexa, open guess a number
+Alexa start guess a number
+Alexa ask guess a number
+Alexa, disable guess a number

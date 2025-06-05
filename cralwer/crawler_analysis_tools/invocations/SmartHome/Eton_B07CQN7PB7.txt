@@ -1,0 +1,7 @@
+Alexa, turn on Nightlight
+Alexa, set Nightlight to 50 percent
+Alexa, dim Nightlight by 10 percent
+Alexa, brighten Nightlight by 90 percent
+Alexa, set Nightlightto 50 percent
+Alexa, dim Nightlightby 10 percent
+Alexa, disable Eton

@@ -1,0 +1,4 @@
+Alexa, open dish duty
+Alexa, ask dish duty who is next
+Alexa, ask dish duty who is in the roster
+Alexa, disable dish duty

@@ -1,0 +1,4 @@
+Alexa, open sacred music
+Alexa, tell sacred music to play youth songs
+Alexa, ask sacred music to play children's songs
+Alexa, disable sacred music

@@ -1,0 +1,4 @@
+Alexa, open favorite person
+Alexa ask favorite person who is your favorite today
+Alexa ask favorite person to add Cinderella as favorite
+Alexa, disable favorite person

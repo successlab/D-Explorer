@@ -1,0 +1,4 @@
+Alexa, open watered the plants
+Alexa, tell Watered The Plants I just put water
+Alexa, ask watered the plants did someone water the plants?
+Alexa, disable watered the plants

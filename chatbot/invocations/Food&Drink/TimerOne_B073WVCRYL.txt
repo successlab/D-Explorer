@@ -1,0 +1,5 @@
+Alexa, open timer one
+Alexa, ask Timer One to set a timer for two minutes
+Alexa, ask Timer One for fifty seconds
+Alexa, ask Timer One for one minute
+Alexa, disable timer one

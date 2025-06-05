@@ -1,0 +1,5 @@
+Alexa, open movie finder
+Alexa, ask movie finder what is the movie where a boy learns he is a wizard
+Alexa, use movie finder to find me British war movies from the 1990s
+Alexa, ask movie finder what are the best romantic movies
+Alexa, disable movie finder

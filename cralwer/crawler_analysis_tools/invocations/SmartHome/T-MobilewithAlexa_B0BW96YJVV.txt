@@ -1,0 +1,5 @@
+Alexa, open t. mobile
+Alexa, Call Mom
+Alexa, Answer Call
+Alexa, End Call
+Alexa, disable t. mobile

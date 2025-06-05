@@ -1,0 +1,4 @@
+Alexa, open who am i
+Alexa, ask who am i to compliment me
+Alexa, ask who am i for a compliment
+Alexa, disable who am i

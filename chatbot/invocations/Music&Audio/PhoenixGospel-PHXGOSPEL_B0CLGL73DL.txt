@@ -1,0 +1,4 @@
+Alexa, open phoenix gospel
+Alexa, ask phoenix gospel what's playing.
+Alexa, ask phoenix gospel to play live.
+Alexa, disable phoenix gospel

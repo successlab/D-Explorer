@@ -1,0 +1,5 @@
+Alexa, open fortune telling
+Alexa, start FortuneTelling.
+Tell me my fortune.
+Bye
+Alexa, disable fortune telling

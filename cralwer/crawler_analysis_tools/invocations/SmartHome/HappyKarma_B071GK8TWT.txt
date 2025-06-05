@@ -1,0 +1,13 @@
+Alexa, turn on Plug
+Alexa, turn down volume on TV
+Alexa, mute on Audio
+Alexa, unmute on Audio
+Alexa, play on Audio
+Alexa, stop on Audio
+Alexa, pause Audio
+Alexa, resume Audio
+Alexa, fast forward on Audio
+Alexa, rewind on Audio
+Alexa, switch input to HDMI one on projector
+Alexa, next channel on TV
+Alexa, disable HappyKarma

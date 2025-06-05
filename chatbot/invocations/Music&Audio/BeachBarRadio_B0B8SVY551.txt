@@ -1,0 +1,4 @@
+Alexa, open beach bar radio
+Alexa, start beach bar radio
+Alexa, ask beach bar radio what's playing
+Alexa, disable beach bar radio

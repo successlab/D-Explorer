@@ -1,0 +1,4 @@
+Alexa, open french numbers
+Alexa, Start French Numbers
+Alexa, launch French Numbers
+Alexa, disable french numbers

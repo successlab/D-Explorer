@@ -1,0 +1,4 @@
+Alexa, open my news
+Alexa, open My News for USA
+Alexa, open My News for Business
+Alexa, disable my news

@@ -1,0 +1,3 @@
+Alexa, open knight manager
+Alexa, start Knight Manager
+Alexa, disable knight manager

@@ -1,0 +1,4 @@
+Alexa, open space station cam
+Alexa, Launch Space Station Cam
+Alexa, Run Space Station Cam
+Alexa, disable space station cam

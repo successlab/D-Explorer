@@ -1,0 +1,3 @@
+Alexa, open learn counting
+Alexa, start learn counting
+Alexa, disable learn counting

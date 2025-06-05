@@ -1,0 +1,4 @@
+Alexa, turn on outlet 1
+Alexa, turn on light
+Alexa, turn off light
+Alexa, disable APCHome

@@ -1,0 +1,4 @@
+Alexa, open my streamer
+Alexa, ask my streamer for free features
+help
+Alexa, disable my streamer

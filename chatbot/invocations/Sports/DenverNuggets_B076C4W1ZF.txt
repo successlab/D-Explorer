@@ -1,0 +1,5 @@
+Alexa, open nuggets
+Alexa, open the Nuggets
+Alexa, ask the Nuggets who's winning tonight
+Alexa, ask the Nuggets, when is the next game
+Alexa, disable nuggets

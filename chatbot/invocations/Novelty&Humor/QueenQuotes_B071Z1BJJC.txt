@@ -1,0 +1,5 @@
+Alexa, open queen quotes
+Alexa, ask Queen Quotes to tell me a quote.
+Alexa, ask Queen Quotes to get me a quote.
+Alexa, ask Queen Quotes for a quote.
+Alexa, disable queen quotes

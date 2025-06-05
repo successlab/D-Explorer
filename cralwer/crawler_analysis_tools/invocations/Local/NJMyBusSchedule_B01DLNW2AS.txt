@@ -1,0 +1,5 @@
+Alexa, open new jersey bus
+Alexa, ask new jersey bus when is the next bus one eight two for bus stop one two four one four
+Tell me when one eight two is coming to one two four one four
+Remember bus number one eight two and bus stop number one two four one four
+Alexa, disable new jersey bus

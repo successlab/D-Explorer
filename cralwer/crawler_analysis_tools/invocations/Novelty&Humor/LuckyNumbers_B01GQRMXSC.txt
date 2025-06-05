@@ -1,0 +1,6 @@
+Alexa, open lucky numbers
+Alexa, ask Lucky Numbers for my numbers.
+Alexa, ask Lucky Numbers for five numbers between 1 and 59.
+Alexa, ask Lucky Numbers to find five numbers between 1 and 59.
+Alexa, open Lucky Numbers.
+Alexa, disable lucky numbers

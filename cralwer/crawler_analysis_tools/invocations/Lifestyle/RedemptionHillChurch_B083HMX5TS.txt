@@ -1,0 +1,11 @@
+Alexa, open redemption hill church
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask redemption hill church for the latest talk
+Alexa, start redemption hill church
+Alexa, disable redemption hill church

@@ -1,0 +1,5 @@
+Alexa, open pelicans
+Alexa, open the Pelicans
+Alexa, ask the Pelicans who's winning tonight
+Alexa, ask the Pelicans, when is the next game
+Alexa, disable pelicans

@@ -1,0 +1,4 @@
+Alexa, open tic tac go
+Alexa, start Tic Tac Go
+Alexa, launch Tic Tac Go
+Alexa, disable tic tac go

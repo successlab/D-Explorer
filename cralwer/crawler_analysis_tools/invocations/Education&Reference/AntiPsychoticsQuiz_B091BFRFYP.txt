@@ -1,0 +1,5 @@
+Alexa, open anti psychotics quiz
+Alexa, next
+Alexa, stop
+Alexa, start anti psychotics quiz
+Alexa, disable anti psychotics quiz

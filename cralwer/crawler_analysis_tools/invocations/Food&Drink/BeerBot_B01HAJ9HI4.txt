@@ -1,0 +1,4 @@
+Alexa, open beer bot
+Find me a beer
+List microbreweries for Richmond
+Alexa, disable beer bot

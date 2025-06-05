@@ -1,0 +1,4 @@
+Alexa, turn on kitchen lights
+Alexa, set thermostat to 72 degrees
+Alexa, brighten living room lights
+Alexa, disable MobiLincSmartHome

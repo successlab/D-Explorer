@@ -1,0 +1,5 @@
+Alexa, open radius plus
+Alexa ask Radius Plus how much is a five by five unit in New York City?
+Alexa ask Radius Plus what storage is available near me?
+Alexa ask Radius Plus where is the cheapest one hundred square feet unit?
+Alexa, disable radius plus

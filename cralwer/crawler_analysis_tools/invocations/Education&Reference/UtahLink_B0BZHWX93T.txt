@@ -1,0 +1,5 @@
+Alexa, open utah link
+Alexa, ask Utah Link for the schedule
+Alexa, ask utah link for come follow me
+Alexa, ask Utah Link for the temperature
+Alexa, disable utah link

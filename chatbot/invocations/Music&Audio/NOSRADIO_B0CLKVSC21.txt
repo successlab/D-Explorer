@@ -1,0 +1,4 @@
+Alexa, open nonstop streaming radio
+Alexa, play nonstop streaming radio
+Alexa, ask nonstop streaming radio to play
+Alexa, disable nonstop streaming radio

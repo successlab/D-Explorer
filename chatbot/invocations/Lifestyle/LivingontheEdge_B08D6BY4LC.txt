@@ -1,0 +1,4 @@
+Alexa, open living on the edge
+Alexa, ask Living on the Edge for the title of this episode.
+Alexa, ask Living on the Edge for the date of this episode.
+Alexa, disable living on the edge

@@ -1,0 +1,3 @@
+Alexa, open kabs adventure
+Alexa, start kabs adventure
+Alexa, disable kabs adventure

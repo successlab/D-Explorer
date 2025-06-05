@@ -1,0 +1,5 @@
+Alexa, open school menu
+Alexa, ask school menu what's for lunch
+Alexa, ask school menu what's for lunch on Friday?
+Alexa, ask school menu what is tomorrow's menu
+Alexa, disable school menu

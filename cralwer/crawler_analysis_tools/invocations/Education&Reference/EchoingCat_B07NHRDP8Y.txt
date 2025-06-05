@@ -1,0 +1,5 @@
+Alexa, open echoing cat
+Alexa, Open Echoing Cat.
+Say 'something'.
+Stop.
+Alexa, disable echoing cat

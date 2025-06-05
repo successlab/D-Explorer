@@ -1,0 +1,4 @@
+Alexa, open noon devotion
+Alexa, start noon devotion
+Alexa, launch noon devotion
+Alexa, disable noon devotion

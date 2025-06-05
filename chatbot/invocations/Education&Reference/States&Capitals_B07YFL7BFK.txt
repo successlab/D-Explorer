@@ -1,0 +1,4 @@
+Alexa, open state capitals
+Alexa, ask state capitals to tell me a state capital
+state capitals
+Alexa, disable state capitals

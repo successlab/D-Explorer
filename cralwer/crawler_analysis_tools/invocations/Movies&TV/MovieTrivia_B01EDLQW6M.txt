@@ -1,0 +1,4 @@
+Alexa, open the movie trivia
+Alexa, run The Movie Trivia
+Exit
+Alexa, disable the movie trivia

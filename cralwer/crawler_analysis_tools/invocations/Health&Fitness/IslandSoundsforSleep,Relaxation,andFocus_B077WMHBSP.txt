@@ -1,0 +1,4 @@
+Alexa, open island sounds
+Alexa ask island sounds to play for 30 minutes
+Alexa stop
+Alexa, disable island sounds

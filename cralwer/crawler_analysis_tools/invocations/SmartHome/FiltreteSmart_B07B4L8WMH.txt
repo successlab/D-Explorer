@@ -1,0 +1,5 @@
+Alexa, open filtrete
+Alexa, ask Filtrete to check the status of my hallway filter
+Alexa, set the air purifier fan speed to 3
+Alexa, turn off the bedroom air purifier
+Alexa, disable filtrete

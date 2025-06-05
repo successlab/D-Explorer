@@ -1,0 +1,3 @@
+Alexa, open ferry genius
+Alexa, ask ferry genius for status
+Alexa, disable ferry genius

@@ -1,0 +1,4 @@
+Alexa, play music videos
+Alexa, play music videos by Beyoncé
+Alexa, play music video for the song Hello
+Alexa, disable Vevo

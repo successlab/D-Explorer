@@ -1,0 +1,5 @@
+Alexa, open carl's brain
+Alexa, ask Carl's brain for a quote
+Alexa, ask Carl's brain for some wisdom
+Alexa, ask Carl's brain for some advice
+Alexa, disable carl's brain

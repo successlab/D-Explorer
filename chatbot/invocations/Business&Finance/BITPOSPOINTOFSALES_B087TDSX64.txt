@@ -1,0 +1,4 @@
+Alexa, open bitpos point of sales
+Alexa, start bitpos point of sales
+Alexa, launch bitpos point of sales
+Alexa, disable bitpos point of sales

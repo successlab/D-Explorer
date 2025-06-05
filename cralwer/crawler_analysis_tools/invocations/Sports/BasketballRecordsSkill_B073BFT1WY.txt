@@ -1,0 +1,5 @@
+Alexa, open baller records
+Alexa, ask baller records to tell me a baller fact
+give me a baller fact
+tell me something
+Alexa, disable baller records

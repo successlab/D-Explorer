@@ -1,0 +1,5 @@
+Alexa, discover devices
+Alexa, set home to heat
+Alexa, what is home set to?
+Alexa, set home temperature to 80 degrees
+Alexa, disable EcoNet

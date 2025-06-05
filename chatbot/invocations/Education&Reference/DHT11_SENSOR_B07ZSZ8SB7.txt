@@ -1,0 +1,4 @@
+Alexa, open sensor pub
+Get Temperature Readings
+Get Humidity Readings
+Alexa, disable sensor pub

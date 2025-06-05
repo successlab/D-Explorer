@@ -1,0 +1,5 @@
+Alexa, open ultimate anime quiz
+Alexa, next
+Alexa, stop
+Alexa, start ultimate anime quiz
+Alexa, disable ultimate anime quiz

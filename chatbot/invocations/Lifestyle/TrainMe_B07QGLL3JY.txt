@@ -1,0 +1,4 @@
+Alexa, open train me
+Alexa, start Train Me
+Alexa, ask Train Me to start workout
+Alexa, disable train me

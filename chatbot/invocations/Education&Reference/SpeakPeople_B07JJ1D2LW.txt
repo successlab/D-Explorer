@@ -1,0 +1,4 @@
+Alexa, open speak people
+Alexa, ask Speak People for a term
+Alexa, tell Speak People to tell me something
+Alexa, disable speak people

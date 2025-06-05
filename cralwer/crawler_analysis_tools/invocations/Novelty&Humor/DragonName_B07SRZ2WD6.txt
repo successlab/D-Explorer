@@ -1,0 +1,4 @@
+Alexa, open dragon name
+Alexa, ask Dragon Name to make a name
+Alexa, launch Dragon Name
+Alexa, disable dragon name

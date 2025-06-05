@@ -1,0 +1,4 @@
+Alexa, turn on air conditioner
+Alexa，set air conditioner to 75 degrees
+Alexa, what's the air conditioner set to?
+Alexa, disable HisenseSmartAir

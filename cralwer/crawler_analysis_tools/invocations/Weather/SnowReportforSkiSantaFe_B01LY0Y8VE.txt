@@ -1,0 +1,4 @@
+Alexa, open ski santa fe
+Alexa, ask Ski Santa Fe for the snow report
+Alexa, ask Ski Santa Fe for latest conditions
+Alexa, disable ski santa fe

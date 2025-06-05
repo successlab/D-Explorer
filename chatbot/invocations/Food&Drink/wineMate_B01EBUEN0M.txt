@@ -1,0 +1,5 @@
+Alexa, open wine mate
+Alexa, ask wine mate what wine goes with bacon?
+Alexa, ask wine mate food for a chardonnay wine?
+Alexa, ask wine mate what food goes with champagne?
+Alexa, disable wine mate

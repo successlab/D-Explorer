@@ -1,0 +1,4 @@
+Alexa, open pogo go
+hello
+help
+Alexa, disable pogo go

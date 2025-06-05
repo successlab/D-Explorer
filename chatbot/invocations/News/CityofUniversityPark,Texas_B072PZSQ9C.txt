@@ -1,0 +1,5 @@
+Alexa, open my university park
+Alexa, ask my University Park what's in the news
+Alexa, ask my University Park what are the events
+Alexa, ask my University Park about road closures
+Alexa, disable my university park

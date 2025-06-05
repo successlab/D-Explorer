@@ -1,0 +1,4 @@
+Alexa, open gacha pets
+list my pets
+what are my options
+Alexa, disable gacha pets

@@ -1,0 +1,4 @@
+Alexa, open mango facts
+Alexa, start Mango Facts
+Alexa, launch Mango Facts
+Alexa, disable mango facts

@@ -1,0 +1,5 @@
+Alexa, open fruit stand
+Alexa, ask Fruit Stand, how do I store parsley?
+Alexa, ask Fruit Stand, how do I store these bananas?
+Alexa, ask Fruit Stand, how do I store cucumbers?
+Alexa, disable fruit stand

@@ -1,0 +1,4 @@
+Alexa, open teach my child
+Alexa, Ask Teach My Child Alphabets
+Alexa, Ask Teach My Child Numbers
+Alexa, disable teach my child

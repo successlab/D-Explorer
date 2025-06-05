@@ -1,0 +1,10 @@
+Alexa, open f. l. c. ottawa
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, open f. l. c. ottawa.
+Alexa, disable f. l. c. ottawa

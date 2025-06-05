@@ -1,0 +1,5 @@
+Alexa, open decide yes or no
+Alexa, decide yes or no
+Yes or no
+Help me choose
+Alexa, disable decide yes or no

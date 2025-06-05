@@ -1,0 +1,3 @@
+Alexa, open stephen king trivia
+Alexa, start stephen king trivia
+Alexa, disable stephen king trivia

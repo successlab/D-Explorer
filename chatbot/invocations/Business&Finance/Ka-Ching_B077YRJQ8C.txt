@@ -1,0 +1,4 @@
+Alexa, open ka ching
+Alexa, ask ka ching how much is a bitcoin?
+Alexa, ask ka ching what's the current price of a bitcoin?
+Alexa, disable ka ching

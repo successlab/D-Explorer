@@ -1,0 +1,11 @@
+Alexa, open neck shoulder stretch
+Alexa, Pause
+Alexa, Resume
+Alexa, Next
+Alexa, Go Back
+Alexa, Loop On
+Alexa, Loop Off
+Alexa, Shuffle
+Alexa, Shuffle Off
+Alexa, start neck shoulder stretch
+Alexa, disable neck shoulder stretch

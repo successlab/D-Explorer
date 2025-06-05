@@ -1,0 +1,4 @@
+Alexa, open space brain
+Alexa, ask space brain for a fact on jupiter
+Alexa, ask space brain for a quiz
+Alexa, disable space brain

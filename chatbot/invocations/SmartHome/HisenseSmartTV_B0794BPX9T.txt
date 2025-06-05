@@ -1,0 +1,20 @@
+Alexa, turn down the volume on [your TV name].
+Alexa, set volume to 5 on [your TV name].
+Alexa, turn down the volume by 2 on [your TV name].
+Alexa, mute [your TV name].
+Alexa, unmute [your TV name].
+Alexa, fast forward on [your TV name].
+Alexa, pause on [your TV name].
+Alexa, play on [your TV name].
+Alexa, stop on [your TV name].
+Alexa, switch input to HDMI1 on [your TV name].
+Alexa, turn off [your TV name].
+Alexa, change channel to [Channel Number] on [your TV name].
+Alexa, change channel to [Channel Name] on [your TV name].
+Alexa, next channel on [your TV name].
+Alexa, channel up on [your TV name].
+Alexa, channel down on [your TV name].
+Alexa, turn up the volume on Hisense TV.
+Alexa, play on Hisense TV.
+Alexa, switch input to HDMI 3 on Hisense TV
+Alexa, disable HisenseSmartTV

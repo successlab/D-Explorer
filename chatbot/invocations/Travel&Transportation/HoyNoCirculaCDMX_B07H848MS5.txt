@@ -1,0 +1,9 @@
+Alexa, open hoy no circula
+Alexa, pregúntale a Hoy No Circula qué autos no circulan hoy?
+Alexa, pregúntale a Hoy No Circula qué engomado no circula hoy?
+Alexa, pregúntale a Hoy No Circula cuándo no circula el engomado azul?
+Alexa, pregúntale a Hoy No Circula cúando no circula placa terminación 4?
+Alexa, abre Hoy No Circula
+Alexa, pregúntale a Hoy No Circula cuándo no circula el engomado rojo
+Alexa, pregúntale a Hoy No Circula qué autos no circulan
+Alexa, disable hoy no circula

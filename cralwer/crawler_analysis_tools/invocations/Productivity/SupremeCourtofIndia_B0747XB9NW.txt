@@ -1,0 +1,5 @@
+Alexa, open supreme court
+Alexa, open supreme court.
+Ask Supreme Court about my cases for tomorrow.
+Ask Supreme Court to fetch the causelist for AOR 1234 for next Monday.
+Alexa, disable supreme court

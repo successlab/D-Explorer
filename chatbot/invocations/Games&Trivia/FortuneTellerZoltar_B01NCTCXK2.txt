@@ -1,0 +1,5 @@
+Alexa, open fortune teller
+Alexa, ask Fortune Teller What is my fortune?
+When will I find true love?
+Will I get that new job?
+Alexa, disable fortune teller

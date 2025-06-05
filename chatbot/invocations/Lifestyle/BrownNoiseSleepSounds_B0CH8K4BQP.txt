@@ -1,0 +1,5 @@
+Alexa, open brown noise
+Alexa, stop.” To resume it again, say 
+Alexa launch brown noise
+Alexa start brown noise
+Alexa, disable brown noise

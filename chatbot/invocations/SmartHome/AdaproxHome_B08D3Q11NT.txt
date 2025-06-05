@@ -1,0 +1,4 @@
+Alexa, set bedroom light to green.
+Alexa, set bedroom light to cool white.
+Alexa, turn on light
+Alexa, disable AdaproxHome

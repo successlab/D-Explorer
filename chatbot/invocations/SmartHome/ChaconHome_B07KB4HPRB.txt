@@ -1,0 +1,5 @@
+Alexa, dim the Living Room lights
+Alexa, turn on kitchen
+Alexa, turn off living room
+Alexa, brighten bedroom
+Alexa, disable ChaconHome

@@ -1,0 +1,4 @@
+Alexa, open toss a coin
+Alexa, start toss a coin
+Alexa, load toss a coin
+Alexa, disable toss a coin

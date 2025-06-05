@@ -1,0 +1,5 @@
+Alexa, open my prayer clock
+Alexa, ask My Prayer Clock What time is Asar prayer
+Alexa, ask My Prayer Clock to Set a reminder for Zohar prayer
+Alexa, ask My Prayer Clock to recite Surah Rahman.
+Alexa, disable my prayer clock

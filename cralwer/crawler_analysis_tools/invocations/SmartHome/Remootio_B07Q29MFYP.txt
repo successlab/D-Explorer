@@ -1,0 +1,7 @@
+Alexa, lock the garage door
+Alexa, is the garage door locked?
+Alexa, unlock the garage door
+Alexa, lock the garage door.
+Alexa, is the front gate locked?
+Alexa, unlock the sliding gate.
+Alexa, disable Remootio

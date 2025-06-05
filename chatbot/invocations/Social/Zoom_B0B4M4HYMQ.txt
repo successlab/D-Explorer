@@ -1,0 +1,5 @@
+Alexa, open zoom
+Alexa, ask Zoom to show my upcoming meeting
+Alexa, ask Zoom to Start a meeting
+Alexa, ask Zoom to Join the meeting
+Alexa, disable zoom

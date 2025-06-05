@@ -1,0 +1,4 @@
+Alexa, open human body trivia
+Alexa, play human body trivia
+Alexa, start human body trivia
+Alexa, disable human body trivia

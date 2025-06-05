@@ -1,0 +1,3 @@
+Alexa, open lava floor
+Alexa, start lava floor
+Alexa, disable lava floor

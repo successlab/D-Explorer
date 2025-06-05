@@ -1,0 +1,4 @@
+Alexa, open gluco buddy
+Alexa, ask gluco buddy for my summary
+Alexa, ask gluco buddy for my daily report
+Alexa, disable gluco buddy

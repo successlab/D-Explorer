@@ -1,0 +1,5 @@
+Alexa, open trivia fútbol
+Alexa, Abre trivia fútbol
+Alexa, empieza trivia fútbol
+Alexa, lanza trivia fútbol
+Alexa, disable trivia fútbol

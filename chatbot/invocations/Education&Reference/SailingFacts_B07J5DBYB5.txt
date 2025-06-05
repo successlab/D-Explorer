@@ -1,0 +1,5 @@
+Alexa, open sailing facts
+Alexa, ask sailing facts for a fact
+Alexa, open sailing facts and give me a sailing fact
+Alexa, open sailing facts and tell me a fact
+Alexa, disable sailing facts

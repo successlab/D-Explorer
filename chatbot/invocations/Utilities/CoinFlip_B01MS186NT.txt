@@ -1,0 +1,5 @@
+Alexa, open coin flip
+Alexa, open Coin Flip.
+Alexa, ask Coin Flip for a coin flip.
+Alexa, ask Coin Flip to flip a coin.
+Alexa, disable coin flip

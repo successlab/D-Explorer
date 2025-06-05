@@ -1,0 +1,5 @@
+Alexa, open revista latina
+Alexa, abre Revista Latina
+¿Cuáles son las últimas noticias de Revista Latina?
+leer la noticia 1
+Alexa, disable revista latina

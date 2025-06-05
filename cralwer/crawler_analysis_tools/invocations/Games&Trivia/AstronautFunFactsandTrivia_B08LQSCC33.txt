@@ -1,0 +1,6 @@
+Alexa, open astronaut facts
+Alexa, next
+Alexa, stop
+Alexa, start astronaut facts
+Alexa, ask astronaut facts for a fact
+Alexa, disable astronaut facts

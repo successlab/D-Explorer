@@ -1,0 +1,4 @@
+Alexa, open dinosaur world
+Alexa, start Dinosaur World
+Alexa, launch Dinosaur World
+Alexa, disable dinosaur world

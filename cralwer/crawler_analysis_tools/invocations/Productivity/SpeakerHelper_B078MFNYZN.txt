@@ -1,0 +1,5 @@
+Alexa, open speaker helper
+Alexa, ask Speaker Helper to say thinker
+Alexa, ask Speaker Helper to say tinker
+Alexa, ask Speaker Helper to say sinker
+Alexa, disable speaker helper

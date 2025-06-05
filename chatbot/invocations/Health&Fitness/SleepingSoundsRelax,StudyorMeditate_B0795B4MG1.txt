@@ -1,0 +1,4 @@
+Alexa, open sleeping sounds
+Alexa, ask sleeping sounds to play flute
+Play the audio
+Alexa, disable sleeping sounds

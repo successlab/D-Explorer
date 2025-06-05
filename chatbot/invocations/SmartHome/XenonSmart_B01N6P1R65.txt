@@ -1,0 +1,4 @@
+Alexa, turn on bedroom light
+Alexa, turn off bedroom light
+Alexa, turn on socket
+Alexa, disable XenonSmart

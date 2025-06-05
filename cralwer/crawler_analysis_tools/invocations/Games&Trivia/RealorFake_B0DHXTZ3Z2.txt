@@ -1,0 +1,4 @@
+Alexa, open real or fake
+Alexa, start real or fake
+Alexa, launch real or fake
+Alexa, disable real or fake

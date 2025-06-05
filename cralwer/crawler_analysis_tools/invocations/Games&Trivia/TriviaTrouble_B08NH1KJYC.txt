@@ -1,0 +1,3 @@
+Alexa, open trek trivia
+Alexa, start trek trivia
+Alexa, disable trek trivia

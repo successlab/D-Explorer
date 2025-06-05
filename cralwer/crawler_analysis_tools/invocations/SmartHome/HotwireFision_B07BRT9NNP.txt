@@ -1,0 +1,8 @@
+Alexa, play The Big Bang Theory
+Alexa, play.
+Alexa, open Guide
+Alexa, go to On Demand
+Alexa, tune to CNN
+Alexa, show me movies with Will Smith
+Alexa, pause
+Alexa, disable HotwireFision

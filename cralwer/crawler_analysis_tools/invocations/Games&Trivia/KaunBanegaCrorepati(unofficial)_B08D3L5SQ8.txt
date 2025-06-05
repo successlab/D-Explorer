@@ -1,0 +1,4 @@
+Alexa, open k. b. c.
+Alexa, start k. b. c.
+Alexa, launch k. b. c.
+Alexa, disable k. b. c.

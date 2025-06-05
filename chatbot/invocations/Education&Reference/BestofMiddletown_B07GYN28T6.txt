@@ -1,0 +1,4 @@
+Alexa, open best of middletown
+Alexa, ask Best of Middletown for a coffee suggestion
+Alexa, ask Best of Middletown for a dinner recommendation
+Alexa, disable best of middletown

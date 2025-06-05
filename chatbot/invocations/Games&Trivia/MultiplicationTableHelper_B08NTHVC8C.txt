@@ -1,0 +1,4 @@
+Alexa, open multiplication table helper
+Alexa, launch Multiplication Table Helper
+Alexa, start Multiplication Table Helper
+Alexa, disable multiplication table helper

@@ -1,0 +1,4 @@
+Alexa, open austin dot com
+Alexa, ask Austin Dot Com for the latest update
+Alexa, start Austin Dot Com
+Alexa, disable austin dot com

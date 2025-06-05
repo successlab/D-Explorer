@@ -1,0 +1,4 @@
+Alexa, open ballard designs
+Alexa, ask Ballard Designs where is my order?
+Alexa, ask Ballard Designs where is my barstool?
+Alexa, disable ballard designs

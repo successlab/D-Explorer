@@ -1,0 +1,5 @@
+Alexa, open autochartist
+Alexa, open Autochartist.
+Alexa, ask Autochartist to give me a forecast on the euro.
+Alexa, ask Autochartist for a market update.
+Alexa, disable autochartist

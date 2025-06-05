@@ -1,0 +1,5 @@
+Alexa, turn on Downstairs.
+Alexa, set Entry Way intensity to high.
+Alexa, turn on my home ScentAir.
+Alexa, set my home intensity to high.
+Alexa, disable ScentAir

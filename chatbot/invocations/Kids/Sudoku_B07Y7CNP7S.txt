@@ -1,0 +1,4 @@
+Alexa, open sudoku game
+play
+put 5 at b7
+Alexa, disable sudoku game

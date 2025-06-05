@@ -1,0 +1,5 @@
+Alexa, open a cyclist
+Alexa, ask a cyclist for a quote
+Repeat
+Yes, please
+Alexa, disable a cyclist

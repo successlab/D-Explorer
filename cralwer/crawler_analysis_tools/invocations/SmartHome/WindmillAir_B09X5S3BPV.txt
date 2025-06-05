@@ -1,0 +1,7 @@
+Alexa, turn on/off [device name]
+Alexa, turn [device name] to [X] degrees
+Alexa, turn [device name] to [cool, eco, fan] mode
+Alexa, turn on the AC
+Alexa, turn off the AC
+Alexa, set the AC to cool mode
+Alexa, disable WindmillAir

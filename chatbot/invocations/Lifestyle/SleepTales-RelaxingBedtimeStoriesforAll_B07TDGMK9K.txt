@@ -1,0 +1,4 @@
+Alexa, open sleep tales
+Alexa, ask sleep tales to play random
+Alexa, ask sleep tales to play Beauty and the Beast
+Alexa, disable sleep tales

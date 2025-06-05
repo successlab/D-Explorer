@@ -1,0 +1,5 @@
+Alexa, open water guru
+Alexa, ask water guru How is my pool
+Alexa, ask water guru What is the water temperature
+Alexa, ask water guru what is the pool pH
+Alexa, disable water guru

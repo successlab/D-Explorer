@@ -1,0 +1,4 @@
+Alexa, open baseball facts
+Alexa, ask baseball facts to give me a fact
+give me a baseball fact
+Alexa, disable baseball facts

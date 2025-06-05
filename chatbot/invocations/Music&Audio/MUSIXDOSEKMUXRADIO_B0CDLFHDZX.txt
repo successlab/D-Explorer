@@ -1,0 +1,4 @@
+Alexa, open music x. dose
+Alexa, play music x. dose
+Alexa, ask music x. dose what is playing
+Alexa, disable music x. dose

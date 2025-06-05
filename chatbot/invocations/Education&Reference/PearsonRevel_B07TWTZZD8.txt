@@ -1,0 +1,12 @@
+Alexa, open pearson revel
+Alexa, play chapter 3 from Pearson Revel
+Alexa, play section 3 point 2 point 1 from Pearson Revel
+Alexa, continue where I left off in Pearson Revel
+Alexa, when is my next assignment due in Pearson Revel
+Alexa, play my assignment due tomorrow in Pearson Revel
+Alexa, play my assignment due on September 10th in Pearson Revel
+Alexa, start my next assignment in Pearson Revel
+Alexa, list my upcoming assignments in Pearson Revel
+Alexa, Play Chapter 1 from Pearson Revel
+Alexa, Continue Where I Left Off in Pearson Revel
+Alexa, disable pearson revel

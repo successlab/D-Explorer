@@ -1,0 +1,3 @@
+Alexa, open country song quiz
+Alexa, start Country Song Quiz
+Alexa, disable country song quiz

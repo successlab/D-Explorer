@@ -1,0 +1,2 @@
+Alexa, open musical songs
+Alexa, disable musical songs

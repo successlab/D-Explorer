@@ -1,0 +1,5 @@
+Alexa, open star date converter
+Alexa, ask Star Date Converter to get today's star date
+What is the Star Date for April 5th, 2161
+Find the Star Date for tomorrow
+Alexa, disable star date converter

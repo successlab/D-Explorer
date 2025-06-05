@@ -1,0 +1,4 @@
+Alexa, open the score indiana
+Alexa, ask the score indiana for headlines
+Alexa, play the score indiana
+Alexa, disable the score indiana

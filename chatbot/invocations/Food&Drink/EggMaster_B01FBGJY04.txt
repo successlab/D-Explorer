@@ -1,0 +1,5 @@
+Alexa, open egg master
+Alexa, ask Egg Master how to cook a poached egg
+Alexa, ask Egg Master what is the recipe for a hard boiled egg
+Alexa, ask Egg Master how can I make an omelet
+Alexa, disable egg master

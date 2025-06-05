@@ -1,0 +1,5 @@
+Alexa, open food box
+Alexa, ask Food Box about apple
+Alexa, open Food Box and tell me about apple
+Alexa, open Food Box and apple
+Alexa, disable food box

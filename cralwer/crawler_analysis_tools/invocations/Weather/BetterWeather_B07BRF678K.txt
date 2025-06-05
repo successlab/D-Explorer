@@ -1,0 +1,4 @@
+Alexa, open better weather
+Alexa, launch better weather
+Alexa, play better weather
+Alexa, disable better weather

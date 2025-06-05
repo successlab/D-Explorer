@@ -1,0 +1,4 @@
+Alexa, open princess zoey
+Alexa, stop
+Alexa, start Princess Zoey
+Alexa, disable princess zoey

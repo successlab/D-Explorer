@@ -1,0 +1,5 @@
+Alexa, open event info
+Alexa, ask event info for the concerts near Rochester, New York this weekend.
+Alexa, ask event info to list the technology events near boston Massachusetts tonight.
+Alexa, ask event info for art information near chicago Illinois tomorrow.
+Alexa, disable event info

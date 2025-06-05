@@ -1,0 +1,5 @@
+Alexa, open t. v. remote
+Alexa ask TV Remote to turn on the TV
+Alexa ask TV Remote to turn the TV on
+Alexa start TV Remote and Set the IP to one dot one dot one dot one
+Alexa, disable t. v. remote

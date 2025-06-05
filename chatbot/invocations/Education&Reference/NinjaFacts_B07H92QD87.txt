@@ -1,0 +1,4 @@
+Alexa, open ninja facts
+Alexa, start ninja facts
+Alexa, launch ninja facts
+Alexa, disable ninja facts

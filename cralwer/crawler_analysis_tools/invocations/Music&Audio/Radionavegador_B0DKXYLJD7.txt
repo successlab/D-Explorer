@@ -1,0 +1,10 @@
+Alexa, open radio navegador
+Alexa, abre Radio navegador
+Alexa, dile a radio navegador que cambie 4
+Alexa, pídele a radio navegador emisora 5
+Alexa, siguiente
+Alexa, previa
+Alexa, empieza de nuevo
+Alexa, pídele a radio navegador número 3
+Alexa, abre radio navegador y 4
+Alexa, disable radio navegador

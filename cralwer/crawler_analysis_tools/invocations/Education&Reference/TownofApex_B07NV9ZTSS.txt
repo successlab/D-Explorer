@@ -1,0 +1,5 @@
+Alexa, open town of apex
+Alexa, ask town of Apex Tell me about Kelly Road Park
+Alexa, ask town of Apex What are the special events this month
+Alexa, ask town of Apex What are the events for next week
+Alexa, disable town of apex

@@ -1,0 +1,4 @@
+Alexa, open my rock
+Alexa play my rock
+Alexa ask my rock what is playing
+Alexa, disable my rock

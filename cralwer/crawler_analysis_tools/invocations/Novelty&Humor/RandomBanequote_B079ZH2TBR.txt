@@ -1,0 +1,5 @@
+Alexa, open random bane quote
+Alexa, launch random bane quote
+Alexa, ask random bane quote for three quotes
+Alexa, ask random bane quote to play one quote
+Alexa, disable random bane quote

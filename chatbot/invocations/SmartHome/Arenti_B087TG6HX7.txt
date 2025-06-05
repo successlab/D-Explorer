@@ -1,0 +1,5 @@
+Alexa, show the living room
+Alexa, show the camera
+Alexa, hide the doorbell
+Alexa, stop
+Alexa, disable Arenti

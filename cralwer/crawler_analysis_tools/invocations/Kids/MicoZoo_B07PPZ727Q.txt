@@ -1,0 +1,3 @@
+Alexa, open mico zoo
+Alexa, launch mico zoo
+Alexa, disable mico zoo

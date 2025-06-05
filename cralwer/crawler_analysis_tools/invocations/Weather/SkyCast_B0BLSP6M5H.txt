@@ -1,0 +1,4 @@
+Alexa, open sky cast
+Alexa, ask sky cast to lengthen weather
+Alexa, ask sky cast to shorten weather
+Alexa, disable sky cast

@@ -1,0 +1,4 @@
+Alexa, open sporcle
+Alexa, play Sporcle
+Choose a new category
+Alexa, disable sporcle

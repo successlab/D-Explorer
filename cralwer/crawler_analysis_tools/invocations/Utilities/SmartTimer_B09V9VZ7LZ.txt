@@ -1,0 +1,5 @@
+Alexa, open smart timer
+Alexa tell Smart Timer to set a two minute timer
+Next round
+Turn on the countdown
+Alexa, disable smart timer

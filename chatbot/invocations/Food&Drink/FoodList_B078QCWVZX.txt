@@ -1,0 +1,5 @@
+Alexa, open food list
+Alexa, ask Food List what's for dinner
+Alexa, ask Food List what's for lunch
+Alexa, ask Food List what should I eat for dinner
+Alexa, disable food list

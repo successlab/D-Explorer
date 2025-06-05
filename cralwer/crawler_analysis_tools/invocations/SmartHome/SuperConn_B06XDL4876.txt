@@ -1,0 +1,4 @@
+Alexa, turn on bedroom light
+Alexa, turn off bedroom light
+Alexa, set bedroom light to 50 percent
+Alexa, disable SuperConn

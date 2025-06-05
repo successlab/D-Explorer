@@ -1,0 +1,4 @@
+Alexa, open shell game
+Alexa play Shell Game
+Alexa ask Shell Game is it on the left
+Alexa, disable shell game

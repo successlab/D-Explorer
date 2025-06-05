@@ -1,0 +1,7 @@
+Alexa, open travel time
+Alexa, ask Travel Time from Seattle to SeaTac
+Alexa, Travel Time to Renton from Bellevue
+Alexa, ask Travel Time for supported locations.
+Alexa, ask Travel Time from Seattle to SeaTac.
+Alexa, ask Travel Time from Renton to Bellevue.
+Alexa, disable travel time

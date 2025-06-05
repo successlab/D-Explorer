@@ -1,0 +1,5 @@
+Alexa, open kenmore smart
+Alexa, set the air conditioner to 70 degrees
+Alexa, ask Kenmore Smart what is the door status of my refrigerator?
+Alexa, ask Kenmore Smart how much time is left on my washer?
+Alexa, disable kenmore smart

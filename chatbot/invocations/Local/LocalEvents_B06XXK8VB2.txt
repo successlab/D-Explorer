@@ -1,0 +1,4 @@
+Alexa, open local events
+get me local events at San jose tomorrow
+give me local events at nine four zero eight six today
+Alexa, disable local events

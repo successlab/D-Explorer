@@ -1,0 +1,5 @@
+Alexa, open today's quote
+Alexa, next
+Alexa, stop
+Alexa, start today's Quote
+Alexa, disable today's quote

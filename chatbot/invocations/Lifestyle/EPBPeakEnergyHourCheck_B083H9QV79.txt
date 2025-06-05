@@ -1,0 +1,5 @@
+Alexa, open e. p. b.
+Alexa, ask EPB if it is peak
+Alexa, ask e. p. b. if is it peak
+Alexa, ask e. p. b. if it is off peak
+Alexa, disable e. p. b.

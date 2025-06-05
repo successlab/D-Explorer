@@ -1,0 +1,4 @@
+Alexa, open pharmacy flashcards
+use the hospital deck
+test me using both decks
+Alexa, disable pharmacy flashcards

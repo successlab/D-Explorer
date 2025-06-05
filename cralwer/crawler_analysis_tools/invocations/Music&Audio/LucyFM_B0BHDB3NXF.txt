@@ -1,0 +1,4 @@
+Alexa, open lucy f. m.
+Alexa, pause
+Alexa, resume
+Alexa, disable lucy f. m.

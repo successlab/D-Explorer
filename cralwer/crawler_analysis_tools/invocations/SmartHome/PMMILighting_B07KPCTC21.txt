@@ -1,0 +1,6 @@
+Alexa, turn on Master Bedroom.
+Alexa, set Master Bedroom to 50 percent.
+Alexa, turn on Movie Night
+Alexa, set Master Bedroom to fifty percent.
+Alexa, turn on Movie Night.
+Alexa, disable PMMILighting

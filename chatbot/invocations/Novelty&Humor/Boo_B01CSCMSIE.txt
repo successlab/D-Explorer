@@ -1,0 +1,3 @@
+Alexa, open boo
+Alexa ask boo
+Alexa, disable boo

@@ -1,0 +1,4 @@
+Alexa, open avenue sounds radio
+Alexa, play Avenue Sounds Radio
+Alexa, start Avenue Sounds Radio
+Alexa, disable avenue sounds radio

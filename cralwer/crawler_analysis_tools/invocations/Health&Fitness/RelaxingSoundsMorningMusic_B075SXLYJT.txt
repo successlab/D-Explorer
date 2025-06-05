@@ -1,0 +1,4 @@
+Alexa, open morning music
+Alexa, Start Morning Music
+Alexa, Launch Morning Music
+Alexa, disable morning music

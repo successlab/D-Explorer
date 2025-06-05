@@ -1,0 +1,4 @@
+Alexa, open curse generator
+Alexa, ask Curse Generator for a Curse
+Alexa, tell Curse Generator to Curse
+Alexa, disable curse generator

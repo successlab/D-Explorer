@@ -1,0 +1,4 @@
+Alexa, open smart tip of the day
+Alexa, ask smart tip of the day for a tip
+Alexa, ask smart tip of the day to help me save time
+Alexa, disable smart tip of the day

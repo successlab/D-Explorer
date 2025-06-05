@@ -1,0 +1,4 @@
+Alexa, open sassy bot
+Alexa, ask sassy bot to compliment me
+Alexa, ask sassy bot for a compliment
+Alexa, disable sassy bot

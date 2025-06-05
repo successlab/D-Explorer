@@ -1,0 +1,3 @@
+Alexa, open random vine
+Alexa, random vine
+Alexa, disable random vine

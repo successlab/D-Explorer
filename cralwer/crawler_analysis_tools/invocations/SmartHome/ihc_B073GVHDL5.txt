@@ -1,0 +1,4 @@
+Alexa, turn on bedroom lamp.
+Alexa, volume up on TV.
+Alexa, next channel on TV.
+Alexa, disable ihc

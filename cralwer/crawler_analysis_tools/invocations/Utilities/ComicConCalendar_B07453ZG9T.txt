@@ -1,0 +1,5 @@
+Alexa, open comiccon calendar
+Alexa, ask ComicCon Calendar what events are happening on October 31st
+Ask ComicCon Calendar to get me events for September 13th
+Tell me about event one.
+Alexa, disable comiccon calendar

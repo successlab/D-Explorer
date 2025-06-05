@@ -1,0 +1,4 @@
+Alexa, open daily dad joke
+Alexa, ask Daily Dad Joke to give me a new joke
+Alexa, ask Daily Dad Joke to say it again
+Alexa, disable daily dad joke

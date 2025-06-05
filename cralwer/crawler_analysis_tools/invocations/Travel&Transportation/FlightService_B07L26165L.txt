@@ -1,0 +1,6 @@
+Alexa, open flight service
+Alexa, ask Flight Service for the METAR at Bravo Whiskey India
+Alexa, ask Flight Service for my last minute check
+Alexa, ask Flight Service for the METAR at bravo whiskey india
+Alexa, ask Flight Service for help
+Alexa, disable flight service

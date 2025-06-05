@@ -1,0 +1,4 @@
+Alexa, open super burp
+Alexa, ask Super Burp for a smelly burp
+Alexa, ask Super Burp for a beer burp
+Alexa, disable super burp

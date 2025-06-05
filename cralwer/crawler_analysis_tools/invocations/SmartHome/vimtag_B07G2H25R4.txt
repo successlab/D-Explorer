@@ -1,0 +1,6 @@
+Alexa, Discover Devices
+Alexa, show my office camera
+Alexa, show office.
+Alexa,show my office camera.
+Alexa, stop.
+Alexa, disable vimtag

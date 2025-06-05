@@ -1,0 +1,3 @@
+Alexa, open herb substitution
+Alexa, ask Herb Substitution what can I use instead of mint?
+Alexa, disable herb substitution

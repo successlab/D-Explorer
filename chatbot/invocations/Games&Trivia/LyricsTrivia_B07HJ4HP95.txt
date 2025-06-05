@@ -1,0 +1,4 @@
+Alexa, open lyrics trivia
+Alexa, play lyrics trivia,
+Alexa, play lyrics trivia
+Alexa, disable lyrics trivia

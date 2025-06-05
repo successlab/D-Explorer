@@ -1,0 +1,5 @@
+Alexa, open fact master
+Alexa, ask fact master to give me a fact
+Give me another fact
+Tell me another fact
+Alexa, disable fact master

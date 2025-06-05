@@ -1,0 +1,4 @@
+Alexa, open cube solver
+The colours on that face are red, red, red, blue, blue, blue, white, white, white
+Alexa, ask Cube Solver to solve my cube
+Alexa, disable cube solver

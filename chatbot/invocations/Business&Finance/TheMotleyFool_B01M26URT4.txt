@@ -1,0 +1,5 @@
+Alexa, open fool
+Alexa, ask The Fool for Apple.
+Alexa, ask The Fool how my watchlist is doing.
+Alexa, ask The Fool for a market update.
+Alexa, disable fool

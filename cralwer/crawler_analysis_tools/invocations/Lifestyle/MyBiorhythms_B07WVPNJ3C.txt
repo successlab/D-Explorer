@@ -1,0 +1,4 @@
+Alexa, open my biorhythms
+Alexa, Start My Biorhythms
+Alexa, Launch My Biorhythms
+Alexa, disable my biorhythms

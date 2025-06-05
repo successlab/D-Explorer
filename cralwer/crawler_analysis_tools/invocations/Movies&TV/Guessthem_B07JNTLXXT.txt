@@ -1,0 +1,4 @@
+Alexa, open guess them
+Alexa, start guess them
+Alexa, play guess them
+Alexa, disable guess them

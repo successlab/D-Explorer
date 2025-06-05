@@ -1,0 +1,4 @@
+Alexa, open wind catcher
+Alexa, ask Wind Catcher what it's like out there
+Alexa, ask Wind Catcher should I go running
+Alexa, disable wind catcher

@@ -1,0 +1,4 @@
+Alexa, open austin resource recovery
+Alexa, ask Austin Resource Recovery what's being picked up this week.
+Alexa, ask Austin Resource Recovery when my next collection is.
+Alexa, disable austin resource recovery

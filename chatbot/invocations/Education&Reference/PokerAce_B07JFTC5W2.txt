@@ -1,0 +1,4 @@
+Alexa, open poker ace
+Alexa, ask Poker Ace what a full house is
+Alexa, ask Poker Ace what's a high card
+Alexa, disable poker ace

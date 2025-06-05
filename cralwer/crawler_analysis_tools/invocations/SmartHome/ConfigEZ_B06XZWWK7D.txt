@@ -1,0 +1,6 @@
+Alexa, turn on my living room lights
+Alexa, turn off my AC Plug
+Alexa, discover device
+Alexa, turn on bulb socket
+Alexa, turn off bulb socket
+Alexa, disable ConfigEZ

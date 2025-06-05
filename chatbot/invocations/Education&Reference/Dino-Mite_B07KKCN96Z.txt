@@ -1,0 +1,3 @@
+Alexa, open dino facts
+Alexa, dino facts
+Alexa, disable dino facts

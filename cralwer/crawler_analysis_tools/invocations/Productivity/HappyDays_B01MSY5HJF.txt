@@ -1,0 +1,4 @@
+Alexa, open happy days
+Alexa, ask Happy Days to give me a quote
+Alexa, ask Happy Days to give me another quote
+Alexa, disable happy days

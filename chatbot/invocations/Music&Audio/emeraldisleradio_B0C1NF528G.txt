@@ -1,0 +1,4 @@
+Alexa, open emerald isle radio
+Alexa play emerald isle radio
+Alexa ask emerald isle radio what is playing
+Alexa, disable emerald isle radio

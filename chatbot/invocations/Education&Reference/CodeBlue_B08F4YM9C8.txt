@@ -1,0 +1,4 @@
+Alexa, open code blue
+Alexa ask code blue to calculate a speeding ticket
+Alexa tell code blue to search for Marked Lanes Violation
+Alexa, disable code blue

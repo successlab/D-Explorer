@@ -1,0 +1,3 @@
+Alexa, open barking dog
+Alexa, start Barking Dog
+Alexa, disable barking dog

@@ -1,0 +1,5 @@
+Alexa, open nutrislice menus
+Alexa, launch Nutrislice Menus.
+My organization is Stony Brook University.
+My favorite dining location is East Side Dining.
+Alexa, disable nutrislice menus

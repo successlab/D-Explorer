@@ -1,0 +1,5 @@
+Alexa, open my lucy
+Alexa, Ask my lucy about my team
+Alexa, ask my lucy about my battery level
+Alexa, ask my lucy what kind of questions I can ask
+Alexa, disable my lucy

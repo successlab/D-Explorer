@@ -1,0 +1,4 @@
+Alexa, open movie questions
+Alexa, tell Movie Questions to start a new game
+new game
+Alexa, disable movie questions

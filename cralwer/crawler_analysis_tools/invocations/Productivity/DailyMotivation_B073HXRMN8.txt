@@ -1,0 +1,5 @@
+Alexa, open daily motivation
+Alexa, ask daily motivation to motivate me
+Alexa, ask daily motivation to give me my daily motivation
+Alexa, ask daily motivation to give me a quote
+Alexa, disable daily motivation

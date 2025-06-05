@@ -1,0 +1,4 @@
+Alexa, turn on kitchen
+Alexa, set bedroom to 50 percent
+Alexa, increase thermostat by 2 degrees
+Alexa, disable openHAB

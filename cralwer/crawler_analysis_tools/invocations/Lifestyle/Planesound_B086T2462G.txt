@@ -1,0 +1,4 @@
+Alexa, open plane sound
+Alexa, launch plane sound
+Alexa, start plane sound
+Alexa, disable plane sound

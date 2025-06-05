@@ -1,0 +1,4 @@
+Alexa, open quote of the day
+Alexa, launch Quote of the Day
+Alexa, start Quote of the Day
+Alexa, disable quote of the day

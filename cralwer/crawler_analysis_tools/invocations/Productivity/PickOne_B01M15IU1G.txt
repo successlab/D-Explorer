@@ -1,0 +1,5 @@
+Alexa, open pick one
+Alexa, Ask PickOne, apple or banana.
+Alexa, Ask PickOne, drama or movie.
+Alexa, Ask PickOne, cat or dog.
+Alexa, disable pick one

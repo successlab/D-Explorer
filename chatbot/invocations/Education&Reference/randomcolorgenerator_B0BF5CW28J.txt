@@ -1,0 +1,4 @@
+Alexa, open random color generator
+Alexa, launch random color generator
+Alexa, start random color generator
+Alexa, disable random color generator

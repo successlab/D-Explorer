@@ -1,0 +1,4 @@
+Alexa, open my daybook
+Alexa, ask My Daybook to Help
+Alexa, ask My Daybook to Write
+Alexa, disable my daybook

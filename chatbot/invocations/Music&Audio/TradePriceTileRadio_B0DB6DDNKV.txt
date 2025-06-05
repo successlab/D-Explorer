@@ -1,0 +1,4 @@
+Alexa, open tile radio
+Alexa, start Tile Radio
+Alexa, play Tile Radio
+Alexa, disable tile radio

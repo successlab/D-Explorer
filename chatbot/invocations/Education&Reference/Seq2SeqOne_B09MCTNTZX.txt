@@ -1,0 +1,4 @@
+Alexa, open sequence one
+Alexa, start sequence one
+Alexa, launch sequence one
+Alexa, disable sequence one

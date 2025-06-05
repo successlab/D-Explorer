@@ -1,0 +1,4 @@
+Alexa, open car fact
+Alexa, ask car fact to give me car fact
+Alexa, ask car fact to tell me a car fact
+Alexa, disable car fact

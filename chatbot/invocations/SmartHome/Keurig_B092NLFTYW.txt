@@ -1,0 +1,6 @@
+Alexa, open keurig
+Alexa, ask Keurig to turn on my brewer”, or “Alexa, ask Keurig to brew me an eight ounce cup of coffee
+Alexa, ask Keurig to turn on my brewer
+Alexa, ask Keurig to brew me an eight ounce cup of coffee
+Alexa, ask Keurig what can you do?
+Alexa, disable keurig

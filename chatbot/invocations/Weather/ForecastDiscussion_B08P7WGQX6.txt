@@ -1,0 +1,5 @@
+Alexa, open forecast discussion
+Alexa ask forecast discussion to tell me the forecast discussion for Seattle
+Alexa ask forecast discussion for the short-term discussion for Missoula
+Alexa ask forecast discussion for the synopsis in Portland
+Alexa, disable forecast discussion

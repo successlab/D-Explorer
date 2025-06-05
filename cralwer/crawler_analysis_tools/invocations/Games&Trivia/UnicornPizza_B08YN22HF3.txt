@@ -1,0 +1,5 @@
+Alexa, open unicorn pizza
+Alexa play Unicorn Pizza.
+Alexa open Unicorn Pizza.
+Alexa start Unicorn Pizza.
+Alexa, disable unicorn pizza

@@ -1,0 +1,4 @@
+Alexa, open toy doctor
+Alexa, start Toy Doctor
+Alexa, launch Toy Doctor
+Alexa, disable toy doctor

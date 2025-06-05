@@ -1,0 +1,7 @@
+Alexa, open on ramp invest
+Alexa, ask Onramp Invest to play the latest update.
+Alexa, open Onramp Invest
+Alexa, ask Onramp Invest to tell me about the company
+Alexa, ask Onramp Invest to tell me about bitcoin
+Alexa, ask Onramp Invest to play the latest update
+Alexa, disable on ramp invest

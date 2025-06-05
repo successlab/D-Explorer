@@ -1,0 +1,5 @@
+Alexa, open daily horoscope
+Alexa, ask Daily Horoscope what is my horoscope
+Alexa, ask Daily Horoscope what is the star sign for someone born today
+Alexa, ask Daily Horoscope what is the compatibility between Aries and Leo
+Alexa, disable daily horoscope

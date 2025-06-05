@@ -1,0 +1,5 @@
+Alexa, open guess a card
+Alexa, Ask Guess A Card to guess a card
+Tell Guess A Card to guess a card
+Tell Guess A Card to guess my card
+Alexa, disable guess a card

@@ -1,0 +1,5 @@
+Alexa, open time weather
+Alexa, launch time weather.
+time and weather for Nashville
+time and weather in New york
+Alexa, disable time weather

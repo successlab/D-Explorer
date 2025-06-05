@@ -1,0 +1,4 @@
+Alexa, open daily sun salutation
+Alexa, ask daily sun salutation to play the tutorial
+Alexa, pause
+Alexa, disable daily sun salutation

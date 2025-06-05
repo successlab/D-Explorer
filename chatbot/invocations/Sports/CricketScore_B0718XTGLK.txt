@@ -1,0 +1,4 @@
+Alexa, open cricket score
+Alexa, tell cricket score
+Alexa, cricket score
+Alexa, disable cricket score

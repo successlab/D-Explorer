@@ -1,0 +1,6 @@
+Alexa, open my three
+Alexa, next
+Alexa, stop
+Alexa, start my three
+Alexa, ask my three for a fact
+Alexa, disable my three

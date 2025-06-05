@@ -1,0 +1,9 @@
+Alexa, open trivia battle
+Alexa, what are Echo Buttons?
+Alexa, repeat that
+Alexa, what are the scores?
+Alexa, help!
+Alexa, start over
+Alexa, stop
+Alexa, start trivia battle
+Alexa, disable trivia battle

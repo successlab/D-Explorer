@@ -1,0 +1,5 @@
+Alexa, open sparrow sound
+Alexa, activate premium
+Alexa, pause
+Alexa, resume
+Alexa, disable sparrow sound

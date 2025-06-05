@@ -1,0 +1,5 @@
+Alexa, open dinner decider
+Alexa, ask Dinner Decider to tell me what is for dinner.
+Alexa, ask Dinner Decider to tell me what I should order.
+Alexa, ask Dinner Decider to tell me what I should have for dinner.
+Alexa, disable dinner decider

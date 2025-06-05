@@ -1,0 +1,4 @@
+Alexa, open voice blast
+Alexa, play voice blast
+Alexa launch voice blast
+Alexa, disable voice blast

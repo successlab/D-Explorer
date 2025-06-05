@@ -1,0 +1,5 @@
+Alexa, open res guide
+Alexa ask Res Guide how much does dermatology make
+Alexa ask Res Guide pediatrics step score
+Alexa ask Res Guide match rate for radiation oncology
+Alexa, disable res guide

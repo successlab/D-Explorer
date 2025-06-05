@@ -1,0 +1,4 @@
+Alexa, decrease the Living Room temperature by 2 degrees please
+Alexa, increase the Upstairs temperature by 4 degrees please
+Alexa, set the Office temperature to 54 degrees please
+Alexa, disable CôrSmartHome

@@ -1,0 +1,5 @@
+Alexa, open lendingtree
+Alexa, Ask LendingTree for Current Rates
+Alexa, Ask LendingTree for Purchase Rates
+Alexa, Ask LendingTree for Refinance Rates
+Alexa, disable lendingtree

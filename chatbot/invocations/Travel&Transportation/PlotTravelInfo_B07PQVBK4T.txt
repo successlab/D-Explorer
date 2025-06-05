@@ -1,0 +1,2 @@
+Alexa, open plot travel info
+Alexa, disable plot travel info

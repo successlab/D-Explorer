@@ -1,0 +1,5 @@
+Alexa, open tech life
+Alexa, ask Tech Life what's going on today.
+Alexa, ask Tech Life how the football team is doing.
+Alexa, ask Tech Life when the next Spirit Day is.
+Alexa, disable tech life

@@ -1,0 +1,4 @@
+Alexa, open roller coaster facts
+Tell me a roller coaster fact
+Tell me the coaster fact of the day
+Alexa, disable roller coaster facts

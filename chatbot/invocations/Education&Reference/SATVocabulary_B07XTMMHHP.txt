@@ -1,0 +1,7 @@
+Alexa, open sat vocabulary
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start SAT Vocabulary
+Alexa, disable sat vocabulary

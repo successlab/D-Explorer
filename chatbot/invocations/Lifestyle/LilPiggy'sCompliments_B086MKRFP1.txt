@@ -1,0 +1,4 @@
+Alexa, open lil piggy
+Alexa, ask lil piggy to compliment me
+Alexa, ask lil piggy for a compliment
+Alexa, disable lil piggy

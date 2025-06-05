@@ -1,0 +1,4 @@
+Alexa, open night sounds
+Alexa ask night sounds to play for 30 minutes
+Alexa stop
+Alexa, disable night sounds

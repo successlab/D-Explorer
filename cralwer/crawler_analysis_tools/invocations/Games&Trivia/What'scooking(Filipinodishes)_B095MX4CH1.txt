@@ -1,0 +1,4 @@
+Alexa, open what's cooking
+Alexa, stop
+Alexa, start what's cooking
+Alexa, disable what's cooking

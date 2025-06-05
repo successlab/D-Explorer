@@ -1,0 +1,5 @@
+Alexa, open smart cat
+Alexa,tell smart cat to arm
+Alexa,tell smart cat to disArm
+Alexa,tell smart cat to home arm
+Alexa, disable smart cat

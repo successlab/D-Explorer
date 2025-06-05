@@ -1,0 +1,5 @@
+Alexa, open shark week
+Alexa, ask Shark Week for the shark fact of the day.
+Alexa, ask Shark Week when shark week starts.
+Alexa, ask Shark Week when shark week begins.
+Alexa, disable shark week

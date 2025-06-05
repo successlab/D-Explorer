@@ -1,0 +1,34 @@
+Alexa, open hatch
+Alexa, tell Hatch to connect to my Rest Plus.
+Alexa, tell Hatch to turn on my Rest Plus.
+Alexa, tell Hatch to turn the volume up on the Hatch.
+Alexa, tell Hatch to turn down the volume on my lamp.
+Alexa, tell Hatch to turn the brightness up on Rest Plus.
+Alexa, tell Hatch to turn the Rest Plus green.
+Alexa, tell Hatch to set a timer for 45 minutes.
+Alexa, tell Hatch to add a wet diaper for Ben.
+Alexa, ask Hatch how many dirty diapers has Eric had today?
+Alexa, ask Hatch how long since the last diaper?
+Alexa, ask Hatch how long since the last diaper?
+Alexa, ask Hatch how long has baby slept today?
+Alexa, tell Hatch to record a wet diaper for Emma.
+Alexa, ask Hatch when did Diana wake up?
+Alexa, tell Hatch to start a sleep for Ben.
+Alexa, tell Hatch to end sleep.
+Alexa, ask Hatch how much did Diana eat today?
+Alexa, ask Hatch when did Eric last eat?
+Alexa, ask Hatch what side did Eric last nurse on?
+Alexa, tell Hatch to start a feeding.
+Alexa, tell Hatch to begin a bottle feeding.
+Alexa, tell Hatch to start a nursing on the left.
+Alexa, tell Hatch to stop feeding.
+Alexa, tell Hatch to switch to the right side.
+Alexa, tell Hatch to switch sides.
+Alexa, tell Hatch to pause/resume feeding.
+Alexa, tell Hatch log a feeding for Ben.
+Alexa, tell Hatch to save a bottle formula for Ben for 5 point 2 ounces.
+Alexa, tell Hatch to save a nursing for Diana for 10 minutes.
+Alexa, tell Hatch to record a sleep for 6 hours.
+Alexa, ask Hatch to turn up the volume on my Restore
+Alexa, tell Hatch to add a dirty diaper.
+Alexa, disable hatch

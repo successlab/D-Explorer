@@ -1,0 +1,4 @@
+Alexa, open health fact
+Alexa Start Health Fact
+Alexa Ask Health Fact for a fact
+Alexa, disable health fact

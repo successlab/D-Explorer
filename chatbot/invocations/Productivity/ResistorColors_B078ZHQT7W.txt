@@ -1,0 +1,5 @@
+Alexa, open resistor colors
+Alexa ask resistor colors red brown black
+Alexa ask resistor colors what is the value of a red brown black resistor?
+Alexa ask resistor colors my resistor is brown black red what value is it?
+Alexa, disable resistor colors

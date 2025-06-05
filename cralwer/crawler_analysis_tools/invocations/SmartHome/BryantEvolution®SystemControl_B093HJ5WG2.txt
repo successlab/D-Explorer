@@ -1,0 +1,5 @@
+Alexa, open myevolution
+Alexa, open MyEvolution and change mode to auto
+Alexa, open MyEvolution and who is my equipment dealer
+Alexa, open MyEvolution and cancel my vacation
+Alexa, disable myevolution

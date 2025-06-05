@@ -1,0 +1,6 @@
+Alexa, open ooma smart cam
+Alexa, use Ooma Smart Cam
+Alexa, ask Ooma SmartCam to turn on privacy mode
+Alexa, ask Ooma SmartCam to turn off privacy mode
+Alexa, open Ooma SmartCam
+Alexa, disable ooma smart cam

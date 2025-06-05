@@ -1,0 +1,4 @@
+Alexa, open legalshield
+Alexa, ask LegalShield, What is an NDA?
+Alexa, ask LegalShield, Why do I need a will?
+Alexa, disable legalshield

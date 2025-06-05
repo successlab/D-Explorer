@@ -1,0 +1,5 @@
+Alexa, open scrabble scores
+Alexa, ask scrabble scores how much does ocean score
+Alexa, tell scrabble scores to score the word hello
+Alexa, ask scrabble scores what is the score of ship
+Alexa, disable scrabble scores

@@ -1,0 +1,5 @@
+Alexa, open m. p. r. weather
+Alexa, open MPR Weather
+Alexa, play MPR Weather
+Alexa, start MPR Weather
+Alexa, disable m. p. r. weather

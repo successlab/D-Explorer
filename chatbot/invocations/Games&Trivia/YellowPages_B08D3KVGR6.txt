@@ -1,0 +1,11 @@
+Alexa, open yellow pages
+Alexa, ask Yellow Pages to find the nearest Starbucks.
+Alexa, ask Yellow Pages to find a gas station.
+Alexa, ask Yellow Pages to find a plumber in Los Angeles, California.
+Alexa, ask Yellow Pages what time does Applebees open tomorrow.
+Alexa, ask Yellow Pages to call Home Depot.
+Alexa, ask Yellow Pages to find the best breakfast.
+Alexa, open Yellow Pages.
+Alexa, ask Yellow Pages to search for the nearest gas station.
+Alexa, ask Yellow Pages to call home depot.
+Alexa, disable yellow pages

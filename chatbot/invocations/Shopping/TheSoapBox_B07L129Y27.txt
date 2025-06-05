@@ -1,0 +1,5 @@
+Alexa, open soap box
+Alexa, ask Soap Box for any deals
+Alexa, ask Soap Box for coupons
+Alexa, launch soap box
+Alexa, disable soap box

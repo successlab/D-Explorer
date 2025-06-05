@@ -1,0 +1,3 @@
+Alexa, open mets fan trivia
+Alexa, start mets fan trivia
+Alexa, disable mets fan trivia

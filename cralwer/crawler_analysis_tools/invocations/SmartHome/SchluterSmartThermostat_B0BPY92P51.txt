@@ -1,0 +1,6 @@
+Alexa, turn on Relax.
+Alexa, discover devices
+Alexa, set living room to 22 degrees
+Alexa, set living room to heat
+Alexa, raise bedroom temperature by 2 degrees
+Alexa, disable SchluterSmartThermostat

@@ -1,0 +1,5 @@
+Alexa, open goscam
+Alexa, open GOSCAM.
+Alexa ask goscam to turn off the garage camera motion detection
+Alexa ask goscam to take a picture with garage camera
+Alexa, disable goscam

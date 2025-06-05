@@ -1,0 +1,4 @@
+Alexa, open random yoga poses
+Alexa ask Random Yoga Poses to teach me a yoga pose
+Alexa launch Random Yoga Poses
+Alexa, disable random yoga poses

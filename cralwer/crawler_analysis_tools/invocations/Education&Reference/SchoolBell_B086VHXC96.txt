@@ -1,0 +1,5 @@
+Alexa, open school bell
+Alexa ask school bell to ring
+Alexa ask school bell to ring the bell
+Alexa ask school bell to start school
+Alexa, disable school bell

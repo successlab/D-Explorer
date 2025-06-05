@@ -1,0 +1,3 @@
+Alexa, open buy elephant
+Alexa, tell Buy Elephant no I don't want to buy an elephant
+Alexa, disable buy elephant

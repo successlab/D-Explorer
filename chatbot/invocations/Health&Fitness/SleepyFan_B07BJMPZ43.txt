@@ -1,0 +1,3 @@
+Alexa, open sleepy fan
+Alexa start sleepy fan
+Alexa, disable sleepy fan

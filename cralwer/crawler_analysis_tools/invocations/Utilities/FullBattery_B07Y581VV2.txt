@@ -1,0 +1,5 @@
+Alexa, open full battery
+Alexa, ask Full Battery to tell me the status of my watch battery
+Alexa, ask Full Battery to tell me if my watch is fully charged
+Alexa, ask Full Battery what's my account email address
+Alexa, disable full battery

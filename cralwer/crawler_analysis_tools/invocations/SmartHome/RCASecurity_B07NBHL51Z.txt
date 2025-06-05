@@ -1,0 +1,4 @@
+Alexa, show the front door
+Alexa, show the baby room
+Alexa, hide the front door
+Alexa, disable RCASecurity

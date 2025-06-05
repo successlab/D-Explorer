@@ -1,0 +1,4 @@
+Alexa, turn on the bedroom light
+Alexa,turn off the bedroom light
+Alexa,brighten the bedroom light to 50%
+Alexa, disable Wisen

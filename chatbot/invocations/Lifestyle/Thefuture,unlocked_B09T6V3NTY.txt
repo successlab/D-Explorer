@@ -1,0 +1,4 @@
+Alexa, open crystal ball
+Alexa, ask crystal ball for my fortune
+Alexa, start crystal ball
+Alexa, disable crystal ball

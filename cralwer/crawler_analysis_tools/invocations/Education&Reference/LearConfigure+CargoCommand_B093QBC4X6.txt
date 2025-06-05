@@ -1,0 +1,5 @@
+Alexa, open send cargo command
+Alexa send cargo command
+Configure cargo command
+Send cargo command
+Alexa, disable send cargo command

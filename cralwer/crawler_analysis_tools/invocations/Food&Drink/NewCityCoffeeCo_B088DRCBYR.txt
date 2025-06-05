@@ -1,0 +1,3 @@
+Alexa, open new city cafe
+Alexa, start new city cafe
+Alexa, disable new city cafe

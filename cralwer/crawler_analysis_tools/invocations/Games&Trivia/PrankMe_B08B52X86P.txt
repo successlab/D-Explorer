@@ -1,0 +1,4 @@
+Alexa, open prank me
+Alexa, start prank me
+Alexa, prank me
+Alexa, disable prank me

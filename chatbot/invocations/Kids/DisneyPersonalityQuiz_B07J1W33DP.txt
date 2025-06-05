@@ -1,0 +1,4 @@
+Alexa, open disney personality quiz
+Alexa, start Disney Personality Quiz.
+Alexa, play Disney Personality Quiz
+Alexa, disable disney personality quiz

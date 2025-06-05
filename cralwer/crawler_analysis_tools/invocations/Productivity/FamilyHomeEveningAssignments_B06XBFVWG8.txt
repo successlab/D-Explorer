@@ -1,0 +1,5 @@
+Alexa, open family home evening assignments
+Alexa, enable family home evening assignments
+Alexa, tell family home evening assignments to run setup
+Alexa, tell family home evening assignments to clear the setup
+Alexa, disable family home evening assignments

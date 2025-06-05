@@ -1,0 +1,4 @@
+Alexa, open global period tracker
+Add period date for 26th October 2021
+When is my next period
+Alexa, disable global period tracker

@@ -1,0 +1,6 @@
+Alexa, open rainforest sounds
+Alexa, launch Rainforest Sounds
+Alexa, pause.” To resume it again, say 
+Alexa, pause
+Alexa, resume
+Alexa, disable rainforest sounds

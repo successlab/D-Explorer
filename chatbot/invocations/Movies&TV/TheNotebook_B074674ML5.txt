@@ -1,0 +1,3 @@
+Alexa, open notebook quotes
+Alexa, ask Notebook quotes for a quote
+Alexa, disable notebook quotes

@@ -1,0 +1,4 @@
+Alexa, turn on my plug.
+Alexa, turn on my livingroom light.
+Alexa, set bedroom light to red.
+Alexa, disable Larkkey

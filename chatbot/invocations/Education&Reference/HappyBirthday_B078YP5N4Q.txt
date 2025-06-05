@@ -1,0 +1,9 @@
+Alexa, open happy birthday
+Alexa, Open happy birthday and sing happy birthday in 30 seconds.
+Alexa, add a birthday.
+Alexa, set the order
+Alexa, open Happy Birthday Skill
+Alexa, set today as Bob's Birthday
+to James
+to Bob
+Alexa, disable happy birthday

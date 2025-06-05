@@ -1,0 +1,4 @@
+Alexa, open good morning
+Alexa, ask good morning to good morning
+Alexa, Good Morning
+Alexa, disable good morning

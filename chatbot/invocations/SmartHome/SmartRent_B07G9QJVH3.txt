@@ -1,0 +1,4 @@
+Alexa, turn on living room lights.
+Alexa, set the thermostat temperature to 72 degrees.
+Alexa, lock the door.
+Alexa, disable SmartRent

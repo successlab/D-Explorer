@@ -1,0 +1,4 @@
+Alexa, open multiplication dojo
+Alexa, ask Multiplication Dojo to practice multiplication by seven
+I would like to practice my seven table
+Alexa, disable multiplication dojo

@@ -1,0 +1,4 @@
+Alexa, open borg adapt sound
+Alexa, start Borg Adapt Sound
+Alexa, launch Borg Adapt Sound
+Alexa, disable borg adapt sound

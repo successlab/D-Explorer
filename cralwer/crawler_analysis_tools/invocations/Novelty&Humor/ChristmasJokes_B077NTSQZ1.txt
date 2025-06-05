@@ -1,0 +1,4 @@
+Alexa, open christmas jokes
+Alexa, play Christmas Jokes
+Alexa, launch Christmas Jokes and tell me a joke
+Alexa, disable christmas jokes

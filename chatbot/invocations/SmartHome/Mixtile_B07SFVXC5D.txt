@@ -1,0 +1,3 @@
+Alexa, turn on lights
+Alexa, turn off outlet
+Alexa, disable Mixtile

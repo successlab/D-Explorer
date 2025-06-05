@@ -1,0 +1,3 @@
+Alexa, open check status
+Alexa check status
+Alexa, disable check status

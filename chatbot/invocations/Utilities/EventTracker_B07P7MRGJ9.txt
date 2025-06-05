@@ -1,0 +1,3 @@
+Alexa, open event tracker
+Alexa, open event tracker.
+Alexa, disable event tracker

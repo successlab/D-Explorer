@@ -1,0 +1,5 @@
+Alexa, open happy halloween
+Alexa, start Happy Halloween
+Alexa, ask Happy Halloween to say a greeting
+Alexa, happy halloween
+Alexa, disable happy halloween

@@ -1,0 +1,6 @@
+Alexa, show front door camera
+Alexa, show feed from the backyard camera
+Alexa, hide backyard camera
+Alexa, show door camera
+Alexa, show office camera
+Alexa, disable meShare

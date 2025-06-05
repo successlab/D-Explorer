@@ -1,0 +1,4 @@
+Alexa, turn on airpurifier
+Alexa, set the mode on the airpurifier to night
+Alexa, turn off airpurifier
+Alexa, disable SmartmiFamily

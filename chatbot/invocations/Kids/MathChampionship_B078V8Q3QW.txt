@@ -1,0 +1,5 @@
+Alexa, open math championship
+Alexa, ask Math Championship to begin a quiz
+Alexa, ask Math Championship to ask me table of three
+Alexa, ask Math Championship to tell me table of three
+Alexa, disable math championship

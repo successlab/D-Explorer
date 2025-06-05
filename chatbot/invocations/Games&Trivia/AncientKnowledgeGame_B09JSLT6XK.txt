@@ -1,0 +1,9 @@
+Alexa, open ancient knowledge
+Alexa, what are Echo Buttons?
+Alexa, repeat that
+Alexa, what are the scores?
+Alexa, help!
+Alexa, start over
+Alexa, stop
+Alexa, start ancient knowledge
+Alexa, disable ancient knowledge

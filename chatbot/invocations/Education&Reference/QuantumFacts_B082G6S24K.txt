@@ -1,0 +1,6 @@
+Alexa, open quantum facts
+Alexa, next
+Alexa, stop
+Alexa, start quantum facts
+Alexa, ask quantum facts for a fact
+Alexa, disable quantum facts

@@ -1,0 +1,4 @@
+Alexa, open ladybug fairy tale
+Alexa, stop
+Alexa, start ladybug fairy tale
+Alexa, disable ladybug fairy tale

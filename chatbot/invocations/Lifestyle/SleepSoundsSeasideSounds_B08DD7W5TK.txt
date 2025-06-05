@@ -1,0 +1,4 @@
+Alexa, open seaside sounds
+Alexa, start seaside sounds
+Alexa, launch seaside sounds
+Alexa, disable seaside sounds

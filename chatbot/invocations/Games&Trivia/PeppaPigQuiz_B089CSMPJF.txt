@@ -1,0 +1,4 @@
+Alexa, open peppa pig quiz
+Alexa, start Peppa Pig Quiz
+Alexa, play Peppa Pig Quiz
+Alexa, disable peppa pig quiz

@@ -1,0 +1,5 @@
+Alexa, open sleeping sound
+Alexa, ask sleeping sound to play (Name of the sound)
+Alexa, ask sleeping sound to play music box
+Play the audio
+Alexa, disable sleeping sound

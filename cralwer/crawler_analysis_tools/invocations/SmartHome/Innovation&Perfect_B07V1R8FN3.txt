@@ -1,0 +1,4 @@
+Alexa, turn on "Light Name".
+Alexa, brighten "Light Name".
+Alexa, make "Light Name" to 50%.
+Alexa, disable Innovation&Perfect

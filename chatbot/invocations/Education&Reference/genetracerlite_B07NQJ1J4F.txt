@@ -1,0 +1,5 @@
+Alexa, open gene tracer lite
+Alexa, open gene tracer lite and go to JUN
+Alexa, open gene tracer lite and find BCL10
+Alexa, open gene tracer lite and move to YY1
+Alexa, disable gene tracer lite

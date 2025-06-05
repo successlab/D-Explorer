@@ -1,0 +1,5 @@
+Alexa, open bounty hunter
+Alexa, ENABLE, Bounty Hunter
+Alexa, start Bounty Hunter
+Alexa, play Bounty Hunter
+Alexa, disable bounty hunter

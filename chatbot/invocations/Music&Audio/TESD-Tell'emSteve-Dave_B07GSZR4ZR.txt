@@ -1,0 +1,20 @@
+Alexa, open m. steve dave
+Alexa, Tell 'em Steve-Dave!
+Alexa, Tell 'em Steve-Dave to play this weeks episode
+Alexa, Tell 'em Steve-Dave to play episode 300
+Alexa, Tell 'em Steve-Dave to play 'Makin' Hay'
+Alexa, Tell 'em Steve-Dave to play a random episode
+Alexa, Tell 'em Steve-Dave to play the latest episode
+Alexa, Tell 'em Steve-Dave to skip to fifteen minutes
+Alexa, Tell 'em Steve-Dave to fast forward one minute thirty seconds
+Alexa, Tell 'em Steve-Dave to rewind one minute thirty seconds
+Alexa, pause
+Alexa, play
+Alexa, next episode
+Alexa, previous episode
+Alexa, start over
+Alexa, can you say that again?
+Alexa, Tell M. Steve Dave to play 'Makin Hay'
+Alexa, Tell M. Steve Dave to play episode 300
+Alexa, Tell M. Steve Dave to play this weeks episode
+Alexa, disable m. steve dave

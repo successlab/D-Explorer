@@ -1,0 +1,5 @@
+Alexa, open ten things
+Alexa, open 10 things
+Alexa, ask 10 things for things
+Alexa, ask 10 things for useless things
+Alexa, disable ten things

@@ -1,0 +1,5 @@
+Alexa, open peoria guide
+Alexa, open PeoriaGuide
+Alexa, ask PeoriaGuide what I should see
+Alexa, ask PeoriaGuide to give me an attraction
+Alexa, disable peoria guide

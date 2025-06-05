@@ -1,0 +1,3 @@
+alexa, turn on proscenic smart device
+alexa, turn off proscenic smart device
+Alexa, disable ProscenicHome

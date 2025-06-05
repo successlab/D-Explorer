@@ -1,0 +1,5 @@
+Alexa, open vacation finder
+Alexa, ask Vacation Finder where should I go
+Alexa, ask Vacation Finder what country should I visit
+Alexa, ask Vacation Finder where should I go on vacation
+Alexa, disable vacation finder

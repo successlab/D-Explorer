@@ -1,0 +1,5 @@
+Alexa, open morning greetings
+Alexa ask morning greetings for morning compliment
+Alexa ask morning greetings to greet me
+Alexa ask morning greetings for good morning
+Alexa, disable morning greetings

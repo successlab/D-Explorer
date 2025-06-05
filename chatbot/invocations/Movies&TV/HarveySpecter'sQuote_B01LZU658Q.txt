@@ -1,0 +1,5 @@
+Alexa, open harvey specter
+Alexa, ask harvey specter for a quote
+Alexa, tell harvey specter to tell me a quote
+Alexa, ask harvey specter for a quote by harvey
+Alexa, disable harvey specter

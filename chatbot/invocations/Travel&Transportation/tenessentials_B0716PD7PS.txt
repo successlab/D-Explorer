@@ -1,0 +1,5 @@
+Alexa, open ten essentials
+Alexa, ask the ten essentials to give me an essential
+Alexa, open ten essentials and give me the essentials
+Alexa, ask the ten essentials what should i take camping
+Alexa, disable ten essentials

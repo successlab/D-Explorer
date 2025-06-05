@@ -1,0 +1,4 @@
+Alexa, open roll of the dice
+Alexa, ask roll of the dice to roll the dice
+Alexa, ask roll of the dice to roll a 20 sided die
+Alexa, disable roll of the dice

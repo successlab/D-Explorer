@@ -1,0 +1,5 @@
+Alexa, open elvis quiz
+Alexa, next
+Alexa, stop
+Alexa, start elvis quiz
+Alexa, disable elvis quiz

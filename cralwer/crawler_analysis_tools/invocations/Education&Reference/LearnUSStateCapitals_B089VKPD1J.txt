@@ -1,0 +1,4 @@
+Alexa, open learn u. s. capitals
+Alexa, stop
+Alexa, start Learn U.S. Capitals
+Alexa, disable learn u. s. capitals

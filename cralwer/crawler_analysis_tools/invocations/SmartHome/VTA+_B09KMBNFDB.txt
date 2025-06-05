@@ -1,0 +1,9 @@
+Alexa, turn on the kitchen light
+Alexa, turn off the kitchen light
+Alexa, set the intensity to full brightness
+Alexa, turn up the brightness of the living room light
+Alexa, turn on the multi-outlet in the living room
+Alexa, turn off the multi-outlet
+Alexa, set the bedroom light to 20%
+Alexa, turn off the bedroom light
+Alexa, disable VTA+

@@ -1,0 +1,5 @@
+Alexa, open three eyed raven
+Alexa, ask Three Eyed Raven what the words of House Stark are.
+Alexa, ask Three Eyed Raven to give me the words of House Baratheon.
+Alexa, ask Three Eyed Raven what are the words of House Martell?
+Alexa, disable three eyed raven

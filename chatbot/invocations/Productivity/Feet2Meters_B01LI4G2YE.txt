@@ -1,0 +1,5 @@
+Alexa, open convert quick
+Alexa, ask convert quick to convert three meters to feet
+Alexa, ask convert quick what is five feet to meters
+Alexa, tell convert quick to get meters from three feet
+Alexa, disable convert quick

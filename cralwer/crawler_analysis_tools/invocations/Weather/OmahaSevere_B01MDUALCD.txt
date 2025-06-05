@@ -1,0 +1,4 @@
+Alexa, open omaha severe
+Alexa, ask Omaha Severe if I'm in severe weather.
+Alexa ask Omaha Severe to tell me current conditions.
+Alexa, disable omaha severe

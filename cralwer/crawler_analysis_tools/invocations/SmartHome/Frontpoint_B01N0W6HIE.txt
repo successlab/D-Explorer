@@ -1,0 +1,6 @@
+Alexa, open front point
+Alexa, ask Frontpoint...
+Alexa, tell Front Point to turn on the lights
+Alexa, tell Front Point to run sleep scene
+Alexa, tell Front Point to arm stay
+Alexa, disable front point

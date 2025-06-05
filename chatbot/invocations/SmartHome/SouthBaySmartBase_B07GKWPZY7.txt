@@ -1,0 +1,5 @@
+Alexa, open my base
+Alexa, ask my base to find device.
+Alexa, ask my base to turn off gravity.
+Alexa, ask my base to start massaging.
+Alexa, disable my base

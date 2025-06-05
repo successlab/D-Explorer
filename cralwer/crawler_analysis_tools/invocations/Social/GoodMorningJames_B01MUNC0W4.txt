@@ -1,0 +1,5 @@
+Alexa, open morning james
+Alexa tell morning James good morning
+Alexa tell morning James hi
+Alexa ask morning James to say something nice
+Alexa, disable morning james

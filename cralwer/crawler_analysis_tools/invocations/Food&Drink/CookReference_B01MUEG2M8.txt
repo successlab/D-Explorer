@@ -1,0 +1,8 @@
+Alexa, open cook reference
+Alexa, ask cook reference what is the safe temperature for chicken?
+Alexa, ask cook reference how many ounces are in a gallon?
+Alexa, ask cook reference what goes well with beef?
+Alexa, ask Cook Reference what is the safe temperature for chicken.
+Alexa, ask Cook Reference how many tablespoons in one cup.
+Alexa, ask Cook Reference what goes well with beef.
+Alexa, disable cook reference

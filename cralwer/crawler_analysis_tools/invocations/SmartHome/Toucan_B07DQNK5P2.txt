@@ -1,0 +1,8 @@
+Alexa, discover devices
+Alexa, discover my smart home devices
+Alexa, turn on living room
+Alexa, brighten the living room by 80 percent
+Alexa, set the living room light to red
+Alexa,make the living room warmer
+Alexa, set the living room to blue
+Alexa, disable Toucan

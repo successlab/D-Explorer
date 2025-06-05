@@ -1,0 +1,5 @@
+Alexa, open my flight forecast
+Alexa ask my flight forecast how is the turbulence for my flight
+how bad is the turbulence in the U.S
+what is my turbulence forecast
+Alexa, disable my flight forecast

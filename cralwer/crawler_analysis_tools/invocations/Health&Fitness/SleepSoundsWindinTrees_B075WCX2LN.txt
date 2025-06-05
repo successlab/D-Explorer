@@ -1,0 +1,6 @@
+Alexa, open wind in trees
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Wind in Trees
+Alexa, launch Wind in Trees
+Alexa, disable wind in trees

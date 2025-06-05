@@ -1,0 +1,5 @@
+Alexa, open my concierge
+Alexa Ask my concierge what are the events for today
+Alexa ask my Concierge what is today's news
+Alexa ask my Concierge what is the mail status
+Alexa, disable my concierge

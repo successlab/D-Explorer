@@ -1,0 +1,4 @@
+Alexa, open math puzzle game
+ask me a question
+repeat
+Alexa, disable math puzzle game

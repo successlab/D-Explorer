@@ -1,0 +1,7 @@
+Alexa, open today's office readings
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, ask today's office readings for the latest talk
+Alexa, start today's office readings
+Alexa, disable today's office readings

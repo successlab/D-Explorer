@@ -1,0 +1,2 @@
+Alexa, open primary colors
+Alexa, disable primary colors

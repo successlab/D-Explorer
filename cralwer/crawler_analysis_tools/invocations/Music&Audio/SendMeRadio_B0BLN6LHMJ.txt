@@ -1,0 +1,5 @@
+Alexa, open send me radio
+Alexa, start SendMe Radio
+Alexa, play SendMe Radio
+Alexa, ask SendMe Radio what is the current song
+Alexa, disable send me radio

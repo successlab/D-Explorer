@@ -1,0 +1,4 @@
+Alexa, open power boost
+Alexa, Start Power Boost
+Alexa, Launch Power Boost
+Alexa, disable power boost

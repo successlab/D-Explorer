@@ -1,0 +1,4 @@
+Alexa, open wine library
+Alexa ask Wine Library for a new wine
+Alexa tell Wine Library to give me more wines
+Alexa, disable wine library

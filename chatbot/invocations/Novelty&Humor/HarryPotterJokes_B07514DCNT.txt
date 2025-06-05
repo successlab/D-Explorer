@@ -1,0 +1,5 @@
+Alexa, open harry potter jokes
+Alexa, ask Harry Potter Jokes, and it will get it up and running. Hope to see you playing, 
+Alexa, ask Harry Potter Jokes
+Alexa, start Harry Potter Jokes
+Alexa, disable harry potter jokes

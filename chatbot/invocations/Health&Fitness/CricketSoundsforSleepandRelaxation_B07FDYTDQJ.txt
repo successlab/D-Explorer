@@ -1,0 +1,5 @@
+Alexa, open cricket sounds
+Alexa, stop.” To resume it again, say 
+Alexa, start Cricket Sounds
+Alexa, launch Cricket Sounds
+Alexa, disable cricket sounds

@@ -1,0 +1,5 @@
+Alexa, open prophet of pizza
+Alexa, ask Prophet of Pizza if I should choose Pizza Hut or Pizza Haven.
+Pizza Hut or Pizza Haven, which one?
+Decide if I should choose Pizza Hut or Pizza Haven.
+Alexa, disable prophet of pizza

@@ -1,0 +1,4 @@
+Alexa, open a. s. m. r. ambience
+Alexa, Pause
+Alexa, Resume
+Alexa, disable a. s. m. r. ambience

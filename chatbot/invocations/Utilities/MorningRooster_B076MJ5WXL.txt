@@ -1,0 +1,7 @@
+Alexa, open morning rooster
+Alexa, start morning rooster
+Alexa, stop
+Alexa, stop
+Alexa, start Morning Rooster
+Alexa, play Morning Rooster
+Alexa, disable morning rooster

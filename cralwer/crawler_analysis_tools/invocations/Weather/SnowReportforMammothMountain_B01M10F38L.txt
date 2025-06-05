@@ -1,0 +1,5 @@
+Alexa, open mammoth mountain snow report
+Alexa, ask Mammoth Mountain for the snow report
+Alexa, open Mammoth Mountain
+Alexa, ask Mammoth Mountain for latest conditions
+Alexa, disable mammoth mountain snow report

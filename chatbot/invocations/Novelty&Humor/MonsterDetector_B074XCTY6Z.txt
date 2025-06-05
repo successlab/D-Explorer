@@ -1,0 +1,5 @@
+Alexa, open monster detector
+Alexa, start monster detector
+Check in the closet
+Look in the hallway
+Alexa, disable monster detector

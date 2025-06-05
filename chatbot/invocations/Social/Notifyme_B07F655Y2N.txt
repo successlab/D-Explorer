@@ -1,0 +1,3 @@
+Alexa, open notify me
+Alexa ask notify me for my message
+Alexa, disable notify me

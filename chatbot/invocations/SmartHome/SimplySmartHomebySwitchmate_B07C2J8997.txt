@@ -1,0 +1,4 @@
+Alexa, turn on Porch light
+Alexa, turn off Ceiling Fan
+Alexa, turn on Movie Projector
+Alexa, disable SimplySmartHomebySwitchmate

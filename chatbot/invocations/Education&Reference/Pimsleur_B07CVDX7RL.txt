@@ -1,0 +1,4 @@
+Alexa, open pimsleur
+Alexa play pimsleur
+Alexa launch pimsleur
+Alexa, disable pimsleur

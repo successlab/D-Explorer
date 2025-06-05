@@ -1,0 +1,21 @@
+Alexa, turn on Dreo Tower Fan.
+Alexa, turn off Dreo Tower Fan.
+Alexa, set Dreo Tower Fan speed to 1.
+Alexa, set Dreo Tower Fan speed to 2.
+Alexa, set Dreo Tower Fan speed to 3.
+Alexa, set Dreo Tower Fan speed to 4.
+Alexa, set Dreo Tower Fan speed to 5.
+Alexa, set Dreo Tower Fan speed to 6.
+Alexa, set Dreo Tower Fan to Auto mode.
+Alexa, set Dreo Tower Fan to Natural mode.
+Alexa, set Dreo Tower Fan to Straight mode.
+Alexa, set Dreo Tower Fan to Sleep mode.
+Alexa, set Dreo Tower Fan speed to maximum.
+Alexa, set Dreo Tower Fan speed to minimum.
+Alexa, increase Dreo Tower Fan speed by 1.
+Alexa, decrease Dreo Tower Fan speed by 1.
+Alexa, turn on Dreo Tower Fan oscillation.
+Alexa, turn off Dreo Tower Fan oscillation.
+Alexa, turn on Tower fan
+Alexa, increase Tower fan speed by 1.
+Alexa, disable Dreo

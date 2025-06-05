@@ -1,0 +1,5 @@
+Alexa, open park hours
+Alexa ask park hours what time does Magic Kingdom open
+Alexa ask park hours when Happily Ever After is today
+Alexa ask park hours when the fireworks are at Epcot tomorrow
+Alexa, disable park hours

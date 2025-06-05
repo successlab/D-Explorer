@@ -1,0 +1,3 @@
+Alexa, open welcome home
+Alexa, start welcome home
+Alexa, disable welcome home

@@ -1,0 +1,3 @@
+Alexa, open new quiz
+Alexa, start New quiz
+Alexa, disable new quiz

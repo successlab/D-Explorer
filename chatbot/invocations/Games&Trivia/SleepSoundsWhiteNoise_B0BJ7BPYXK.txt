@@ -1,0 +1,4 @@
+Alexa, open sleep sounds white noise
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds white noise

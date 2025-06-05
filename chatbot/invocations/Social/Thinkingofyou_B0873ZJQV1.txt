@@ -1,0 +1,4 @@
+Alexa, open my baby
+Alexa, stop
+Alexa, start my baby
+Alexa, disable my baby

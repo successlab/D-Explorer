@@ -1,0 +1,5 @@
+Alexa, open eight ball
+Alexa, open Eight Ball.
+Alexa, ask Eight Ball for advice.
+Alexa, ask Eight Ball for an answer.
+Alexa, disable eight ball

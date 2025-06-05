@@ -1,0 +1,6 @@
+Alexa, open gregorian monks
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Gregorian Monks
+Alexa, launch Gregorian Monks
+Alexa, disable gregorian monks

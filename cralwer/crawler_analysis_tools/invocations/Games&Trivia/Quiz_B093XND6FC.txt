@@ -1,0 +1,7 @@
+Alexa, open quiz game
+Alexa, launch Space Facts
+Alexa, open Space Facts
+Alexa, stop
+Alexa ask quiz game for a fact
+Alexa tell quiz game to tell me trivia
+Alexa, disable quiz game

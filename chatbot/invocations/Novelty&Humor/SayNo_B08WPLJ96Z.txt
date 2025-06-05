@@ -1,0 +1,4 @@
+Alexa, open say no
+Alexa open say no.
+Alexa launch say no.
+Alexa, disable say no

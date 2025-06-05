@@ -1,0 +1,5 @@
+Alexa, open temp tation
+Alexa, tell Temp Tation that I see cookies.
+Alexa, tell Temp Tation that I'm dealing with a crazy person.
+Alexa, tell Temp Tation to give me strength.
+Alexa, disable temp tation

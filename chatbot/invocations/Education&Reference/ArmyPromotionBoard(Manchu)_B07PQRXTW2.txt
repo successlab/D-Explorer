@@ -1,0 +1,3 @@
+Alexa, open army promotion board
+Alexa, start army promotion board
+Alexa, disable army promotion board

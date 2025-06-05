@@ -1,0 +1,6 @@
+Alexa, set Bedroom to ECO.
+Alexa, set Upstairs to HEAT.
+Alexa, set Thermostat to 72 degrees.
+Alexa, what's the temperature in the Bedroom?
+Alexa, set Thermostat to Auto.
+Alexa, disable ComfortSync®A3

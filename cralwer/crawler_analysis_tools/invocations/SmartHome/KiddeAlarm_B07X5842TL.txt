@@ -1,0 +1,5 @@
+Alexa, open kidde alarm
+Alexa, launch kidde alarm
+smoke level at kitchen
+Alexa, Ask Kidde Alarm status in the kitchen?
+Alexa, disable kidde alarm

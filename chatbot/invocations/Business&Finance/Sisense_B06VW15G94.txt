@@ -1,0 +1,5 @@
+Alexa, open sisense
+Alexa, start Sisense
+Provide Total Cost
+Get Commerce Dashboard
+Alexa, disable sisense

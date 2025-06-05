@@ -1,0 +1,4 @@
+Alexa, open help me decide
+Alexa, start Help Me Decide
+Alexa, launch Help Me Decide
+Alexa, disable help me decide

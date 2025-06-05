@@ -1,0 +1,4 @@
+Alexa, discover my devices
+Alexa, show me the camera
+Alexa, show me the backyard camera
+Alexa, disable Symynelec

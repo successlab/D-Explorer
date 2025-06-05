@@ -1,0 +1,5 @@
+Alexa, open license plate game
+Alexa, open license plate game.
+Alexa, ask license plate game to add Texas.
+Alexa, ask license plate game to list states.
+Alexa, disable license plate game

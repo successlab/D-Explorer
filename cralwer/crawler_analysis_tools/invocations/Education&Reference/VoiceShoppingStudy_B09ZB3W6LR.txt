@@ -1,0 +1,4 @@
+Alexa, open voice shopping study
+Alexa, start Voice Shopping Study
+Alexa, launch Voice Shopping Study
+Alexa, disable voice shopping study

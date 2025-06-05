@@ -1,0 +1,4 @@
+Alexa, open ether
+Alexa, ask Aether about Minneapolis.
+Alexa, ask Aether for the air quality in Dallas.
+Alexa, disable ether

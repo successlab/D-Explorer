@@ -1,0 +1,5 @@
+Alexa, open n. y. c. subway
+Alexa, ask NYC subway for an update
+Alexa, ask NYC subway to check the NQR line
+open NYC subway
+Alexa, disable n. y. c. subway

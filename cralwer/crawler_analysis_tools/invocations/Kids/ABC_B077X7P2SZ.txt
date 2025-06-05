@@ -1,0 +1,4 @@
+Alexa, open a. b. c.
+Alexa tell A. B. C.
+Alexa start A. B. C.
+Alexa, disable a. b. c.

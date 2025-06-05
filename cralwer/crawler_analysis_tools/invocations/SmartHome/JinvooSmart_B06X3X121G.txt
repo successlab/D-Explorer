@@ -1,0 +1,4 @@
+Alexa, turn on livingroom light
+Alexa, turn off livingroom light
+Alexa, dim livingroom light
+Alexa, disable JinvooSmart

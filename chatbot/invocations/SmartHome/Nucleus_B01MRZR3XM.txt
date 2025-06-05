@@ -1,0 +1,6 @@
+Alexa, open nucleus
+Alexa, enable the Nucleus skill
+Alexa, tell nucleus to call the kitchen
+Alexa, ask nucleus to start an audio call with the kitchen
+Alexa, tell nucleus to go to sleep
+Alexa, disable nucleus

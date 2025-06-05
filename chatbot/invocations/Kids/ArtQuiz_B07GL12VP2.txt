@@ -1,0 +1,4 @@
+Alexa, open art quiz
+Alexa, start art quiz
+Alexa, launch art quiz
+Alexa, disable art quiz

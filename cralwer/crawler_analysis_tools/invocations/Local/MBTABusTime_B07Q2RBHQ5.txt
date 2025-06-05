@@ -1,0 +1,4 @@
+Alexa, open bus time
+Alexa, give me a summary with bus time
+Alexa, where is route 553 with bus time
+Alexa, disable bus time

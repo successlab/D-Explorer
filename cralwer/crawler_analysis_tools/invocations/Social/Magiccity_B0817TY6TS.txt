@@ -1,0 +1,4 @@
+Alexa, open magic city
+Alexa, start Magic city
+Alexa, launch Magic city
+Alexa, disable magic city

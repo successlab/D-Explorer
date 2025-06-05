@@ -1,0 +1,4 @@
+Alexa, open tabata workout
+Alexa, ask Tabata Workout to start
+Alexa, ask Tabata Workout to start a 10 set workout
+Alexa, disable tabata workout

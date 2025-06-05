@@ -1,0 +1,2 @@
+Alexa, open shot target
+Alexa, disable shot target

@@ -1,0 +1,6 @@
+Alexa, open daily horoscope
+Alexa, change my default sign
+Alexa, ask Daily Horoscope
+Alexa, launch Daily Horoscope
+Alexa, play Daily Horoscope
+Alexa, disable daily horoscope

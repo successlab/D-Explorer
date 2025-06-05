@@ -1,0 +1,5 @@
+Alexa, open easter quiz
+Alexa, start Easter Quiz
+Repeat the question
+Start new game
+Alexa, disable easter quiz

@@ -1,0 +1,4 @@
+Alexa, open new york skyscrapers
+Alexa, ask new york skyscrapers to tell me a fact
+ask new york skyscrapers to give me some information
+Alexa, disable new york skyscrapers

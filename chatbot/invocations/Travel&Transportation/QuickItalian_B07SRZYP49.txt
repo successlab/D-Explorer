@@ -1,0 +1,4 @@
+Alexa, open quick italian
+Alexa, start Quick Italian
+Alexa, run Quick Italian
+Alexa, disable quick italian

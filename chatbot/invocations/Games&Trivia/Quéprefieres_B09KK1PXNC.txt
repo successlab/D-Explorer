@@ -1,0 +1,5 @@
+Alexa, open qué prefieres
+Alexa, abre qué prefieres
+Alexa, inicia qué prefieres
+Alexa, lanza qué prefieres
+Alexa, disable qué prefieres

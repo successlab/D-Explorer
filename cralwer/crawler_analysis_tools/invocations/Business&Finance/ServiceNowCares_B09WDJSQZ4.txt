@@ -1,0 +1,3 @@
+Alexa, open service now cares
+Alexa, start service now cares
+Alexa, disable service now cares

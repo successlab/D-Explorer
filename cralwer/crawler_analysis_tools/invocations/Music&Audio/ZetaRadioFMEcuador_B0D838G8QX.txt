@@ -1,0 +1,7 @@
+Alexa, open zeta radio ecuador
+Alexa, abre Zeta radio Ecuador
+Alexa, pausa
+Alexa, detén la música
+reproducir
+zeta radio
+Alexa, disable zeta radio ecuador

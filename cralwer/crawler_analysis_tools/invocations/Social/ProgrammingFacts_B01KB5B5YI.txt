@@ -1,0 +1,5 @@
+Alexa, open programming facts
+Alexa, ask programming facts to tell me something
+Alexa, ask programming facts for a programming fact
+Alexa, ask programming facts to tell me a programming fact
+Alexa, disable programming facts

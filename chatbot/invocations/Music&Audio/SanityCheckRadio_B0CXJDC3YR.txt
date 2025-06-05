@@ -1,0 +1,4 @@
+Alexa, open sanity check radio
+Alexa, play Sanity Check Radio
+Alexa, start Sanity Check Radio
+Alexa, disable sanity check radio

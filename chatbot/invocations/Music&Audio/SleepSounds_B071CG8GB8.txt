@@ -1,0 +1,10 @@
+Alexa, open sleep sounds
+Alexa, ask Sleep Sounds to play thunderstorms
+Alexa, ask Sleep Sounds for a list
+Alexa, stop
+Alexa, stop in 3 hours
+Alexa, ask Sleep Sounds for the daily meditation.
+Alexa, ask Sleep Sounds to turn on Background Mode
+Alexa, ask Sleep Sounds to turn off Background Mode
+Alexa, ask Sleep Sounds for thunderstorms
+Alexa, disable sleep sounds

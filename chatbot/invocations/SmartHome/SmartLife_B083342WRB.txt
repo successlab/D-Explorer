@@ -1,0 +1,4 @@
+Alexa, turn on the bedroom light
+echo,turn on the bedroom lamp.
+echo,turn off the bedroom lamp.
+Alexa, disable SmartLife

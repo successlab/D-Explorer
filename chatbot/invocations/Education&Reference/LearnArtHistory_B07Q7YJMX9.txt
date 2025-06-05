@@ -1,0 +1,6 @@
+Alexa, open art history
+Alexa, next
+Alexa, stop
+Alexa, start Art History
+Alexa, ask Art History for a fact
+Alexa, disable art history

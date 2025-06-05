@@ -1,0 +1,4 @@
+Alexa, open celebrate the day
+Alexa, stop
+Alexa, start Celebrate the Day
+Alexa, disable celebrate the day

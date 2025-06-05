@@ -1,0 +1,5 @@
+Alexa, open teacher thoughts
+Alexa, ask Teacher Thoughts to remind me why I'm a teacher.
+Alexa, ask Teacher Thoughts to give me a famous teacher quote.
+Alexa, ask Teacher Thoughts to give me a teacher thought.
+Alexa, disable teacher thoughts

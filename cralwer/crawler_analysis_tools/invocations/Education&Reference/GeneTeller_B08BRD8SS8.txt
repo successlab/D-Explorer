@@ -1,0 +1,3 @@
+Alexa, open gene teller
+Alexa, open Gene Teller and tell me the maximum expression of tnf.
+Alexa, disable gene teller

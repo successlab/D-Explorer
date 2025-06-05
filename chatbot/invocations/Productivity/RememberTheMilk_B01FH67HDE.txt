@@ -1,0 +1,5 @@
+Alexa, open remember the milk
+Alexa, ask Remember The Milk what's due today.
+Alexa, tell Remember The Milk to remind me to pick up the milk at 6pm.
+Alexa, tell Remember The Milk to remind Jeff to return the library books on Thursday.
+Alexa, disable remember the milk

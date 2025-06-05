@@ -1,0 +1,2 @@
+Alexa, open rick morty game
+Alexa, disable rick morty game

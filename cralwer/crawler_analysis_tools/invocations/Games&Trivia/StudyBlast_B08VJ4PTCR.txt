@@ -1,0 +1,4 @@
+Alexa, open study blast
+Alexa start Study Blast
+Alexa launch Study Blast
+Alexa, disable study blast

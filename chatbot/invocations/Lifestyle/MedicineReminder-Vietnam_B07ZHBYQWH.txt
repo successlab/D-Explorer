@@ -1,0 +1,2 @@
+Alexa, open medicine reminder
+Alexa, disable medicine reminder

@@ -1,0 +1,2 @@
+Alexa, open horoscope of the day
+Alexa, disable horoscope of the day

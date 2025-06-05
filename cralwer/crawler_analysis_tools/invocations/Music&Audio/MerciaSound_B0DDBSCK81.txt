@@ -1,0 +1,4 @@
+Alexa, open mercia sound
+Alexa, start Mercia Sound
+Alexa, play Mercia Sound
+Alexa, disable mercia sound

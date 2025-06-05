@@ -1,0 +1,4 @@
+Alexa, open pure country
+Alexa, play pure country
+Alexa, start pure country
+Alexa, disable pure country

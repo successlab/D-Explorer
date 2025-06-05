@@ -1,0 +1,8 @@
+Alexa, open santa claus
+Alexa, tell Santa Claus I want a bike
+Alexa, tell Santa Claus I want some toys for Christmas
+Alexa, ask Santa Claus to remove the [insert item here] from my Christmas list
+Alexa, tell Santa Claus to remove the bike from my Christmas list
+Alexa, ask Santa Claus to remove an item from my Christmas list
+Alexa, ask Santa Claus what is on my Christmas list
+Alexa, disable santa claus

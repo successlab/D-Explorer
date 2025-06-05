@@ -1,0 +1,4 @@
+Alexa, open magic database
+Alexa, ask Magic Database to look for Shock
+Alexa, ask Magic Database to search for Pathrazer of Ulamog
+Alexa, disable magic database

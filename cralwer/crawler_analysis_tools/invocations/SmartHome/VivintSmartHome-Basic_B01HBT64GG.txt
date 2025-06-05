@@ -1,0 +1,5 @@
+Alexa, discover my devices
+Alexa, turn on Bedroom lights
+Alexa, set the Living Room to 70 degrees
+Alexa, show my doorbell camera
+Alexa, disable VivintSmartHome-Basic

@@ -1,0 +1,4 @@
+Alexa, open gore mountain
+Alexa, ask Gore Mountain for the snow report
+Alexa, ask Gore Mountain for latest conditions
+Alexa, disable gore mountain

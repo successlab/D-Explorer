@@ -1,0 +1,5 @@
+Alexa, open diana facts
+Alexa, start diana facts
+Alexa, ask diana facts a fact
+Alexa, ask diana facts to tell me something
+Alexa, disable diana facts

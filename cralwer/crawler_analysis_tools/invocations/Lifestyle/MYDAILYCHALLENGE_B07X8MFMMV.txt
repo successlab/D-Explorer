@@ -1,0 +1,4 @@
+Alexa, open my daily challenge
+Alexa, stop
+Alexa, start MY DAILY CHALLENGE
+Alexa, disable my daily challenge

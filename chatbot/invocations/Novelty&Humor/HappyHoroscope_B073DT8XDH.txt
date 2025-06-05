@@ -1,0 +1,5 @@
+Alexa, open happy horoscope
+Alexa, ask happy horoscope for Libra
+Alexa, ask happy horoscope for Leo
+Alexa, ask happy horoscope for luck numbers
+Alexa, disable happy horoscope

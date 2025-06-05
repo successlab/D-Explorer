@@ -1,0 +1,5 @@
+Alexa, open w. r. j. q.
+Alexa, play WRJQ
+Alexa, start WRJQ
+Alexa, ask WRJQ what song is playing
+Alexa, disable w. r. j. q.

@@ -1,0 +1,4 @@
+Alexa, open unofficial pokemon guessing game
+Alexa start Unofficial Pokemon Guessing Game
+Alexa play Unofficial Pokemon Guessing Game
+Alexa, disable unofficial pokemon guessing game

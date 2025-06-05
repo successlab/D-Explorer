@@ -1,0 +1,3 @@
+Alexa, lock the front door.
+Alexa, is the front door locked?
+Alexa, disable YaleAccess

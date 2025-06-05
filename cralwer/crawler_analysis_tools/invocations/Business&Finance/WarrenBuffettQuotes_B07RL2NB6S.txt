@@ -1,0 +1,5 @@
+Alexa, open warren buffett quotes
+Alexa, next
+Alexa, stop
+Alexa, start Warren Buffett Quotes
+Alexa, disable warren buffett quotes

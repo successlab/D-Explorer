@@ -1,0 +1,3 @@
+Alexa, open animal sound game
+Alexa, launch Animal Sound Game
+Alexa, disable animal sound game

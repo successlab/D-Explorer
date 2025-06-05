@@ -1,0 +1,3 @@
+Alexa, open squaring function
+Alexa, squaring function
+Alexa, disable squaring function

@@ -1,0 +1,4 @@
+Alexa, open fitness expert
+Alexa, start fitness expert
+Alexa, ask fitness expert to start workout
+Alexa, disable fitness expert

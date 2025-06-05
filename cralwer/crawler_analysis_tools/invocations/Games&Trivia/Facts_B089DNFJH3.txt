@@ -1,0 +1,6 @@
+Alexa, open space facts
+Alexa, launch Space Facts
+Alexa, stop
+Alexa ask space facts for a fact
+Alexa tell space facts to tell me trivia
+Alexa, disable space facts

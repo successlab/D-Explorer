@@ -1,0 +1,5 @@
+Alexa, open super bowl trivia
+alexa, ask super bowl trivia start quiz
+alexa, ask super bowl trivia start
+alexa, ask super bowl trivia start new quiz
+Alexa, disable super bowl trivia

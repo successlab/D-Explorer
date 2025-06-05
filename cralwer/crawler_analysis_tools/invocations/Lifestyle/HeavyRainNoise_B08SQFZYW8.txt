@@ -1,0 +1,4 @@
+Alexa, open heavy rain noise
+Alexa, Pause
+Alexa, Resume
+Alexa, disable heavy rain noise

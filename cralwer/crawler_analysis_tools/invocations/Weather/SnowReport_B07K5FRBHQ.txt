@@ -1,0 +1,5 @@
+Alexa, open snow report
+Alexa, ask Snow Report to tell me the snow report.
+Alexa, ask Snow Report to give me the report.
+Alexa, ask Snow Report to tell me the report.
+Alexa, disable snow report

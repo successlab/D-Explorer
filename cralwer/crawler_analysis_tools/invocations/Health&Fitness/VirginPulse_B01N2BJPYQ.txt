@@ -1,0 +1,5 @@
+Alexa, open virgin pulse
+Alexa, ask Virgin Pulse how I'm doing today.
+Alexa, tell Virgin Pulse I slept 8 hours last night.
+Alexa, tell Virgin Pulse I brought my lunch today.
+Alexa, disable virgin pulse

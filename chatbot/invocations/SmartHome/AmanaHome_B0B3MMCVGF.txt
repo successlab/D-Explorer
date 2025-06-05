@@ -1,0 +1,4 @@
+Alexa, set my Kitchen temperature to 75 degrees.
+Alexa, decrease the Office by 3.
+Alexa, set my Garage to cool.
+Alexa, disable AmanaHome

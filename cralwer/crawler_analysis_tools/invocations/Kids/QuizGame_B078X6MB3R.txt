@@ -1,0 +1,5 @@
+Alexa, open quiz game
+Alexa, ask quiz game and quiz me
+Alexa, ask quiz game to start a quiz
+Alexa, ask quiz game and start a quiz
+Alexa, disable quiz game

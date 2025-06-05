@@ -1,0 +1,4 @@
+Alexa, turn on kitchen light.
+Alexa, set bedroom temperature to 21 degrees.
+Alexa, set bedroom light to red.
+Alexa, disable 1HomeforKNXandLoxone

@@ -1,0 +1,4 @@
+Alexa, open daily jokes
+tell me a joke
+tell me some jokes
+Alexa, disable daily jokes

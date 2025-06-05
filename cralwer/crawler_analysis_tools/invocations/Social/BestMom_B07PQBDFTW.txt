@@ -1,0 +1,4 @@
+Alexa, open best mom
+Alexa, stop
+Alexa, start Best Mom
+Alexa, disable best mom

@@ -1,0 +1,4 @@
+Alexa, open albuquerque journal news
+Alexa, ask Albuquerque Journal news to read the news
+Alexa, launch Albuquerque Journal news
+Alexa, disable albuquerque journal news

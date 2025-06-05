@@ -1,0 +1,5 @@
+Alexa, open times tables
+Alexa, open times tables.
+Alexa, ask times tables what the multiples of 5 are.
+Alexa, ask times tables for the multiples of twelve.
+Alexa, disable times tables

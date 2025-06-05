@@ -1,0 +1,33 @@
+Alexa, open xbox
+Alexa, ask Xbox what can I say
+Alexa, tell Xbox to turn on.
+Alexa, tell Xbox to turn off.
+Alexa, tell Xbox to launch Forza Horizon 4
+Alexa, tell Xbox to pause
+Alexa, tell Xbox to resume.
+Alexa, tell Xbox to turn it up.
+Alexa, tell Xbox to turn volume down 5.
+Alexa, tell Xbox to record that.
+Alexa, tell Xbox to start a party.
+Alexa, turn on [device name].
+Alexa, turn off [device name].
+Alexa, pause on [device name].
+Alexa, resume on [device name].
+Alexa, volume up on [device name].
+Alexa, pause
+Alexa, play
+Alexa, resume
+Alexa, skip forward
+Alexa, launch Forza Horizon 4.
+Alexa, launch Forza Horizon 4 on Xbox.
+Alexa, launch Netflix.
+Alexa, launch Netflix on Xbox.
+Alexa, record that.
+Alexa, ask Xbox what's new on Xbox Game Pass?
+Alexa, ask Xbox what's popular on Xbox Game Pass?
+Alexa, ask Xbox what's leaving Xbox Game Pass?
+Alexa, ask Xbox is [game] on Xbox Game Pass?
+Alexa, turn on Xbox
+Alexa, ask Xbox what can I say?
+Alexa, launch Forza Horizon 4
+Alexa, disable xbox

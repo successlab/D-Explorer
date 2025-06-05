@@ -1,0 +1,4 @@
+Alexa, open ginger math
+Alexa, ask Ginger Math how is my practice
+Alexa, ask Ginger Math for number 12 times table
+Alexa, disable ginger math

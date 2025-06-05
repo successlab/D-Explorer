@@ -1,0 +1,3 @@
+Alexa, open voice learning
+Alexa start voice learning
+Alexa, disable voice learning

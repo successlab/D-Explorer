@@ -1,0 +1,4 @@
+Alexa, turn on Moonside Light.
+Alexa, set Moonside Light to 50 percent brightness.
+Alexa, set Moonside Light brightness to 50 percent.
+Alexa, disable MoonsideLight

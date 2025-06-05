@@ -1,0 +1,6 @@
+Alexa, open rugby scores
+Alexa, ask Rugby Scores for the World Cup scores
+Alexa, ask Rugby Scores what are the world cup scores
+Alexa, ask Rugby Scores what is the England score
+Alexa, ask Rugby Scores when do Scotland play
+Alexa, disable rugby scores

@@ -1,0 +1,4 @@
+Alexa, open virtual mala
+Alexa, start virtual mala
+Alexa, launch virtual mala
+Alexa, disable virtual mala

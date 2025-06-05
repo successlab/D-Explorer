@@ -1,0 +1,4 @@
+Alexa, open genius junior
+Alexa, start Genius Junior
+Alexa, ask Genius Junior for help
+Alexa, disable genius junior

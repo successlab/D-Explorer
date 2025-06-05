@@ -1,0 +1,4 @@
+Alexa, open power up
+Alexa, start power up
+Alexa, ask power up to start workout
+Alexa, disable power up

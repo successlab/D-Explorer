@@ -1,0 +1,4 @@
+Alexa, open math puzzle
+Ask me a math puzzle
+Answer is 3
+Alexa, disable math puzzle

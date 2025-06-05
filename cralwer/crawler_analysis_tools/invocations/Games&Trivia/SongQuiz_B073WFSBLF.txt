@@ -1,0 +1,4 @@
+Alexa, open the music quiz
+Alexa, start The Music Quiz
+Alexa, run The Music Quiz
+Alexa, disable the music quiz

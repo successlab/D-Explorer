@@ -1,0 +1,3 @@
+Alexa, open my turn now
+Alexa, ask my turn now who should take out the trash
+Alexa, disable my turn now

@@ -1,0 +1,3 @@
+Alexa, turn on the TV.
+Alexa, turn off the TV.
+Alexa, disable Sofabaton

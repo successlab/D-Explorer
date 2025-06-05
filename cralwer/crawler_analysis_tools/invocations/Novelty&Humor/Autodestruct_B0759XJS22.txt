@@ -1,0 +1,4 @@
+Alexa, open auto destruct
+Alexa, start auto destruct
+Alexa, ask auto destruct to go boom boom
+Alexa, disable auto destruct

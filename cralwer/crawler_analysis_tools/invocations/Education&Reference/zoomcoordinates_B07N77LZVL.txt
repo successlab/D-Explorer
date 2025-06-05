@@ -1,0 +1,4 @@
+Alexa, open zoom coordinates
+latitude is 12 and longitude is 87
+latitude and longitude are 12 and 87
+Alexa, disable zoom coordinates

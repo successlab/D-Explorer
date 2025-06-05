@@ -1,0 +1,5 @@
+Alexa, open meat thermometer
+Alexa, ask meat thermometer what is the best temperature for pork butt
+Alexa, launch meat thermometer
+tell me the temperature for veal
+Alexa, disable meat thermometer

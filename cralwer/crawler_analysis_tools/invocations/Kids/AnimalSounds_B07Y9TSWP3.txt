@@ -1,0 +1,3 @@
+Alexa, open animal sounds
+Alexa start animal sounds
+Alexa, disable animal sounds

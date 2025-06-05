@@ -1,0 +1,5 @@
+Alexa, open kiki facts
+Alexa, start kiki facts
+Alexa, ask kiki facts for a kiki
+Alexa, ask kiki facts for a fact
+Alexa, disable kiki facts

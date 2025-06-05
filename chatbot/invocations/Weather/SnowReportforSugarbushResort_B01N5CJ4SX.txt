@@ -1,0 +1,4 @@
+Alexa, open sugarbush resort
+Alexa, ask Sugarbush Resort for the snow report
+Alexa, ask Sugarbush Resort for latest conditions
+Alexa, disable sugarbush resort

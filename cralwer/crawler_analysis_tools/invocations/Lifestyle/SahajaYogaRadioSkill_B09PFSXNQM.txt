@@ -1,0 +1,3 @@
+Alexa, open sahaja radio
+Alexa, ask Sahaja radio to play channel one
+Alexa, disable sahaja radio

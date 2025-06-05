@@ -1,0 +1,4 @@
+Alexa, open event master
+Alexa, ask Event Master what to do in Paris
+Alexa, ask Event Master what events are in London tomorrow
+Alexa, disable event master

@@ -1,0 +1,5 @@
+Alexa, open persian calendar
+Alexa, ask Persian calendar for the day.
+Alexa, ask Persian calendar for the date today.
+Alexa, ask Persian calendar for the date in Iran.
+Alexa, disable persian calendar

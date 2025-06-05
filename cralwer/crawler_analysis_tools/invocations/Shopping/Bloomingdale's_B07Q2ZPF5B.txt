@@ -1,0 +1,5 @@
+Alexa, open bloomingdale's
+Alexa, ask bloomingdale's when is the next event
+Alexa, ask bloomingdale's for store hours
+Alexa, ask bloomingdale's find me some red dresses
+Alexa, disable bloomingdale's

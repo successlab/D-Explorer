@@ -1,0 +1,5 @@
+Alexa, open car rentals
+Alexa, open car rentals.
+Find a car for me in Seattle from April twenty first to April twenty fifth.
+Book car number four.
+Alexa, disable car rentals

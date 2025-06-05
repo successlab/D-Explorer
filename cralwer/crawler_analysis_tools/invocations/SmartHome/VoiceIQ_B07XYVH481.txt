@@ -1,0 +1,5 @@
+Alexa, open voice i. q.
+Alexa, ask Voice IQ to dispense 1 cup
+Alexa, ask Voice IQ to turn on
+Alexa, ask Voice IQ to fill coffee pot
+Alexa, disable voice i. q.

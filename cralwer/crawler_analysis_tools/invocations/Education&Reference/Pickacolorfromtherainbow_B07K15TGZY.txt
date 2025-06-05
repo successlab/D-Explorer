@@ -1,0 +1,4 @@
+Alexa, open pick a color
+Alexa, ask pick a color to pick a color
+Alexa, ask pick a color to pick a color from the rainbow
+Alexa, disable pick a color

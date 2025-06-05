@@ -1,0 +1,4 @@
+Alexa, open inner g. radio
+Alexa, start inner g. radio
+Alexa, ask inner g. radio what's playing
+Alexa, disable inner g. radio

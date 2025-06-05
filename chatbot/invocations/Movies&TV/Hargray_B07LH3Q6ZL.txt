@@ -1,0 +1,5 @@
+Alexa, open hargray
+Alexa, ask Hargray to tune to the Weather Channel
+Alexa, tell Hargray to watch channel 3
+Alexa, ask Hargray to search for Big Bang Theory
+Alexa, disable hargray

@@ -1,0 +1,5 @@
+Alexa, open sage
+Alexa, ask Sage to define Structured Observation
+Alexa, ask Sage to decompose Narrative Analysis
+Alexa, ask Sage to get relationships for Personal Narratives
+Alexa, disable sage

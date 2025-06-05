@@ -1,0 +1,12 @@
+Alexa, set Basement lights to 60%,
+Alexa, turn on Kitchen light.
+Alexa, turn on Living Room fan.
+Alexa, turn on Bedroom fan.
+Alexa, increase Dining Room fan speed to 6
+Alexa, set Dining Room fan speed to 3.
+Alexa, set Library lights to 85%
+Alexa, brighten Library lights to 99%
+Alexa, turn off Bedroom Fan
+Alexa, turn on Kitchen Fan
+Alexa, brighten my Living Room light by fifty percent
+Alexa, disable WACSmartHome

@@ -1,0 +1,4 @@
+Alexa, open kids trivia
+Repeat the last question
+My answer is two
+Alexa, disable kids trivia

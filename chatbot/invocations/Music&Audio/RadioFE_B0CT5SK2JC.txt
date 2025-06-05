@@ -1,0 +1,5 @@
+Alexa, open radio fe
+Alexa, Abre radio fe
+Alexa, Inicia radio fe
+Alexa, Reproduce radio fe
+Alexa, disable radio fe

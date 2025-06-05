@@ -1,0 +1,3 @@
+Alexa, open romeo juliet quotes
+Alexa, ask romeo juliet quotes to pick a quote
+Alexa, disable romeo juliet quotes

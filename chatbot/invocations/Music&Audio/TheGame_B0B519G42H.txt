@@ -1,0 +1,4 @@
+Alexa, open the game f. m.
+Alexa, pause
+Alexa, resume
+Alexa, disable the game f. m.

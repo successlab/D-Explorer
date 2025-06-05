@@ -1,0 +1,5 @@
+Alexa, open butterball
+Alexa, open Butterball.
+Alexa, ask Butterball how to thaw my turkey.
+Alexa, ask Butterball how to cook my turkey.
+Alexa, disable butterball

@@ -1,0 +1,4 @@
+Alexa, open smart performer
+Alexa, ask smart performer to turn off office camera motion detection
+Alexa, ask smart performer to turn office camera right
+Alexa, disable smart performer

@@ -1,0 +1,5 @@
+Alexa, discover devices
+Alexa, turn off the kitchen
+Alexa, dim the bedroom by 20 percent
+Alexa, set the living room to 30 percent
+Alexa, disable StellarWi-Fi

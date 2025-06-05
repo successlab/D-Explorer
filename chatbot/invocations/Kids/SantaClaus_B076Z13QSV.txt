@@ -1,0 +1,5 @@
+Alexa, open santa claus
+Alexa, ask Santa Claus if I'm naughty or nice
+Alexa, start Santa Claus
+Alexa, play Santa Claus
+Alexa, disable santa claus

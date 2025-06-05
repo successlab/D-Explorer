@@ -1,0 +1,3 @@
+Alexa, open dinosaur dash
+Play a game
+Alexa, disable dinosaur dash

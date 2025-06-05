@@ -1,0 +1,3 @@
+Alexa, open space photo
+Alexa, ask Space Photo for today's photo
+Alexa, disable space photo

@@ -1,0 +1,5 @@
+Alexa, open super hero quiz
+Alexa, launch super hero quiz
+answer
+next
+Alexa, disable super hero quiz

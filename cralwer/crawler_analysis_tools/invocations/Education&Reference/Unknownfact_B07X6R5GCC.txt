@@ -1,0 +1,3 @@
+Alexa, open unknown fact
+Alexa, start unknown fact
+Alexa, disable unknown fact

@@ -1,0 +1,4 @@
+Alexa, open sleep sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds

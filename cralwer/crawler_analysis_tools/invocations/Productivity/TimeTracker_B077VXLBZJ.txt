@@ -1,0 +1,5 @@
+Alexa, open time tracker
+Alexa, start Time Tracker and begin tracking
+Alexa, start Time Tracker and finish tracking
+Alexa, ask Time Tracker how much time I spent on Working today
+Alexa, disable time tracker

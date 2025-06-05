@@ -1,0 +1,5 @@
+Alexa, open dangerous field
+Alexa, start Dangerous Field
+go east
+leap west
+Alexa, disable dangerous field

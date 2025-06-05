@@ -1,0 +1,5 @@
+Alexa, open la sonora estereo
+Alexa, Abre la sonora estereo
+Alexa, Reproduce la sonora estereo
+Alexa, Inicia la sonora estereo
+Alexa, disable la sonora estereo

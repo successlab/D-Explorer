@@ -1,0 +1,3 @@
+Alexa, open cruise ship quiz
+Alexa, start Cruise Ship Quiz
+Alexa, disable cruise ship quiz

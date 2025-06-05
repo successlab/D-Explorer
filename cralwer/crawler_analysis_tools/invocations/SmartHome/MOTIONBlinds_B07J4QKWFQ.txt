@@ -1,0 +1,4 @@
+Alexa, turn on blind.
+Alexa, turn off blind.
+Alexa, set blind to 20%.
+Alexa, disable MOTIONBlinds

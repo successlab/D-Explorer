@@ -1,0 +1,4 @@
+Alexa, open silver stackers
+Alexa, ask Silver Stackers what the spot price of Gold is.
+Alexa, open Silver Stackers and give me today's market.
+Alexa, disable silver stackers

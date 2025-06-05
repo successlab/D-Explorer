@@ -1,0 +1,4 @@
+Alexa, open math genius
+Alexa, ask Math Genius to practice level 1
+Alexa, ask Math Genius to test level 8
+Alexa, disable math genius

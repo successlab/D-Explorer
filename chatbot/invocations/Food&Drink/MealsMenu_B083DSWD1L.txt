@@ -1,0 +1,5 @@
+Alexa, open meals menu
+Alexa, ask Meals Menu what's for supper
+Alexa, ask Meals Menu what's for breakfast tomorrow
+Alexa, ask Meals Menu what are we eating on Saturday
+Alexa, disable meals menu

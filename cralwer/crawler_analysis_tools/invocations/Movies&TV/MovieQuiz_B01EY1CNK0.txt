@@ -1,0 +1,5 @@
+Alexa, open movie quiz
+Alexa, ask Movie Quiz to start new game.
+The answer is four
+Alexa, ask Movie Quiz.
+Alexa, disable movie quiz

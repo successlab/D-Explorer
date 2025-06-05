@@ -1,0 +1,5 @@
+Alexa, open lunch lady
+Alexa ask lunch lady what's for lunch
+Alexa ask lunch lady what's for lunch next Friday
+Alexa ask lunch lady what's for lunch December 7th
+Alexa, disable lunch lady

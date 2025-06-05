@@ -1,0 +1,4 @@
+Alexa, open animal world
+Alexa ask animal world for quiz
+play a fact
+Alexa, disable animal world

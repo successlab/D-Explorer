@@ -1,0 +1,5 @@
+Alexa, open conversation starter
+Alexa, ask Conversation Starter for today's question
+Alexa, ask Conversation Starter what is the question for Thursday
+Alexa, ask Conversation Starter for May 12th's conversation starter
+Alexa, disable conversation starter

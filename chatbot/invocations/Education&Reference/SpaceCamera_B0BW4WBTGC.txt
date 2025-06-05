@@ -1,0 +1,4 @@
+Alexa, open space camera
+Alexa, launch space camera
+Alexa, start space camera
+Alexa, disable space camera

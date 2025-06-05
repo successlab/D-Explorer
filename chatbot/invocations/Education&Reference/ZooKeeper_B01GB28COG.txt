@@ -1,0 +1,5 @@
+Alexa, open zoo keeper
+Alexa, ask Zoo Keeper, what does a zebra say?
+Alexa, tell Zoo Keeper to make a sound like a whale.
+Alexa, ask Zoo Keeper, what's new?
+Alexa, disable zoo keeper

@@ -1,0 +1,6 @@
+Alexa, open metro polis
+Alexa, ask Metropolis for a map of New York
+Alexa, ask Metro Polis for a map of New York
+Alexa, open Metro Polis and locate Berlin
+Alexa, open Metro Polis and go to Sidney
+Alexa, disable metro polis

@@ -1,0 +1,3 @@
+Alexa, turn on fan
+Alexa, turn off fan
+Alexa, disable Broan-NuToneVoiceControl

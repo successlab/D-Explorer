@@ -1,0 +1,5 @@
+Alexa, open bucket list
+Alexa ask bucket list to give me a good idea
+Alexa tell bucket list to suggest an item for today
+Alexa ask bucket list to get one done
+Alexa, disable bucket list

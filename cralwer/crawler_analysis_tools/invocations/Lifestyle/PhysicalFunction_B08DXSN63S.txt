@@ -1,0 +1,4 @@
+Alexa, open physical function
+Alexa, start Physical function
+Alexa, launch Physical function
+Alexa, disable physical function

@@ -1,0 +1,5 @@
+Alexa, open chiste malo
+Alexa, abre chiste malo y cuéntame un chiste
+Alexa, abre chiste malo y dime un chiste
+Alexa, abre chiste malo y dime un chiste malo
+Alexa, disable chiste malo

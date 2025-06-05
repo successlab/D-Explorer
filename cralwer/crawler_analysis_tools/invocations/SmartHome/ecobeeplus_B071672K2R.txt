@@ -1,0 +1,5 @@
+Alexa, open ecobee
+Alexa, ask ecobee to set the bedroom to 72 degrees.
+Alexa, ask ecobee to resume the schedule.
+Alexa, tell ecobee I'm going on vacation.
+Alexa, disable ecobee

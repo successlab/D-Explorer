@@ -1,0 +1,4 @@
+Alexa, open travel tips
+Alexa, ask Travel Tips for a tip
+Alexa, launch Travel Tips and give me a tip
+Alexa, disable travel tips

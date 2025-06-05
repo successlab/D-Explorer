@@ -1,0 +1,4 @@
+Alexa, set the thermostat to 70.
+Alexa, set the thermostat to heat.
+Alexa, what is the temperature in the living room?
+Alexa, disable SymphonybyWaterFurnace

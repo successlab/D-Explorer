@@ -1,0 +1,11 @@
+Alexa, open five more minutes
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask Five More Minutes for the latest talk
+Alexa, start Five More Minutes
+Alexa, disable five more minutes

@@ -1,0 +1,4 @@
+Alexa, open chore log
+Alexa, ask chore log to read my chore list
+Alexa, ask chore log to log a chore
+Alexa, disable chore log

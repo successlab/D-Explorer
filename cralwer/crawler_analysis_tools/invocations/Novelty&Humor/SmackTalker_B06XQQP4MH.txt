@@ -1,0 +1,5 @@
+Alexa, open smack talker
+Alexa, open Smack Talker.
+Alexa, tell Smack Talker to speak to Ben.
+Alexa, ask Smack Talker to talk about Yo Mama.
+Alexa, disable smack talker

@@ -1,0 +1,4 @@
+Alexa, open chinese hymns
+Alexa tell chinese hymns to play hymn number one
+Alexa tell chinese hymns to play supplementary hymn number one
+Alexa, disable chinese hymns

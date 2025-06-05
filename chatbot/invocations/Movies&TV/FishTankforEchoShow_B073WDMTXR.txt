@@ -1,0 +1,4 @@
+Alexa, open fish tank
+Alexa, start Fish Tank
+Alexa, launch Fish Tank
+Alexa, disable fish tank

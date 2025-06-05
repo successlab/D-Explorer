@@ -1,0 +1,5 @@
+Alexa, open air quality
+Alexa, ask air quality to get me the report for 07753
+Alexa, ask air quality for the forecast for 07753
+Alexa, ask air quality what's the forecast for 07753
+Alexa, disable air quality

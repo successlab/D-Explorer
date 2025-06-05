@@ -1,0 +1,4 @@
+Alexa, open civics test
+Alexa, ask civics test to start a quiz
+Alexa, ask civics test to train me
+Alexa, disable civics test

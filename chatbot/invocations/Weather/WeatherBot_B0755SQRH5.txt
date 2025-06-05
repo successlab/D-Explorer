@@ -1,0 +1,5 @@
+Alexa, open weather bot
+Alexa, tell weather bot, give me the weather in Los Angeles.
+Alexa, ask weather bot, what's the weather in New York City.
+Alexa, tell weather bot, give me the weather in San Francisco.
+Alexa, disable weather bot

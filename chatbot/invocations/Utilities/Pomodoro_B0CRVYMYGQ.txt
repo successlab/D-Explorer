@@ -1,0 +1,3 @@
+Alexa, open my pomodoro
+Alexa, start my Pomodoro
+Alexa, disable my pomodoro

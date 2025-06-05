@@ -1,0 +1,4 @@
+Alexa, open bible reading
+Alexa, start bible reading
+Alexa, launch bible reading
+Alexa, disable bible reading

@@ -1,0 +1,9 @@
+Alexa, open coqui frog sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Coqui Frog Sounds to turn on Background Mode
+Alexa, ask Coqui Frog Sounds to turn Background Mode off
+Alexa, start Coqui Frog Sounds
+Alexa, launch Coqui Frog Sounds
+Alexa, disable coqui frog sounds

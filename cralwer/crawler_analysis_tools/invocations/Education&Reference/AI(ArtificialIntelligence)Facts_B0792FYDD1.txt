@@ -1,0 +1,4 @@
+Alexa, open a. i. facts
+Alexa, ask a.i. facts for a fact
+Alexa, launch a.i. facts and tell me an interesting fact
+Alexa, disable a. i. facts

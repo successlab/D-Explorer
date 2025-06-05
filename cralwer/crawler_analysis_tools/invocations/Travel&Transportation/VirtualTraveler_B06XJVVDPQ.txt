@@ -1,0 +1,5 @@
+Alexa, open virtual traveler
+Alexa, ask Virtual Traveler for places I could travel
+Alexa, ask Virtual Traveler where I should travel to next
+Alexa, ask Virtual Traveler about the world
+Alexa, disable virtual traveler

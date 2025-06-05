@@ -1,0 +1,4 @@
+Alexa, open addition game
+Alexa, start Addition Game
+help
+Alexa, disable addition game

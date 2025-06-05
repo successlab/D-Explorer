@@ -1,0 +1,5 @@
+Alexa, open recetas de cocina
+Alexa, abre Recetas de cocina
+Alexa, empieza Recetas de cocina
+Alexa, inicia Recetas de cocina
+Alexa, disable recetas de cocina

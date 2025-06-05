@@ -1,0 +1,5 @@
+Alexa, open the answer chicago
+Alexa, play The Answer Chicago
+Alexa, ask The Answer Chicago to play
+Alexa, tell The Answer Chicago to play
+Alexa, disable the answer chicago

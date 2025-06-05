@@ -1,0 +1,5 @@
+Alexa, open holiday countdown
+Alexa, ask holiday countdown how many days until Thanksgiving
+Alexa, ask holiday countdown how long until mothers day
+Alexa, ask holiday countdown how many days away Halloween is
+Alexa, disable holiday countdown

@@ -1,0 +1,7 @@
+Alexa, open seven wonders
+Alexa, launch Space Facts
+Alexa, open Space Facts
+Alexa, stop
+Alexa, start seven wonders
+Alexa, launch seven wonders
+Alexa, disable seven wonders

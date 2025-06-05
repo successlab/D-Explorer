@@ -1,0 +1,5 @@
+Alexa, open washington toll
+Alexa, open washington toll and check the toll from Kirkland to I 5
+Alexa, open washington toll and check the toll on Four Oh Five
+Alexa, open washington toll and check the toll on Five Twenty
+Alexa, disable washington toll

@@ -1,0 +1,4 @@
+Alexa, open trivia crack
+Alexa, play Trivia Crack.
+Alexa, open Trivia Crack.
+Alexa, disable trivia crack

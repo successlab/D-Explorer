@@ -1,0 +1,4 @@
+Alexa, open time of the day
+Alexa, start Time of the day
+Alexa, launch Time of the day
+Alexa, disable time of the day

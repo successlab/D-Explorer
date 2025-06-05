@@ -1,0 +1,4 @@
+Alexa, open pick up line
+Alexa, tell Pick Up Line give me a line
+Alexa, tell Pick Up Line need a line
+Alexa, disable pick up line

@@ -1,0 +1,3 @@
+Alexa, turn on ILIFE robot.
+Alexa, turn off ILIFE robot.
+Alexa, disable ILIFEHOME

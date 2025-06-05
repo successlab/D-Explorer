@@ -1,0 +1,7 @@
+Alexa, turn on living room light.
+Alexa, turn off living room light.
+Alexa, set living room light color to red.
+Alexa, set living room light to 20 percent.
+Alexa, dim living room light by 25 percent.
+Alexa, set the living room light to 20 percent.
+Alexa, disable FairyNest

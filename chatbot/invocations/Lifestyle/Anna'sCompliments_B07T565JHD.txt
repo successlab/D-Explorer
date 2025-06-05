@@ -1,0 +1,4 @@
+Alexa, open anna's compliments
+Alexa, ask Anna's Compliments to compliment me
+Alexa, ask Anna's Compliments for a compliment
+Alexa, disable anna's compliments

@@ -1,0 +1,6 @@
+Alexa, open mix match
+Alexa, ask mix match what I can make with [ingredient]
+Alexa ask mix match what i can make with gin
+Alexa ask mix match vodka
+Alexa ask mix match what does bourbon make
+Alexa, disable mix match

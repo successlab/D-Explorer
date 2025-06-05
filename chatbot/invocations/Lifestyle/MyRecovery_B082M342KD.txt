@@ -1,0 +1,5 @@
+Alexa, open my recovery
+Alexa, next
+Alexa, stop
+Alexa, start my recovery
+Alexa, disable my recovery

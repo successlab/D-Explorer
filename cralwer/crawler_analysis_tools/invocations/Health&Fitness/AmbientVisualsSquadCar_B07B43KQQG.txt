@@ -1,0 +1,3 @@
+Alexa, open squad car
+Alexa, start Squad Car
+Alexa, disable squad car

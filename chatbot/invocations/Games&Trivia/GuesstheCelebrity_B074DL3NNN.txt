@@ -1,0 +1,5 @@
+Alexa, open guess the celebrity
+Alexa, Launch Guess the Celebrity
+Repeat the Question
+Give me a hint
+Alexa, disable guess the celebrity

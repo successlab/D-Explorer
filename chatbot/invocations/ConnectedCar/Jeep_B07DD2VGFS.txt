@@ -1,0 +1,5 @@
+Alexa, open jeep
+Alexa, ask Jeep to check the tire pressure of my car.
+Alexa, ask Jeep how much gas is in my car.
+Alexa, ask Jeep to find the nearest gas station,
+Alexa, disable jeep

@@ -1,0 +1,6 @@
+Alexa, open rain on the river
+Alexa, good night
+Alexa, good night
+Alexa, ask rain on the river to loop
+Alexa, ask rain on the river to play for 3 hours
+Alexa, disable rain on the river

@@ -1,0 +1,4 @@
+Alexa, open rain noises
+pause
+resume
+Alexa, disable rain noises

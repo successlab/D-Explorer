@@ -1,0 +1,5 @@
+Alexa, open dinosaur match
+Alexa, play Dinosaur Match
+yes
+can you tell me more
+Alexa, disable dinosaur match

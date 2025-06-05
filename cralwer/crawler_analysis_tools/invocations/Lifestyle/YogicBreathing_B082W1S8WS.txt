@@ -1,0 +1,4 @@
+Alexa, open yogic breathing
+Alexa, ask yogic breathing to start
+Alexa, ask yogic breathing for info
+Alexa, disable yogic breathing

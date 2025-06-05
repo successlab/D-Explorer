@@ -1,0 +1,4 @@
+Alexa, open inspiration quotes
+Alexa, ask Inspiration Quotes to give me some inspiration quotes
+Alexa, start Inspiration Quotes
+Alexa, disable inspiration quotes

@@ -1,0 +1,5 @@
+Alexa, open react j. s.
+Alexa, stop
+Alexa, ask react j. s. for react js
+Alexa, ask react j. s. what are the limitations
+Alexa, disable react j. s.

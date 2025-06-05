@@ -1,0 +1,5 @@
+Alexa, open singing bowl
+Alexa, stop.” To resume it again, say 
+Alexa, start Singing Bowl
+Alexa, launch Singing Bowl
+Alexa, disable singing bowl

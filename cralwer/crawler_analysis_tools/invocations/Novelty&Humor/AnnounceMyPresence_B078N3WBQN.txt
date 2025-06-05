@@ -1,0 +1,2 @@
+Alexa, open announce my presence
+Alexa, disable announce my presence

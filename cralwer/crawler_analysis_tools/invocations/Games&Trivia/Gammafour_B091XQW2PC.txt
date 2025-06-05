@@ -1,0 +1,5 @@
+Alexa, open gamma four
+Alexa, launch Space Facts
+Alexa, open Space Facts
+Alexa, stop
+Alexa, disable gamma four

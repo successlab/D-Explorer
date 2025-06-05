@@ -1,0 +1,5 @@
+Alexa, open time converter
+Alexa ask time converter 6 am in Eastern Standard Time to Indian Standard Time
+Alexa ask time converter now in Tokyo to New York
+Alexa ask time converter 8 pm on June 16th in Pacific Standard Time to Sydney
+Alexa, disable time converter

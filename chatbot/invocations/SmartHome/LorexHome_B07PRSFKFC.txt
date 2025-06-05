@@ -1,0 +1,4 @@
+Alexa, show the Office camera
+Alexa, show my feed from the Office camera
+Alexa, stop the Office camera feed
+Alexa, disable LorexHome

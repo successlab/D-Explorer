@@ -1,0 +1,4 @@
+Alexa, open my interpreter
+Alexa ask my interpreter to translate hello
+Alexa ask my interpreter to change language to spanish
+Alexa, disable my interpreter

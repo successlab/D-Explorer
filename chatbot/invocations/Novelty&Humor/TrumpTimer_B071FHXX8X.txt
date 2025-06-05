@@ -1,0 +1,5 @@
+Alexa, open trump timer
+Alexa, ask Trump Timer how much time is left
+Alexa, ask Trump Timer when does it end
+Alexa, ask Trump Timer how much longer
+Alexa, disable trump timer

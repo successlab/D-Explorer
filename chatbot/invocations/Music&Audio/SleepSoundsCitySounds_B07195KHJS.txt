@@ -1,0 +1,6 @@
+Alexa, open city sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start City Sounds
+Alexa, launch City Sounds
+Alexa, disable city sounds

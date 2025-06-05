@@ -1,0 +1,4 @@
+Alexa, open radio átomo
+Alexa, iniciar radio átomo
+Alexa, reproducir radio átomo
+Alexa, disable radio átomo

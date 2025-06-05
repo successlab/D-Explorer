@@ -1,0 +1,11 @@
+Alexa, open mister wells' class
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask mister wells' class for the latest talk
+Alexa, start mister wells' class
+Alexa, disable mister wells' class

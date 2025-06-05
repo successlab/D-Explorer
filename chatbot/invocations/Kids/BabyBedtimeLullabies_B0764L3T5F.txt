@@ -1,0 +1,5 @@
+Alexa, open baby bedtime
+Alexa, play Baby Bedtime skill.
+Alexa, ask Baby Bedtime to start.
+Alexa, open Baby Bedtime skill.
+Alexa, disable baby bedtime

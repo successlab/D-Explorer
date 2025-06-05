@@ -1,0 +1,5 @@
+Alexa, open building brick ideas
+Alexa, Building Brick Ideas
+Alexa, ask Building Brick Ideas for an idea
+Alexa, ask Building Brick Ideas to give me an idea
+Alexa, disable building brick ideas

@@ -1,0 +1,5 @@
+Alexa, open my bed
+Alexa, ask my bed to find device.
+Alexa, ask my bed to turn off gravity.
+Alexa, ask my bed to start massaging.
+Alexa, disable my bed

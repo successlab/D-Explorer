@@ -1,0 +1,4 @@
+Alexa, open tea radio
+Alexa, start tea radio
+Alexa, ask tea radio what's playing
+Alexa, disable tea radio

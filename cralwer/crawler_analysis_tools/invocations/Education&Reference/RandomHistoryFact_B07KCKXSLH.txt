@@ -1,0 +1,4 @@
+Alexa, open history facts
+Alexa, launch history facts
+Alexa, start history facts
+Alexa, disable history facts

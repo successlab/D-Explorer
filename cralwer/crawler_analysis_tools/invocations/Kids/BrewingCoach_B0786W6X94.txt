@@ -1,0 +1,5 @@
+Alexa, open brewing coach
+Alexa, ask Brewing Coach, How do I brew a potion of fire resistance
+Alexa, ask Brewing Coach, How do I brew a potion of regeneration
+Alexa, ask Brewing Coach, How do I brew a potion of water breathing
+Alexa, disable brewing coach

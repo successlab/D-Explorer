@@ -1,0 +1,4 @@
+Alexa, open air conditioner white noise
+Alexa, pause
+Alexa, resume
+Alexa, disable air conditioner white noise

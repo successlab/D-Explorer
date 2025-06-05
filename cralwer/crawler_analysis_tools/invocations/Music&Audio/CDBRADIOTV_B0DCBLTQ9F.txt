@@ -1,0 +1,5 @@
+Alexa, open c. d. b. radio t. v.
+Alexa, Abre c. d. b. radio t. v.
+Alexa, Reproduce c. d. b. radio t. v.
+Alexa, Inicia c. d. b. radio t. v.
+Alexa, disable c. d. b. radio t. v.

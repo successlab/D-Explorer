@@ -1,0 +1,4 @@
+Alexa, open news force radio
+Alexa, play News Force Radio
+Alexa, start News Force Radio
+Alexa, disable news force radio

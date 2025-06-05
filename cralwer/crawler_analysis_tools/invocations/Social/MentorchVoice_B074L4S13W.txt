@@ -1,0 +1,4 @@
+Alexa, open mentorch voice
+Alexa play Mentorch Voice
+Alexa start Mentorch Voice
+Alexa, disable mentorch voice

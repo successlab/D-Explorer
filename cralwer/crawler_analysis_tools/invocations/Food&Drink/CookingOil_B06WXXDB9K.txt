@@ -1,0 +1,5 @@
+Alexa, open cooking oil
+Alexa, ask cooking oil to tell me a cooking oil fact
+give me a cooking oil fact
+tell me a cooking oil fact
+Alexa, disable cooking oil

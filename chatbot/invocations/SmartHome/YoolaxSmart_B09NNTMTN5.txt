@@ -1,0 +1,4 @@
+Alexa, discover my devices
+Alexa, open the bedroom blinds
+Alexa, close the bedroom blinds
+Alexa, disable YoolaxSmart

@@ -1,0 +1,3 @@
+Alexa, open seguros múltiples
+Alexa, abre Seguros Múltiples.
+Alexa, disable seguros múltiples

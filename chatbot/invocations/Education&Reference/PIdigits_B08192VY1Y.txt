@@ -1,0 +1,3 @@
+Alexa, open pi number
+Alexa, ask pi number for its five first digits
+Alexa, disable pi number

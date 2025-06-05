@@ -1,0 +1,7 @@
+Alexa, open stop watch
+Alexa, Stop Watch.
+Alexa, start a stop watch
+Alexa, ask stop watch for current measurement
+Alexa, open Stop watch.
+Alexa, Stop watch.
+Alexa, disable stop watch

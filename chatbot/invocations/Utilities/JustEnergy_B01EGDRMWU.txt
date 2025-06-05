@@ -1,0 +1,5 @@
+Alexa, open just energy
+Alexa, ask Just Energy for my bill details
+Alexa, ask Just Energy to switch accounts
+Alexa, ask Just Energy for an energy fact
+Alexa, disable just energy

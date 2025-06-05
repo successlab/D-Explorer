@@ -1,0 +1,4 @@
+Alexa, turn on Good Night
+Alexa, turn on Bedroom Shades
+Alexa, turn off Kitchen Blinds
+Alexa, disable SomfymyLinkSmartHome

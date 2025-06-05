@@ -1,0 +1,4 @@
+Alexa, open creature quiz
+start a quiz
+tell me about lion
+Alexa, disable creature quiz

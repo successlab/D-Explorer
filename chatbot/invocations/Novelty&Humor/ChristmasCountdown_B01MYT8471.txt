@@ -1,0 +1,4 @@
+Alexa, open santa countdown
+Alexa, ask Santa Countdown how long until Christmas
+Alexa, ask Santa Countdown how many days until Christmas
+Alexa, disable santa countdown

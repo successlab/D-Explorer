@@ -1,0 +1,5 @@
+Alexa, open counter girl
+Alexa ask Counter Girl to count to 100.
+Alexa ask Counter Girl to count to 200 Mississippi.
+Alexa ask Counter Girl to count to 300 by 10.
+Alexa, disable counter girl

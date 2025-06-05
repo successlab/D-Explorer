@@ -1,0 +1,6 @@
+Alexa, open life form
+Alexa, launch Life Form
+Alexa, stop
+Alexa ask life form for a fact
+Alexa ask life form to tell me a fact
+Alexa, disable life form

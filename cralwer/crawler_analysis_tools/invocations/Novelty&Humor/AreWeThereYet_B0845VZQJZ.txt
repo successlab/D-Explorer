@@ -1,0 +1,4 @@
+Alexa, open are we there yet
+Alexa, are we there yet?
+Alexa, launch are we there yet
+Alexa, disable are we there yet

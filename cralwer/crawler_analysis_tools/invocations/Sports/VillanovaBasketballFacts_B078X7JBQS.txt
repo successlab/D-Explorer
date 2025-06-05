@@ -1,0 +1,4 @@
+Alexa, open nova nation
+Alexa, ask Nova Nation for a fact
+Alexa, tell Nova Nation to give me a Villanova fact
+Alexa, disable nova nation

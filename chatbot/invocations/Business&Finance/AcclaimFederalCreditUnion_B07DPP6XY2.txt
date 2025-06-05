@@ -1,0 +1,5 @@
+Alexa, open acclaim
+Alexa, Ask Acclaim, Can I join?
+Alexa, Ask Acclaim, What is the credit union routing number?
+Alexa, Ask Acclaim, What electronic services do you provide?
+Alexa, disable acclaim

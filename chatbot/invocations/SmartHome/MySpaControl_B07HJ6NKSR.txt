@@ -1,0 +1,5 @@
+Alexa, open my spa control
+Alexa, ask my spa control to turn on the lights
+Alexa, ask my spa control to start my spa
+Alexa, ask my spa control to stop my spa
+Alexa, disable my spa control

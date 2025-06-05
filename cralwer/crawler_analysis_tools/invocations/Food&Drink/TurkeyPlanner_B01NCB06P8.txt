@@ -1,0 +1,5 @@
+Alexa, open turkey planner
+Alexa Ask Turkey Planner How many pounds of turkey is needed for fifteen people
+Alexa Ask Turkey Planner What size of turkey is needed for ten people
+Alexa Ask Turkey Planner How long does it take to cook a fourteen pound turkey
+Alexa, disable turkey planner

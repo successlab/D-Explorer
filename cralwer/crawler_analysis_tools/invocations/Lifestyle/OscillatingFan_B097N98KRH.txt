@@ -1,0 +1,2 @@
+Alexa, open oscillating fan
+Alexa, disable oscillating fan

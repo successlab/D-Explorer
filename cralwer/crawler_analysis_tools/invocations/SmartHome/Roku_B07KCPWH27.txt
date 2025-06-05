@@ -1,0 +1,4 @@
+Alexa, launch Netflix on Roku
+Alexa, show me comedies on Roku
+Alexa, pause on Roku
+Alexa, disable Roku

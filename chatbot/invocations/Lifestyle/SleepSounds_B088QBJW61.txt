@@ -1,0 +1,4 @@
+Alexa, open sleep sounds
+Alexa ask Sleep Sounds to play rain
+Alexa ask Sleep Sounds to play fire
+Alexa, disable sleep sounds

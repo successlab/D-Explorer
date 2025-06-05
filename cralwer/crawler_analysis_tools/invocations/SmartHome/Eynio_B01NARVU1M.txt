@@ -1,0 +1,4 @@
+Alexa, turn on living room light
+Alexa, turn off hallway light
+Alexa, turn on bathroom switch
+Alexa, disable Eynio

@@ -1,0 +1,4 @@
+Alexa, open happy music
+Alexa, Start Happy Music
+Alexa, Launch Happy Music
+Alexa, disable happy music

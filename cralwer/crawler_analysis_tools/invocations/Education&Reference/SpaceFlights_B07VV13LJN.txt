@@ -1,0 +1,5 @@
+Alexa, open space flights
+Alexa open Space Flights and tell me which is the next space launch.
+Alexa open Space Flights and tell me the names of the astronauts who are in space.
+Alexa open Space Flights and tell me who is in the ISS.
+Alexa, disable space flights

@@ -1,0 +1,4 @@
+Alexa, open nugget haikus
+Alexa, ask nugget haikus for a haiku
+Alexa, ask nugget haikus to tell me a haiku
+Alexa, disable nugget haikus

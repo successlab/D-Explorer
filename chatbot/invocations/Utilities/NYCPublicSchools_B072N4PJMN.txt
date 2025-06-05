@@ -1,0 +1,4 @@
+Alexa, open public schools
+Alexa, ask public schools what is the status
+Alexa, ask public schools what's up with the status
+Alexa, disable public schools

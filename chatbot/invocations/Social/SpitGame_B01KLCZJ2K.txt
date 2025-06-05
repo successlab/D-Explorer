@@ -1,0 +1,3 @@
+Alexa, open spit game
+Alexa, begin spit game
+Alexa, disable spit game

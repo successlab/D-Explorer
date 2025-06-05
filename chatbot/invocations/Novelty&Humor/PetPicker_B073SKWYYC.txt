@@ -1,0 +1,5 @@
+Alexa, open help me choose a pet
+Alexa, help me choose a pet
+yes
+tell me more
+Alexa, disable help me choose a pet

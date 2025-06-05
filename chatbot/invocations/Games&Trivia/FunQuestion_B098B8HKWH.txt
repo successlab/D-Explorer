@@ -1,0 +1,4 @@
+Alexa, open fun question
+Alexa, play Fun Question.
+Alexa, open Fun Question.
+Alexa, disable fun question

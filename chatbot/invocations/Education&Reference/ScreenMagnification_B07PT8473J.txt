@@ -1,0 +1,7 @@
+Alexa, open screen magnification
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start Screen Magnification
+Alexa, disable screen magnification

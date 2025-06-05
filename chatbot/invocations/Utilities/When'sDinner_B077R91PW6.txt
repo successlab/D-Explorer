@@ -1,0 +1,6 @@
+Alexa, open when's dinner
+Alexa, tell when's dinner that dinner is at 7:00 pm.
+Alexa, ask when's dinner what time is dinner.
+Alexa, tell when's dinner that there is no dinner tonight.
+Alexa, tell when's dinner set dinner for 7 pm.
+Alexa, disable when's dinner

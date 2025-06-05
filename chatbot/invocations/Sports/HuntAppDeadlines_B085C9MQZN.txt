@@ -1,0 +1,3 @@
+Alexa, open application deadlines
+Alexa, start application deadlines
+Alexa, disable application deadlines

@@ -1,0 +1,5 @@
+Alexa, open piano sounds
+Alexa, stop.” To resume it again, say 
+Alexa, start piano sounds
+Alexa, launch piano sounds
+Alexa, disable piano sounds

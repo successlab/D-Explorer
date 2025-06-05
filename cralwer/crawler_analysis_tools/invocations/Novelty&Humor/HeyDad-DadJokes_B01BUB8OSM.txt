@@ -1,0 +1,5 @@
+Alexa, open hey dad
+Alexa, open Hey Dad and tell me a joke
+Alexa, open Hey Dad and tell me a joke about a penguin
+Alexa, ask Hey Dad for a joke about Dracula
+Alexa, disable hey dad

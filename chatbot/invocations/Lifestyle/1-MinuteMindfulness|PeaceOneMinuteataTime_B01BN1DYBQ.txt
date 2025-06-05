@@ -1,0 +1,4 @@
+Alexa, open mindfulness
+Alexa, Ask Mindfulness for a minute meditation.
+Alexa, Ask Mindfulness for help.
+Alexa, disable mindfulness

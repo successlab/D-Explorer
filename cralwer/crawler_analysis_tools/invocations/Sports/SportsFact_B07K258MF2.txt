@@ -1,0 +1,4 @@
+Alexa, open sports facts
+Alexa start Sports Facts
+Alexa launch Sports Facts
+Alexa, disable sports facts

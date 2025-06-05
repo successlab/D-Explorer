@@ -1,0 +1,5 @@
+Alexa, open natural hazards
+Alexa, ask Natural Hazards for earthquakes.
+Alexa, ask Natural Hazards was that an earthquake.
+Alexa, ask Natural Hazards was that an earthquake in Auckland
+Alexa, disable natural hazards

@@ -1,0 +1,2 @@
+Alexa, open d. end a. radio
+Alexa, disable d. end a. radio

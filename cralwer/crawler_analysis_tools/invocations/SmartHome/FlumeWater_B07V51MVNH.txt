@@ -1,0 +1,5 @@
+Alexa, open flume
+Alexa, ask Flume for my water use yesterday
+Alexa, ask Flume for my current water status
+Alexa, ask Flume about my weekly water budget
+Alexa, disable flume

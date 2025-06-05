@@ -1,0 +1,3 @@
+Alexa, open no bot
+Alexa, ask No Bot if my kids can go out tonight
+Alexa, disable no bot

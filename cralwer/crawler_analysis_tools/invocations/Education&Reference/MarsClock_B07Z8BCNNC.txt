@@ -1,0 +1,3 @@
+Alexa, open mars clock
+Alexa, ask mars clock what time is it on the red planet
+Alexa, disable mars clock

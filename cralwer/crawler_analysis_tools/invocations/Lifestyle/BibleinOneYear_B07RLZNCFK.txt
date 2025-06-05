@@ -1,0 +1,7 @@
+Alexa, open bible inone year
+Alexa, pause
+Alexa, resume.
+Alexa, previous
+Alexa, ask Bible inOne Year for the latest talk
+Alexa, start Bible inOne Year
+Alexa, disable bible inone year

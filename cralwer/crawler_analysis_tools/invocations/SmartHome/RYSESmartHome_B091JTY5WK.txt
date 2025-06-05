@@ -1,0 +1,12 @@
+Alexa, open bedroom window
+Alexa, close bedroom window
+Alexa, set bedroom window to 35 percent
+Alexa, raise living room window
+Alexa, lower living room window
+Alexa, raise living room window by 15 percent
+Alexa, lower living room window by 25 percent
+Alexa, what is the bedroom shade set to?
+Alexa, set front window to twenty five percent.
+Alexa, open living room window.
+Alexa, close den window.
+Alexa, disable RYSESmartHome

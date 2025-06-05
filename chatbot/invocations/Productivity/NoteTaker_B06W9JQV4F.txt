@@ -1,0 +1,5 @@
+Alexa, open note taker
+Alexa, ask Note Taker to take my note The Godfather is the best movie ever
+Alexa, ask Note Taker to read all my notes
+Alexa, ask Note Taker to delete all my notes
+Alexa, disable note taker

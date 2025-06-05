@@ -1,0 +1,5 @@
+Alexa, open gocho radio
+Alexa, Abre gocho radio
+Alexa, Reproduce gocho radio
+Alexa, Inicia gocho radio
+Alexa, disable gocho radio

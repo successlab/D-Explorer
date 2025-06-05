@@ -1,0 +1,4 @@
+Alexa, open dork diaries trivia
+Alexa, start Dork Diaries Trivia
+Repeat
+Alexa, disable dork diaries trivia

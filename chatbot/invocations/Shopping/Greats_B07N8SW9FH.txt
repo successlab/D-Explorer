@@ -1,0 +1,5 @@
+Alexa, open greats
+Alexa, ask Greats to track my package.
+Alexa, ask Greats what is your return policy?
+Alexa, ask Greats to find a nearby store.
+Alexa, disable greats

@@ -1,0 +1,4 @@
+Alexa, open frog noise
+Alexa, Pause
+Alexa, Resume
+Alexa, disable frog noise

@@ -1,0 +1,5 @@
+Alexa, open salsa dance
+Alexa, ask salsa dance to tell me about salsa dance.
+Alexa, ask salsa dance to tell me about salsa dance music.
+Alexa, ask salsa dance to tell me about latin dance.
+Alexa, disable salsa dance

@@ -1,0 +1,6 @@
+Alexa, open salad bar
+Alexa, ask salad bar what's the recipe of Caesar salad
+Alexa, ask salad bar what is the recipe of Caesar salad
+What is the recipe of spicy carrot salad
+Alexa, start salad bar
+Alexa, disable salad bar

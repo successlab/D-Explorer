@@ -1,0 +1,6 @@
+Alexa, open argentina facts
+Alexa, next
+Alexa, stop
+Alexa, start argentina facts
+Alexa, ask argentina facts for a fact
+Alexa, disable argentina facts

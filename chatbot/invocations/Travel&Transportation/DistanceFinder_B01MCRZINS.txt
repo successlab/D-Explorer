@@ -1,0 +1,5 @@
+Alexa, open distance finder
+Alexa, ask distance finder whats the distance between London and Dartford
+Alexa, ask distance finder to find distance from London to Dartford
+Alexa, ask distance finder to get the distance between London and Dartford
+Alexa, disable distance finder

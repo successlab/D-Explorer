@@ -1,0 +1,5 @@
+Alexa, open insults
+Alexa, launch Insults.
+Alexa, open Insults.
+Alexa, begin Insults.
+Alexa, disable insults

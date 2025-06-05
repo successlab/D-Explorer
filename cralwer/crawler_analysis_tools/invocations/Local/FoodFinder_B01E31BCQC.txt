@@ -1,0 +1,6 @@
+Alexa, open food finder
+Alexa, find a Sushi restaurant near me
+Alexa, ask food finder what I should eat
+Alexa, ask food finder to suggest something
+Alexa, ask food finder
+Alexa, disable food finder

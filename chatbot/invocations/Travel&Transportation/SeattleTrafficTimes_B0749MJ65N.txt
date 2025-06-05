@@ -1,0 +1,5 @@
+Alexa, open traffic buddy
+Alexa, ask Traffic Buddy what traffic is like from Seattle to Bellevue
+Alexa, ask Traffic Buddy how is Woodinville to Seattle
+Alexa, ask Traffic Buddy how long is it from Alderwood to Southcenter
+Alexa, disable traffic buddy

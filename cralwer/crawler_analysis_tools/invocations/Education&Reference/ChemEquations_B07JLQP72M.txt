@@ -1,0 +1,5 @@
+Alexa, open chem equations
+Alexa, start Chem Equations
+Alexa, ask Chem Equations what the formula for Methanol is
+Alexa, ask Chem Equations what the formula for Silicon Dioxide is
+Alexa, disable chem equations

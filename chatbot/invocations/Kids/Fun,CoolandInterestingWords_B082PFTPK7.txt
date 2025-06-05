@@ -1,0 +1,4 @@
+Alexa, open cool word
+Alexa start cool word
+Alexa launch cool word
+Alexa, disable cool word

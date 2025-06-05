@@ -1,0 +1,5 @@
+Alexa, open museum voice
+Alexa, ask Museum Voice what is going on in London
+Alexa, ask Museum Voice what events to attend in Manchester
+Alexa, launch Museum Voice
+Alexa, disable museum voice

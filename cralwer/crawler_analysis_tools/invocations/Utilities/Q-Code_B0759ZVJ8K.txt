@@ -1,0 +1,5 @@
+Alexa, open q. code
+Alexa, ask Q Code about Q R Z
+Alexa, run Q Code
+Alexa, ask Q Code for Help
+Alexa, disable q. code

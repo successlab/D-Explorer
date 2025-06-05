@@ -1,0 +1,4 @@
+Alexa, open celery man
+Alexa, ask Celery Man to add sequence Oyster
+Alexa, ask Celery Man if we have any new sequences
+Alexa, disable celery man

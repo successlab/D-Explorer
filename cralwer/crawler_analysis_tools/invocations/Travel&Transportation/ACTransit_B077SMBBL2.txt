@@ -1,0 +1,5 @@
+Alexa, open a. c. transit
+Alexa, open ac transit
+what are the next buses at stop 55559
+when is the next 51B
+Alexa, disable a. c. transit

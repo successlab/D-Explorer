@@ -1,0 +1,5 @@
+Alexa, open conga cecotec
+Alexa, open conga cecotec and start vacuuming.
+Alexa, ask conga cecotec to stop cleaning.
+Alexa, ask conga cecotec to go to the base.
+Alexa, disable conga cecotec

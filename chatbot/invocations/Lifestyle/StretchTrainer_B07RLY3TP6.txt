@@ -1,0 +1,4 @@
+Alexa, open stretch trainer
+Alexa, start Stretch Trainer
+Alexa, ask Stretch Trainer to start workout
+Alexa, disable stretch trainer

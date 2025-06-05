@@ -1,0 +1,4 @@
+Alexa, open food facts
+Alexa, launch food facts
+Alexa, start food facts
+Alexa, disable food facts

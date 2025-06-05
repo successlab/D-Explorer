@@ -1,0 +1,6 @@
+Alexa, open black history facts
+Alexa, next
+Alexa, stop
+Alexa, start Black History Facts
+Alexa, ask Black History Facts for a fact
+Alexa, disable black history facts

@@ -1,0 +1,5 @@
+Alexa, open brella weather
+Alexa, ask Brella Weather what I should wear today
+Alexa, ask Brella Weather for my personal forecast
+Alexa, ask Brella Weather what the weather is like
+Alexa, disable brella weather

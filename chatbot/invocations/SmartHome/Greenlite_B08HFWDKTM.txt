@@ -1,0 +1,5 @@
+Alexa, discover devices
+Alexa, set Living Room to 73 degrees.
+Alexa, decrease Downstairs by 2 degrees.
+Alexa, increase Upstairs by 3 degrees.
+Alexa, disable Greenlite

@@ -1,0 +1,4 @@
+Alexa, open tespo health
+Alexa ask tespo health for help.
+Alexa ask tespo health to dispense a serving.
+Alexa, disable tespo health

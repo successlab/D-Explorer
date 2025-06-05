@@ -1,0 +1,4 @@
+Alexa, open home exercise
+Alexa, start home exercise
+Alexa, ask home exercise to start workout
+Alexa, disable home exercise

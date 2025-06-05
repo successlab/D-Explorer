@@ -1,0 +1,4 @@
+Alexa, open nice words
+Alexa, launch nice words
+Alexa, start nice words
+Alexa, disable nice words

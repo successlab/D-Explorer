@@ -1,0 +1,4 @@
+Alexa, open fire facts
+tell me a fire fact
+fire fact
+Alexa, disable fire facts

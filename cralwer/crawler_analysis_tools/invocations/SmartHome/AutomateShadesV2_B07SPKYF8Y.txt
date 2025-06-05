@@ -1,0 +1,5 @@
+Alexa, set the Kitchen shade to 50%
+Alexa, open shade name
+Alexa, close shade name
+Alexa, set shade name to 30 percent
+Alexa, disable AutomateShadesV2

@@ -1,0 +1,6 @@
+Alexa, open coqui frogs
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Coqui Frogs
+Alexa, launch Coqui Frogs
+Alexa, disable coqui frogs

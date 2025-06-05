@@ -1,0 +1,4 @@
+Alexa, open seaside buoy
+How warm is the water in Oceanside
+How's the surf in Solana Beach
+Alexa, disable seaside buoy

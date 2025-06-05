@@ -1,0 +1,5 @@
+Alexa, open analogy game
+Alexa, open Analogy Game.
+help
+repeat
+Alexa, disable analogy game

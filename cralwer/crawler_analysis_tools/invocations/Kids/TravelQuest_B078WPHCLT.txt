@@ -1,0 +1,3 @@
+Alexa, open travel quest
+Alexa, start Travel Quest
+Alexa, disable travel quest

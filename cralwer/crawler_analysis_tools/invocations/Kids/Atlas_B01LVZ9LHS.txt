@@ -1,0 +1,5 @@
+Alexa, open world atlas
+Alexa ask world atlas what is the capital of united states of america
+Alexa ask world atlas what is the capital of India
+Alexa ask world atlas what is the capital of France
+Alexa, disable world atlas

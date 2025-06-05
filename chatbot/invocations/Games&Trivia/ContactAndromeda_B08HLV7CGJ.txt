@@ -1,0 +1,3 @@
+Alexa, open contact andromeda
+Alexa, start contact andromeda
+Alexa, disable contact andromeda

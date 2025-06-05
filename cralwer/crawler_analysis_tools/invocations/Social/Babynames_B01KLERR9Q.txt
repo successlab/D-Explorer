@@ -1,0 +1,5 @@
+Alexa, open baby names
+Alexa,ask baby names to pick a baby name
+Alexa,ask baby names to pick a girl name
+Alexa,ask baby names to pick a boy name
+Alexa, disable baby names

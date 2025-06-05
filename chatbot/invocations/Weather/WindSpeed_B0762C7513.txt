@@ -1,0 +1,5 @@
+Alexa, open wind speed
+Alexa, launch wind speed
+Alexa, ask wind speed how windy is it?
+Alexa, ask wind speed for the current conditions
+Alexa, disable wind speed

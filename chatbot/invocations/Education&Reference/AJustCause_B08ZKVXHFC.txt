@@ -1,0 +1,11 @@
+Alexa, open a just cause
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask a just cause for the latest talk
+Alexa, start a just cause
+Alexa, disable a just cause

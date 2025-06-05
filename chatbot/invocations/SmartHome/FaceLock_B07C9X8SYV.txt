@@ -1,0 +1,4 @@
+Alexa, open face lock
+Alexa, Ask face lock to open the door
+Alexa, Ask face lock to unlock the bolt
+Alexa, disable face lock

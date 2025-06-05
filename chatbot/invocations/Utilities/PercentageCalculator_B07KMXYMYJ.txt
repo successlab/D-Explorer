@@ -1,0 +1,5 @@
+Alexa, open percentage calculator
+Alexa, ask percentage calculator to calculate ten percent of one hundred
+Alexa, ask percentage calculator how much is twenty percent of fifty
+Alexa, ask percentage calculator what is ten percent of ten
+Alexa, disable percentage calculator

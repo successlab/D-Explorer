@@ -1,0 +1,5 @@
+Alexa, watch Netflix
+Alexa, turn on Netflix
+Alexa, next on Plex
+Alexa, turn up the volume on Google Play Video
+Alexa, disable AbertoSonorus-AndroidAppLaunchingFromAlexa

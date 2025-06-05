@@ -1,0 +1,8 @@
+Alexa, open daily log
+Alexa, ask Daily Log to send daily log reports to my email
+Alexa, ask Daily Log to enable sending logs to my email.
+Alexa, ask Daily Log to disable sending daily reports email.
+Alexa, Open Daily Log and Please Log that I took my morning medications
+Please log that I took six hundred fifty milligrams of Tylenol
+Add that I fed Lucy her lunch
+Alexa, disable daily log

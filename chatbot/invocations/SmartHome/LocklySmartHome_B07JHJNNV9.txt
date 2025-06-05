@@ -1,0 +1,5 @@
+Alexa, is the front door unlocked?
+Alexa, lock the front door
+Alexa, is the front door locked?
+Alexa, unlock the front door
+Alexa, disable LocklySmartHome

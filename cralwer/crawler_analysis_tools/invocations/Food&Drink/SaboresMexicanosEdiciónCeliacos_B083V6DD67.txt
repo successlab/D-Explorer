@@ -1,0 +1,5 @@
+Alexa, open sabores mexicanos para celiacos
+Alexa, abre sabores mexicanos para celiacos y busca una receta de polenta con salmón
+Alexa, abre sabores mexicanos para celiacos y busca recetas usando alcachofas y tomate
+Alexa, abre sabores mexicanos para celiacos y dame recetas con maizena
+Alexa, disable sabores mexicanos para celiacos

@@ -1,0 +1,5 @@
+Alexa, open time tracker
+Alexa, ask Time Tracker to start a new timer
+Alexa, ask time tracker to create a new time entry for six hours
+Alexa, ask Time Tracker to stop all timers
+Alexa, disable time tracker

@@ -1,0 +1,4 @@
+Alexa, open my physical therapy
+Alexa, start my physical therapy
+Alexa, launch my physical therapy
+Alexa, disable my physical therapy

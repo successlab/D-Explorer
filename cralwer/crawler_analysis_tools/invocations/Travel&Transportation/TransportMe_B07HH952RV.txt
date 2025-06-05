@@ -1,0 +1,4 @@
+Alexa, open transport me
+Alexa, ask transport me to find bikes near me
+Alexa, open transport me and help
+Alexa, disable transport me

@@ -1,0 +1,4 @@
+Alexa, open gospel voice
+Alexa ask Gospel Voice to listen to music
+Alexa ask Gospel Voice to open general conference
+Alexa, disable gospel voice

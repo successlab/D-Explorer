@@ -1,0 +1,3 @@
+Alexa, open meow playground trivia
+Alexa, start meow playground trivia
+Alexa, disable meow playground trivia

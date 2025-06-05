@@ -1,0 +1,4 @@
+Alexa, open quick japanese
+Alexa, start Quick Japanese
+Alexa, run Quick Japanese
+Alexa, disable quick japanese

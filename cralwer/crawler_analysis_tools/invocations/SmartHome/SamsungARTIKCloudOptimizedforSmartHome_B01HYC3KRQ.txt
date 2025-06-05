@@ -1,0 +1,6 @@
+Alexa, turn on the living room lights
+Alexa, discover my devices
+Alexa, turn on Robot vacuum
+Alexa, turn off Robot vacuum
+Alexa, set bedroom lights to 20%
+Alexa, disable SamsungARTIKCloudOptimizedforSmartHome

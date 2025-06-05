@@ -1,0 +1,6 @@
+Alexa, open gym quote
+Alexa, next
+Alexa, stop
+Alexa, open my inspiration
+Alexa, start my inspiration
+Alexa, disable gym quote

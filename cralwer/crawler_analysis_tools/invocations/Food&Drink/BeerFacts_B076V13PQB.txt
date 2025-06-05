@@ -1,0 +1,4 @@
+Alexa, open beer facts
+Alexa, Beer Facts
+Alexa, Open Beer Facts.
+Alexa, disable beer facts

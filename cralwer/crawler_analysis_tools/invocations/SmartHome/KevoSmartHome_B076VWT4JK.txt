@@ -1,0 +1,4 @@
+Alexa, lock front door
+Alexa, unlock front door
+Alexa, is front door unlocked?
+Alexa, disable KevoSmartHome

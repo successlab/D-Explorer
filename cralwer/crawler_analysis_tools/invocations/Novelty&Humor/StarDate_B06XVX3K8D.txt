@@ -1,0 +1,4 @@
+Alexa, open star date
+Alexa, ask star date to see captain's log
+Alexa, ask star date what is the current star date
+Alexa, disable star date

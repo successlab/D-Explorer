@@ -1,0 +1,3 @@
+Alexa, open nombres aleatorios
+Alexa, abre nombres aleatorios
+Alexa, disable nombres aleatorios

@@ -1,0 +1,5 @@
+Alexa, open startup facts
+Alexa, ask Startup Facts to tell me something
+Give me a Startup fact
+Tell me a fact
+Alexa, disable startup facts

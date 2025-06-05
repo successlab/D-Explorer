@@ -1,0 +1,4 @@
+Alexa, play Come Fly with Me by Frank Sinatra in the living room.
+Alexa, set volume to 5 in the living room.
+Alexa, mute the living room.
+Alexa, disable NuvoPlayer

@@ -1,0 +1,5 @@
+Alexa, open netgear
+Alexa, ask NETGEAR to enable guest network
+Alexa, ask NETGEAR to reboot my router
+Alexa, ask NETGEAR what are my WiFi settings
+Alexa, disable netgear

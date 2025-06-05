@@ -1,0 +1,4 @@
+Alexa, open outhouse radio
+Alexa, Launch Outhouse Radio
+Alexa, Play Outhouse Radio
+Alexa, disable outhouse radio

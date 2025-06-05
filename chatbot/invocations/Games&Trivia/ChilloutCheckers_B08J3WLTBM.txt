@@ -1,0 +1,4 @@
+Alexa, open chillout checkers
+Alexa, launch Chillout Checkers
+Alexa, play Chillout Checkers
+Alexa, disable chillout checkers

@@ -1,0 +1,4 @@
+Alexa, open laser fight
+Alexa, enable Mini Games
+Alexa, Start Laser Fight
+Alexa, disable laser fight

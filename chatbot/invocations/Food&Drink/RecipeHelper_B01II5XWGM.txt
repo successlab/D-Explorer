@@ -1,0 +1,5 @@
+Alexa, open recipe helper
+Alexa, ask Recipe Helper what is the recipe for Thai Shrimp Soup
+Skillet Burritos
+Beef Stroganoff
+Alexa, disable recipe helper

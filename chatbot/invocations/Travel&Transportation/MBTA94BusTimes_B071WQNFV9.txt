@@ -1,0 +1,4 @@
+Alexa, open bus times
+Alexa, ask Bus Times when the next buses are coming
+Alex, ask Bus Times what questions can I ask
+Alexa, disable bus times

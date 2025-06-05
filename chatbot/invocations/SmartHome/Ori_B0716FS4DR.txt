@@ -1,0 +1,5 @@
+Alexa, open ory
+Alexa, tell Ori to open my closet
+Alexa, ask Ori to move my bed out
+Alexa, tell Ori to turn the lights off
+Alexa, disable ory

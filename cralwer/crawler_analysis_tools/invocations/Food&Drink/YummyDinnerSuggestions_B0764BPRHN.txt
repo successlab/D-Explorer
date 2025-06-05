@@ -1,0 +1,5 @@
+Alexa, open yummy dinner
+Alexa, open Yummy Dinner.
+Where should I go for dinner?
+Where should we go?
+Alexa, disable yummy dinner

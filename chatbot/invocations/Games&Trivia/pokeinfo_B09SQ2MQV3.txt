@@ -1,0 +1,4 @@
+Alexa, open poke info
+Alexa, ask poke info to tell me how charmander evolves
+Alexa ask poke info to tell me when kadabra evolves
+Alexa, disable poke info

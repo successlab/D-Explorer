@@ -1,0 +1,4 @@
+Alexa, open g. v. r.
+Alexa, play g. v. r.
+Alexa, start g. v. r.
+Alexa, disable g. v. r.

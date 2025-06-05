@@ -1,0 +1,8 @@
+Alexa, turn on the TV
+Alexa, volume up on the TV
+Alexa, change the channel to 11 on the TV
+Alexa, set the TV to HDMI
+Alexa, turn on the TV.
+Alexa, volume up on the TV.
+Alexa, change the channel to 8
+Alexa, disable LinknLink

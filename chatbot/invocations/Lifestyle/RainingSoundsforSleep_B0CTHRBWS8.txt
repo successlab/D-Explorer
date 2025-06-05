@@ -1,0 +1,4 @@
+Alexa, open raining sounds
+Alexa ask raining sounds to play for 30 minutes
+Alexa stop
+Alexa, disable raining sounds

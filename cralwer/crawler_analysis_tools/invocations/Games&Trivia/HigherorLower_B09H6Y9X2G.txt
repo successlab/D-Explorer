@@ -1,0 +1,4 @@
+Alexa, open higher or lower
+Alexa start higher or lower
+Alexa launch higher or lower
+Alexa, disable higher or lower

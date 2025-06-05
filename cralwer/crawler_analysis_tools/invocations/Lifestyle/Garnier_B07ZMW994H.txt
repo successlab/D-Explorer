@@ -1,0 +1,4 @@
+Alexa, open garnier
+Alexa, Find my shade.
+Alexa, ask Garnier what are some cute hairstyles?
+Alexa, disable garnier

@@ -1,0 +1,8 @@
+Alexa, set my Refrigerator to 3 degrees
+Alexa, set Freezer to -18 degrees
+Alexa, turn on super freeze on my Freezer
+Alexa, turn on super cooling on my Fridge
+Alexa, turn off Sabbath mode on Refrigerator
+Alexa, turn on vacation mode on Fridge
+Alexa, turn on super freeze on the Freezer
+Alexa, disable HomeConnectRefrigerator

@@ -1,0 +1,5 @@
+Alexa, open my tea
+Alexa, ask My Tea what is in Jasmine
+Alexa, ask My Tea what has Cinnamon
+Alexa, ask My Tea what's in English Breakfast
+Alexa, disable my tea

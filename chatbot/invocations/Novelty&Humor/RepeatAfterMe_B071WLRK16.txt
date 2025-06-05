@@ -1,0 +1,5 @@
+Alexa, open repeat after me
+Alexa, ask Repeat After Me to repeat it is morning
+Alexa, ask Repeat After Me to say hi bob
+Alexa, ask Repeat After me to repeat the weather outside is frightful
+Alexa, disable repeat after me

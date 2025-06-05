@@ -1,0 +1,3 @@
+Alexa, open davide uno
+Alexa, start Davide Uno
+Alexa, disable davide uno

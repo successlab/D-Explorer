@@ -1,0 +1,4 @@
+Alexa, set Christmas lights to green.
+Alexa, set Christmas lights to white.
+Alexa, turn on the Christmas lights.
+Alexa, disable BrizLabsLife

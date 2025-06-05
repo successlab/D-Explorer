@@ -1,0 +1,7 @@
+Alexa, open pocket
+Alexa, tell Pocket to play the article about ___
+Alexa, tell Pocket to get my articles
+Alexa, tell Pocket to get articles.
+Alexa, tell Pocket to play the first article.
+Alexa, tell Pocket to play the article about 'Polar Bears.'
+Alexa, disable pocket

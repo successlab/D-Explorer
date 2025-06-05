@@ -1,0 +1,4 @@
+Alexa, open campus voice
+Alexa, start Campus Voice
+Alexa, ask Campus Voice for help
+Alexa, disable campus voice

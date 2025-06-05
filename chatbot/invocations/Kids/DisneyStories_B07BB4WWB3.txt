@@ -1,0 +1,5 @@
+Alexa, open disney stories
+Alexa, open Disney Stories.
+Alexa, ask Disney Stories for a Lion King story.
+Alexa, ask Disney Stories for a Cinderella story.
+Alexa, disable disney stories

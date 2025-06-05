@@ -1,0 +1,5 @@
+Alexa, open computer fan sound
+Alexa, activate premium
+Alexa, pause
+Alexa, resume
+Alexa, disable computer fan sound

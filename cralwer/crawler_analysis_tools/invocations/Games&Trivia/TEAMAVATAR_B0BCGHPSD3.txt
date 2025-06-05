@@ -1,0 +1,4 @@
+Alexa, open avatar facts
+Alexa open Avatar Fact and tell me a funfact
+help
+Alexa, disable avatar facts

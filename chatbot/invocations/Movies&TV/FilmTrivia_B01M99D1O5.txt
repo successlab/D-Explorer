@@ -1,0 +1,5 @@
+Alexa, open film trivia
+Alexa ask Film Trivia to tell me something
+give me some film information
+give me a film fact
+Alexa, disable film trivia

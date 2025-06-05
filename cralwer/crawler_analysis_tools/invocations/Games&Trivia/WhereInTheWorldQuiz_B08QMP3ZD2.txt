@@ -1,0 +1,6 @@
+Alexa, open where world quiz
+Alexa, launch Where World Quiz
+Alexa, stop
+Alexa, start Where World Quiz
+Alexa, play Where World Quiz
+Alexa, disable where world quiz

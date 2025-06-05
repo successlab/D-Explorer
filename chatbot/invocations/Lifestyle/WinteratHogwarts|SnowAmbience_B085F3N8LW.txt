@@ -1,0 +1,3 @@
+Alexa, open snow ambience
+Alexa, play snow ambience
+Alexa, disable snow ambience

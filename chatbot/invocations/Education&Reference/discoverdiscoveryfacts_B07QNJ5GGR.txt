@@ -1,0 +1,2 @@
+Alexa, open discover discovery facts
+Alexa, disable discover discovery facts

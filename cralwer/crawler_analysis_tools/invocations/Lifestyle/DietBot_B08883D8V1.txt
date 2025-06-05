@@ -1,0 +1,3 @@
+Alexa, open diet bot
+Alexa, tell diet bot to log meal
+Alexa, disable diet bot

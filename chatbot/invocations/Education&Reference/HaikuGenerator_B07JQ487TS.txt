@@ -1,0 +1,4 @@
+Alexa, open haiku generator
+Alexa, ask haiku generator to read me a haiku
+Alexa, tell haiku generator to tell me a haiku
+Alexa, disable haiku generator

@@ -1,0 +1,5 @@
+Alexa, open north star
+caret
+Show me the radar
+What's the air quality?
+Alexa, disable north star

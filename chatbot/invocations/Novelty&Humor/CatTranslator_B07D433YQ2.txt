@@ -1,0 +1,5 @@
+Alexa, open cat translator
+Alexa, start cat translator and tell my cat lets play
+Alexa, start cat translator and tell my cat go away
+Alexa, start cat translator and disappear
+Alexa, disable cat translator

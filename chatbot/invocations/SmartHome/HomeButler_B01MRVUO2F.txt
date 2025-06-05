@@ -1,0 +1,5 @@
+Alexa, open home butler
+Alexa tell home butler turn on the master bedroom to apple tv
+what is on in the master bedroom
+turn on the lounge lights
+Alexa, disable home butler

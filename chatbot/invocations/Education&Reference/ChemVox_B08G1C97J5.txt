@@ -1,0 +1,4 @@
+Alexa, open chem vox
+tell me the dipole moment of water in gas
+what is the absorption maximum of retinal in water
+Alexa, disable chem vox

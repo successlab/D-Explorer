@@ -1,0 +1,4 @@
+Alexa, open surf report
+Alexa ask surf report to describe steamer lane
+Alexa ask surf report for the report at Pipeline tomorrow
+Alexa, disable surf report

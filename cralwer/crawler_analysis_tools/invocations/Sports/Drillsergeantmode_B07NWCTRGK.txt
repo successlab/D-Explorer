@@ -1,0 +1,4 @@
+Alexa, open drill sergeant mode
+Alexa, start Drill sergeant mode
+Alexa, ask Drill sergeant mode to start workout
+Alexa, disable drill sergeant mode

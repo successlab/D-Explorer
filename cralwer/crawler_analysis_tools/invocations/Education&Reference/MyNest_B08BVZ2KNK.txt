@@ -1,0 +1,4 @@
+Alexa, open my nest
+Alexa, stop
+Alexa, start my nest
+Alexa, disable my nest

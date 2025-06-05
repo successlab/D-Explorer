@@ -1,0 +1,3 @@
+Alexa, open how was your day
+could you repeat the question
+Alexa, disable how was your day

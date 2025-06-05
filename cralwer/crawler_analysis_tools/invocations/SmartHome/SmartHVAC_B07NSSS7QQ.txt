@@ -1,0 +1,4 @@
+Alexa, Power on the Bedroom.
+Alexa, set Bedroom to heat.
+Alexa, set Bedroom temperature to 72 degrees.
+Alexa, disable SmartHVAC

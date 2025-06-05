@@ -1,0 +1,4 @@
+Alexa, open indian news
+Alexa ask Indian news to tell me Indian news
+Alexa ask Indian news to tell me top news
+Alexa, disable indian news

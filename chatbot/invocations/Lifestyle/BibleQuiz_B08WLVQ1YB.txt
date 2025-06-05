@@ -1,0 +1,4 @@
+Alexa, open bible quiz
+Alexa, start Bible Quiz
+Alexa, launch Bible Quiz
+Alexa, disable bible quiz

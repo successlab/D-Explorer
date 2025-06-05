@@ -1,0 +1,4 @@
+Alexa, open naughty or nice list
+Is Isabelle on the nice list
+Is holly on the naughty list
+Alexa, disable naughty or nice list

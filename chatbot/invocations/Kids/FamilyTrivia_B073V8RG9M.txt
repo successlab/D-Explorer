@@ -1,0 +1,5 @@
+Alexa, open family trivia
+Alexa, open Family Trivia.
+Repeat the last question.
+My answer is two.
+Alexa, disable family trivia

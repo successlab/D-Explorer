@@ -1,0 +1,4 @@
+Alexa, open india time
+Alexa, ask India time for current time in India
+Alexa, ask India time for time in India
+Alexa, disable india time

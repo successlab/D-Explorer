@@ -1,0 +1,4 @@
+Alexa, open world geographic quiz
+Alexa, start World Geographic Quiz
+Alexa, launch World Geographic Quiz
+Alexa, disable world geographic quiz

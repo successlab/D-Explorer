@@ -1,0 +1,4 @@
+Alexa, open meow meow
+Alexa, Pause
+Alexa, Resume
+Alexa, disable meow meow

@@ -1,0 +1,5 @@
+Alexa, open my cool program
+Alexa, ask my cool program to tell me how cool I am.
+Alexa, tell my cool program I am cool.
+Alexa, ask my cool program to tell me how amazing I am.
+Alexa, disable my cool program

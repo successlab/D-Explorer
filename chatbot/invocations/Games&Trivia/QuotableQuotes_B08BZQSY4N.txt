@@ -1,0 +1,4 @@
+Alexa, open quotable quotes
+Alexa, launch Quotable Quotes
+Alexa, stop
+Alexa, disable quotable quotes

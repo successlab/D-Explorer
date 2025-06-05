@@ -1,0 +1,2 @@
+Alexa, open santa's helper
+Alexa, disable santa's helper

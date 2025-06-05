@@ -1,0 +1,5 @@
+Alexa, open mom's cooking
+Alexa, ask Mom's Cooking for cookies.
+Alexa, ask Mom's Cooking the recipe for chili.
+Alexa, ask Mom's Cooking how to make beef stroganoff.
+Alexa, disable mom's cooking

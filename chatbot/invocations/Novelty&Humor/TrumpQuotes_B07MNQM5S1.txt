@@ -1,0 +1,5 @@
+Alexa, open trump quotes
+Alexa, ask Trump Quotes.
+Alexa, open Trump Quotes.
+Alexa, ask Trump Quotes for a quote.
+Alexa, disable trump quotes

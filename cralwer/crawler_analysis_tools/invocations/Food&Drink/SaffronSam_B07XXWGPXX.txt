@@ -1,0 +1,5 @@
+Alexa, open saffron sam
+Alexa, ask Saffron Sam how to season chicken
+Alexa, tell Saffron Sam I'm making beef
+Alexa, ask Saffron Sam what goes good with vegetables
+Alexa, disable saffron sam

@@ -1,0 +1,4 @@
+Alexa, open ice tycoon
+Alexa, start ice tycoon
+Alexa, launch ice tycoon
+Alexa, disable ice tycoon

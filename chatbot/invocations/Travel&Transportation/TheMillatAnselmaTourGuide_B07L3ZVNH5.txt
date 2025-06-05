@@ -1,0 +1,4 @@
+Alexa, open anselma
+Alexa, Begin anselma
+Alexa, launch anselma
+Alexa, disable anselma

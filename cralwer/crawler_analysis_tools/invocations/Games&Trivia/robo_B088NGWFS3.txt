@@ -1,0 +1,4 @@
+Alexa, open master robo
+Alexa, start master robo
+Alexa, launch master robo
+Alexa, disable master robo

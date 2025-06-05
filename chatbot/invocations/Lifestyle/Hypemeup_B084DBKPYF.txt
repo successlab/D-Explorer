@@ -1,0 +1,6 @@
+Alexa, open hype me up
+Alexa, next
+Alexa, stop
+Alexa, start hype me up
+Alexa, ask hype me up for a burn
+Alexa, disable hype me up

@@ -1,0 +1,8 @@
+Alexa, raise my shades.
+Alexa, Good Morning
+Alexa, close bedroom shades
+Alexa, watch a movie
+Alexa, turn on Master
+Alexa, turn on Party
+Alexa, turn on Good Night
+Alexa, disable Smith&NobleSmartBlinds

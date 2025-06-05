@@ -1,0 +1,4 @@
+Alexa, open very hard workout
+Alexa, start very hard workout
+Alexa, ask very hard workout to start workout
+Alexa, disable very hard workout

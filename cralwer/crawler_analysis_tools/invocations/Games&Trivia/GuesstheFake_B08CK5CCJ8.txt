@@ -1,0 +1,4 @@
+Alexa, open guess the fake
+Alexa, launch Guess the Fake
+Alexa, play Guess the Fake
+Alexa, disable guess the fake

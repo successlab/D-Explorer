@@ -1,0 +1,3 @@
+Alexa, open interesting trivia
+the answer is one
+Alexa, disable interesting trivia

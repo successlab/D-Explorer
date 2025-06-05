@@ -1,0 +1,4 @@
+Alexa, open academic phrase
+Alexa, ask academic phrase to give me an academic phrase.
+help
+Alexa, disable academic phrase

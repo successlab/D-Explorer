@@ -1,0 +1,5 @@
+Alexa, open numerology guide
+Alexa start Numerology guide
+Alexa ask Numerology guide about number eight
+Alexa ask Numerology guide about date March 3rd, 1971
+Alexa, disable numerology guide

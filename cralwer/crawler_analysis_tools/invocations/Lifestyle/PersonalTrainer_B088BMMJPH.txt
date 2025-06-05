@@ -1,0 +1,4 @@
+Alexa, open what up
+Alexa, start what up
+Alexa, ask what up to start workout
+Alexa, disable what up

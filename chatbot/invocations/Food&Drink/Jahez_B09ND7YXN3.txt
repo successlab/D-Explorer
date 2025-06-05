@@ -1,0 +1,4 @@
+Alexa, open jahez
+Alexa, open Jahez and check menu
+Alexa, open Jahez and check status of my order
+Alexa, disable jahez

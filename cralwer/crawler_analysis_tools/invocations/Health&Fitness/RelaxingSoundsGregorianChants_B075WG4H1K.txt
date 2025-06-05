@@ -1,0 +1,4 @@
+Alexa, open gregorian chants
+Alexa, Play Gregorian Chants
+Alexa, Start Gregorian Chants
+Alexa, disable gregorian chants

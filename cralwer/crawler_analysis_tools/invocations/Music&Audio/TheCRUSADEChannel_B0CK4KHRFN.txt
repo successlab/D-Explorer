@@ -1,0 +1,4 @@
+Alexa, open the crusade channel
+Alexa, start the crusade channel
+Alexa, ask the crusade channel what's playing
+Alexa, disable the crusade channel

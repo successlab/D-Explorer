@@ -1,0 +1,5 @@
+Alexa, open stuttgart guide
+Alexa, ask Stuttgart Guide...
+Alexa, ask Stuttgart Guide where should I go
+Alexa, ask Stuttgart Guide for the top five things to do
+Alexa, disable stuttgart guide

@@ -1,0 +1,5 @@
+Alexa, open show an animal
+Alexa, launch show an animal
+show a cat
+random
+Alexa, disable show an animal

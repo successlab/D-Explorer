@@ -1,0 +1,5 @@
+Alexa, open framework podcast
+Alexa, ask Framework Podcast to play the latest episode.
+Alexa, open Framework Podcast.
+Alexa, launch Framework Podcast.
+Alexa, disable framework podcast

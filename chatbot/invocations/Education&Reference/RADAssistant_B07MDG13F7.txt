@@ -1,0 +1,4 @@
+Alexa, open rad assistant
+Alexa, open RAD Assistant for Pulmonary Nodule
+Alexa, open RAD Assistant for Ovarian Cyst
+Alexa, disable rad assistant

@@ -1,0 +1,2 @@
+Alexa, open animals facts
+Alexa, disable animals facts

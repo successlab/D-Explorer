@@ -1,0 +1,2 @@
+Alexa, open door messenger
+Alexa, disable door messenger

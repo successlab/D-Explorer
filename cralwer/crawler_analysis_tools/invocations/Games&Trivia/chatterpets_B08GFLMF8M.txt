@@ -1,0 +1,3 @@
+Alexa, open chatter pets
+Alexa, launch chatter pets
+Alexa, disable chatter pets

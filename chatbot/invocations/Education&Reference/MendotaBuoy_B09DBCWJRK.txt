@@ -1,0 +1,4 @@
+Alexa, open mendota buoy
+Alexa, ask Mendota Buoy for the weather
+Alexa, get wind from Mendota Buoy
+Alexa, disable mendota buoy

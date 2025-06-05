@@ -1,0 +1,5 @@
+Alexa, open TIDAL
+Alexa, Play Beyoncé on TIDAL
+Alexa, Play Barbie Dreams by Nicki Minaj on TIDAL
+Alexa, Play music by Rihanna on TIDAL
+Alexa, disable TIDAL

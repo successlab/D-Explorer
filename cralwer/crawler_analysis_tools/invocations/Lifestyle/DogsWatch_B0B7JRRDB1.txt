@@ -1,0 +1,4 @@
+Alexa, open dogs watch
+Alexa, start Dogs Watch
+Alexa, launch Dogs Watch
+Alexa, disable dogs watch

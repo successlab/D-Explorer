@@ -1,0 +1,5 @@
+Alexa, open unofficial star wars databank
+Alexa, open the unofficial star wars databank
+tell me about Luke Skywalker
+show the opening crawl for Episode 5
+Alexa, disable unofficial star wars databank

@@ -1,0 +1,4 @@
+Alexa, open bla bla
+Alexa bla bla
+ask bla bla
+Alexa, disable bla bla

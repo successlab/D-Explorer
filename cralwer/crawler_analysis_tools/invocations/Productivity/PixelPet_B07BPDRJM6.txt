@@ -1,0 +1,5 @@
+Alexa, open pixel pet
+Alexa, ask Pixel Pet, what is the size of an iPhone
+Alexa, ask Pixel Pet, how many pixels in a desktop
+Alexa, ask Pixel Pet, Playing Card
+Alexa, disable pixel pet

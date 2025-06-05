@@ -1,0 +1,6 @@
+Alexa, open martha's ice cream
+Alexa, ask Martha's Ice Cream for the flavors on July 12th
+Alexa, ask Martha's Ice Cream for the flavors on Friday
+Alexa, ask Martha's Ice Cream for today's flavors
+Alexa, ask Martha's Ice Cream for the flavors on September 2nd
+Alexa, disable martha's ice cream

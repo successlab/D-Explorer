@@ -1,0 +1,5 @@
+Alexa, open active one
+Alexa, next
+Alexa, stop
+Alexa, start active one
+Alexa, disable active one

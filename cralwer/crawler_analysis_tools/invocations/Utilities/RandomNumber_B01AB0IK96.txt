@@ -1,0 +1,4 @@
+Alexa, open random number
+Alexa ask Random Number for a number
+Alexa ask Random Number for the next number
+Alexa, disable random number

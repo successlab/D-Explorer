@@ -1,0 +1,3 @@
+Alexa, open lyric lover
+Alexa, play Lyric Lover.
+Alexa, disable lyric lover

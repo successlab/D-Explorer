@@ -1,0 +1,5 @@
+Alexa, open college football info
+Alexa, ask College Football Info who wears number Two for Alabama.
+Alexa, ask College Football Info who is Watson for Clemson.
+Alexa, ask College Football Info about Daniel Jones for Duke.
+Alexa, disable college football info

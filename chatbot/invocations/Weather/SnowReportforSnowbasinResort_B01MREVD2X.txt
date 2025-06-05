@@ -1,0 +1,4 @@
+Alexa, open snowbasin resort
+Alexa, ask Snowbasin Resort for the snow report
+Alexa, ask Snowbasin Resort for latest conditions
+Alexa, disable snowbasin resort

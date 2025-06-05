@@ -1,0 +1,3 @@
+Alexa, open cow trivia
+Alexa, start cow trivia
+Alexa, disable cow trivia

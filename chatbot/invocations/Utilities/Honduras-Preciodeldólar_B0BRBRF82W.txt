@@ -1,0 +1,3 @@
+Alexa, open precio del dólar
+Alexa, precio del dólar
+Alexa, disable precio del dólar

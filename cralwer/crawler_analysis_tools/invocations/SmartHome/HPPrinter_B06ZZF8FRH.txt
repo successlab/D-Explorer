@@ -1,0 +1,5 @@
+Alexa, open my printer
+Alexa, ask My Printer to print my shopping list.
+Alexa, ask My Printer to print a checklist.
+Alexa, ask My Printer to print a coloring page.
+Alexa, disable my printer

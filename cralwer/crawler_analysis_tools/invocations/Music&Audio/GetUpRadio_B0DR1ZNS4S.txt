@@ -1,0 +1,3 @@
+Alexa, open get up radio
+Alexa, play get up radio
+Alexa, disable get up radio

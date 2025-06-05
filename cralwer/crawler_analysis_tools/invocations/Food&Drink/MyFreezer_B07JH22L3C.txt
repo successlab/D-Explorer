@@ -1,0 +1,5 @@
+Alexa, open my freezer
+Alexa, tell my freezer that I started the clear ice
+Alexa, tell my freezer set clear ice freeze time to 26 hours
+Alexa, ask my freezer when will the clear ice be ready
+Alexa, disable my freezer

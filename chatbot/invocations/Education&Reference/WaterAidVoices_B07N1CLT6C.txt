@@ -1,0 +1,3 @@
+Alexa, open wateraid voices
+Alexa, ask WaterAid Voices to open first message
+Alexa, disable wateraid voices

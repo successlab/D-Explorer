@@ -1,0 +1,4 @@
+Alexa, open my patronus
+Alexa, My Patronus
+Alexa, launch My Patronus
+Alexa, disable my patronus

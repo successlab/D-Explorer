@@ -1,0 +1,4 @@
+Alexa, open smart class alarm clock
+Yes
+No
+Alexa, disable smart class alarm clock

@@ -1,0 +1,4 @@
+Alexa, open language tester
+Alexa, open Language Tester and speak like an Italian man
+Alexa, open Language Tester and talk like a French gal
+Alexa, disable language tester

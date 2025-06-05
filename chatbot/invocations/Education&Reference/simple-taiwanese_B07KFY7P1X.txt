@@ -1,0 +1,4 @@
+Alexa, open simple taiwanese
+Alexa ask Simple Taiwanese to say 'Hello' in Taiwanese
+Alexa ask Simple Taiwanese how to say 'Goodbye'
+Alexa, disable simple taiwanese

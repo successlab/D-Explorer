@@ -1,0 +1,4 @@
+Alexa, open toothbrush time
+Alexa, start Toothbrush Time
+Alexa, launch Toothbrush Time
+Alexa, disable toothbrush time

@@ -1,0 +1,2 @@
+Alexa, open inappropriate haiku
+Alexa, disable inappropriate haiku

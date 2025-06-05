@@ -1,0 +1,4 @@
+Alexa, open love calculator
+Alexa, tell love calculator what is the love percentage between robert and sharmila
+Alexa, tell love calculator love percentage between robert and sharmila
+Alexa, disable love calculator

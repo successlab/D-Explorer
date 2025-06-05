@@ -1,0 +1,5 @@
+Alexa, open let's count
+Alexa, let's count.
+Alexa, ask Let's Count for instructions.
+Alexa, tell Let's Count to stop counting.
+Alexa, disable let's count

@@ -1,0 +1,4 @@
+Alexa, open adult humor
+Alexa, tell Adult Humor to play a standup comedy
+Alexa, tell Adult Humor to say a compliment
+Alexa, disable adult humor

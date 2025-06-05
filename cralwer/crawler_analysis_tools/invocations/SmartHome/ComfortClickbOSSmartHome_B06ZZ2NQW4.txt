@@ -1,0 +1,4 @@
+Alexa, turn on Kitchen Lights.
+Alexa, set my bedroom fan to twenty-five percent.
+Alexa, set the Office Thermostat to twenty-three degrees.
+Alexa, disable ComfortClickbOSSmartHome

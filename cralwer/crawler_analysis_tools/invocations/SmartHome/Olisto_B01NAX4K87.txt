@@ -1,0 +1,4 @@
+Alexa, turn on comfort scheme
+Alexa, increase the thermostat temperature
+Alexa, what is the thermostat set to?
+Alexa, disable Olisto

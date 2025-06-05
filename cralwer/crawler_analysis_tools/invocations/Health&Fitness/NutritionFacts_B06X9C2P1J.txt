@@ -1,0 +1,4 @@
+Alexa, open nutrition facts
+Alexa, Launch Nutrition Facts
+Alexa, Start Nutrition Facts and give me a fact
+Alexa, disable nutrition facts

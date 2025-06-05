@@ -1,0 +1,4 @@
+Alexa, open good questions
+tell me a good question to ask
+whats a good question to ask
+Alexa, disable good questions

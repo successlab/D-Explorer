@@ -1,0 +1,5 @@
+Alexa, open b. o. k. radio
+Alexa, play B.O.K.
+Alexa, play b. o. k. radio
+Alexa, b. o. k. radio
+Alexa, disable b. o. k. radio

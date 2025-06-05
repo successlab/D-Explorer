@@ -1,0 +1,4 @@
+Alexa, open name my kitty
+Alexa ask name my kitty for a boy kitty name
+Alexa ask name my kitty for a girl kitty name
+Alexa, disable name my kitty

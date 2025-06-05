@@ -1,0 +1,4 @@
+Alexa, open warm me
+Alexa tell warm me to turn on both sides
+Alexa tell warm me to turn heat off
+Alexa, disable warm me

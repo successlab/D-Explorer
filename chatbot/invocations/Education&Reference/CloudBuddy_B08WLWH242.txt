@@ -1,0 +1,3 @@
+Alexa, open cloud buddy
+Alexa, start cloud buddy
+Alexa, disable cloud buddy

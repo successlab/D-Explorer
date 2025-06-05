@@ -1,0 +1,4 @@
+Alexa, open word game
+Alexa, start word game
+Alexa, play word game
+Alexa, disable word game

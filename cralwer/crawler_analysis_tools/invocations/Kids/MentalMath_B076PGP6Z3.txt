@@ -1,0 +1,5 @@
+Alexa, open mental math
+Alexa start Mental Math
+Quiz me
+What is my score
+Alexa, disable mental math

@@ -1,0 +1,4 @@
+Alexa, open kid dancer
+Alexa, start Kid Dancer
+Alexa, launch Kid Dancer
+Alexa, disable kid dancer

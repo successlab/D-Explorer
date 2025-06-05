@@ -1,0 +1,5 @@
+Alexa, open weather geek
+Alexa open weather geek and give me a weather fact
+what's the current weather
+Ask Weather Geek to give me a weather fact
+Alexa, disable weather geek

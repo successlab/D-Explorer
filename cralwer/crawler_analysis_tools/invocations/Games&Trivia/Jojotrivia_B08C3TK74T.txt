@@ -1,0 +1,3 @@
+Alexa, open jo jo trivia
+Alexa, start jo jo trivia
+Alexa, disable jo jo trivia

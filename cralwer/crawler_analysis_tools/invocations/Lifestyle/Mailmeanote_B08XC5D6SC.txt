@@ -1,0 +1,3 @@
+Alexa, open mail me a note
+Alexa, mail me a note
+Alexa, disable mail me a note

@@ -1,0 +1,4 @@
+Alexa, open board review
+Alexa, ask board review to go through medical videos
+Alexa, ask board review to go through case studies
+Alexa, disable board review

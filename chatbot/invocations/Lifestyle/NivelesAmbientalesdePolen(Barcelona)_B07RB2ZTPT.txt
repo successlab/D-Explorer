@@ -1,0 +1,5 @@
+Alexa, open niveles de polen
+Alexa, dime los niveles de polen usando Niveles de Polen
+Alexa abre niveles de polen y dime los niveles de hoy
+Alexa, abre niveles de polen y dime la prediccion
+Alexa, disable niveles de polen

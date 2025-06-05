@@ -1,0 +1,4 @@
+Alexa, open voice shell
+Alexa launch voice shell
+Alexa run voice shell
+Alexa, disable voice shell

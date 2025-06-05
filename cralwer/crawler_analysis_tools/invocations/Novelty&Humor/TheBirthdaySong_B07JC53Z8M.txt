@@ -1,0 +1,3 @@
+Alexa, open birthday song
+Alexa, Launch the Birthday Song
+Alexa, disable birthday song

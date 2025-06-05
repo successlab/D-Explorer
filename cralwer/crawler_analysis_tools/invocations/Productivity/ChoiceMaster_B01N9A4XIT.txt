@@ -1,0 +1,5 @@
+Alexa, open choice master
+Alexa, ask Choice Master if I should call my ex.
+Alexa, ask Choice Master if I should put on pants today.
+Alexa, ask Choice Master if I should call in sick.
+Alexa, disable choice master

@@ -1,0 +1,5 @@
+Alexa, open corvette trivia
+Alexa, next
+Alexa, stop
+Alexa, start corvette trivia
+Alexa, disable corvette trivia

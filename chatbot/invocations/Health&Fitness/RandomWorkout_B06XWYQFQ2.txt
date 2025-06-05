@@ -1,0 +1,4 @@
+Alexa, open random workout
+Alexa Ask Random Workout to pick a workout
+Alexa Ask Random Workout to pick an exercise
+Alexa, disable random workout

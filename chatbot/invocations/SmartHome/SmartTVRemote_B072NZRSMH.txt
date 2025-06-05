@@ -1,0 +1,6 @@
+Alexa, open smart remote
+Alexa, tell Smart Remote to register my phone with code XXXX
+Alexa, tell Smart Remote to turn on my TV
+Alexa, tell Smart Remote to switch to channel 3
+Alexa, tell Smart Remote to increase volume by 5
+Alexa, disable smart remote

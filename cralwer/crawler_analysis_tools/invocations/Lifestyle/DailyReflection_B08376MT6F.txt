@@ -1,0 +1,4 @@
+Alexa, open daily reflection
+Alexa, start daily reflection
+Alexa, launch daily reflection
+Alexa, disable daily reflection

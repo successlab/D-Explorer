@@ -1,0 +1,4 @@
+Alexa, open my real estate advisor
+Alexa, ask My Real Estate Advisor about buying a house
+Alexa, ask My Real Estate Advisor how to sell a house
+Alexa, disable my real estate advisor

@@ -1,0 +1,3 @@
+Alexa, open pet u. feeder
+Alexa, start pet u. feeder
+Alexa, disable pet u. feeder

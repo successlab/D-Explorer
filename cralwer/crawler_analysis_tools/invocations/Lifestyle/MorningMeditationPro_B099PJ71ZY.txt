@@ -1,0 +1,4 @@
+Alexa, open morning meditation
+Alexa, tell Morning Meditation I'm ready to meditate
+Alexa play morning meditation
+Alexa, disable morning meditation

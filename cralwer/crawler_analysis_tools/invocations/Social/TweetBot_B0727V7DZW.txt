@@ -1,0 +1,5 @@
+Alexa, open tweet bot
+Alexa, launch Tweet Bot
+Alexa, tell Tweet Bot to tweet Hello World!
+Alexa, tell Tweet Bot to connect my account
+Alexa, disable tweet bot

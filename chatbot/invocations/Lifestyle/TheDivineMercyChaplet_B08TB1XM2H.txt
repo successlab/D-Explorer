@@ -1,0 +1,7 @@
+Alexa, open divine mercy chaplet
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, ask divine mercy chaplet for the latest talk
+Alexa, start divine mercy chaplet
+Alexa, disable divine mercy chaplet

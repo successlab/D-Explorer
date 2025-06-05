@@ -1,0 +1,5 @@
+Alexa, open resistor color codes
+Alexa, ask resistor color codes what is the code for two hundred Ohm
+What is the value for yellow violet brown?
+What are the colors for ten kiloohm?
+Alexa, disable resistor color codes

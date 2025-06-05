@@ -1,0 +1,4 @@
+Alexa, open olabot
+Alexa talk to Olabot
+Alexa launch Olabot
+Alexa, disable olabot

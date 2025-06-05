@@ -1,0 +1,5 @@
+Alexa, open me what's wrong
+Alexa, tell me what's wrong with john
+Alexa, ask me what's wrong with gina
+Alexa, tell me what's wrong with steve
+Alexa, disable me what's wrong

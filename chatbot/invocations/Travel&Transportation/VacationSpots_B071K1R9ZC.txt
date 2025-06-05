@@ -1,0 +1,5 @@
+Alexa, open vacation spots
+Alexa, ask vacation spots to suggest a vacation spot
+Alexa, ask vacation spots to find a vacation spot
+Alexa, ask vacation spots to tell me a vacation
+Alexa, disable vacation spots

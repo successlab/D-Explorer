@@ -1,0 +1,4 @@
+Alexa, open spare parts
+Alexa, start Spare Parts
+Alexa, Play Spare Parts
+Alexa, disable spare parts

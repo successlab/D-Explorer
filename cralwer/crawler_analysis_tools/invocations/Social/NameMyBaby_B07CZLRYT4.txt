@@ -1,0 +1,4 @@
+Alexa, open name my baby
+Alexa, name my baby
+Alexa, start name my baby
+Alexa, disable name my baby

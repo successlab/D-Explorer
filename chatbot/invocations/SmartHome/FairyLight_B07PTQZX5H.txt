@@ -1,0 +1,6 @@
+Alexa, open fairy light
+Alexa, ask fairy light to run the rainbow effect.
+Alexa, ask fairy light to run the fire effect.
+Alexa, ask fairy light to run faster.
+Alexa, ask fairy light to run slower.
+Alexa, disable fairy light

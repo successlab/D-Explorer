@@ -1,0 +1,4 @@
+Alexa, open not hot
+Alexa, start not hot
+Alexa, launch not hot
+Alexa, disable not hot

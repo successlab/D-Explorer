@@ -1,0 +1,16 @@
+Alexa, open the k. e. x. p. archive
+Alexa, ask The KEXP Archive to play the Morning Show
+Alexa, tell The KEXP Archive to play Street Sounds from last week Friday
+Alexa, ask The KEXP Archive to play Pacific Notions from two days ago
+Alexa, ask The KEXP Archive to play Hip Hop
+Alexa, tell The KEXP Archive to play Country
+Alexa, ask The KEXP Archive to play Cheryl Waters
+Alexa, tell The KEXP Archive to play Riz from last week
+Alexa, next
+Alexa, tell The KEXP Archive to skip to the next show
+Alexa, ask The KEXP Archive what song is playing
+Alexa, ask The KEXP Archive to display the playlist
+Alexa, play the KEXP Archive
+Alexa, tell the KEXP Archive to play the Morning Show
+Alexa, ask the KEXP Archive what's playing
+Alexa, disable the k. e. x. p. archive

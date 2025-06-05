@@ -1,0 +1,5 @@
+Alexa, open spinn
+Alexa, open spinn.
+Alexa, ask spinn to make espresso.
+Alexa, ask spinn to make recipe from the first slot.
+Alexa, disable spinn

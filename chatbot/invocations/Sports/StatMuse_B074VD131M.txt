@@ -1,0 +1,7 @@
+Alexa, open statmuse
+Alexa, ask StatMuse who has the most career receiving yards?
+Alexa, open StatMuse...
+Alexa, ask StatMuse, how many touchdowns did Peyton Manning have in 2007?
+What about passing yards?
+How many three pointers has Steph Curry made this season?
+Alexa, disable statmuse

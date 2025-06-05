@@ -1,0 +1,4 @@
+Alexa, turn on living room light
+Turn on office Workplace
+Set living room light to purple
+Alexa, disable VivitarSmartLightsandOutlets

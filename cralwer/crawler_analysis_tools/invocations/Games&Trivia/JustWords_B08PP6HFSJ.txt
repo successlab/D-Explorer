@@ -1,0 +1,6 @@
+Alexa, open just words
+Alexa, give me a hint
+Alexa, ask Just Words to generate a friend code
+Alexa, ask Just Words to play with more people
+Alexa, launch Just Words
+Alexa, disable just words

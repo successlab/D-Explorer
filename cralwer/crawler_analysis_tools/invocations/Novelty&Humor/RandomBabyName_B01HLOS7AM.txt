@@ -1,0 +1,4 @@
+Alexa, open random baby name
+Alexa, ask Random Baby Name to get a baby name for a girl
+Alexa, ask Random Baby Name to recommend a baby name for a boy
+Alexa, disable random baby name

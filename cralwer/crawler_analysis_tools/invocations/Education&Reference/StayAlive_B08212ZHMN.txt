@@ -1,0 +1,5 @@
+Alexa, open stay alive
+Alexa, play chapter <number>
+play chapter three
+scroll right
+Alexa, disable stay alive

@@ -1,0 +1,4 @@
+Alexa, open stormy weather
+Alexa, play stormy weather
+Alexa, begin stormy weather
+Alexa, disable stormy weather

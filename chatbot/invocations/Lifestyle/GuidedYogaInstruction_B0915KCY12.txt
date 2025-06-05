@@ -1,0 +1,4 @@
+Alexa, open guided yoga instruction
+Alexa, start guided yoga instruction
+Alexa, ask guided yoga instruction to start workout
+Alexa, disable guided yoga instruction

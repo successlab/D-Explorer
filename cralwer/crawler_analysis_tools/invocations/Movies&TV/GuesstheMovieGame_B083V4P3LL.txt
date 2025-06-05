@@ -1,0 +1,4 @@
+Alexa, open movie game
+Alexa, play Movie Game
+Alexa, play movie game
+Alexa, disable movie game

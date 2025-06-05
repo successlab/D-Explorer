@@ -1,0 +1,5 @@
+Alexa, open music jokes
+Alexa, ask Music Jokes for a joke
+Alexa, ask Music Jokes for a saxophone joke
+Alexa, ask Music Jokes for a drummer joke
+Alexa, disable music jokes

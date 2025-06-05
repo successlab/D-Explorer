@@ -1,0 +1,5 @@
+Alexa, open weekly menu
+Alexa, ask Weekly Menu to schedule pizza for Saturday for dinner
+Alexa, ask Weekly Menu when I'm gonna eat hamburger
+Alexa, ask Weekly Menu what I'm going to eat Saturday for dinner
+Alexa, disable weekly menu

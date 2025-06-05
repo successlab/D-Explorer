@@ -1,0 +1,4 @@
+Alexa, open bus schedule
+Get next bus for Regents and Nobel stop
+Get next bus for Gilman Myers stop
+Alexa, disable bus schedule

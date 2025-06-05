@@ -1,0 +1,4 @@
+Alexa, open my toothbrush
+Alexa, start my toothbrush
+Alexa, tell my toothbrush to brush my teeth now
+Alexa, disable my toothbrush

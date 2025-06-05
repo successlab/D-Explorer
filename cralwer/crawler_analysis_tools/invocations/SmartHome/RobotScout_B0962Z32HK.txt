@@ -1,0 +1,5 @@
+Alexa, open robot scout
+Alexa, show my robot scout
+Alexa, ask robot scout to turn left.
+Alexa, ask robot scout to patrol
+Alexa, disable robot scout

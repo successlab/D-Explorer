@@ -1,0 +1,4 @@
+Alexa, open pool info
+Alexa, start Pool Info
+Alexa, launch Pool Info
+Alexa, disable pool info

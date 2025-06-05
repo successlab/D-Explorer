@@ -1,0 +1,6 @@
+Alexa, open catholic prayers
+Alexa, open Catholic Prayers skill.
+Alexa, ask Catholic Prayers to pray
+Alexa, ask Catholic Prayers for Hail Mary
+Alexa, ask Catholic Prayers to remind me to pray
+Alexa, disable catholic prayers

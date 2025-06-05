@@ -1,0 +1,4 @@
+Alexa, open sport clips
+Alexa, tell Sport Clips to check in
+Alexa, ask Sport Clips for the wait time at the store near me
+Alexa, disable sport clips

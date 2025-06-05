@@ -1,0 +1,6 @@
+Alexa, open nice bot
+Alexa, ask Nice Bot for a compliment for my wife.
+Alexa, tell Nice Bot to give me a compliment
+Alexa, ask Nice Bot for a compliment about my friend
+Alexa, open Nice Bot and give me a compliment
+Alexa, disable nice bot

@@ -1,0 +1,4 @@
+Alexa, open ball wash
+Alexa, ask ball wash for top product
+Alexa, ask ball wash for shipping policy
+Alexa, disable ball wash

@@ -1,0 +1,5 @@
+Alexa, open hi osaki
+Alexa,hi osaki
+Power on
+Give me a massage
+Alexa, disable hi osaki

@@ -1,0 +1,4 @@
+Alexa, open unicorn name
+Alexa, ask Unicorn Name to make a name
+Alexa, launch Unicorn Name
+Alexa, disable unicorn name

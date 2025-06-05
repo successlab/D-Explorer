@@ -1,0 +1,5 @@
+Alexa, open power zone
+Alexa, Ask Power Zone about my customer points
+Alexa, Ask Power Zone about my website status
+Alexa, Ask Power Zone about promoting
+Alexa, disable power zone

@@ -1,0 +1,5 @@
+Alexa, open acura
+Alexa, ask Acura to start my car.
+Alexa, ask Acura to lock my doors.
+Alexa, ask Acura how much fuel do I have?
+Alexa, disable acura

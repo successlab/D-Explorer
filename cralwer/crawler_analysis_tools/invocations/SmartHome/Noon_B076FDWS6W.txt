@@ -1,0 +1,4 @@
+Alexa, turn on Kitchen
+Alexa, turn off Kitchen
+Alexa, turn on Bright in Kitchen
+Alexa, disable Noon

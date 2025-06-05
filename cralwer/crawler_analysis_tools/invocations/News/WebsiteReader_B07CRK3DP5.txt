@@ -1,0 +1,4 @@
+Alexa, open website reader
+Alexa, ask website reader to read New York Times
+Alexa, ask website reader to read ndtv
+Alexa, disable website reader

@@ -1,0 +1,4 @@
+Alexa, open yucky sound
+Alexa, Play Yucky Sound
+Alexa, Start Yucky Sound
+Alexa, disable yucky sound

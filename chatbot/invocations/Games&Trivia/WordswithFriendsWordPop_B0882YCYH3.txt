@@ -1,0 +1,8 @@
+Alexa, open word pop
+Alexa, play Word Pop
+Alexa, repeat letters
+Alexa, shuffle
+Alexa, what words have I guessed?
+Alexa, how much time is left?
+Alexa, play Words with Friends Word Pop
+Alexa, disable word pop

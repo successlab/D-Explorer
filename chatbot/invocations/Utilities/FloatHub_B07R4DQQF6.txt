@@ -1,0 +1,6 @@
+Alexa, open floathub
+Alexa, how's the boat?
+Alexa, ask Floathub how the boat is.
+What are the conditions like?
+How are the pumps doing?
+Alexa, disable floathub

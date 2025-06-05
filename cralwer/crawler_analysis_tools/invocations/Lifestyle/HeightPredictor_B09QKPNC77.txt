@@ -1,0 +1,2 @@
+Alexa, open height predictor
+Alexa, disable height predictor

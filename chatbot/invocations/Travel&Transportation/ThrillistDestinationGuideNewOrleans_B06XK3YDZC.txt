@@ -1,0 +1,4 @@
+Alexa, open thrillist new orleans
+Alexa, ask Thrillist New Orleans what the best bars are
+Alexa, ask Thrillist New Orleans about Mardi Gras
+Alexa, disable thrillist new orleans

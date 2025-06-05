@@ -1,0 +1,4 @@
+Alexa, turn on smart outlet 1
+Alexa, turn off smart outlet 1
+Alexa, turn on smart outlet 2
+Alexa, disable ConnectSense

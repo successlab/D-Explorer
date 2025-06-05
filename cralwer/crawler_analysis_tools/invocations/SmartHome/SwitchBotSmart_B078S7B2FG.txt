@@ -1,0 +1,5 @@
+Alexa, open switch bot
+Alexa, turn on bedroom light.
+Alexa, turn off home television.
+Alexa, set office air conditioner to 26 degrees.
+Alexa, disable switch bot

@@ -1,0 +1,4 @@
+Alexa, open sarah says
+Alexa, ask sarah says to compliment me
+Alexa, ask sarah says for a compliment
+Alexa, disable sarah says

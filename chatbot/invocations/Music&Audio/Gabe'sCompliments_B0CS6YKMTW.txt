@@ -1,0 +1,4 @@
+Alexa, open gabe's compliments
+Alexa, ask gabe's compliments to compliment me
+Alexa, ask gabe's compliments for a compliment
+Alexa, disable gabe's compliments

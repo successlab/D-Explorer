@@ -1,0 +1,5 @@
+Alexa, open random name generator
+Alexa, ask random name generator for a name
+Alexa, ask random name generator for a male name
+Alexa, ask random name generator for a woman's name
+Alexa, disable random name generator

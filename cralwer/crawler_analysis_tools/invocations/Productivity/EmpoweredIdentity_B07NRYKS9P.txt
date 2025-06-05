@@ -1,0 +1,5 @@
+Alexa, open who am i
+Alexa, next
+Alexa, stop
+Alexa, start Who am I
+Alexa, disable who am i

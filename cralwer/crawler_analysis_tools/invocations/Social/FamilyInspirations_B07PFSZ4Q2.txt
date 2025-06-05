@@ -1,0 +1,5 @@
+Alexa, open family inspirations
+Alexa, next
+Alexa, stop
+Alexa, start Family Inspirations
+Alexa, disable family inspirations

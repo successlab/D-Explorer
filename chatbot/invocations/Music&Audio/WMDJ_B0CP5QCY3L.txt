@@ -1,0 +1,5 @@
+Alexa, open w. m. d. j.
+Alexa, enable WMDJ skill.
+Alexa, launch w. m. d. j.
+Alexa, play w. m. d. j.
+Alexa, disable w. m. d. j.

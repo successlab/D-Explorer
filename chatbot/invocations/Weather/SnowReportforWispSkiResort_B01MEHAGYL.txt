@@ -1,0 +1,4 @@
+Alexa, open wisp ski resort
+Alexa, ask Wisp Ski Resort for the snow report
+Alexa, ask Wisp Ski Resort for latest conditions
+Alexa, disable wisp ski resort

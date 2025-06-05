@@ -1,0 +1,5 @@
+Alexa, open know show
+Alexa, next
+Alexa, stop
+Alexa, start know show
+Alexa, disable know show

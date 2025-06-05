@@ -1,0 +1,6 @@
+Alexa, open five quotes
+Alexa, 5 quotes
+Alexa, open 5 quotes
+Alexa, launch five quotes
+Alexa, start five quotes
+Alexa, disable five quotes

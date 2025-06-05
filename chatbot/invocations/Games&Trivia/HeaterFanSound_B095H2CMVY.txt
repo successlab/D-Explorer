@@ -1,0 +1,3 @@
+Alexa, open heater fan sound
+Alexa, Heater Fan Sound
+Alexa, disable heater fan sound

@@ -1,0 +1,4 @@
+Alexa, open nook spy
+Alexa, ask Nook Spy what is the value of red snapper?
+Alexa, ask Nook Spy how much wasp is worth?
+Alexa, disable nook spy

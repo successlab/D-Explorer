@@ -1,0 +1,5 @@
+Alexa, open pet resources
+Alexa, ask Pet Resources how do I adopt a pet?
+Alexa, ask Pet Resources how do I crate train a puppy?
+Alexa, ask Pet Resources how can I get my cat to use the litter box?
+Alexa, disable pet resources

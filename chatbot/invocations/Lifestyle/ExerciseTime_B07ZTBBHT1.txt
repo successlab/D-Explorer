@@ -1,0 +1,4 @@
+Alexa, open exercise time
+Alexa, start exercise time
+Alexa, ask exercise time to start workout
+Alexa, disable exercise time

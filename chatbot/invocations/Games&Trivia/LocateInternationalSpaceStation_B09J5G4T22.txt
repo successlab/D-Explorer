@@ -1,0 +1,4 @@
+Alexa, open international space station locator
+Alexa, ask international space station locator to find the international space station
+Alexa, ask international space station locator to tell me where the international space station is
+Alexa, disable international space station locator

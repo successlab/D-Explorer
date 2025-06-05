@@ -1,0 +1,5 @@
+Alexa, open new music
+Alexa, ask New Music what song i should listen to.
+Alexa, ask New Music to suggest a new song.
+Alexa, ask New Music to give me a song.
+Alexa, disable new music

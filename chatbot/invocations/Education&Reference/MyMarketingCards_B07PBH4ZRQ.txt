@@ -1,0 +1,7 @@
+Alexa, open my marketing cards
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start My Marketing Cards
+Alexa, disable my marketing cards

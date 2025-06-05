@@ -1,0 +1,3 @@
+Alexa, open protocol ten
+Alexa, start protocol ten
+Alexa, disable protocol ten

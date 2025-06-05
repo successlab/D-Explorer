@@ -1,0 +1,2 @@
+Alexa, open color link
+Alexa, disable color link

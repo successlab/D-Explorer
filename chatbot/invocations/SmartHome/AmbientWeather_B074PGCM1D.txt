@@ -1,0 +1,9 @@
+Alexa, open ambient weather
+Alexa, ask Ambient Weather for a weather report.
+Alexa, ask Ambient Weather about the indoor conditions.
+Alexa, ask Ambient Weather about the weather yesterday.
+Alexa, ask Ambient Weather about the weather last week
+Alexa, ask Ambient Weather for a weather report
+Alexa, ask Ambient Weather what was the weather yesterday
+Alexa, ask Ambient Weather for the indoor conditions
+Alexa, disable ambient weather

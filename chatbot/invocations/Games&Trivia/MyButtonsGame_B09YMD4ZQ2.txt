@@ -1,0 +1,9 @@
+Alexa, open my buttons game
+Alexa, what are Echo Buttons?
+Alexa, repeat that
+Alexa, what are the scores?
+Alexa, help!
+Alexa, start over
+Alexa, stop
+Alexa, start my buttons game
+Alexa, disable my buttons game

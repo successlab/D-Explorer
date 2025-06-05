@@ -1,0 +1,4 @@
+Alexa, turn on the light
+Alexa, turn off the light
+Alexa, set the light to 100%
+Alexa, disable GSmart

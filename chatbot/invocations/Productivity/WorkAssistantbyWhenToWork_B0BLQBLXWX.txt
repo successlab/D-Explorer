@@ -1,0 +1,4 @@
+Alexa, open work assistant
+When is my next shift
+Who else is working today
+Alexa, disable work assistant

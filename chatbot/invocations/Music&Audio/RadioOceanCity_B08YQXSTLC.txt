@@ -1,0 +1,4 @@
+Alexa, open radio ocean city
+Alexa, start radio ocean city
+Alexa, ask radio ocean city what's playing
+Alexa, disable radio ocean city

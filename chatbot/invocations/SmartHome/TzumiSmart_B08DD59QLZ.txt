@@ -1,0 +1,4 @@
+Alexa, open tzumi smart
+Alexa, turn on light
+Alexa, turn on sweeping robot
+Alexa, disable tzumi smart

@@ -1,0 +1,5 @@
+Alexa, open jerusalem post
+Alexa, Ask the Jerusalem Post for the Breaking news headlines
+Alexa, Ask the jerusalem post for the Sports headlines
+Alexa, Start the Jerusalem Post
+Alexa, disable jerusalem post

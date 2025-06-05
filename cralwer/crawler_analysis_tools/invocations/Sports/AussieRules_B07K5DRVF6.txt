@@ -1,0 +1,5 @@
+Alexa, open aussie rules
+Alexa, ask Aussie Rules who won the Eagles game
+Alexa, ask Aussie Rules who will win the Dockers game
+Alexa, ask Aussie Rules which teams will win the next round
+Alexa, disable aussie rules

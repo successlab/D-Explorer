@@ -1,0 +1,5 @@
+Alexa, open chu chu train
+alexa start chu chu train
+alexa ask chu chu train to toot
+open chu chu train
+Alexa, disable chu chu train

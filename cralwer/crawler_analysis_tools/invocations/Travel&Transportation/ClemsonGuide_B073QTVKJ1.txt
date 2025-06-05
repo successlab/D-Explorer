@@ -1,0 +1,5 @@
+Alexa, open clemson guide
+Alexa, ask Clemson Guide to tell me an overview about Clemson
+ask Clemson Guide to give me an attraction
+ask Clemson Guide to tell me what to do
+Alexa, disable clemson guide

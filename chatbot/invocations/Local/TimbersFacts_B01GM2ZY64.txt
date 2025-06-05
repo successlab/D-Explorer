@@ -1,0 +1,4 @@
+Alexa, open timbers facts
+Alexa, ask Timbers Facts for a fact
+Alexa, ask Timbers Facts to give me some Timbers information
+Alexa, disable timbers facts

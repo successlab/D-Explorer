@@ -1,0 +1,7 @@
+Alexa, set Kitchen to cool
+Alexa, set Kitchen to heat
+Alexa, set Kitchen to auto
+Alexa, set Kitchen to off
+Alexa, set Kitchen temperature to 72 degrees
+Alexa, decrease Kitchen temperature by 4 degrees
+Alexa, disable AmericanStandard®Home

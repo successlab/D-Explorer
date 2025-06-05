@@ -1,0 +1,5 @@
+Alexa, open animal facts
+Alexa, open animal facts.
+Alexa, ask animal facts for an animal fact.
+Alexa, start animal facts.
+Alexa, disable animal facts

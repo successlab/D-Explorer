@@ -1,0 +1,4 @@
+Alexa, open c. p. max
+Alexa, ask c. p. max get upcoming birthdays
+Alexa, ask c. p. max what are my Year To Date Total Sales
+Alexa, disable c. p. max

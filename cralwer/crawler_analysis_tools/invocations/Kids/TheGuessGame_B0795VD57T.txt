@@ -1,0 +1,5 @@
+Alexa, open guess game
+Alexa play the guess game
+Alexa start the guess game
+Alexa open the guess game
+Alexa, disable guess game

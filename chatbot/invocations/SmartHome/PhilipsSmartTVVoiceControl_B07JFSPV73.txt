@@ -1,0 +1,31 @@
+Alexa, turn on Living Room TV.
+Alexa, turn off TV.
+Alexa, next channel on TV.
+Alexa, change channel to 5 on TV.
+Alexa, channel down on Living Room TV.
+Alexa, set volume to 15 on Living Room TV.
+Alexa, turn down the volume.
+Alexa, volume up.
+Alexa, mute Living Room TV.
+Alexa, unmute.
+Alexa, switch input to Blu-ray on Living Room TV.
+Alexa, switch input to HDMI 1.
+Alexa, play on TV.
+Alexa, pause TV.
+Alexa, fast forward.
+Alexa, rewind.
+Alexa, turn on Ambilight.
+Alexa, turn off Ambilight.
+Alexa, turn on Ambilight Follow colour.
+Alexa, turn on Ambilight Follow video.
+Alexa, turn on Ambilight Follow audio.
+Alexa, turn on Ambilight Follow flag.
+Alexa, turn on Ambilight Lounge light.
+Alexa, turn on Ambilight Follow flag on Living Room TV
+Alexa, turn on Ambilight Lounge light on Living Room TV
+Alexa, change channel to 5.
+Alexa, discover my devices.
+Alexa, turn on Living Room TV
+Alexa, turn down the volume
+Alexa, switch input to HDMI 1
+Alexa, disable PhilipsSmartTVVoiceControl

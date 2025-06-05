@@ -1,0 +1,4 @@
+Alexa, open kingdom fit test
+Alexa, start Kingdom Fit Test
+Alexa, ask Kingdom Fit Test to start workout
+Alexa, disable kingdom fit test

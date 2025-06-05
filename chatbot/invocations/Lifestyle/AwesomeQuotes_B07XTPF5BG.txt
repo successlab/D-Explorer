@@ -1,0 +1,5 @@
+Alexa, open awesome quotes
+Alexa, next
+Alexa, stop
+Alexa, start Awesome Quotes
+Alexa, disable awesome quotes

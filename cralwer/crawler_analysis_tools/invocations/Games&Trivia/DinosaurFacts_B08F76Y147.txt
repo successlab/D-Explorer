@@ -1,0 +1,8 @@
+Alexa, open dino facts
+Alexa, launch Dinosaur Facts
+Alexa, open Dinosaur Facts
+Alexa, stop
+Alexa ask dino facts to tell me facts
+Alexa tell dino facts to tell me trivia
+Alexa tell dino facts to tell me facts
+Alexa, disable dino facts

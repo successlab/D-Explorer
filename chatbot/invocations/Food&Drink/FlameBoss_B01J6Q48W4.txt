@@ -1,0 +1,5 @@
+Alexa, open flame boss
+Alexa, ask Flame Boss how's my cook
+Alexa, ask Flame Boss for the meat temperature
+Alexa, ask Flame Boss to change the set temperature
+Alexa, disable flame boss

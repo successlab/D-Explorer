@@ -1,0 +1,4 @@
+Alexa, open stevens pass
+Alexa, ask Stevens Pass for the snow report
+Alexa, ask Stevens Pass for latest conditions
+Alexa, disable stevens pass

@@ -1,0 +1,7 @@
+Alexa, open catholic five forty
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, ask catholic five forty for the latest talk
+Alexa, start catholic five forty
+Alexa, disable catholic five forty

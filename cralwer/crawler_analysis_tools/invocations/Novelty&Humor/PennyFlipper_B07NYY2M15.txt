@@ -1,0 +1,3 @@
+Alexa, open flip a penny
+Alexa, flip a penny
+Alexa, disable flip a penny

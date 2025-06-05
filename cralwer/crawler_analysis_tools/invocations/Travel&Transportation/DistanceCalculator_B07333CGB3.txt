@@ -1,0 +1,5 @@
+Alexa, open distance calculator
+Alexa, ask Distance Calculator distance between Amazon HQ and Space Needle
+Alexa, Ask Distance Calculator distance between San Francisco and Portland
+Alexa, Ask Distance Calculator what is the distance between Golden gate bridge and San Jose
+Alexa, disable distance calculator

@@ -1,0 +1,9 @@
+Alexa, open fazbear employee training
+Alexa, what are Echo Buttons?
+Alexa, repeat that
+Alexa, what are the scores?
+Alexa, help!
+Alexa, start over
+Alexa, stop
+Alexa, start fazbear employee training
+Alexa, disable fazbear employee training

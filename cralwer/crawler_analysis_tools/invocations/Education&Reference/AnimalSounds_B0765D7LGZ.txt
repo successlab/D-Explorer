@@ -1,0 +1,5 @@
+Alexa, open animal sounds
+Alexa, open animal sounds.
+Alexa, ask Animal Sounds for a Pig sound.
+Alexa, ask Animal Sounds for a Monkey sound.
+Alexa, disable animal sounds

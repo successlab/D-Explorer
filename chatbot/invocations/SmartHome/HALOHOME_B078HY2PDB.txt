@@ -1,0 +1,7 @@
+Alexa, turn on the dining room lights
+Alexa, set the kitchen lights to 50%
+Alexa, dim/brighten the entry way lights
+Alexa, turn on the after hours
+Alexa, turn on the dinning room lights
+Alexa, dim the bedroom lights
+Alexa, disable HALOHOME

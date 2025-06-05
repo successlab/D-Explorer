@@ -1,0 +1,4 @@
+Alexa, open sarcasm room
+Alexa, ask sarcasm room for today's special sarcasm
+Alexa, ask sarcasm room for random sarcasms
+Alexa, disable sarcasm room

@@ -1,0 +1,3 @@
+Alexa, open picture memory
+Alexa, ask Picture Memory for an easy game
+Alexa, disable picture memory

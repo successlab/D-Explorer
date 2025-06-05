@@ -1,0 +1,5 @@
+Alexa, open quick escape
+Alexa, ask quick escape to quickly give me a new identity
+Alexa, ask quick escape to give me a random identity
+Alexa, ask quick escape to get me out of here
+Alexa, disable quick escape

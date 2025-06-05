@@ -1,0 +1,5 @@
+Alexa, open story world
+Alexa, open Story World.
+Alexa, Ask Story World to tell me a Robot story.
+Alexa, Ask Story World to play Goldilocks and the three bears.
+Alexa, disable story world

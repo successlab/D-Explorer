@@ -1,0 +1,5 @@
+Alexa, open ethereum price
+Alexa, ask Ethereum Price status
+Alexa, ask Ethereum Price check
+Alexa, ask Ethereum Price current price
+Alexa, disable ethereum price

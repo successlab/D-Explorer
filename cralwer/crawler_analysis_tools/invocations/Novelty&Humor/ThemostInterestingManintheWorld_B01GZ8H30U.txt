@@ -1,0 +1,5 @@
+Alexa, open interesting man
+Alexa, ask interesting man a joke
+Alexa, ask interesting man a quote
+Alexa, ask interesting man to tell me a joke
+Alexa, disable interesting man

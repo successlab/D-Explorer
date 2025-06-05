@@ -1,0 +1,4 @@
+Alexa, open monster alarm
+Alexa start Monster Alarm
+Alexa Monster alarm
+Alexa, disable monster alarm

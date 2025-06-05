@@ -1,0 +1,4 @@
+Alexa, open question asker
+Alexa, ask question asker if I'll be rich when I grow up
+Alexa, start question asker
+Alexa, disable question asker

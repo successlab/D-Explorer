@@ -1,0 +1,5 @@
+Alexa, open front door motion
+Alexa, open front door motion.
+Alexa, ask front door motion to say a phrase
+Alexa, ask front door motion to give me a phrase.
+Alexa, disable front door motion

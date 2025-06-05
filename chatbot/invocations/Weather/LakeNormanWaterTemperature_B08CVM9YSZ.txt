@@ -1,0 +1,4 @@
+Alexa, open lake norman
+Alexa ask Lake Norman the temperature
+Alexa ask Lake Norman what is the water temperature
+Alexa, disable lake norman

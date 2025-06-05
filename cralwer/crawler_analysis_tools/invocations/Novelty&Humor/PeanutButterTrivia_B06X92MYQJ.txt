@@ -1,0 +1,4 @@
+Alexa, open peanut butter trivia
+Alexa, Start Peanut Butter Trivia
+Alexa, Play Peanut Butter Trivia
+Alexa, disable peanut butter trivia

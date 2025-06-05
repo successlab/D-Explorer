@@ -1,0 +1,4 @@
+Alexa, open silly jokes
+Alexa, ask silly jokes to tell me a silly joke
+Alexa, ask silly jokes to make me laugh
+Alexa, disable silly jokes

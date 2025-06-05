@@ -1,0 +1,4 @@
+Alexa, open star wars quotes
+Alexa, ask Star Wars Quotes for a quote
+Alexa, give me a quote from Star Wars Quotes
+Alexa, disable star wars quotes

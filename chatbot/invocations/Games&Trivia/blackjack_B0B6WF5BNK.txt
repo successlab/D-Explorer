@@ -1,0 +1,5 @@
+Alexa, open blackjack game
+Alexa, play blackjack game
+Alexa, begin blackjack game
+Alexa, start blackjack game
+Alexa, disable blackjack game

@@ -1,0 +1,3 @@
+Alexa, open sous vide
+Alexa ask sous vide what temperature to cook salmon medium rare
+Alexa, disable sous vide

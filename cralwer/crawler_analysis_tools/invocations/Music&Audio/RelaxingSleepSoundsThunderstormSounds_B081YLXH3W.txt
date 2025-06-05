@@ -1,0 +1,6 @@
+Alexa, open thunderstorm sounds
+Alexa, good night
+Alexa, good night
+Alexa, ask thunderstorm sounds to loop
+Alexa, ask thunderstorm sounds to play for 3 hours
+Alexa, disable thunderstorm sounds

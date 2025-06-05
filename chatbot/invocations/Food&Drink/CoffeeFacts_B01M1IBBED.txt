@@ -1,0 +1,5 @@
+Alexa, open coffee facts
+Alexa, start coffee facts
+Ask coffee facts give me a coffee fact
+Ask coffee facts for a coffee fact
+Alexa, disable coffee facts

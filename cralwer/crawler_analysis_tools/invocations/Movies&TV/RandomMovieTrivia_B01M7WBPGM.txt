@@ -1,0 +1,5 @@
+Alexa, open movie trivia
+Alexa, ask movie trivia to start game
+Ask movie trivia to start a new quiz
+I don't know that one
+Alexa, disable movie trivia

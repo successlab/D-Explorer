@@ -1,0 +1,7 @@
+Alexa, open t. m. m. one
+Alexa, play TMM 1
+Alexa, launch TMM 1
+Alexa, stop
+Alexa, play T. M. M. one
+Alexa, launch T. M. M. one
+Alexa, disable t. m. m. one

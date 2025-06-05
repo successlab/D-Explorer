@@ -1,0 +1,5 @@
+Alexa, open our first quiz
+Alexa, next
+Alexa, stop
+Alexa, start our first quiz
+Alexa, disable our first quiz

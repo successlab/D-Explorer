@@ -1,0 +1,4 @@
+Alexa, open drone sounds
+Alexa, start drone sounds
+Alexa, launch drone sounds
+Alexa, disable drone sounds

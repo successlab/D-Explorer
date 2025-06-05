@@ -1,0 +1,5 @@
+Alexa, open virtual globe
+Alexa ask virtual globe about Norway
+Alexa ask virtual globe about the United States
+Alexa ask virtual globe to spin the globe
+Alexa, disable virtual globe

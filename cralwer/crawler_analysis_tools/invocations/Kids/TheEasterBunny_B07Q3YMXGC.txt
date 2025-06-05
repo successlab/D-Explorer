@@ -1,0 +1,4 @@
+Alexa, open the easter bunny
+start
+help
+Alexa, disable the easter bunny

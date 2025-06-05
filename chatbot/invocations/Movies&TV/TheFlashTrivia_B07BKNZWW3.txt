@@ -1,0 +1,4 @@
+Alexa, open the flash trivia
+yes
+no
+Alexa, disable the flash trivia

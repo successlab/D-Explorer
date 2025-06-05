@@ -1,0 +1,4 @@
+Alexa, open daily workout
+Alexa, start daily workout
+Alexa, ask daily workout to start workout
+Alexa, disable daily workout

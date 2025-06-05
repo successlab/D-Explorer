@@ -1,0 +1,5 @@
+Alexa, open bart control
+Alexa, ask BART Control when the next Fremont train arrives
+Alexa, ask BART Control what the fare is from West Oakland to SFO
+Alexa, ask BART Control if there are any advisories
+Alexa, disable bart control

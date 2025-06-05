@@ -1,0 +1,4 @@
+Alexa, open bot information
+what services do you offer
+what is your address
+Alexa, disable bot information

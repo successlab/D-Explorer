@@ -1,0 +1,5 @@
+Alexa, open skydrop
+Alexa, ask Skydrop to water Front Yard Flowers
+Alexa, ask Skydrop for my forecast
+Alexa, ask Skydrop to stop watering
+Alexa, disable skydrop

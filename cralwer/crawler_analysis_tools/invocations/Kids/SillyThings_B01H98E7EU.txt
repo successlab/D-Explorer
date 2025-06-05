@@ -1,0 +1,5 @@
+Alexa, open silly things
+Alexa, Ask SillyThings to tell me to do something silly
+Alexa, Ask SillyThings to tell me a funny thing to do
+Alexa, Ask SillyThings to give me something
+Alexa, disable silly things

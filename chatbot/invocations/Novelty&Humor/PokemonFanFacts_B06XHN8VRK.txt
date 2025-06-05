@@ -1,0 +1,4 @@
+Alexa, open pokemon fan facts
+Alexa, ask pokemon fan facts to get pokemon fact
+please tell me a fact about pokemon
+Alexa, disable pokemon fan facts

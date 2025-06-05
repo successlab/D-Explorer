@@ -1,0 +1,6 @@
+Alexa, open squats workout
+Alexa, start pushup workout
+Alexa, start sit up workout
+Alexa, start pull up workout
+Alexa, start squats workout
+Alexa, disable squats workout

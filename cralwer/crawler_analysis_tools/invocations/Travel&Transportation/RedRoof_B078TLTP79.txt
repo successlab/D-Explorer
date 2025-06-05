@@ -1,0 +1,5 @@
+Alexa, open red roof
+Alexa, Ask Red Roof about reservations?
+Alexa, Ask Red Roof about their pet policy?
+Alexa, Ask Red Roof why I should get a RediCard?
+Alexa, disable red roof

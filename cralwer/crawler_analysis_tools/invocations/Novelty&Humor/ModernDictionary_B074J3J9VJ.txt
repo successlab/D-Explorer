@@ -1,0 +1,5 @@
+Alexa, open modern dictionary
+Alexa, ask Modern Dictionary to give me a random word.
+Alexa, ask Modern Dictionary for a random definition.
+Alexa, open Modern Dictionary.
+Alexa, disable modern dictionary

@@ -1,0 +1,9 @@
+Alexa, preheat my oven to 350 degrees.
+Alexa, what is the temperature of my oven?
+Alexa, what is the temperature of my food in the oven?
+Alexa, Sous Vide fish in my oven at 125 degrees
+Alexa, Sous Vide fish in my oven at 125 degrees for 40 minutes
+Alexa, preheat my oven to 350 degrees
+Alexa, set my oven to sous vide at 125 degrees
+Alexa, bake my cookies in my oven at 350 degrees for 15 minutes
+Alexa, disable AnovaOven

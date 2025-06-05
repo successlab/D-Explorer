@@ -1,0 +1,5 @@
+Alexa, open housecall pro
+Alexa, ask Housecall Pro when my next job is
+Alexa ask Housecall Pro to get my next job
+Alexa ask Housecall Pro where is my next job
+Alexa, disable housecall pro

@@ -1,0 +1,11 @@
+Alexa, open city first church
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask city first church for the latest talk
+Alexa, start city first church
+Alexa, disable city first church

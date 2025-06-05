@@ -1,0 +1,4 @@
+Alexa, open austin allergy
+Alexa ask Austin Allergy for allergy report
+Alexa ask Austin Allergy for report
+Alexa, disable austin allergy

@@ -1,0 +1,2 @@
+Alexa, open voice tic tac toe
+Alexa, disable voice tic tac toe

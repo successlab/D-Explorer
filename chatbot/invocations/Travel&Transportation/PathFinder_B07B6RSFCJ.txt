@@ -1,0 +1,4 @@
+Alexa, open path finder
+My destination is Tampa Airport
+I am going to Tampa Airport
+Alexa, disable path finder

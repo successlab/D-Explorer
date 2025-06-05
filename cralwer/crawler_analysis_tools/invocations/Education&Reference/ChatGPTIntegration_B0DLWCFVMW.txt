@@ -1,0 +1,3 @@
+Alexa, open conversación avanzada
+Alexa, abre conversación avanzada
+Alexa, disable conversación avanzada

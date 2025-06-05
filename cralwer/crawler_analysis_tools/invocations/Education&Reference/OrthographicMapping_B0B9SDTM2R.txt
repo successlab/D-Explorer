@@ -1,0 +1,4 @@
+Alexa, open orthographic mapping
+Alexa, start Orthographic Mapping
+Alexa, launch Orthographic Mapping
+Alexa, disable orthographic mapping

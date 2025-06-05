@@ -1,0 +1,9 @@
+Alexa, open sandals church
+Alexa, ask Sandals Church to play the latest sermon
+Alexa, ask Sandals Church to play The Debrief
+Alexa, pause
+Alexa, resume
+Alexa, ask Sandals Church to fast forward by {time frame}
+Alexa, ask Sandals Church to rewind by {time frame}
+Alexa, ask Sandals Church to play the debrief
+Alexa, disable sandals church

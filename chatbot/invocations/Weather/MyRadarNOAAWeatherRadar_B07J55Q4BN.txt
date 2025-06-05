@@ -1,0 +1,4 @@
+Alexa, open my radar
+Alexa, load my radar
+Alexa, ask My Radar to show me the radar.
+Alexa, disable my radar

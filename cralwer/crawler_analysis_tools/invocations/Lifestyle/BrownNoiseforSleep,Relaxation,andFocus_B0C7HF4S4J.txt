@@ -1,0 +1,4 @@
+Alexa, open brown noise
+Alexa ask brown noise to play for 30 minutes
+Alexa stop
+Alexa, disable brown noise

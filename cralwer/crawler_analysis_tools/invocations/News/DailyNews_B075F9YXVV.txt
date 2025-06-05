@@ -1,0 +1,5 @@
+Alexa, open daily news
+alexa open daily news and tell me a news
+tell me a news about money
+tell me a sports news
+Alexa, disable daily news

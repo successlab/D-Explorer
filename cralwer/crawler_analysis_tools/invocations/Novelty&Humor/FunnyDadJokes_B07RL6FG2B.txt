@@ -1,0 +1,5 @@
+Alexa, open funny dad jokes
+Alexa, next
+Alexa, stop
+Alexa, start funny dad jokes
+Alexa, disable funny dad jokes

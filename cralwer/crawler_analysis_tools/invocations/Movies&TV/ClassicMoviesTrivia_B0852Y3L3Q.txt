@@ -1,0 +1,3 @@
+Alexa, open classic movies trivia
+Alexa, start classic movies trivia
+Alexa, disable classic movies trivia

@@ -1,0 +1,5 @@
+Alexa, open ring central
+Alexa, ask ring central to play my voicemail
+Alexa, ask ring central to read text messages
+Alexa, ask ring central to call 16501234567
+Alexa, disable ring central

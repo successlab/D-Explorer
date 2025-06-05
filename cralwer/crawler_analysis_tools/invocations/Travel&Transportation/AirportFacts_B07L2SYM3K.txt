@@ -1,0 +1,4 @@
+Alexa, open airport facts
+Alexa, ask airport facts what airport is K B O S?
+Alexa, ask airport facts what is K B O S?
+Alexa, disable airport facts

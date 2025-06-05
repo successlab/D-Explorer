@@ -1,0 +1,4 @@
+Alexa, open singapore buses
+Alexa, ask Singapore Buses Configure.
+Buses Eastbound
+Alexa, disable singapore buses

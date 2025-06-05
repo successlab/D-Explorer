@@ -1,0 +1,3 @@
+Alexa, open solar system
+Alexa, launch solar system
+Alexa, disable solar system

@@ -1,0 +1,3 @@
+Alexa, open hand wash countdown
+Alexa, start hand wash countdown
+Alexa, disable hand wash countdown

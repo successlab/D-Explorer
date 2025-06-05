@@ -1,0 +1,5 @@
+Alexa, open calorie counter
+Alexa, ask Calorie Counter about <food, dessert or drink>.
+Alexa, ask Calorie Counter about hamburger and fries
+Alexa, ask Calorie Counter about rice egg and juice
+Alexa, disable calorie counter

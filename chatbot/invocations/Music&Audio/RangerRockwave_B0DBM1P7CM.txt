@@ -1,0 +1,4 @@
+Alexa, open ranger rockwave
+Alexa, start ranger rockwave
+Alexa, ask ranger rockwave what's playing
+Alexa, disable ranger rockwave

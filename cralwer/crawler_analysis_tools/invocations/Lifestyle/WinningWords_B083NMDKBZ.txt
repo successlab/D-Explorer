@@ -1,0 +1,5 @@
+Alexa, open winning words
+Alexa, next
+Alexa, stop
+Alexa, start winning words
+Alexa, disable winning words

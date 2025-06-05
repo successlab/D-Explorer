@@ -1,0 +1,4 @@
+Alexa, turn on the lights in the kitchen
+Alexa, set the reading light to fifty percent
+Alexa, activate Good Night
+Alexa, disable Innr

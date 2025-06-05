@@ -1,0 +1,15 @@
+Alexa, open my pod
+Alexa, ask my pod to play <name>.
+Alexa, ask my pod to play my <name> playlist.
+Alexa, ask my pod to play <name>.
+Alexa, ask my pod for the next link.
+Alexa, ask my pod to play the next playlist.
+Alexa, ask my pod for the previous link.
+Alexa, ask my pod to play the previous playlist.
+Alexa, ask my pod to play my <name> playlist from the beginning.
+Alexa, ask my pod to skip forward 10 minutes.
+Alexa, ask my pod to go back 30 seconds.
+Alexa, ask My Pod to play Stuff You Should Know.
+Alexa, open My Pod.
+Alexa, stop.
+Alexa, disable my pod

@@ -1,0 +1,4 @@
+Alexa, open daily challenge
+Alexa, ask daily challenge for a challenge
+Alexa, ask daily challenge what challenge I can face today
+Alexa, disable daily challenge

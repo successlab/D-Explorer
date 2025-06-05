@@ -1,0 +1,4 @@
+Alexa, set My Home to 72 degrees
+Alexa, decrease Upstairs by 2 degrees
+Alexa, increase thermostat
+Alexa, disable CarrierCôrThermostatControl

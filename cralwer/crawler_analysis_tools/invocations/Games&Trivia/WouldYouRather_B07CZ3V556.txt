@@ -1,0 +1,6 @@
+Alexa, open would you rather
+Alexa, show my leaderboard.
+Alexa, my badges.
+Alexa, ask Would You Rather
+Alexa, start Would You Rather
+Alexa, disable would you rather

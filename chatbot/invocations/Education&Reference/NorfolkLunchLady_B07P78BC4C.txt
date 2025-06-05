@@ -1,0 +1,5 @@
+Alexa, open norfolk lunch lady
+Alexa, ask Norfolk Lunch lady what is for lunch today?
+Alexa, ask Norfolk Lunch lady what is on the menu tomorrow?
+Alexa, ask Norfolk Lunch lady what can I buy next Tuesday?
+Alexa, disable norfolk lunch lady

@@ -1,0 +1,4 @@
+Alexa, open who is batman
+Alexa, who is Batman?
+Alexa, tell who is Batman that I am Batman
+Alexa, disable who is batman

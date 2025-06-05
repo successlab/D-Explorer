@@ -1,0 +1,5 @@
+Alexa, open lir bits
+Alexa, ask lirr bits to get the next trains from Great Neck to Penn Station
+Alexa, ask lirr bits to give me station information for Great Neck
+Alexa, ask lirr bits to get all information on the next trains from Port Jefferson to Penn Station
+Alexa, disable lir bits

@@ -1,0 +1,19 @@
+Alexa, turn on my TV
+Alexa, search for new devices
+Alexa, turn on TV
+Alexa, turn off TV
+Alexa, turn up the volume by 3 on TV
+Alexa, turn down the volume by 3 on TV
+Alexa, mute TV
+Alexa, unmute TV
+Alexa, change channel to 200 on TV
+Alexa, change channel to XXX on TV
+Alexa, fast forward on TV
+Alexa, rewind on TV
+Alexa, pause TV
+Alexa, resume TV
+Alexa, play on TV
+Alexa, rewind on TV
+Alexa, stop on TV
+Alexa, next channel on TV
+Alexa, disable SmartTVRemotePro

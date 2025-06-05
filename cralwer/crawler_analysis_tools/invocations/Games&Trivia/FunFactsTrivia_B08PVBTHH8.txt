@@ -1,0 +1,3 @@
+Alexa, open fun facts trivia
+Alexa, start fun facts trivia
+Alexa, disable fun facts trivia

@@ -1,0 +1,4 @@
+Alexa, open click watch
+start the clock
+stop the clock
+Alexa, disable click watch

@@ -1,0 +1,15 @@
+Alexa, tune to channel 5
+Alexa, find Game of Thrones
+Alexa, watch Breaking Bad
+Alexa, pause
+Alexa, play
+Alexa, rewind
+Alexa, fast-forward
+Alexa, back 5 minutes
+Alexa, skip 2 minutes
+Alexa, resume
+Alexa, back
+Alexa, next
+Alexa, show me Tom Hanks movie
+Alexa, tune to NBC
+Alexa, disable GVTC

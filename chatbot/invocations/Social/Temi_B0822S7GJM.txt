@@ -1,0 +1,5 @@
+Alexa, open my temi
+Alexa, tell my temi to go to the Kitchen
+Alexa, tell my temi to call Mom
+Alexa, tell my temi to follow
+Alexa, disable my temi

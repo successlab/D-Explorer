@@ -1,0 +1,4 @@
+Alexa, open drawing game
+Alexa, start Drawing Game
+Alexa, play Drawing Game
+Alexa, disable drawing game

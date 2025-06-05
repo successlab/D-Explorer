@@ -1,0 +1,4 @@
+Alexa, open trivia quiz time
+Alexa, start Trivia Quiz Time
+Alexa, launch Trivia Quiz Time
+Alexa, disable trivia quiz time

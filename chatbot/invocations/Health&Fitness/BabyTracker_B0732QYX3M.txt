@@ -1,0 +1,5 @@
+Alexa, open baby tracker
+Alexa, tell BabyTracker my due date is August 24th.
+Alexa, ask BabyTracker how big is my baby.
+Alexa, open BabyTracker.
+Alexa, disable baby tracker

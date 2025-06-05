@@ -1,0 +1,4 @@
+Alexa, open the internet genie
+Alexa, Ask the Internet Genie to tell me a fact
+Alexa, Ask the Internet Genie to tell me a neat fact
+Alexa, disable the internet genie

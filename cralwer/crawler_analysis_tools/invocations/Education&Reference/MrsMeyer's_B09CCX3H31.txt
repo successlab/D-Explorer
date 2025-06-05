@@ -1,0 +1,5 @@
+Alexa, open mrs. meyer's
+Alexa, ask Mrs. Meyer's what does Lavender smell like
+Alexa, ask Mrs. Meyer's how Honeysuckle smells
+Alexa, ask Mrs. Meyer's what's Lemon Verbena like
+Alexa, disable mrs. meyer's

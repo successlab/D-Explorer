@@ -1,0 +1,6 @@
+Alexa, open low carb program
+Alexa, ask Low Carb Program...
+Alexa, ask Low Carb Program to give me an exercise
+Alexa, ask Low Carb Program to give me a mindfulness exercise
+Alexa, ask Low Carb Program, how do I stop smoking?
+Alexa, disable low carb program

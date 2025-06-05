@@ -1,0 +1,4 @@
+Alexa, open tarot office hours
+Alexa, start tarot office hours
+Alexa, stop
+Alexa, disable tarot office hours

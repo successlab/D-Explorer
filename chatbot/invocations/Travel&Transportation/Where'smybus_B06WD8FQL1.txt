@@ -1,0 +1,4 @@
+Alexa, open my bus
+Alexa open my bus and add stop 15651
+alexa open my bus and list my buses
+Alexa, disable my bus

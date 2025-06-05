@@ -1,0 +1,6 @@
+Alexa, open country night
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Country Night
+Alexa, launch Country Night
+Alexa, disable country night

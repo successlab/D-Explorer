@@ -1,0 +1,5 @@
+Alexa, open qué hacer
+Alexa, para
+Alexa, abre qué hacer
+Alexa, inicia qué hacer
+Alexa, disable qué hacer

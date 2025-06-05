@@ -1,0 +1,4 @@
+Alexa, open hard soccer quiz
+Alexa, stop
+Alexa, start hard soccer quiz
+Alexa, disable hard soccer quiz

@@ -1,0 +1,5 @@
+Alexa, open the note wall
+Alexa, ask The Note Wall to tell Alex to walk the dog.
+Alexa, ask The Note Wall for notes for Alex.
+Alexa, ask The Note Wall to delete all notes for Alex.
+Alexa, disable the note wall

@@ -1,0 +1,5 @@
+Alexa, open uno pin guide
+Alexa, open Uno Pin Guide.
+What is pin A5.
+Explain PWM.
+Alexa, disable uno pin guide

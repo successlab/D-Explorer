@@ -1,0 +1,3 @@
+Alexa, open pronounce word
+pronounce cat
+Alexa, disable pronounce word

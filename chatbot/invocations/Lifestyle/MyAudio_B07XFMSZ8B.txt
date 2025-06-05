@@ -1,0 +1,2 @@
+Alexa, open my audio
+Alexa, disable my audio

@@ -1,0 +1,4 @@
+Alexa, open fun fact bot
+Alexa, launch fun fact bot
+help
+Alexa, disable fun fact bot

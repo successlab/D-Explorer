@@ -1,0 +1,5 @@
+Alexa, open city of milwaukee
+Alexa ask City of Milwaukee where is the closest library?
+Alexa tell City of Milwaukee I need a building permit.
+Alexa ask City of Milwaukee find a police station near me.
+Alexa, disable city of milwaukee

@@ -1,0 +1,4 @@
+Alexa, open my residence
+Alexa ask my residence what's for breakfast
+Alexa ask my residence what's happening today
+Alexa, disable my residence

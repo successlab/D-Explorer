@@ -1,0 +1,6 @@
+Alexa, open bedtime stories
+Alexa, open bedtime stories and list all stories
+Alexa, open bedtime stories and play all stories
+Alexa, ask bedtime stories to play all stories
+Alexa, open bedtime stories and play my personal story
+Alexa, disable bedtime stories

@@ -1,0 +1,4 @@
+Alexa, open my moment
+Alexa, start my moment
+Alexa, launch my moment
+Alexa, disable my moment

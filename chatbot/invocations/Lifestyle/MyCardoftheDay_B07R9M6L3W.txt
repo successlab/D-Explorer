@@ -1,0 +1,5 @@
+Alexa, open my card of the day
+Alexa, open My Card of the Day.
+Alexa, start My Card of the Day
+Alexa, launch My Card of the Day
+Alexa, disable my card of the day

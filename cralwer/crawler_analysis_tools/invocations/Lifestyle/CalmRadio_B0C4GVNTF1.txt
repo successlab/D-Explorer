@@ -1,0 +1,4 @@
+Alexa, open calm radio
+pause
+resume
+Alexa, disable calm radio

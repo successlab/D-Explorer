@@ -1,0 +1,5 @@
+Alexa, open black history quiz
+Alexa, next
+Alexa, stop
+Alexa, start Black History Quiz
+Alexa, disable black history quiz

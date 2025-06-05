@@ -1,0 +1,4 @@
+Alexa, turn on the living room light
+Alexa, turn off the patio light
+Alexa, turn on the kitchen light
+Alexa, disable HouseBot

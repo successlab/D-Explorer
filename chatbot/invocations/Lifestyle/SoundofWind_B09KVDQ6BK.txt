@@ -1,0 +1,4 @@
+Alexa, open sound of wind
+Alexa, pause
+Alexa, resume
+Alexa, disable sound of wind

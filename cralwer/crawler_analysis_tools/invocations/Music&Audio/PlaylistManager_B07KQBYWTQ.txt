@@ -1,0 +1,5 @@
+Alexa, open playlist manager
+Alexa ask playlist manager what playlists I have
+Alexa ask playlist manager what spotify playlists I have
+Alexa ask playlist manager what my playlists are
+Alexa, disable playlist manager

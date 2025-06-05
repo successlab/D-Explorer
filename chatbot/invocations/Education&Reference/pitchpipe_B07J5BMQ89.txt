@@ -1,0 +1,5 @@
+Alexa, open pitch pipe
+Alexa, ask pitch pipe for a C Sharp
+Alexa, ask pitch pipe for a G Natural
+Alexa, open pitch pipe and play a F Sharp
+Alexa, disable pitch pipe

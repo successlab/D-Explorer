@@ -1,0 +1,6 @@
+Alexa, open stay woke
+Alexa, next
+Alexa, stop
+Alexa, start stay woke
+Alexa, ask stay woke for a fact
+Alexa, disable stay woke

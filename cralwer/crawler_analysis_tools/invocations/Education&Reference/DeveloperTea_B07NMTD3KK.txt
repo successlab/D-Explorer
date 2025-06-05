@@ -1,0 +1,4 @@
+Alexa, open developer tea
+Alexa ask Developer Tea for today's Tea Break Challenge
+Alexa ask Developer Tea for the Tea Break Challenge
+Alexa, disable developer tea

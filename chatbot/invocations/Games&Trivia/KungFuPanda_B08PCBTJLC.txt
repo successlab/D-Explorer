@@ -1,0 +1,3 @@
+Alexa, open kung fu panda
+help
+Alexa, disable kung fu panda

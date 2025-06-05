@@ -1,0 +1,4 @@
+Alexa, open bitcoin price
+Alexa, ask Bitcoin Price for the current price
+Alexa, get the current price from Bitcoin Price
+Alexa, disable bitcoin price

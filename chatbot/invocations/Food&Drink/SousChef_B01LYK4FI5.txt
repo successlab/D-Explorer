@@ -1,0 +1,5 @@
+Alexa, open sous chef
+Alexa tell Sous Chef to open the Pad Thai recipe.
+Alexa ask Sous Chef how much salt.
+Alexa tell Sous Chef to go to the second step.
+Alexa, disable sous chef

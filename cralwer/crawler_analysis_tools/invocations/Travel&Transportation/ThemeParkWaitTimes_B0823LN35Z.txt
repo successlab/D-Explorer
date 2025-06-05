@@ -1,0 +1,4 @@
+Alexa, open theme park wait times
+Alexa, ask theme park wait times how crowded is Disneyland
+Alexa, ask theme park wait times what is the wait time for Splash Mountain
+Alexa, disable theme park wait times

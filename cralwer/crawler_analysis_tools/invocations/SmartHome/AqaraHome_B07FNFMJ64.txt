@@ -1,0 +1,4 @@
+Alexa, turn on plug
+Alexa, turn off plug
+Alexa, is door open?
+Alexa, disable AqaraHome

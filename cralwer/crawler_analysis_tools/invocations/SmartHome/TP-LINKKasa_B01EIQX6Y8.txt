@@ -1,0 +1,8 @@
+Alexa, dim the Living Room lights
+Alexa, set the bedroom light to orange
+Alexa, set the kitchen light to cool white
+Alexa, make the living room warmer
+Alexa, turn on the coffee maker
+Alexa, show Living room camera
+Alexa, make Kitchen light cooler
+Alexa, disable TP-LINKKasa

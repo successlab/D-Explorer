@@ -1,0 +1,5 @@
+Alexa, open a tribal smile
+Alexa, play A Tribal Smile
+Alexa, pause
+Alexa, resume
+Alexa, disable a tribal smile

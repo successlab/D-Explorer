@@ -1,0 +1,5 @@
+Alexa, open of life quiz
+Alexa, next
+Alexa, stop
+Alexa, start of life quiz
+Alexa, disable of life quiz

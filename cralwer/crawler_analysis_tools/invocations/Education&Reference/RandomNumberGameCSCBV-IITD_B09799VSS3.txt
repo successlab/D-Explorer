@@ -1,0 +1,3 @@
+Alexa, open number guessing game
+Alexa start number guessing game
+Alexa, disable number guessing game

@@ -1,0 +1,3 @@
+Alexa, open hi fit
+Alexa start Hi Fit
+Alexa, disable hi fit

@@ -1,0 +1,4 @@
+Alexa, open note my strings
+Alexa start note my strings
+Alexa play note my strings
+Alexa, disable note my strings

@@ -1,0 +1,5 @@
+Alexa, open annoying badger
+Alexa, ask Annoying Badger to wake up Robin
+Alexa, ask Annoying Badger to wake up John
+Alexa, launch Annoying Badger
+Alexa, disable annoying badger

@@ -1,0 +1,5 @@
+Alexa, open trash day
+Alexa, ask Trash Day if this is a Recycling week for Green bins
+is it Recycling week?
+will Recycling be picked up next week for Blue bins?
+Alexa, disable trash day

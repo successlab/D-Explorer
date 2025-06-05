@@ -1,0 +1,5 @@
+Alexa, open pick up chips
+Alexa, Pick Up Chips.
+Alexa, ask Pick Up Chips to play on Hard.
+Alexa, play Pick Up Chips.
+Alexa, disable pick up chips

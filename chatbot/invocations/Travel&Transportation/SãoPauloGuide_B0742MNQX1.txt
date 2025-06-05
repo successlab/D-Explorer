@@ -1,0 +1,5 @@
+Alexa, open sao paulo guide
+Alexa, ask Sao Paulo guide to tell me some facts about sao paulo
+Alexa, ask Sao Paulo guide the top five attractions in sao paulo
+Alexa, ask Sao Paulo guide where I should go
+Alexa, disable sao paulo guide

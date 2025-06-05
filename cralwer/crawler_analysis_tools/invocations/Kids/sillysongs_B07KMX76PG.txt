@@ -1,0 +1,5 @@
+Alexa, open silly songs
+Alexa, ask Silly Songs to play
+Alexa, ask Silly Songs to play The Banana Song
+Alexa, ask Silly Songs for a list
+Alexa, disable silly songs

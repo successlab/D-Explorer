@@ -1,0 +1,5 @@
+Alexa, open simon says game
+Alexa, start Simon says game
+Alexa, launch Simon says game
+Alexa, begin Simon says game
+Alexa, disable simon says game

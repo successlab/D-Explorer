@@ -1,0 +1,3 @@
+Alexa, open potter trivia
+Alexa, start Potter Trivia
+Alexa, disable potter trivia

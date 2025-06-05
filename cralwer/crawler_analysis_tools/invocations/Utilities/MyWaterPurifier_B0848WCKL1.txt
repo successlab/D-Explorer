@@ -1,0 +1,4 @@
+Alexa, open my water purifier
+Alexa, ask my water purifier for a system summary
+Alexa, ask my water purifier if I need to replace the filters
+Alexa, disable my water purifier

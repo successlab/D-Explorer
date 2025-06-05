@@ -1,0 +1,5 @@
+Alexa, open morning pray
+Alexa, next
+Alexa, stop
+Alexa, start morning pray
+Alexa, disable morning pray

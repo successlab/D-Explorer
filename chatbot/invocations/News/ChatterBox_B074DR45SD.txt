@@ -1,0 +1,5 @@
+Alexa, open chatter box
+Alexa Ask Chatter Box to Read CNN
+Alexa Ask Chatter Box to Read The Sport Bible
+Alexa Ask Chatter Box to Read BBC News
+Alexa, disable chatter box

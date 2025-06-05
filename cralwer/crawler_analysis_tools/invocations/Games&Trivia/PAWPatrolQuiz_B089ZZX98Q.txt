@@ -1,0 +1,4 @@
+Alexa, open paw patrol quiz
+Alexa, start PAW Patrol Quiz
+Alexa, play PAW Patrol Quiz
+Alexa, disable paw patrol quiz

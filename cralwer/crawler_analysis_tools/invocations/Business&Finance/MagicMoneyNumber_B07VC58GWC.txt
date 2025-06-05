@@ -1,0 +1,4 @@
+Alexa, open magic money number
+Add 80
+Subtract 100
+Alexa, disable magic money number

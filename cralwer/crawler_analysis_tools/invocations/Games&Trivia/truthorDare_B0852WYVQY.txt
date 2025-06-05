@@ -1,0 +1,4 @@
+Alexa, open truth or dare
+Alexa, start Truth or Dare
+Alexa, launch Truth or Dare
+Alexa, disable truth or dare

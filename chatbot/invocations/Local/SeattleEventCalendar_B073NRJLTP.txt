@@ -1,0 +1,5 @@
+Alexa, open seattle event calendar
+Alexa, ask Seattle Event Calendar what events are happening today
+Ask Seattle Event Calendar to get me events for July 1st
+Tell me about event one
+Alexa, disable seattle event calendar

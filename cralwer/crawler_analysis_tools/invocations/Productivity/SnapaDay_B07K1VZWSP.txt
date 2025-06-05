@@ -1,0 +1,3 @@
+Alexa, open snap a day
+Alexa, ask Snap a Day for today's prompt
+Alexa, disable snap a day

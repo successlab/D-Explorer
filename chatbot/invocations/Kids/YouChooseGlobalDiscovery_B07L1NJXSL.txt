@@ -1,0 +1,4 @@
+Alexa, open global discovery
+Alexa, play Global Discovery
+Alexa, open Global Discovery and go to the Stories Menu
+Alexa, disable global discovery

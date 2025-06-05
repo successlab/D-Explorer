@@ -1,0 +1,6 @@
+Alexa, open neato
+Alexa, ask Neato to start cleaning
+Alexa, ask Neato to start cleaning.
+Alexa, ask Neato to stop cleaning.
+Alexa, ask Neato to terminate.
+Alexa, disable neato

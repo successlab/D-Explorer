@@ -1,0 +1,5 @@
+Alexa, open electricity calculator
+Alexa, start Electricity Calculator
+Alexa, tell Electricity Calculator to convert 27 watts to amps.
+Alexa, ask Electricity Calculator how many watts are in 23 amps?
+Alexa, disable electricity calculator

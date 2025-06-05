@@ -1,0 +1,4 @@
+Alexa, turn off the Kitchen Light
+Alexa, set the kitchen lights to 50%
+Alexa, set the kitchen temperature to 20 degrees
+Alexa, disable Controlicz

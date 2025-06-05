@@ -1,0 +1,4 @@
+Alexa, open guess the wrestler
+Alexa, start guess the wrestler
+Alexa, launch guess the wrestler
+Alexa, disable guess the wrestler

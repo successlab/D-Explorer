@@ -1,0 +1,5 @@
+Alexa, open p. j. masks facts
+Alexa, launch PJ Masks Facts
+Alexa, ask PJ Masks Facts to tell me a fact
+Alexa, tell PJ Masks Facts to give me a PJ Masks fact
+Alexa, disable p. j. masks facts

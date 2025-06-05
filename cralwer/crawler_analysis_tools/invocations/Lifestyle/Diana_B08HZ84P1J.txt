@@ -1,0 +1,4 @@
+Alexa, open diana
+Alexa, começar Diana
+Alexa, abrir Diana
+Alexa, disable diana

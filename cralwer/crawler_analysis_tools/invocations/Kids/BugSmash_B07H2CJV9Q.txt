@@ -1,0 +1,4 @@
+Alexa, open bug smash
+Alexa, play bug smash
+Alexa, start bug smash
+Alexa, disable bug smash

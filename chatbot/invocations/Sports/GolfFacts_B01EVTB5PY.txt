@@ -1,0 +1,4 @@
+Alexa, open golf fact
+Alexa, Launch Golf Fact and tell me a fact
+Alexa, Start Golf Fact and give me a fact
+Alexa, disable golf fact

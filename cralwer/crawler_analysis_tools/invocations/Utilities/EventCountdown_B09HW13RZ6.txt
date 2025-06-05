@@ -1,0 +1,3 @@
+Alexa, open event countdown
+Alexa, start event countdown
+Alexa, disable event countdown

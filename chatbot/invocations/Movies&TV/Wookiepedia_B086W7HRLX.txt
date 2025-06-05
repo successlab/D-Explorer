@@ -1,0 +1,5 @@
+Alexa, open wookie pedia
+Alexa, ask wookie pedia to find details about the Hutt species
+Alexa, ask wookie pedia to find planet Alderaan
+Alexa, ask wookie pedia to find person named Luke Skywalker
+Alexa, disable wookie pedia

@@ -1,0 +1,3 @@
+Alexa, open american presidents
+Alexa, ask american presidents who was president number 16.
+Alexa, disable american presidents

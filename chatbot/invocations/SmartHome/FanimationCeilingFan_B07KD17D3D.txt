@@ -1,0 +1,7 @@
+Alexa, turn on bedroom fan.
+Alexa, turn off the living room fan.
+Alexa, turn on the kitchen light.
+Alexa, turn off office light.
+Alexa, set the living room fan to 50%.
+Alexa, dim kitchen light to 60%.
+Alexa, disable FanimationCeilingFan

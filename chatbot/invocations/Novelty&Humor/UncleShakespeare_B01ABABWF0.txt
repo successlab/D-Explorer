@@ -1,0 +1,5 @@
+Alexa, open uncle shakespeare
+Alexa, Tell Uncle Shakespeare to insult me!
+Alexa, Ask Uncle Shakespeare for an insult.
+Alexa, Ask Uncle Shakespeare to tell me something
+Alexa, disable uncle shakespeare

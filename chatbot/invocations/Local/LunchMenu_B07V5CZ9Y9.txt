@@ -1,0 +1,2 @@
+Alexa, open lunch menu
+Alexa, disable lunch menu

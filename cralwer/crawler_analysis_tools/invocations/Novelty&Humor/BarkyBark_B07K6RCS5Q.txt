@@ -1,0 +1,4 @@
+Alexa, open barky bark
+Alexa, tell Barky Bark to bark
+Alexa, tell Barky Bark woof
+Alexa, disable barky bark

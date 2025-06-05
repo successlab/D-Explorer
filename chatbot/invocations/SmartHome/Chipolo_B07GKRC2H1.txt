@@ -1,0 +1,14 @@
+Alexa, open chipolo
+Alexa, ask Chipolo to find my phone
+Alexa, ask Chipolo to find my keys
+Alexa, ask Chipolo to ring my wallet
+Alexa, ask Chipolo to ping my suitcase
+Alexa, ask Chipolo to start ringing my backpack
+Alexa, ask Chipolo where my backpack is
+Alexa, ask Chipolo where I left my passport
+Alexa, ask Chipolo to tell me where my bike is
+Alexa, ask Chipolo about the location of my wallet
+Alexa, ask Chipolo to ring my phone
+Alexa, ask Chipolo to ring my keys
+Alexa, ask Chipolo where I left my wallet
+Alexa, disable chipolo

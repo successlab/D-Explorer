@@ -1,0 +1,4 @@
+Alexa, open shia azan
+Alexa, start shia azan
+Alexa, play shia azan
+Alexa, disable shia azan

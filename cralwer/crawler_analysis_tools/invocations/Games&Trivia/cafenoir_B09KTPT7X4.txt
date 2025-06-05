@@ -1,0 +1,4 @@
+Alexa, open cafe noir
+What is the price of juice?
+What is on the menu
+Alexa, disable cafe noir

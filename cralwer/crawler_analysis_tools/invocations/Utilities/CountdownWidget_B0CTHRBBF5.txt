@@ -1,0 +1,4 @@
+Alexa, open countdown widget
+Alexa, open countdown widget set countdown for July 15th.
+Alexa, ask countdown widget to create a countdown called 'Beach Trip.'
+Alexa, disable countdown widget

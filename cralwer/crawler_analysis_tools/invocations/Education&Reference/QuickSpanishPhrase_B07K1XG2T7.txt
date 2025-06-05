@@ -1,0 +1,3 @@
+Alexa, open quick spanish phrase
+Alexa, ask quick spanish phrase for a phrase
+Alexa, disable quick spanish phrase

@@ -1,0 +1,4 @@
+Alexa, open greet me
+Alexa, ask greet me to greet my guest in english
+Alexa, ask greet me to greet my guest in hindi
+Alexa, disable greet me

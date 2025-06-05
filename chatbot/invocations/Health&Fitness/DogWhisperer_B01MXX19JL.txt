@@ -1,0 +1,7 @@
+Alexa, open dog whisperer
+Alexa, ask Dog Whisperer to talk to Max for me
+Alexa, ask Dog Whisperer how much Max slept yesterday
+Alexa, ask Dog Whisperer how much max slept yesterday.
+Alexa, ask Dog Whisperer to talk to max for me.
+Alexa, ask Dog Whisperer when max's birthday is.
+Alexa, disable dog whisperer

@@ -1,0 +1,4 @@
+Alexa, open distant thunderstorm
+Alexa, pause
+Alexa, resume
+Alexa, disable distant thunderstorm

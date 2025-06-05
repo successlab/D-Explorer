@@ -1,0 +1,5 @@
+Alexa, open rubik timer
+Alexa, Next
+Alexa, stop,
+Alexa, start Rubik Timer
+Alexa, disable rubik timer

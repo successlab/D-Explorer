@@ -1,0 +1,4 @@
+Alexa, open green noise
+Alexa, start green noise
+Alexa, launch green noise
+Alexa, disable green noise

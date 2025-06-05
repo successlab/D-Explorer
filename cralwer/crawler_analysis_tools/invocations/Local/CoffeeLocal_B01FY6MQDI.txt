@@ -1,0 +1,5 @@
+Alexa, open coffee local
+Alexa, ask coffee local what is the list of all coffee shops
+Alexa, ask coffee local what is the list of top west coast coffee shops
+Alexa, ask coffee local what is the list of best south atlantic coffee shops
+Alexa, disable coffee local

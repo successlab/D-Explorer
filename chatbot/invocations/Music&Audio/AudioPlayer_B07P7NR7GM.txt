@@ -1,0 +1,5 @@
+Alexa, open audio player
+Alexa, ask Audio Player channel "BBC".
+Alexa, ask Audio Player radio "Javan".
+Alexa, ask Audio Player channel "one".
+Alexa, disable audio player

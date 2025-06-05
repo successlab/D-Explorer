@@ -1,0 +1,4 @@
+Alexa, open indian railways
+Alexa, ask Indian Railways what is the PNR status for 4339962088
+Alexa, start Indian Railways
+Alexa, disable indian railways

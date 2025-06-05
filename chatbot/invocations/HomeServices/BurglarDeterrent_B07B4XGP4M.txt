@@ -1,0 +1,10 @@
+Alexa, open burglar deterrent
+Alexa, stop
+Alexa, ask Burglar Deterrent to protect the bathroom
+Alexa, tell Burglar Deterrent to simulate the home office
+Alexa, ask Burglar Deterrent to sound like the dining area
+Alexa, open Burglar Deterrent and protect the lounge
+Alexa, ask Burglar Deterrent for a barking dog
+Alexa, ask Burglar Deterrent to protect the kitchen
+Alexa, tell Burglar Deterrent to sound like the living room
+Alexa, disable burglar deterrent

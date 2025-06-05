@@ -1,0 +1,4 @@
+Alexa, open fact finder
+Alexa, start fact finder
+Alexa, launch fact finder
+Alexa, disable fact finder

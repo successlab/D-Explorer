@@ -1,0 +1,4 @@
+Alexa, open crackling fire
+Alexa, Pause
+Alexa, Resume
+Alexa, disable crackling fire

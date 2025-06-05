@@ -1,0 +1,5 @@
+Alexa, open bye buddy
+Alexa, Bye Buddy
+Alexa, Launch Bye Buddy
+Alexa, Ask Bye Buddy to say Bye to my Friend
+Alexa, disable bye buddy

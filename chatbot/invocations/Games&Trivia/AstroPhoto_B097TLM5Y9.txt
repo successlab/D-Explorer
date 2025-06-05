@@ -1,0 +1,4 @@
+Alexa, open astro photo
+Alexa, start astro photo
+Alexa, launch astro photo
+Alexa, disable astro photo

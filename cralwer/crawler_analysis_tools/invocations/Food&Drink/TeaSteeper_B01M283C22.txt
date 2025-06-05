@@ -1,0 +1,4 @@
+Alexa, open tea steeper
+Alexa, ask Tea Steeper to make a cup of black tea
+Alexa, ask Tea Steeper to steep white tea
+Alexa, disable tea steeper

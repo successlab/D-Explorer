@@ -1,0 +1,4 @@
+Alexa, open recycle me
+Alexa, ask Recycle Me how to recycle cans
+Alexa, open Recycle Me and tell me a fact
+Alexa, disable recycle me

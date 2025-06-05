@@ -1,0 +1,4 @@
+Alexa, open tendencias del día
+Alexa, abre tendencias del día
+Alexa, abre tendencias del día y dime las tendencias
+Alexa, disable tendencias del día

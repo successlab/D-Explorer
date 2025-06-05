@@ -1,0 +1,7 @@
+Alexa, open lysol
+Alexa, ask Lysol for Handwashing Timer
+Alexa, ask Lysol for Handwashing Story
+Alexa, ask Lysol for Checklists
+Alexa, ask Lysol for Products
+Alexa, ask Lysol for Germ-Cast
+Alexa, disable lysol

@@ -1,0 +1,5 @@
+Alexa, discover devices
+Alexa, turn on the light.
+Alexa, turn off the light.
+Alexa, dim the light.
+Alexa, disable CloudIntelligence

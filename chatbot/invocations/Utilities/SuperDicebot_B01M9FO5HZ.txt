@@ -1,0 +1,5 @@
+Alexa, open dice bot
+Alexa, Ask Dice bot to roll me a twenty sided die
+Alexa, Ask DIce bot to Roll a fortytwo sided die
+Alexa, Ask Dice bot to roll a D 20
+Alexa, disable dice bot

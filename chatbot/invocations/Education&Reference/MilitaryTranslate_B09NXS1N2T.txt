@@ -1,0 +1,3 @@
+Alexa, open military translate
+Alexa, start military translate
+Alexa, disable military translate

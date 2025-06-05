@@ -1,0 +1,3 @@
+Alexa, open white noise
+Alexa play White Noise
+Alexa, disable white noise

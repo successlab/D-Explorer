@@ -1,0 +1,9 @@
+Alexa, open pebblebee
+Alexa, enable the Find My Phone and Keys skill
+Alexa, ask Pebblebee to find my keys
+Alexa, ask Pebblebee to locate my keys
+Alexa, ask Pebblebee to find my phone
+Alexa, ask Pebblebee to find my keys.
+Alexa, ask Pebblebee to find my phone.
+Alexa, ask Pebblebee to locate my keys.
+Alexa, disable pebblebee

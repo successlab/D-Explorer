@@ -1,0 +1,5 @@
+Alexa, open the hugh hewitt show
+Alexa, play The Hugh Hewitt Show
+Alexa, ask The Hugh Hewitt Show to play
+Alexa, tell The Hugh Hewitt Show to play
+Alexa, disable the hugh hewitt show

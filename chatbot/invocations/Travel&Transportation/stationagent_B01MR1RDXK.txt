@@ -1,0 +1,4 @@
+Alexa, open station agent
+Alexa ask station agent for train times
+Alexa ask station agent for times
+Alexa, disable station agent

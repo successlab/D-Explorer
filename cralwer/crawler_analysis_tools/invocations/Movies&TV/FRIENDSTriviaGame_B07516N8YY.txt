@@ -1,0 +1,4 @@
+Alexa, open friends trivia
+one
+two
+Alexa, disable friends trivia

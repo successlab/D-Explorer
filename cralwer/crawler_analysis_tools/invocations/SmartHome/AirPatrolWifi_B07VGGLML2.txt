@@ -1,0 +1,3 @@
+Alexa, set thermostat to 25 degrees
+Alexa, set thermostat mode to heat
+Alexa, disable AirPatrolWifi

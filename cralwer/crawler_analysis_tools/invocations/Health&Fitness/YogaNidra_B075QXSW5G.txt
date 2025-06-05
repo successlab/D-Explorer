@@ -1,0 +1,3 @@
+Alexa, open yoga nidra
+Alexa, play Yoga Nidra.
+Alexa, disable yoga nidra

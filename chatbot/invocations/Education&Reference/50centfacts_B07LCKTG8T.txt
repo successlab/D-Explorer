@@ -1,0 +1,5 @@
+Alexa, open fifty cent facts
+Alexa, tell fifty cent facts I want a fact.
+Alexa, ask fifty cent facts for a fact.
+Alexa, tell fifty cent facts to give me a fact.
+Alexa, disable fifty cent facts

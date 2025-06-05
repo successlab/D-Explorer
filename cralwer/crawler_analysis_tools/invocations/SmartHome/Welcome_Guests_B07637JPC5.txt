@@ -1,0 +1,5 @@
+Alexa, open welcome guests
+Alexa, Welcome Guests
+Say Hello
+Look who is here
+Alexa, disable welcome guests

@@ -1,0 +1,5 @@
+Alexa, open philadelphia guide
+Alexa, ask Philadelphia Guide where can I get something to eat?
+What is the population of Philadelphia ?
+Tell me something to do in the area.
+Alexa, disable philadelphia guide

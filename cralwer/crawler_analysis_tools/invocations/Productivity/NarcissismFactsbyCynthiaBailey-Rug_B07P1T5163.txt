@@ -1,0 +1,6 @@
+Alexa, open narcissism facts
+Alexa, next
+Alexa, stop
+Alexa, start narcissism facts
+Alexa, ask narcissism facts for a fact
+Alexa, disable narcissism facts

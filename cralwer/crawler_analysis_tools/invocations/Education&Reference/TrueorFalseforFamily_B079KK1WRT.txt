@@ -1,0 +1,4 @@
+Alexa, open true or false
+Alexa, Start True or False
+Alexa, Play True or False
+Alexa, disable true or false

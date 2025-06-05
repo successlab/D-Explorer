@@ -1,0 +1,4 @@
+Alexa, open d. i. f. m.
+Alexa, set sleep timer to x minutes
+Alexa tell d. i. f. m. play Vocal Trance
+Alexa, disable d. i. f. m.

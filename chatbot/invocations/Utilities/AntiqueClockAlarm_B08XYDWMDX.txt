@@ -1,0 +1,4 @@
+Alexa, open antique clock alarm
+Alexa, wake me up at 7:00 AM to antique clock alarm tone
+Alexa, set an alarm at 7:00 AM to antique clock alarm tone
+Alexa, disable antique clock alarm

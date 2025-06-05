@@ -1,0 +1,4 @@
+Alexa, open learn cat
+Alexa, launch learn cat
+Alexa, stop
+Alexa, disable learn cat

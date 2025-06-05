@@ -1,0 +1,5 @@
+Alexa, open digital library
+Alexa, launch digital library
+Alexa, launch digital library and check for Texas City
+Alexa, launch digital library and search NASA
+Alexa, disable digital library

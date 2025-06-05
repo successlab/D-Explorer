@@ -1,0 +1,4 @@
+Alexa, open transporter sound
+Alexa, start Transporter Sound
+Alexa, launch Transporter Sound
+Alexa, disable transporter sound

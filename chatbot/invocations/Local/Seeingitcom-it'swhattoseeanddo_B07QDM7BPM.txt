@@ -1,0 +1,6 @@
+Alexa, open what's happening
+Alexa, ask what's happening for
+Alexa, ask what's happening for dinner specials
+Alexa, ask what's happening, what to see for tournaments
+Alexa, ask what's happening, what to see for live music
+Alexa, disable what's happening

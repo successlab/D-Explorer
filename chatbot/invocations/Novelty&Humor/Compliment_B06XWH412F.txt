@@ -1,0 +1,4 @@
+Alexa, open sugar candy
+Alexa, say something nice from Sugar Candy
+Alexa, tell Sugar Candy to say something nice to Harry
+Alexa, disable sugar candy

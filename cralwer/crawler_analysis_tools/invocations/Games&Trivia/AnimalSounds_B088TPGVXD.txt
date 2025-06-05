@@ -1,0 +1,5 @@
+Alexa, open animal sound
+Alexa, start Animal Sound 
+Alexa, start Animal Sound
+Alexa, Animal Sound
+Alexa, disable animal sound

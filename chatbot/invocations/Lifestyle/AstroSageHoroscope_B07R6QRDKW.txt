@@ -1,0 +1,4 @@
+Alexa, open astrosage horoscope
+My zodiac sign is capricorn
+My sign is aries
+Alexa, disable astrosage horoscope

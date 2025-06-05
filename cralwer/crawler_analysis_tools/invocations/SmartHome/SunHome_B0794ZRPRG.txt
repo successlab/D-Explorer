@@ -1,0 +1,4 @@
+Alexa, turn on floor lamp
+Alexa,turn on floor lamp
+Alexa,set floor lamp to 50%
+Alexa, disable SunHome

@@ -1,0 +1,5 @@
+Alexa, open Hulu
+Alexa, tune to ESPN on Hulu
+Alexa, play Seinfeld on Hulu
+Alexa, show me Marvel's Runaways on Hulu
+Alexa, disable Hulu

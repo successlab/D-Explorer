@@ -1,0 +1,4 @@
+Alexa, open switch game or not
+Alexa, play Switch Game or Not
+Say the first game again
+Alexa, disable switch game or not

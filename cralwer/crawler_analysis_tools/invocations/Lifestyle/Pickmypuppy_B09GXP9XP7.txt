@@ -1,0 +1,4 @@
+Alexa, open pick my puppy
+Alexa, ask pick my puppy
+Alexa, use pick my puppy
+Alexa, disable pick my puppy

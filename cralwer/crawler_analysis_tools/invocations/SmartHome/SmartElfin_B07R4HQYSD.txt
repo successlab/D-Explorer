@@ -1,0 +1,10 @@
+Alexa, set the fan mode to sleep.
+Alexa, set the fan mode to nature.
+Alexa, set the fan rotation to summer.
+Alexa, set the fan rotation to winter.
+Alexa, turn on the yellow light.
+Alexa, turn up the yellow light brightness.
+Alexa, turn on the fan
+Alexa, increase the fan speed
+Alexa, set the fan mode to sleep
+Alexa, disable SmartElfin

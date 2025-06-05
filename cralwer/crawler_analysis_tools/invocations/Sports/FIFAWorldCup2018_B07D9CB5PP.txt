@@ -1,0 +1,5 @@
+Alexa, open fifa news
+Alexa, ask fifa news when is Argentina playing
+Alexa, ask fifa news what world cup games are on today
+Alexa, ask fifa news what matches are on tomorrow
+Alexa, disable fifa news

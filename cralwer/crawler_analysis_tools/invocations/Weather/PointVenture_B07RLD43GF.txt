@@ -1,0 +1,5 @@
+Alexa, open point venture
+Alexa, ask Point Venture for an update.
+Alexa, ask Point Venture what is the lake level.
+Alexa, ask Point Venture for the heat index.
+Alexa, disable point venture

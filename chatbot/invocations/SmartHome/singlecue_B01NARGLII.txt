@@ -1,0 +1,5 @@
+Alexa, open single cue
+Alexa, ask singlecue to switch to channel 339
+Alexa, ask singlecue to watch Apple TV
+Ask singlecue to standby
+Alexa, disable single cue

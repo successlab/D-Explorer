@@ -1,0 +1,4 @@
+Alexa, open mi rosario
+Alexa, abre mi rosario y reza
+Alexa, abre mi rosario
+Alexa, disable mi rosario

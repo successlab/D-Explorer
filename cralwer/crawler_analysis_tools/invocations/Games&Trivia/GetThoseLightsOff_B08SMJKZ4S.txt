@@ -1,0 +1,4 @@
+Alexa, open get those lights off
+Alexa, enable Get Those Lights Off skill
+Alexa launch get those lights off
+Alexa, disable get those lights off

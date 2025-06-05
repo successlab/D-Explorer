@@ -1,0 +1,2 @@
+Alexa, open banana fact
+Alexa, disable banana fact

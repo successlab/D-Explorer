@@ -1,0 +1,6 @@
+Alexa, open phillipine guide
+Alexa, ask Philippine Guide for local news
+Alexa, open Philippine Guide
+Alexa, ask Philippine Guide for an attraction
+Alexa, ask Philippine Guide to give me an attraction
+Alexa, disable phillipine guide

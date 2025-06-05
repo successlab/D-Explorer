@@ -1,0 +1,2 @@
+Average time: 101.32 seconds per skill
+On: 10 paralell instances on a Macbook Pro 2.6 GHz 6-Core Intel Core i7

@@ -1,0 +1,5 @@
+Alexa, open motivational talk
+Alexa, next
+Alexa, stop
+Alexa, start motivational talk
+Alexa, disable motivational talk

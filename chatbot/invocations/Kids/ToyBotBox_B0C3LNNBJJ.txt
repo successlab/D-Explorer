@@ -1,0 +1,4 @@
+Alexa, open toy bot box
+Alexa, start Toy Bot Box
+Alexa, launch Toy Bot Box
+Alexa, disable toy bot box

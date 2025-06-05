@@ -1,0 +1,4 @@
+Alexa, open dua iftar
+Alexa, start dua iftar
+Alexa, launch dua iftar
+Alexa, disable dua iftar

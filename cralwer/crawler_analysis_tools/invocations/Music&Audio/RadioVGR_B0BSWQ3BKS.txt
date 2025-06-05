@@ -1,0 +1,5 @@
+Alexa, open radio v. g. r.
+Alexa, play Radio VGR
+Alexa, start Radio VGR
+Alexa, ask Radio VGR what song is playing
+Alexa, disable radio v. g. r.

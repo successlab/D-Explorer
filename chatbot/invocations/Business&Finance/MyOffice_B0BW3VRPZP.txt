@@ -1,0 +1,3 @@
+Alexa, open my office
+Alexa, start my office
+Alexa, disable my office

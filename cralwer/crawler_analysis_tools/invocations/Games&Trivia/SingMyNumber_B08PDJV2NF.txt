@@ -1,0 +1,4 @@
+Alexa, open sing my number
+Alexa, ask Sing My Number to play my song
+Alexa, ask Sing My Number to email my song
+Alexa, disable sing my number

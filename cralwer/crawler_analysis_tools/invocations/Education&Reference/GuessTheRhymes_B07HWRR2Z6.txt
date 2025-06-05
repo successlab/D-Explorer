@@ -1,0 +1,4 @@
+Alexa, open guess the rhymes
+help
+stop
+Alexa, disable guess the rhymes

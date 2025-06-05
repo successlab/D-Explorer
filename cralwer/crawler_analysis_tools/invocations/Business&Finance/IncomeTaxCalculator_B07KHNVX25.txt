@@ -1,0 +1,5 @@
+Alexa, open income tax
+Alexa, Tell Income Tax to calculate Tax
+Alexa, tell Income Tax to calculate Tax
+Alexa, ask Income Tax to calculate my Income Tax
+Alexa, disable income tax

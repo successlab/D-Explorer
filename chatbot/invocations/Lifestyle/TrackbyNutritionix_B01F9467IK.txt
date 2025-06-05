@@ -1,0 +1,5 @@
+Alexa, open food tracker
+Alexa, tell food tracker to log a glass of milk
+Alexa, ask food tracker how many calories are in a slice of pizza
+Alexa, ask food tracker for my calorie report
+Alexa, disable food tracker

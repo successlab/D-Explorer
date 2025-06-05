@@ -1,0 +1,5 @@
+Alexa, open the door
+Alexa, close the door
+Alexa, unlock the front door.
+Alexa, lock the front door.
+Alexa, disable KKHome

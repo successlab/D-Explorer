@@ -1,0 +1,4 @@
+Alexa, open wilderness therapy
+Alexa, stop
+Alexa, start wilderness therapy
+Alexa, disable wilderness therapy

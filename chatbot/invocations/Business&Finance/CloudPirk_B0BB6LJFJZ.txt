@@ -1,0 +1,5 @@
+Alexa, open cloud pirk
+Alexa, Ask Cloud Pirk for the Pirk of the day.
+Alexa, What's the pirk of the day in Cloud Pirk
+Alexa, Check my cloud pirks using Cloud pirk
+Alexa, disable cloud pirk

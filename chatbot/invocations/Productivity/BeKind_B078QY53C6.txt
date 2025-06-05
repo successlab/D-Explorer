@@ -1,0 +1,5 @@
+Alexa, open be kind
+Alexa, ask be kind to give me a random act of kindness
+Alexa, ask be kind to give me today's random act of kindness
+Alexa, ask be kind to give me today's kindness idea
+Alexa, disable be kind

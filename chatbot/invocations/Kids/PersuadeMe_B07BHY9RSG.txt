@@ -1,0 +1,4 @@
+Alexa, open persuade me.
+Alexa, launch Persuade Me.
+Alexa, start Persuade Me.
+Alexa, disable persuade me.

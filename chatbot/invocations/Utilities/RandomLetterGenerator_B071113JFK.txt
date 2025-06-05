@@ -1,0 +1,4 @@
+Alexa, open random letter generator
+Alexa, ask random letter generator to pick a letter
+Alexa, ask random letter generator
+Alexa, disable random letter generator

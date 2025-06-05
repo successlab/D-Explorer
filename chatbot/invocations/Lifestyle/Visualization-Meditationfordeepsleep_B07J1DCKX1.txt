@@ -1,0 +1,4 @@
+Alexa, open visualization relaxation
+Alexa, start Visualization relaxation
+Alexa, launch Visualization relaxation
+Alexa, disable visualization relaxation

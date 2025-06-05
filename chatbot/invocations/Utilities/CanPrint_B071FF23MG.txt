@@ -1,0 +1,5 @@
+Alexa, open count my cans
+Alexa, count my cans
+add ten cans
+add ten large cans
+Alexa, disable count my cans

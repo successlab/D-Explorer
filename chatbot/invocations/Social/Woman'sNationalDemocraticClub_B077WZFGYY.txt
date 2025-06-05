@@ -1,0 +1,4 @@
+Alexa, open w. n. d. c.
+Alexa, ask WNDC for the latest news
+Text that to me
+Alexa, disable w. n. d. c.

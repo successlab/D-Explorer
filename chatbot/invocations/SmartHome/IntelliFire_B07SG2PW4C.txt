@@ -1,0 +1,4 @@
+Alexa change 'fireplace name' flame height four
+Alexa set 'fireplace name' thermostat to eighty degrees
+Alexa turn 'fireplace name' lights to 3
+Alexa, disable IntelliFire

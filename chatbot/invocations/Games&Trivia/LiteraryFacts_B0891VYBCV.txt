@@ -1,0 +1,6 @@
+Alexa, open literary facts
+Alexa, next
+Alexa, stop
+Alexa, start literary facts
+Alexa, ask literary facts for a fact
+Alexa, disable literary facts

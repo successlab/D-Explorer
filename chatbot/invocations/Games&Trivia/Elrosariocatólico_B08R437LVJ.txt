@@ -1,0 +1,6 @@
+Alexa, open rosario católico
+Alexa, detente
+Alexa, salir
+Alexa, abre rosario católico
+Alexa, inicia rosario católico
+Alexa, disable rosario católico

@@ -1,0 +1,4 @@
+Alexa, open daily stories
+Alexa, start daily stories
+Alexa, launch daily stories
+Alexa, disable daily stories

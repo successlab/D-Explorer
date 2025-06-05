@@ -1,0 +1,4 @@
+Alexa, open space launches
+Alexa, ask Space Launches about upcoming launches
+Alexa, ask Space Launches about next launches
+Alexa, disable space launches

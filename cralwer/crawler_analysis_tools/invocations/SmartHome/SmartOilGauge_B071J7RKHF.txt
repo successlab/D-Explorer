@@ -1,0 +1,4 @@
+Alexa, open smart oil gauge
+Alexa, ask Smart Oil Gauge how much oil I have.
+When will I need oil?
+Alexa, disable smart oil gauge

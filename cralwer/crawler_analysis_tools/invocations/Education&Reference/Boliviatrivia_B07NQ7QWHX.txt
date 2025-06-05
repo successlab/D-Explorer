@@ -1,0 +1,3 @@
+Alexa, open bolivia test
+Alexa, play Bolivia Test
+Alexa, disable bolivia test

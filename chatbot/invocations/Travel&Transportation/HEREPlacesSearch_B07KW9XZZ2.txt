@@ -1,0 +1,3 @@
+Alexa, open here places
+Alexa, here places
+Alexa, disable here places

@@ -1,0 +1,4 @@
+Alexa, open my mind
+Alexa, stop
+Alexa, start My Mind
+Alexa, disable my mind

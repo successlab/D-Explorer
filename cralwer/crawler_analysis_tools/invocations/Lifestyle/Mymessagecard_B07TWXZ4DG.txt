@@ -1,0 +1,4 @@
+Alexa, open my message card
+Alexa, stop
+Alexa, start My message card
+Alexa, disable my message card

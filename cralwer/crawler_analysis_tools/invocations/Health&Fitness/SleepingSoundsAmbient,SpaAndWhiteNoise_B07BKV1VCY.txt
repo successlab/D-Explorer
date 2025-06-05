@@ -1,0 +1,5 @@
+Alexa, open peaceful sounds
+Alexa, ask peaceful sounds to play (Name of the sound)
+Alexa, ask peaceful sounds to play forest
+Play the audio
+Alexa, disable peaceful sounds

@@ -1,0 +1,4 @@
+Alexa, open irie jam radio
+Alexa, play irie jam radio
+Alexa, ask irie jam radio to play
+Alexa, disable irie jam radio

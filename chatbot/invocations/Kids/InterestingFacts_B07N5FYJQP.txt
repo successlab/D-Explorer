@@ -1,0 +1,2 @@
+Alexa, open interesting facts
+Alexa, disable interesting facts

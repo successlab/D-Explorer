@@ -1,0 +1,4 @@
+Alexa, open alien invaders
+Alexa, play Alien Invaders
+Alexa, start Alien Invaders
+Alexa, disable alien invaders

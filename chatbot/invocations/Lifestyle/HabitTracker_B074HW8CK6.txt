@@ -1,0 +1,5 @@
+Alexa, open habit tracker
+Alexa, tell Habit Tracker did it
+Alexa, ask Habit Tracker what's my high score
+Alexa, ask Habit Tracker what's my streak
+Alexa, disable habit tracker

@@ -1,0 +1,6 @@
+Alexa, open pray pray
+Alexa, ask PrayPray to play the Azaan.
+Alexa, launch Pray Pray.
+Alexa, ask Pray Pray to remind me 15 minutes before Zuhr Salaat.
+Alexa, ask Pray Pray to recite Surah Yaseen
+Alexa, disable pray pray

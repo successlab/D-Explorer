@@ -1,0 +1,4 @@
+Alexa, open dos palos radio
+Alexa, Abre Dos Palos Radio
+Alexa, Empieza Dos Palos Radio
+Alexa, disable dos palos radio

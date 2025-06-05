@@ -1,0 +1,6 @@
+Alexa, open cicada sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Cicada Sounds
+Alexa, launch Cicada Sounds
+Alexa, disable cicada sounds

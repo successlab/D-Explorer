@@ -1,0 +1,4 @@
+Alexa, open magic ball
+Alexa, launch the magic ball.
+Should I take the umbrella?
+Alexa, disable magic ball

@@ -1,0 +1,4 @@
+Alexa, open animal stories
+Alexa, ask animal stories to read me a story
+Alexa, ask animal stories to read a story for Ryan
+Alexa, disable animal stories

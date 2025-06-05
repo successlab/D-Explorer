@@ -1,0 +1,5 @@
+Alexa, open random activities
+Alexa, ask random activities to tell me an activity
+tell me a random activity
+an activity
+Alexa, disable random activities

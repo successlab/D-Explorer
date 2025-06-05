@@ -1,0 +1,4 @@
+Alexa, open lancaster monitor
+Alexa ask Lancaster Monitor to find incidents
+Alexa ask Lancaster Monitor what are the incidents
+Alexa, disable lancaster monitor

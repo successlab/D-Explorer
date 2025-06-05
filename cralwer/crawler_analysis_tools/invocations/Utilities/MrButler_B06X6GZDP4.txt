@@ -1,0 +1,5 @@
+Alexa, open mister butler
+Alexa, tell Mr Butler that I put my wallet in my backpack.
+Alexa, ask Mr Butler where my wallet is.
+Alexa, tell Mr Butler to forget my wallet.
+Alexa, disable mister butler

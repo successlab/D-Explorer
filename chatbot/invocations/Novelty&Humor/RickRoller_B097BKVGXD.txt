@@ -1,0 +1,4 @@
+Alexa, open rick roller
+How are you today
+help
+Alexa, disable rick roller

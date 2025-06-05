@@ -1,0 +1,5 @@
+Alexa, open verizon
+Alexa, Ask Verizon What is my balance ?
+Alexa, Ask Verizon how much do I owe on my device
+Alexa, ask Verizon about my rewards?
+Alexa, disable verizon

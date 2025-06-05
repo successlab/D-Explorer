@@ -1,0 +1,2 @@
+Alexa, open author connect gateway prod
+Alexa, disable author connect gateway prod

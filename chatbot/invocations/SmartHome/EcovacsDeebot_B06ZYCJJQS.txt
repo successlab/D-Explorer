@@ -1,0 +1,48 @@
+Alexa, open deebot
+Alexa, ask DEEBOT to start cleaning.
+Alexa, ask DEEBOT to start vacuuming.
+Alexa, ask DEEBOT to start mopping.
+Alexa, tell DEEBOT it missed a spot.
+Alexa, tell DEEBOT the house isn’t going to clean itself.
+Alexa, ask DEEBOT to start vacuuming with kitty.
+Alexa, ask DEEBOT to start mopping with kitty.
+Alexa, ask DEEBOT to stop cleaning.
+Alexa, ask DEEBOT to stop vacuuming.
+Alexa, ask DEEBOT to stop mopping.
+Alexa, tell DEEBOT it’s fired.
+Alexa, tell DEEBOT its services are no longer needed.
+Alexa, ask DEEBOT to stop vacuuming with kitty.
+Alexa, ask DEEBOT to stop mopping with kitty.
+Alexa, ask DEEBOT to pause vacuuming.
+Alexa, ask DEEBOT to pause mopping.
+Alexa, tell DEEBOT to take a breather.
+Alexa, tell DEEBOT to wait just a moment.
+Alexa, tell DEEBOT that Simon says ‘freeze’.
+Alexa, ask DEEBOT to pause vacuuming with kitty.
+Alexa, ask DEEBOT to pause mopping with kitty.
+Alexa, ask DEEBOT where it is?
+Alexa, tell DEEBOT it has 10 seconds to show its face.
+Alexa, tell DEEBOT I miss it.
+Alexa, tell DEEBOT I said Marco.
+Alexa, ask DEEBOT what’s its status?
+Alexa, tell DEEBOT I haven’t heard from it in a while
+Alexa, ask DEEBOT how much longer until it’s done?
+Alexa, ask DEEBOT to return to dock.
+Alexa, ask DEEBOT to return to the charging dock.
+Alexa, tell DEEBOT I said goodnight.
+Alexa, tell DEEBOT it’s time to hit the sack.
+Alexa, tell DEEBOT it’s past its bedtime.
+Alexa, ask DEEBOT to start charging with kitty.
+Alexa, ask DEEBOT to vacuum the guest room.
+Alexa, ask DEEBOT to mop the master bedroom.
+Alexa, tell DEEBOT the kid’s room is waiting for it.
+Alexa, tell DEEBOT the kids made a little mess in the kitchen.
+Alexa, ask DEEBOT to clean bedroom.
+Alexa, ask DEEBOT to clean bedroom with kitty.
+Alexa, ask DEEBOT what is the battery level of Kitty?
+Alexa, ask DEEBOT how much power is remaining?
+Alexa, tell DEEBOT to set suction power to max on Kitty.
+Alexa, ask DEEBOT to clean in quite mode.
+Alexa, ask DEEBOT to clean with the biggest power.
+Alexa, ask DEEBOT to change vacuum power to standard.
+Alexa, disable deebot

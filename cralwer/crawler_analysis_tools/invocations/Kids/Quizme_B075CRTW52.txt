@@ -1,0 +1,5 @@
+Alexa, open quiz me
+Alexa, Quiz me
+I don't know
+Twenty Two
+Alexa, disable quiz me

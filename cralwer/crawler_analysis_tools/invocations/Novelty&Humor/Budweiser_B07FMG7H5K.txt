@@ -1,0 +1,3 @@
+Alexa, open budweiser
+Alexa, tell Budweiser Whassup!
+Alexa, disable budweiser

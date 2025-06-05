@@ -1,0 +1,3 @@
+Alexa, open sound shield
+Alexa, stop
+Alexa, disable sound shield

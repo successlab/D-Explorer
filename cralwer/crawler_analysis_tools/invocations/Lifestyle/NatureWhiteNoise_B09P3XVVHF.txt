@@ -1,0 +1,4 @@
+Alexa, open nature white noise
+Alexa, Pause
+Alexa, Resume
+Alexa, disable nature white noise

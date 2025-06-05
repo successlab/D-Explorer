@@ -1,0 +1,5 @@
+Alexa, open my diary
+Alexa ask my diary what to write
+next
+stop
+Alexa, disable my diary

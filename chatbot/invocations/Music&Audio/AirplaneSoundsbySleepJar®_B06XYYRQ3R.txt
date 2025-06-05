@@ -1,0 +1,9 @@
+Alexa, open airplane sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Airplane Sounds to turn on Background Mode
+Alexa, ask Airplane Sounds to turn Background Mode off
+Alexa, start Airplane Sounds
+Alexa, launch Airplane Sounds
+Alexa, disable airplane sounds

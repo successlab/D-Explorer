@@ -1,0 +1,4 @@
+Alexa, open fraction reducer
+31
+99
+Alexa, disable fraction reducer

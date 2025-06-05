@@ -1,0 +1,12 @@
+Alexa, open sunset strip
+Alexa, launch Sunset Strip...
+Alexa, Pause
+Alexa, Resume
+Alexa, Next
+Alexa, Previous
+Alexa, Stop.
+Alexa, launch BraveWords Radio...
+Alexa, launch Totally Awesome 80s...
+Alexa, start Sunset Strip
+Alexa, launch Sunset Strip
+Alexa, disable sunset strip

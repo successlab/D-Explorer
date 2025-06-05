@@ -1,0 +1,4 @@
+Alexa, open steamboat springs
+Alexa, ask Steamboat Springs for the snow report
+Alexa, ask Steamboat Springs for latest conditions
+Alexa, disable steamboat springs

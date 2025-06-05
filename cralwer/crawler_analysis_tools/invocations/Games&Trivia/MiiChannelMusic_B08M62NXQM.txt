@@ -1,0 +1,4 @@
+Alexa, open mii channel music
+Alexa, start Mii Channel Music
+Alexa, launch Mii Channel Music
+Alexa, disable mii channel music

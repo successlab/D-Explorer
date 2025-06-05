@@ -1,0 +1,4 @@
+Alexa, open hawaiian music
+Alexa, Start Hawaiian Music
+Alexa, Launch Hawaiian Music
+Alexa, disable hawaiian music

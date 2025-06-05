@@ -1,0 +1,5 @@
+Alexa, open ken kenism
+Alexa, launch ken kenism or 
+Alexa, stop
+Alexa launch ken kenism
+Alexa, disable ken kenism

@@ -1,0 +1,5 @@
+Alexa, open quick news
+Alexa, launch Quick News
+CNN
+Business Insider
+Alexa, disable quick news

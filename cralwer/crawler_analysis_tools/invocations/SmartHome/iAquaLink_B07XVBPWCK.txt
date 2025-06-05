@@ -1,0 +1,4 @@
+Alexa, turn on spa
+Alexa, turn on spa heater
+Alexa, turn off spa
+Alexa, disable iAquaLink

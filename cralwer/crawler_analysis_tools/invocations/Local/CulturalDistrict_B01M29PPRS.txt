@@ -1,0 +1,5 @@
+Alexa, open cultural district
+Alexa, open Cultural District.
+Alexa, ask Cultural District what's going on today.
+Alexa, ask Cultural District whats going on today at the Cabaret.
+Alexa, disable cultural district

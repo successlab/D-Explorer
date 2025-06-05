@@ -1,0 +1,4 @@
+Alexa, open hotel planner
+Alexa ask Hotel Planner to make a new reservation in Miami Florida
+Alexa ask Hotel Planner to make a new reservation
+Alexa, disable hotel planner

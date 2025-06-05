@@ -1,0 +1,5 @@
+Alexa, open juice box
+Alexa, ask Juice Box to get status
+Alexa, tell Juice Box to start charging my car
+Alexa, ask Juice Box how many miles were added to my car
+Alexa, disable juice box

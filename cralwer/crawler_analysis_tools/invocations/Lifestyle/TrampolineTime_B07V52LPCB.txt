@@ -1,0 +1,4 @@
+Alexa, open trampoline time
+Alexa, start Trampoline Time
+Alexa, ask Trampoline Time to start workout
+Alexa, disable trampoline time

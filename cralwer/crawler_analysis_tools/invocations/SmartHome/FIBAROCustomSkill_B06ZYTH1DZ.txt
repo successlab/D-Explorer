@@ -1,0 +1,5 @@
+Alexa, open fibaro
+Alexa, tell Fibaro to set the Movie Night scene.
+Alexa, ask Fibaro are any of my doors or windows open at home.
+Alexa, launch Fibaro.
+Alexa, disable fibaro

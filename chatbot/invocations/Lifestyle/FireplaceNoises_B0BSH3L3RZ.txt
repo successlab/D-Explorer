@@ -1,0 +1,4 @@
+Alexa, open fireplace noises
+pause
+resume
+Alexa, disable fireplace noises

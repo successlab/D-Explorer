@@ -1,0 +1,4 @@
+Alexa, open food challenge
+Alexa, start Food Challenge
+Alexa, launch Food Challenge
+Alexa, disable food challenge

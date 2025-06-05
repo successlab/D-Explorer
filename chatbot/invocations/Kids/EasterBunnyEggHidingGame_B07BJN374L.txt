@@ -1,0 +1,4 @@
+Alexa, open egg hiding game
+yes
+tell me more
+Alexa, disable egg hiding game

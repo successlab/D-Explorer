@@ -1,0 +1,4 @@
+Alexa, open lol time
+Alexa, ask lol time for today joke
+Alexa, ask lol time to play a joke
+Alexa, disable lol time

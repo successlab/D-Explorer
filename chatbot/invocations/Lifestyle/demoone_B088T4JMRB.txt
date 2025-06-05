@@ -1,0 +1,5 @@
+Alexa, open demo one
+Alexa, demo one
+Alexa, start demo one
+Alexa, launch demo one
+Alexa, disable demo one

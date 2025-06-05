@@ -1,0 +1,4 @@
+Alexa, open five minute plank
+Alexa, start five minute plank
+Alexa, ask five minute plank to start
+Alexa, disable five minute plank

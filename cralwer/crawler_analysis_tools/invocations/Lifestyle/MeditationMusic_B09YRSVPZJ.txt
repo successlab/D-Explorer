@@ -1,0 +1,4 @@
+Alexa, open meditation music
+Alexa, pause
+Alexa, resume
+Alexa, disable meditation music

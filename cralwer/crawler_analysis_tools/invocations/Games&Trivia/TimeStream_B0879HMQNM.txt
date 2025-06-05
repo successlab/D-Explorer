@@ -1,0 +1,6 @@
+Alexa, open time stream
+Alexa, launch Time Stream
+Alexa, stop
+Alexa, play Time Stream
+Start a new game
+Alexa, disable time stream

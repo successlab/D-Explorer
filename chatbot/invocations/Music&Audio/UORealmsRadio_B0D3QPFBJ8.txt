@@ -1,0 +1,5 @@
+Alexa, open u. o. realms radio
+Alexa, play UORealms Radio
+Alexa, pause
+Alexa, resume
+Alexa, disable u. o. realms radio

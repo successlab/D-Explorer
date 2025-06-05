@@ -1,0 +1,5 @@
+Alexa, open bouncer steve
+Alexa, ask bouncer Steve to greet our guest
+Alexa, tell bouncer Steve to greet our guests
+Alexa, open bouncer Steve and greet our guests
+Alexa, disable bouncer steve

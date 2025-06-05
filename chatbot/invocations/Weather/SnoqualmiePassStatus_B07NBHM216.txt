@@ -1,0 +1,3 @@
+Alexa, open snoqualmie pass status
+Alexa, ask Snoqualmie Pass Status for the status
+Alexa, disable snoqualmie pass status

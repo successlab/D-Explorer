@@ -1,0 +1,4 @@
+Alexa, open counting sheep
+Alexa, start Counting Sheep
+Alexa, ask Counting Sheep to get started
+Alexa, disable counting sheep

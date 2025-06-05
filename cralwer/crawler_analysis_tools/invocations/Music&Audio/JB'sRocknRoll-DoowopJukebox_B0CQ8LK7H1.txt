@@ -1,0 +1,4 @@
+Alexa, open j. b's jukebox
+Alexa, start j. b's jukebox
+Alexa launch j. b's jukebox
+Alexa, disable j. b's jukebox

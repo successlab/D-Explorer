@@ -1,0 +1,4 @@
+Alexa, open verse of the day
+Alexa, ask Verse of the Day for today's bible verse
+Alexa, ask Verse of the Day for today's devotional
+Alexa, disable verse of the day

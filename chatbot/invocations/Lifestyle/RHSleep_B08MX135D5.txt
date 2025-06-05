@@ -1,0 +1,5 @@
+Alexa, open r. h. sleep
+Alexa, tell RH Sleep to list my products.
+Alexa, tell RH Sleep to set heat of both sides to maximum
+Alexa, tell RH Sleep to turn on both sides
+Alexa, disable r. h. sleep

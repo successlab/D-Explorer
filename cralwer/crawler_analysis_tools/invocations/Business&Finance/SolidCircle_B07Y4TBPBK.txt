@@ -1,0 +1,2 @@
+Alexa, open solid circle
+Alexa, disable solid circle

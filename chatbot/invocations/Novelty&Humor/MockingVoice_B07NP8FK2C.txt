@@ -1,0 +1,3 @@
+Alexa, open mocking voice
+Alexa, ask Mocking Voice to say "I like watching Spongebob
+Alexa, disable mocking voice

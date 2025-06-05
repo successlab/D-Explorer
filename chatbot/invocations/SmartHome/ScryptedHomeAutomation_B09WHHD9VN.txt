@@ -1,0 +1,4 @@
+Alexa, turn off the lights
+Alexa, set the lights to 50%
+Alexa, turn the lights red
+Alexa, disable ScryptedHomeAutomation

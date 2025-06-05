@@ -1,0 +1,5 @@
+Alexa, open skylab radio
+Alexa, play Skylab Radio
+Alexa, start Skylab Radio
+Alexa, ask Skylab Radio what song is playing
+Alexa, disable skylab radio

@@ -1,0 +1,5 @@
+Alexa, open word quiz
+Alexa, play word quiz
+new game
+next word
+Alexa, disable word quiz

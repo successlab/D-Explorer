@@ -1,0 +1,4 @@
+Alexa, open scratch it
+Alexa, stop
+Alexa, start scratch it
+Alexa, disable scratch it

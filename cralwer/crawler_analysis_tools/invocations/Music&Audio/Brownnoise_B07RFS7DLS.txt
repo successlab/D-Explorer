@@ -1,0 +1,4 @@
+Alexa, open brown noise
+Alexa, start brown noise
+Alexa, launch brown noise
+Alexa, disable brown noise

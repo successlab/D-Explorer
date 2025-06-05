@@ -1,0 +1,4 @@
+Alexa, open historical voices
+Alexa, start Historical Voices
+Alexa, Launch Historical Voices
+Alexa, disable historical voices

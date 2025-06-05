@@ -1,0 +1,18 @@
+Alexa, turn on living room
+Alexa, turn off living room
+Alexa, turn up the volume by 10 on living room
+Alexa, switch input to HDMI 1 on living room
+Alexa, switch input to HDMI 2 on living room
+Alexa, switch input to HDMI 3 on living room
+Alexa, play on living room
+Alexa, pause on living room
+Alexa, stop on living room
+Alexa, next on living room
+Alexa, previous on living room
+Alexa, fast forward on living room
+Alexa, rewind on living room
+Alexa, start over on living room
+1. Alexa, turn on living room
+2. Alexa, set volume to 20 on living room
+3. Alexa, play on living room
+Alexa, disable OptomaSmartHomeNext

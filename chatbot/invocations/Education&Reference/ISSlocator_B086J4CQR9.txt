@@ -1,0 +1,3 @@
+Alexa, open i. s. s. locator
+Alexa, open ISS locator
+Alexa, disable i. s. s. locator

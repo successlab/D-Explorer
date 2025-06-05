@@ -1,0 +1,5 @@
+Alexa, open beat master
+Alexa, open Beat Master.
+Play metronome at 60 beats per minute.
+Slow down a bit.
+Alexa, disable beat master

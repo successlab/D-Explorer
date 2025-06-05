@@ -1,0 +1,5 @@
+Alexa, open sound chat radio
+Alexa play sound chat radio
+play
+help
+Alexa, disable sound chat radio

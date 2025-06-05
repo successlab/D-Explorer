@@ -1,0 +1,6 @@
+Alexa, open dog sleep music
+Alexa, begin Dog Sleep Music
+Alexa, stop
+Alexa launch Dog Sleep Music
+Alexa play Dog Sleep Music
+Alexa, disable dog sleep music

@@ -1,0 +1,2 @@
+Alexa, open foodimals
+Alexa, disable foodimals

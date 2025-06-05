@@ -1,0 +1,6 @@
+Alexa, open voice coder
+Alexa, ask Voice Coder to ...
+Alexa, ask Voice Coder to add rule when start set background to moon
+Alexa, ask Voice Coder to Add rule
+What is my access code
+Alexa, disable voice coder

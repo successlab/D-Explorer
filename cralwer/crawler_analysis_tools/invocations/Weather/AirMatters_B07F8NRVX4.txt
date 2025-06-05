@@ -1,0 +1,5 @@
+Alexa, open air matters
+Alexa, ask air matters what's the current air quality in New York.
+Alexa, ask air matters the PM2.5 in Beijing.
+Alexa, ask air matters for Berlin Ozone
+Alexa, disable air matters

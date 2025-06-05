@@ -1,0 +1,4 @@
+Alexa, open crossfit belltown
+Alexa, ask Crossfit Belltown what's the wod
+Alexa, ask Crossfit Belltown what's the workout today
+Alexa, disable crossfit belltown

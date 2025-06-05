@@ -1,0 +1,5 @@
+Alexa, open name my baby
+Alexa, name my baby
+Alexa, ask name my baby for a name
+Alexa, ask name my baby to name my kid for me
+Alexa, disable name my baby

@@ -1,0 +1,4 @@
+Alexa, open kanye's workout plan
+Alexa, start Kanye's Workout Plan
+Alexa, ask Kanye's Workout Plan to start workout
+Alexa, disable kanye's workout plan

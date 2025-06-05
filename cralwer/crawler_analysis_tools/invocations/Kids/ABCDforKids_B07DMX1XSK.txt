@@ -1,0 +1,4 @@
+Alexa, open learn alphabets
+Alexa, Launch Learn Alphabets
+Alexa, Learn Alphabets
+Alexa, disable learn alphabets

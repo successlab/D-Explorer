@@ -1,0 +1,3 @@
+Alexa, open cleaning service
+Alexa, start Cleaning Service
+Alexa, disable cleaning service

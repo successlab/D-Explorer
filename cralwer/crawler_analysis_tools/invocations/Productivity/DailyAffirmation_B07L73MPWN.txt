@@ -1,0 +1,5 @@
+Alexa, open daily affirmation
+Alexa, open Daily Affirmation.
+Give me my daily affirmation.
+Affirm me.
+Alexa, disable daily affirmation

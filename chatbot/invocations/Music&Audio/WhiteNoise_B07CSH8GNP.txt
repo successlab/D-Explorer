@@ -1,0 +1,5 @@
+Alexa, open white noise
+Alexa, open White Noise and play Brown Noise for 6 hours
+Alexa, ask White Noise for the Sound Catalog
+Alexa, ask White Noise to play
+Alexa, disable white noise

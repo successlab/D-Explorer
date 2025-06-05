@@ -1,0 +1,5 @@
+Alexa, open hurco
+Alexa, tell Hurco calibrate Machine 1.
+Alexa, tell Hurco warmup Machine 1.
+Alexa, tell Hurco probe tool 3 on Machine 1
+Alexa, disable hurco

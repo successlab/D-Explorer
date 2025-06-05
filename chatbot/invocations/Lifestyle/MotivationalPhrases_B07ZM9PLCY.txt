@@ -1,0 +1,4 @@
+Alexa, open motivational phrases
+Alexa, start Motivational Phrases
+Alexa, run Motivational Phrases
+Alexa, disable motivational phrases

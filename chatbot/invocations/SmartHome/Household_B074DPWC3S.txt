@@ -1,0 +1,4 @@
+Alexa, open house hold
+Alexa, ask house hold to please greet Spencer
+Alexa, ask house hold to please greet John and Candace
+Alexa, disable house hold

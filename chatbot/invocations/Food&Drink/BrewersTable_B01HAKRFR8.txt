@@ -1,0 +1,5 @@
+Alexa, open brewers table
+Alexa, ask brewers table what goes with Kolsh
+Alexa, ask brewers table suggestions for India Pale Ale
+Alexa, ask brewers table for Weizenbock
+Alexa, disable brewers table

@@ -1,0 +1,4 @@
+Alexa, open news nation
+Alexa, Start News Nation
+Alexa, Play News Nation
+Alexa, disable news nation

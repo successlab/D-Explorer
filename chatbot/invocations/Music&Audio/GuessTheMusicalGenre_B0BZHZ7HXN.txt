@@ -1,0 +1,4 @@
+Alexa, open guess the musical genre
+Alexa, start guess the musical genre
+Alexa, launch guess the musical genre
+Alexa, disable guess the musical genre

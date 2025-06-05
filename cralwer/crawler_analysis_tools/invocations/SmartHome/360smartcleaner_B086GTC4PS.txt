@@ -1,0 +1,4 @@
+Alexa, turn on mycleaner.
+Alexa, turn off mycleaner.
+Alexa, set the power level on mycleaner to quiet.
+Alexa, disable 360smartcleaner

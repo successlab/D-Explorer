@@ -1,0 +1,3 @@
+Alexa, open coach me
+Alexa, start Coach Me
+Alexa, disable coach me

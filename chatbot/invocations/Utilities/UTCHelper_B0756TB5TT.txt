@@ -1,0 +1,5 @@
+Alexa, open u. t. c. helper
+Alexa, ask u. t. c. helper for the current UTC time
+for the offset at Seattle
+the current time
+Alexa, disable u. t. c. helper

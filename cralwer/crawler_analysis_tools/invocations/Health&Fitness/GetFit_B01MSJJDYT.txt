@@ -1,0 +1,5 @@
+Alexa, open get fit
+Alexa, start get fit and give me a workout
+what exercise I should try next
+tell me an exercise
+Alexa, disable get fit

@@ -1,0 +1,2 @@
+Alexa, open doorbell sound
+Alexa, disable doorbell sound

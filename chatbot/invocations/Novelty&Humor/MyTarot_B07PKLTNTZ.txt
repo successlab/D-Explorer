@@ -1,0 +1,4 @@
+Alexa, open my tarot
+Alexa, ask my tarot for my fortune
+Alexa, start my tarot
+Alexa, disable my tarot

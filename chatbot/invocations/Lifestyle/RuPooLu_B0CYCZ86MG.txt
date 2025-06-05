@@ -1,0 +1,4 @@
+Alexa, open vital brooklyn
+Alexa, open vital Brooklyn.
+Alexa, ask vital Brooklyn how many people are in the gym.
+Alexa, disable vital brooklyn

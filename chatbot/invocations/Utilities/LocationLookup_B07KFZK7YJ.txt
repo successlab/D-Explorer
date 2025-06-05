@@ -1,0 +1,3 @@
+Alexa, open location lookup
+Alexa, ask location lookup to give me the place for zip 78701
+Alexa, disable location lookup

@@ -1,0 +1,3 @@
+Alexa, open frases históricas
+Alexa, abre frases históricas
+Alexa, disable frases históricas

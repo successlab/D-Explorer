@@ -1,0 +1,5 @@
+Alexa, open hobby quiz
+Alexa, next
+Alexa, stop
+Alexa, start hobby quiz
+Alexa, disable hobby quiz

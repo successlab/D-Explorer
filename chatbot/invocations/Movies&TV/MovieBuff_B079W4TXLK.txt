@@ -1,0 +1,3 @@
+Alexa, open movie buff
+Alexa, ask movie buff to tell me about TITANIC movie
+Alexa, disable movie buff

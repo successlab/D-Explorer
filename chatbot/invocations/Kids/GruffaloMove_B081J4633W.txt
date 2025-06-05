@@ -1,0 +1,3 @@
+Alexa, open gruffalo move
+Alexa, play Gruffalo Move
+Alexa, disable gruffalo move

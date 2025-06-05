@@ -1,0 +1,6 @@
+Alexa, open my burns
+Alexa, next
+Alexa, stop
+Alexa, start My Burns
+Alexa, ask My Burns for a burn
+Alexa, disable my burns

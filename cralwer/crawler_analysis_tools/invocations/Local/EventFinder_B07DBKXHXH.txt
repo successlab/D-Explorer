@@ -1,0 +1,5 @@
+Alexa, open event finder
+Alexa, ask Event Finder to search for Bruno Mars
+Alexa, ask Event Finder to search for Texas Rangers
+Alexa, open Event Finder and search for California
+Alexa, disable event finder

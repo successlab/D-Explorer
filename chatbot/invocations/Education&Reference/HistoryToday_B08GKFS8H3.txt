@@ -1,0 +1,4 @@
+Alexa, open history today
+Alexa, start History Today
+Alexa, launch History Today
+Alexa, disable history today

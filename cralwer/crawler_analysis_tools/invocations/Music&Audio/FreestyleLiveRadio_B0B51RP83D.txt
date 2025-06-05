@@ -1,0 +1,4 @@
+Alexa, open freestyle live radio
+Alexa, launch Freestyle Live Radio
+Alexa, play Freestyle Live Radio
+Alexa, disable freestyle live radio

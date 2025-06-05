@@ -1,0 +1,4 @@
+Alexa, open lego moments
+Alexa, start Lego Moments
+Alexa, launch Lego Moments
+Alexa, disable lego moments

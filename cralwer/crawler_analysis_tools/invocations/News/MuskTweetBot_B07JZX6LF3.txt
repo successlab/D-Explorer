@@ -1,0 +1,4 @@
+Alexa, open musk tweet bot
+Alexa, ask Musk Tweet Bot to read me Elon's latest tweet
+Alexa, ask Musk Tweet Bot to read the latest tweet
+Alexa, disable musk tweet bot

@@ -1,0 +1,5 @@
+Alexa, open i ching
+Alexa, ask I Ching to cast a hexagram.
+Alexa, ask I Ching to give me a quick reading.
+Alexa, ask I Ching what do the yarrow stalks say?
+Alexa, disable i ching

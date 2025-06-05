@@ -1,0 +1,5 @@
+Alexa, open cat data
+Alexa, tell Cat Data that I gave the cat her medicine
+Alexa, ask Cat Data did anyone feed the cat
+Alexa, tell Cat data that I emptied the litter box
+Alexa, disable cat data

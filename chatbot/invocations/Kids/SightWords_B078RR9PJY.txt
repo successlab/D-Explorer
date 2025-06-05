@@ -1,0 +1,4 @@
+Alexa, open sight words
+alexa, sight words
+alexa, launch sight words
+Alexa, disable sight words

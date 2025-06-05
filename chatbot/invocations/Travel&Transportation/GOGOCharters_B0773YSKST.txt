@@ -1,0 +1,5 @@
+Alexa, open go go charters
+Alexa, tell GOGO Charters I need to rent a private bus
+Alexa, tell GOGO Charters I need a motor coach
+Alexa, tell GOGO Charters I need to rent a bus for my event
+Alexa, disable go go charters

@@ -1,0 +1,4 @@
+Alexa, open weather bot
+What is the weather?
+How is the weather?
+Alexa, disable weather bot

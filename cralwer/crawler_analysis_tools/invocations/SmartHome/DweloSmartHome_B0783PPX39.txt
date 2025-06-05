@@ -1,0 +1,4 @@
+Alexa, turn off the bedroom light
+Alexa, set the thermostat to 68 degrees
+Alexa, lock the front door
+Alexa, disable DweloSmartHome

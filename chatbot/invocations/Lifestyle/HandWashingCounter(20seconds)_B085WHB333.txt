@@ -1,0 +1,3 @@
+Alexa, open hand washing counter
+Alexa, start hand washing counter
+Alexa, disable hand washing counter

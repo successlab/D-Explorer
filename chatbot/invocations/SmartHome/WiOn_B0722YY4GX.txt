@@ -1,0 +1,3 @@
+Alexa, turn on name
+Alexa, turn off name
+Alexa, disable WiOn

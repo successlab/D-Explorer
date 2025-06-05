@@ -1,0 +1,5 @@
+Alexa, open tulu nadu
+Alexa, ask Tulu Nadu can you give me the history
+Alexa, ask Tulu Nadu What language they speak
+Alexa, ask Tulu Nadu what are the popular spots
+Alexa, disable tulu nadu

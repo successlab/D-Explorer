@@ -1,0 +1,4 @@
+Alexa, open myles bot
+Alexa start Myles Bot!
+Alexa tell Myles Bot I ran 5 kilometers
+Alexa, disable myles bot

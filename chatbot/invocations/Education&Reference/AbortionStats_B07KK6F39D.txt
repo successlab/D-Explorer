@@ -1,0 +1,5 @@
+Alexa, open abortion stats
+Alexa, ask Abortion Stats how many abortions have been performed
+Alexa, ask Abortion Stats how many abortions have been performed in the world
+Alexa, ask Abortion Stats how many have occurred
+Alexa, disable abortion stats

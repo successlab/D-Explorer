@@ -1,0 +1,16 @@
+Alexa, increase bathroom by 1 degree
+Alexa, set bedroom temperature to 21 degrees
+Alexa, what is the living room set to?
+Alexa, show the outdoor camera
+Alexa, turn on the coffee machine
+Alexa, turn off ceiling light
+Alexa, set ceiling light to thirty percent
+Alexa, open the roller shutter
+Alexa, set kitchen blinds to forty percent
+Alexa, turn on the ventilation
+Alexa, activate wake up
+Alexa, talk to the front door
+Alexa, turn on the kitchen lights
+Alexa, set the living room to 20°
+Alexa, show me the front door
+Alexa, disable Legrand-Netatmo-BTicino

@@ -1,0 +1,4 @@
+Alexa, open letter game
+Alexa, Start Letter Game
+Alexa, Play Letter Game
+Alexa, disable letter game

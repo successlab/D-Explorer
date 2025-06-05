@@ -1,0 +1,7 @@
+Alexa, open wiki wod
+Alexa, ask WIKIWOD to give me a wod
+Alexa, ask WIKIWOD for a random workout of the day
+Alexa, ask WIKIWOD to give me a workout
+Alexa, ask WIKIWOD for a random wod
+Alexa, tell WIKIWOD I need a random wod
+Alexa, disable wiki wod

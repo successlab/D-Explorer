@@ -1,0 +1,3 @@
+Alexa, open air quality
+Alexa, air quality
+Alexa, disable air quality

@@ -1,0 +1,4 @@
+Alexa, open parks on the air
+Alexa, ask parks on the air, what are the current spots
+Alexa, ask parks on the air for the current spots
+Alexa, disable parks on the air

@@ -1,0 +1,4 @@
+Alexa, open simple quiz
+ask me a question
+cancel
+Alexa, disable simple quiz

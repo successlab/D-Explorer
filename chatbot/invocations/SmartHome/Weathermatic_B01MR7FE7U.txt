@@ -1,0 +1,5 @@
+Alexa, open weathermatic
+Alexa, tell Weathermatic to water the yard.
+Alexa, tell Weathermatic to turn off the sprinklers.
+Alexa, ask Weathermatic to set a rain delay.
+Alexa, disable weathermatic

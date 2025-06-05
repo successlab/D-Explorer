@@ -1,0 +1,4 @@
+Alexa, open dinner food
+Alexa, ask dinner food what should I have for dinner
+ask dinner food what should I eat for dinner
+Alexa, disable dinner food

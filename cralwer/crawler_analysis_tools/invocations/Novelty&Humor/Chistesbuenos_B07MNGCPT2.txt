@@ -1,0 +1,4 @@
+Alexa, open chistes buenos
+Alexa, abre Chistes buenos
+Alexa, abre Chistes buenos y cuéntame uno de médico
+Alexa, disable chistes buenos

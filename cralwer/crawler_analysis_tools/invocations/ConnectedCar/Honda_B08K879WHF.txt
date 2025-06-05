@@ -1,0 +1,5 @@
+Alexa, open honda
+Alexa, ask Honda to start my engine.
+Alexa, ask Honda to unlock my door.
+Alexa, ask Honda how much fuel do I have?
+Alexa, disable honda

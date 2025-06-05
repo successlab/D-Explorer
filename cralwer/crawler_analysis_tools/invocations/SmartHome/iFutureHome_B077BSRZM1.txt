@@ -1,0 +1,4 @@
+Alexa, turn on smart plug
+Alexa,turn off smart plug
+Alexa, turn off smart plug
+Alexa, disable iFutureHome

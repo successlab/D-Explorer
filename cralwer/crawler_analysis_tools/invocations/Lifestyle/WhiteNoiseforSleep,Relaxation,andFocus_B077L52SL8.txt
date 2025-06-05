@@ -1,0 +1,4 @@
+Alexa, open white noise
+Alexa ask white noise to play for 30 minutes
+Alexa stop
+Alexa, disable white noise

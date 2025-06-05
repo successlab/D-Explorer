@@ -1,0 +1,2 @@
+Alexa, open pet adopt
+Alexa, disable pet adopt

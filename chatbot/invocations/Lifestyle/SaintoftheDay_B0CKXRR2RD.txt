@@ -1,0 +1,5 @@
+Alexa, open saint of the day
+Alexa, open saint of the day.
+Alexa, ask saint of the day who is today's saint?
+Alexa, ask saint of the day who is the patron saint of fishermen?
+Alexa, disable saint of the day

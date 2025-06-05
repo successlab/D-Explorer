@@ -1,0 +1,5 @@
+Alexa, open s. f. opera
+Alexa, open SF Opera
+Alexa, ask SF Opera what's playing tomorrow
+Alexa, ask SF Opera what operas are playing next week
+Alexa, disable s. f. opera

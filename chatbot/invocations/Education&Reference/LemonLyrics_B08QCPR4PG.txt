@@ -1,0 +1,4 @@
+Alexa, open lemon lyrics
+Alexa, play lemon lyrics
+Alexa, launch lemon lyrics
+Alexa, disable lemon lyrics

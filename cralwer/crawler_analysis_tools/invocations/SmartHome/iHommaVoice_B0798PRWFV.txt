@@ -1,0 +1,5 @@
+Alexa, open i. homma
+Alexa, ask i. homma turn on the light
+Alexa,ask i. homma turn the light to red color
+Alexa, ask i. homma turn the light to party mode
+Alexa, disable i. homma

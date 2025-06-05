@@ -1,0 +1,6 @@
+Alexa, open rain sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Rain Sounds
+Alexa, launch Rain Sounds
+Alexa, disable rain sounds

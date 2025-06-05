@@ -1,0 +1,7 @@
+Alexa, open ooma
+Alexa, ask Ooma to turn off the siren
+Alexa, ask Ooma for the status of my sensors
+Alexa, ask Ooma to play my voicemail
+Alexa, tell Ooma switch to Away mode
+Alexa, ask Ooma for status of my sensors
+Alexa, disable ooma

@@ -1,0 +1,4 @@
+Alexa, open favorite food
+Alexa, tell favorite food my favorite food is pizza
+what is my favorite food
+Alexa, disable favorite food

@@ -1,0 +1,4 @@
+Alexa, turn on air conditioner
+Alexa, turn on vacuum
+Alexa, set water heater to 55 degrees
+Alexa, disable SmartHome(formerlyMSmartHome)

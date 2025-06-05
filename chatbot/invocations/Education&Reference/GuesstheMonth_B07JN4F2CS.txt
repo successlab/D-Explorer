@@ -1,0 +1,5 @@
+Alexa, open guess the month
+Alexa, launch Guess the Month
+the answer is two
+can you repeat
+Alexa, disable guess the month

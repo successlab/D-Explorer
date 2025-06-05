@@ -1,0 +1,4 @@
+Alexa, open bitcoin market
+Alexa, ask Bitcoin Market what is the price of a Bitcoin?
+Alexa, ask Bitcoin Market how much is a Bitcoin
+Alexa, disable bitcoin market

@@ -1,0 +1,7 @@
+Alexa, open multiplication four
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start multiplication four
+Alexa, disable multiplication four

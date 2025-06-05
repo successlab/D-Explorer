@@ -1,0 +1,5 @@
+Alexa, open magic mirror
+Alexa, ask Magic Mirror who is the fairest of them all me or Bob?
+Alexa, ask Magic Mirror who is the fairest of them all Bob or me?
+Alexa, ask Magic Mirror who is the fairest of them all Bob or Mary?
+Alexa, disable magic mirror

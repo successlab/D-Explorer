@@ -1,0 +1,5 @@
+Alexa, open juego de memoria planetas
+Alexa, abre Juego de Memoria Planetas
+Alexa, inicia Juego de Memoria Planetas
+Alexa, deténgase
+Alexa, disable juego de memoria planetas

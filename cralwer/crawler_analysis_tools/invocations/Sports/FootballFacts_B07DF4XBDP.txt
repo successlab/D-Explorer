@@ -1,0 +1,5 @@
+Alexa, open football facts
+Alexa, open football facts and tell me a football fact
+tell me a football fact
+tell me another football fact
+Alexa, disable football facts

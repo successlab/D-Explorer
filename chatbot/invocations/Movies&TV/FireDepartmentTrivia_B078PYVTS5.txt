@@ -1,0 +1,5 @@
+Alexa, open fire department trivia
+Alexa, ask Fire Department Trivia for Backdraft trivia
+Emergency trivia
+Play siren
+Alexa, disable fire department trivia

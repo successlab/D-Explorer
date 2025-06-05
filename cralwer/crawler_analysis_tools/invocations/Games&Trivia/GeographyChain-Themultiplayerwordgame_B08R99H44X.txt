@@ -1,0 +1,3 @@
+Alexa, open geography chain
+Alexa ask geography chain for rules
+Alexa, disable geography chain

@@ -1,0 +1,5 @@
+Alexa, open oráculo de luz
+Alexa, abre oráculo de luz
+Alexa, iniciar oráculo de luz
+Alexa, lanzar oráculo de luz
+Alexa, disable oráculo de luz

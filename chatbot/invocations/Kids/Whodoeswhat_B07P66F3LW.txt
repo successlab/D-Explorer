@@ -1,0 +1,4 @@
+Alexa, open who does what
+Alexa, ask Who does what whose turn it is to pick a restaurant
+Alexa, ask Who does what who should take out the trash
+Alexa, disable who does what

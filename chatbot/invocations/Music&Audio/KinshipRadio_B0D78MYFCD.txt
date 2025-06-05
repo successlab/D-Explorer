@@ -1,0 +1,4 @@
+Alexa, open kinship radio
+Alexa, play kinship radio
+help
+Alexa, disable kinship radio

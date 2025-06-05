@@ -1,0 +1,3 @@
+Alexa, open christmas countdown
+Alexa, start christmas countdown
+Alexa, disable christmas countdown

@@ -1,0 +1,5 @@
+Alexa, open slow counter
+Alexa open slow counter.
+Alexa launch slow counter.
+Alexa, ask slow counter for 100.
+Alexa, disable slow counter

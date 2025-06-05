@@ -1,0 +1,5 @@
+Alexa, open sabores mexicanos
+Alexa, abre sabores mexicanos y dime qué preparar con tomate y arroz
+Alexa, abre sabores mexicanos
+Alexa, abre sabores mexicanos y busca cómo preparar guacamole
+Alexa, disable sabores mexicanos

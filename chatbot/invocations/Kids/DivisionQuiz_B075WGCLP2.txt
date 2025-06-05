@@ -1,0 +1,5 @@
+Alexa, open division quiz
+Alexa, ask Division Quiz to start quiz
+14
+10
+Alexa, disable division quiz

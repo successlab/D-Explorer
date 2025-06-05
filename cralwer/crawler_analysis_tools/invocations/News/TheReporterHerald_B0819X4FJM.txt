@@ -1,0 +1,5 @@
+Alexa, open the reporter herald
+Alexa, ask The Reporter Herald for Top News
+Alexa, ask The Reporter Herald for Business News
+Alexa, ask The Reporter Herald for High School Sports News
+Alexa, disable the reporter herald

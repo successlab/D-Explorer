@@ -1,0 +1,5 @@
+Alexa, open hive
+Alexa, set the thermostat to 68 degrees
+Alexa, turn on my light
+Alexa, turn on my plug
+Alexa, disable hive

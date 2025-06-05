@@ -1,0 +1,12 @@
+Alexa, open desiring god sermons
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, open desiring god
+Alexa, ask desiring god for the latest talk
+Alexa, start desiring god
+Alexa, disable desiring god sermons

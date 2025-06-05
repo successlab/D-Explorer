@@ -1,0 +1,3 @@
+Alexa, open shopping notifications
+Alexa, ask shopping notifications
+Alexa, disable shopping notifications

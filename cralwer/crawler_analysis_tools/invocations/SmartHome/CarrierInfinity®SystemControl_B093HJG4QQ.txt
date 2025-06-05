@@ -1,0 +1,5 @@
+Alexa, open myinfinity
+Alexa, open Myinfinity and change the mode to auto
+Alexa, open Myinfinity and who is my equipment dealer
+Alexa, open Myinfinity and cancel my vacation
+Alexa, disable myinfinity

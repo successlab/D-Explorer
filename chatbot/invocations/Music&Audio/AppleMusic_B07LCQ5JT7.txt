@@ -1,0 +1,4 @@
+Alexa, play music by Bebe Rexha on Apple Music
+Alexa, play Today's Hits on Apple Music
+Alexa, play New Music Daily playlist on Apple Music
+Alexa, disable AppleMusic

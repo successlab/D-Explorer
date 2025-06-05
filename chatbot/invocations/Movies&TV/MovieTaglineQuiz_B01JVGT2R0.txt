@@ -1,0 +1,5 @@
+Alexa, open movie tagline quiz
+Alexa, start Movie Tagline Quiz.
+Alexa, begin Movie Tagline Quiz.
+Alex, open Movie Tagline Quiz.
+Alexa, disable movie tagline quiz

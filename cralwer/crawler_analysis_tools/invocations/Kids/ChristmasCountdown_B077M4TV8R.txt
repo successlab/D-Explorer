@@ -1,0 +1,5 @@
+Alexa, open christmas countdown
+Alexa, ask Christmas Countdown how many days are left until Christmas.
+Alexa, ask Christmas Countdown for some Christmas cheer.
+Alexa, open Christmas Countdown.
+Alexa, disable christmas countdown

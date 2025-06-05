@@ -1,0 +1,5 @@
+Alexa, open mi broma
+Alexa, siguiente
+Alexa, para
+Alexa, abre mi broma
+Alexa, disable mi broma

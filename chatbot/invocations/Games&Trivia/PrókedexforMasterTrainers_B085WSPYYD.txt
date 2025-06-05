@@ -1,0 +1,4 @@
+Alexa, open my prokedex
+Alexa, ask my prokedex for types super effective against fire
+Alexa, ask my prokedex for Bulbasaur evolutions
+Alexa, disable my prokedex

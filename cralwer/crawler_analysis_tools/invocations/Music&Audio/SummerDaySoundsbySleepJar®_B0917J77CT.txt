@@ -1,0 +1,9 @@
+Alexa, open summer day sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Summer Day Sounds to turn on Background Mode
+Alexa, ask Summer Day Sounds to turn Background Mode off
+Alexa, start Summer Day Sounds
+Alexa, launch Summer Day Sounds
+Alexa, disable summer day sounds

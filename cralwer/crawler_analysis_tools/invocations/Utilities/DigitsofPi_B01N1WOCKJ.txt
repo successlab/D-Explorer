@@ -1,0 +1,5 @@
+Alexa, open digits of pi
+Alexa, ask Digits of Pi what is pi to the first digit
+Alexa, ask Digits of Pi what is pi rounded to fourteen digits
+Alexa, ask Digits of Pi what is pi to the eighth digit
+Alexa, disable digits of pi

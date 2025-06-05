@@ -1,0 +1,2 @@
+Alexa, open what kind of food
+Alexa, disable what kind of food

@@ -1,0 +1,5 @@
+Alexa, open pizza calculator
+Alexa ask Pizza Calculator how many pizzas should I order for ten people
+Alexa ask Pizza Calculator if I have ten people how many pizzas should I order
+Alexa ask Pizza Calculator how to feed ten people
+Alexa, disable pizza calculator

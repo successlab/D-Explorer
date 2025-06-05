@@ -1,0 +1,3 @@
+Alexa, open toronto trivia
+Alexa start Toronto trivia
+Alexa, disable toronto trivia

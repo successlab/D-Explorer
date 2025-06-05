@@ -1,0 +1,6 @@
+Alexa, open taco facts
+Alexa, ask taco facts to tell me a taco fact
+Alexa ask taco facts to give me a taco fact.
+Alexa ask taco facts to tell me a taco fact.
+Alexa ask taco facts to give me some taco information.
+Alexa, disable taco facts

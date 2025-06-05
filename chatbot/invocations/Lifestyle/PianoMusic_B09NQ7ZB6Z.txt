@@ -1,0 +1,4 @@
+Alexa, open piano music
+Alexa, Pause
+Alexa, Resume
+Alexa, disable piano music

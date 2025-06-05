@@ -1,0 +1,5 @@
+Alexa, open time travel
+Alexa, ask time travel, how far it is from New York to San Francisco
+how long will it take to drive from Oxford to Cambridge
+how long will it take to walk from oxford circus tube station to piccadilly circus tube station
+Alexa, disable time travel

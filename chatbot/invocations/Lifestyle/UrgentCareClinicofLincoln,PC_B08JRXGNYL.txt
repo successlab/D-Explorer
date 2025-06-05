@@ -1,0 +1,5 @@
+Alexa, open urgent care
+Alexa, Ask Urgent Care What is the wait time
+Alexa, Ask Urgent Care if they treat strep throat
+Alexa, Ask Urgent Care if they have flu shots
+Alexa, disable urgent care

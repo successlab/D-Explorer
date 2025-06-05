@@ -1,0 +1,4 @@
+Alexa, open carsons workout tracker
+Alexa tell carsons workout tracker add legs
+Alexa tell carsons workout tracker I did chest
+Alexa, disable carsons workout tracker

@@ -1,0 +1,4 @@
+Alexa, open shade.
+Alexa, close shade.
+Alexa, open shade to 20%
+Alexa, disable LEVOLOR®InMotion™

@@ -1,0 +1,4 @@
+Alexa, open morse code messenger
+Translate "SOS
+Say "Hello World!" in morse code
+Alexa, disable morse code messenger

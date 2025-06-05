@@ -1,0 +1,5 @@
+Alexa, open pay by phone
+Alexa, ask PayByPhone to start a parking session.
+Alexa, ask PayByPhone to extend my parking.
+Alexa, ask PayByPhone to get my parking info.
+Alexa, disable pay by phone

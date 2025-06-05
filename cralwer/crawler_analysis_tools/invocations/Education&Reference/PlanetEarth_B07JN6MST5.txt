@@ -1,0 +1,5 @@
+Alexa, open planet earth
+Alexa, ask Planet Earth to tell me a fact
+Alexa, ask Planet Earth to give me trivia.
+Alexa, ask Planet Earth to give me some information.
+Alexa, disable planet earth

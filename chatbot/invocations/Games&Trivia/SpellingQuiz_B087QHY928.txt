@@ -1,0 +1,5 @@
+Alexa, open spelling quiz
+Alexa, open Spelling Quiz.
+Alexa ask Spelling Quiz for help.
+Alexa, play Spelling Quiz
+Alexa, disable spelling quiz

@@ -1,0 +1,3 @@
+Alexa, open motivate me
+Alexa, stop
+Alexa, disable motivate me

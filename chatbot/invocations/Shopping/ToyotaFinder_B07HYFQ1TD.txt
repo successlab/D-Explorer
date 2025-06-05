@@ -1,0 +1,4 @@
+Alexa, open toyota finder
+Alexa, ask Toyota Finder to help me find an s. u. v.
+Alexa, ask Toyota Finder to help me find a truck
+Alexa, disable toyota finder

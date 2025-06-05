@@ -1,0 +1,5 @@
+Alexa, open apex fusion
+Alexa, ask Apex Fusion for a status report.
+Alexa, tell Apex Fusion to start feed cycle A.
+Alexa, ask Apex Fusion to log a phosphate test.
+Alexa, disable apex fusion

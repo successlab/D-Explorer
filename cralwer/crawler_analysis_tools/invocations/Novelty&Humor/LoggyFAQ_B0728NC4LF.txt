@@ -1,0 +1,5 @@
+Alexa, open loggy the doggy
+Alexa, ask Loggy the Doggy how old are you?
+Alexa, ask Loggy the Doggy what do people call you?
+Alexa, ask Loggy the Doggy what type of dog are you?
+Alexa, disable loggy the doggy

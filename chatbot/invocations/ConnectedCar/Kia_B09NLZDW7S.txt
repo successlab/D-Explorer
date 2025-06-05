@@ -1,0 +1,5 @@
+Alexa, open kia
+Alexa, tell Kia to start my car and set climate control to seventy degrees
+Alexa, tell Kia to lock my car doors
+Alexa, tell kia to start my car
+Alexa, disable kia

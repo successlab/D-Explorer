@@ -1,0 +1,3 @@
+Alexa, open jumper one two
+Alexa, start Jumper one two
+Alexa, disable jumper one two

@@ -1,0 +1,4 @@
+Alexa, open happy cleaning
+Alexa, start Happy Cleaning
+Alexa, launch Happy cleaning
+Alexa, disable happy cleaning

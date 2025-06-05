@@ -1,0 +1,5 @@
+Alexa, open money money
+Alexa, tell Money Money I spent ten dollars on clothing
+Alexa, ask Money Money my expenses by category
+Alexa, ask Money Money to delete my last expense
+Alexa, disable money money

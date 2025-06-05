@@ -1,0 +1,5 @@
+Alexa, open wellington trains
+Alexa, ask wellington trains when the next train from Waterloo Station is
+Alexa, ask wellington trains when the next train from Wellington Station is
+Alexa, ask wellington trains when's the next train
+Alexa, disable wellington trains

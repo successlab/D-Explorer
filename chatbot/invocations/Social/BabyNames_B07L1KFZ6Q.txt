@@ -1,0 +1,4 @@
+Alexa, open baby names
+Suggest a boy name
+Give me a girl name
+Alexa, disable baby names

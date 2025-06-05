@@ -1,0 +1,4 @@
+Alexa, open quick french
+Alexa, start Quick French
+Alexa, run Quick French
+Alexa, disable quick french

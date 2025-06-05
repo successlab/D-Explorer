@@ -1,0 +1,5 @@
+Alexa, open my car net
+Alexa, ask my Car Net to lock my car
+Alexa, ask my Car Net to Start my car
+Alexa, ask my Car Net to start charging my car
+Alexa, disable my car net

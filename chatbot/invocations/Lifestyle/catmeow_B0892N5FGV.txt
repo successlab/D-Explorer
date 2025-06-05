@@ -1,0 +1,3 @@
+Alexa, open cat meow
+Alexa, launch cat meow
+Alexa, disable cat meow

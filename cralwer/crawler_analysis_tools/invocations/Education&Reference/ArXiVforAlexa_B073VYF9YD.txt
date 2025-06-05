@@ -1,0 +1,5 @@
+Alexa, open pre print archive
+Alexa, ask pre print archive to Get me the recent papers in computational finance
+get recent papers in quantum gases
+recent papers in combinatorics
+Alexa, disable pre print archive

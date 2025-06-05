@@ -1,0 +1,5 @@
+Alexa, open smart vacuum
+Alexa, ask smart vacuum to report the remaining battery.
+Alexa, ask smart vacuum to tell me this week's cleaning report.
+Alexa, ask smart vacuum to tell me today's cleaning report.
+Alexa, disable smart vacuum

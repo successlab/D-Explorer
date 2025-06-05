@@ -1,0 +1,5 @@
+Alexa, open absolute pitch
+Alexa, load Absolute Pitch
+Alexa, ask Absolute Pitch to quiz me
+Alexa, ask Absolute Pitch to make harder
+Alexa, disable absolute pitch

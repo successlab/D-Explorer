@@ -1,0 +1,2 @@
+Alexa, open firefox trivia
+Alexa, disable firefox trivia

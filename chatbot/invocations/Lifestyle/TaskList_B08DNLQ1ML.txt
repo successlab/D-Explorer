@@ -1,0 +1,4 @@
+Alexa, open my task list
+Alexa, ask my task list to read my chore list
+Alexa, ask my task list to log a chore
+Alexa, disable my task list

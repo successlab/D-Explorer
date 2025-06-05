@@ -1,0 +1,5 @@
+Alexa, open mythology land
+Alexa, ask mythology land to list greek gods
+Alexa, ask mythology land to tell more about the god Zeus
+Alexa, open mythology land and compare Mercury with its counterpart
+Alexa, disable mythology land

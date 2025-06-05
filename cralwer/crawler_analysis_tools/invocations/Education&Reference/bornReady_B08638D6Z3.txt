@@ -1,0 +1,5 @@
+Alexa, open born ready
+Alexa, give me a tip from born ready
+Alexa, stop
+Alexa, ask born ready to give me a tip
+Alexa, disable born ready

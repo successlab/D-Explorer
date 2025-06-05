@@ -1,0 +1,4 @@
+Alexa, open hail agriculture soldier
+Alexa, stop
+Alexa, start hail agriculture soldier
+Alexa, disable hail agriculture soldier

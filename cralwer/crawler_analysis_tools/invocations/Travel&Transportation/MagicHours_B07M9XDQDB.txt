@@ -1,0 +1,4 @@
+Alexa, open magic hours
+Alexa ask Magic Hours what are the operating hours for disneyland paris
+Alexa ask Magic Hours What is the wait time for space mountain ?
+Alexa, disable magic hours

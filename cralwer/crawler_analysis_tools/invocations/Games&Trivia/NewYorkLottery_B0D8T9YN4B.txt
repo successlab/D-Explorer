@@ -1,0 +1,5 @@
+Alexa, open new york lottery
+Alexa ask New York Lottery for the latest Powerball numbers
+Alexa ask New York Lottery for the current New York Lotto jackpot
+Alexa ask New York Lottery how much time is left until the next Powerball drawing
+Alexa, disable new york lottery

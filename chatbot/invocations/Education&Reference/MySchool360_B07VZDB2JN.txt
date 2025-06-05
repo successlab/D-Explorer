@@ -1,0 +1,4 @@
+Alexa, open my school
+Alexa ask my school for updates
+Alexa ask my school for appointments
+Alexa, disable my school

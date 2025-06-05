@@ -1,0 +1,3 @@
+Alexa, open batuu boarding pass
+Alexa, open Batuu boarding pass and check for group number 2
+Alexa, disable batuu boarding pass

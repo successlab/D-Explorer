@@ -1,0 +1,5 @@
+Alexa, open sugar spain
+Alexa, play SUGAR SPAIN
+Alexa, start SUGAR SPAIN
+Alexa, ask SUGAR SPAIN what song is playing
+Alexa, disable sugar spain

@@ -1,0 +1,4 @@
+Alexa, open k. a. r. v.
+Alexa, play k. a. r. v.
+Alexa, start k. a. r. v.
+Alexa, disable k. a. r. v.

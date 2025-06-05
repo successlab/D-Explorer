@@ -1,0 +1,4 @@
+Alexa, open loan calculator
+Alexa Ask Loan Calculator how much would a 200,000 dollar loan cost me
+Alexa Ask Loan Calculator for 50,000 dollar loan
+Alexa, disable loan calculator

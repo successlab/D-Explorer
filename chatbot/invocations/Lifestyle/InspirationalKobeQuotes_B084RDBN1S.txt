@@ -1,0 +1,4 @@
+Alexa, open kobe quotes
+Alexa, start Kobe Quotes
+Alexa, launch Kobe Quotes
+Alexa, disable kobe quotes

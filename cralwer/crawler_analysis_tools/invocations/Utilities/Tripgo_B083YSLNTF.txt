@@ -1,0 +1,3 @@
+Alexa, open trip go
+Alexa, start trip go
+Alexa, disable trip go

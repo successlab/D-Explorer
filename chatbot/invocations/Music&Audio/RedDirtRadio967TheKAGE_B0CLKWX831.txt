@@ -1,0 +1,4 @@
+Alexa, open red dirt radio
+Alexa, ask red dirt radio what's playing.
+Alexa, ask red dirt radio to play live.
+Alexa, disable red dirt radio

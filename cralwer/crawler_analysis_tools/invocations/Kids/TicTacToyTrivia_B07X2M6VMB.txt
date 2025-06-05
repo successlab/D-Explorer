@@ -1,0 +1,3 @@
+Alexa, open tic tac toy
+Alexa, start Tic Tac Toy
+Alexa, disable tic tac toy

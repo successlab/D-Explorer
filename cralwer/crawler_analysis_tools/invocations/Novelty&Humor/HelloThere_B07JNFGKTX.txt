@@ -1,0 +1,3 @@
+Alexa, open hello there
+Alexa, Hello There
+Alexa, disable hello there

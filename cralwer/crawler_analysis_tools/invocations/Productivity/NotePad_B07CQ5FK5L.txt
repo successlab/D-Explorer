@@ -1,0 +1,5 @@
+Alexa, open note pad
+Alexa, ask note pad to write a note
+Alexa, ask note pad to read my notes
+Alexa, ask note pad to take note
+Alexa, disable note pad

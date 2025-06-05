@@ -1,0 +1,3 @@
+Alexa, open today's question
+Alexa, what is my ranking in Today's Question
+Alexa, disable today's question

@@ -1,0 +1,5 @@
+Alexa, open cherry math
+Alexa, open Cherry Math.
+Alexa, open Cherry Math and ask additions.
+Alexa, open Cherry Math and ask subtractions.
+Alexa, disable cherry math

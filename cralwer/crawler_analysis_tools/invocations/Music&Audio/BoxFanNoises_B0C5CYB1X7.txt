@@ -1,0 +1,4 @@
+Alexa, open box fan noises
+Alexa, Pause
+Alexa, Resume
+Alexa, disable box fan noises

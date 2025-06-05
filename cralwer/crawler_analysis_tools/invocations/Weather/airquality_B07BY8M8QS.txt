@@ -1,0 +1,3 @@
+Alexa, open air quality
+Alexa, ask air quality in New York
+Alexa, disable air quality

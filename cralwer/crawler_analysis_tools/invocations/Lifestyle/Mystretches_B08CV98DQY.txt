@@ -1,0 +1,4 @@
+Alexa, open my stretches
+Alexa, start my stretches
+Alexa, ask my stretches to start workout
+Alexa, disable my stretches

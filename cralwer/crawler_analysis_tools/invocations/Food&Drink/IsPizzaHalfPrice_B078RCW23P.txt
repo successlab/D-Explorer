@@ -1,0 +1,3 @@
+Alexa, open is pizza half price
+Alexa, is pizza half price?
+Alexa, disable is pizza half price

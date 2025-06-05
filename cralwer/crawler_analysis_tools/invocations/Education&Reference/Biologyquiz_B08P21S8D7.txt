@@ -1,0 +1,7 @@
+Alexa, open biology quiz
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start biology quiz
+Alexa, disable biology quiz

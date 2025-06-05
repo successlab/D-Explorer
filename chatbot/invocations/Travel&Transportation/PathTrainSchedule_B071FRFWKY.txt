@@ -1,0 +1,7 @@
+Alexa, open path next
+Alexa, ask path next when is my next train from Newport to World Trade Center
+Alexa, ask path next to list path stations
+Alexa, ask path next, When is the next train from newport to world trade center
+Alexa, ask path next, when is the next train
+Alexa, ask path next, to list path stations
+Alexa, disable path next

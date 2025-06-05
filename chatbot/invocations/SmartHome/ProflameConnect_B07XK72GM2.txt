@@ -1,0 +1,4 @@
+Alexa, open proflame connect
+Alexa, use Proflame Connect and Get the list of the fireplaces
+Alexa, use Proflame Connect and switch on the fireplace
+Alexa, disable proflame connect

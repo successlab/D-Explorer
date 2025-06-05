@@ -1,0 +1,3 @@
+Alexa, open she bot
+Alexa, start she bot
+Alexa, disable she bot

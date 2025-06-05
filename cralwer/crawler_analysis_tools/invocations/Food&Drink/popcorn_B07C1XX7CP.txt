@@ -1,0 +1,5 @@
+Alexa, open popcorn chef
+Alexa launch popcorn chef
+next
+reset
+Alexa, disable popcorn chef

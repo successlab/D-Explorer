@@ -1,0 +1,6 @@
+Alexa, open cantonese numbers
+Alexa, launch Cantonese Numbers
+Alexa, stop
+Alexa ask Cantonese Numbers for a number
+Alexa ask Cantonese Numbers for a random number
+Alexa, disable cantonese numbers

@@ -1,0 +1,5 @@
+Alexa, open hocus pocus
+Alexa, ENABLE, Hocus Pocus
+Alexa Start Hocus Pocus
+Alexa Play Hocus Pocus
+Alexa, disable hocus pocus

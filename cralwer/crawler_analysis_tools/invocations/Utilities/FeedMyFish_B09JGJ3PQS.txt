@@ -1,0 +1,5 @@
+Alexa, open fish feeder
+Alexa, tell fish feeder I feed my fish twice per day
+Alexa, tell fish feeder I fed the fish
+Alexa, ask fish feeder if I should feed the fish
+Alexa, disable fish feeder

@@ -1,0 +1,3 @@
+Alexa, open stock signals
+tell me about A.A.P.L
+Alexa, disable stock signals

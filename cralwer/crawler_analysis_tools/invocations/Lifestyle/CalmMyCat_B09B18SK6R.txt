@@ -1,0 +1,5 @@
+Alexa, open calm my cat
+Alexa, stop
+Alexa, start Calm My Cat
+Alexa, play Calm My Cat
+Alexa, disable calm my cat

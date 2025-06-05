@@ -1,0 +1,4 @@
+Alexa, open santa cruz voice
+Alexa, Start Santa Cruz Voice
+Alexa, Play Santa Cruz Voice
+Alexa, disable santa cruz voice

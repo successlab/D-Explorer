@@ -1,0 +1,5 @@
+Alexa, open compliment bot
+Alexa, ask Compliment Bot to give me a compliment.
+Alexa, ask Compliment Bot to compliment me.
+Alexa, ask Compliment Bot to tell me something nice.
+Alexa, disable compliment bot

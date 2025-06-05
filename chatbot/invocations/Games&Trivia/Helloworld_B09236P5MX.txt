@@ -1,0 +1,6 @@
+Alexa, open daily horoscopes
+Alexa, launch Space Facts
+Alexa, open Space Facts
+Alexa, stop
+Alexa, ask daily horoscopes for a fact
+Alexa, disable daily horoscopes

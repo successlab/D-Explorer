@@ -1,0 +1,5 @@
+Alexa, open tiger facts
+Alexa, ask tiger facts to tell me a fact
+Alexa, ask tiger facts to tell me a tiger fact
+Alexa, ask tiger facts to give me a tiger trivia
+Alexa, disable tiger facts

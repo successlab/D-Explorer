@@ -1,0 +1,3 @@
+Alexa, open soda time
+Alexa, soda time
+Alexa, disable soda time

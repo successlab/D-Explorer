@@ -1,0 +1,5 @@
+Alexa, open michael scott quotes
+Alexa, ask Michael Scott Quotes for a quote.
+Alexa, ask Michael Scott Quotes to rate some quotes.
+Alexa, ask Michael Scott Quotes for ID 100.
+Alexa, disable michael scott quotes

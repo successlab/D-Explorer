@@ -1,0 +1,2 @@
+Alexa, open quiz it
+Alexa, disable quiz it

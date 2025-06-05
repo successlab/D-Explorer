@@ -1,0 +1,5 @@
+Alexa, open frases futbolistas
+Alexa, abre frases futbolistas
+Alexa, pregunta a frases futbolistas por una frase en el fútbol
+Alexa, abre frases futbolistas y dime una frase
+Alexa, disable frases futbolistas

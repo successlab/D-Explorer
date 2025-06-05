@@ -1,0 +1,5 @@
+Alexa, open word of the day
+Alexa, ask word of the day to give me word of the day
+Alexa, ask word of the day to get me word of the day
+Alexa, ask word of the day to tell me word of the day
+Alexa, disable word of the day

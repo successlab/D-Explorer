@@ -1,0 +1,5 @@
+Alexa, open the hungry cat
+Alexa, tell The Hungry Cat that I fed Spot.
+Alexa, ask The Hungry Cat when Spot was fed.
+Alexa, open The Hungry Cat.
+Alexa, disable the hungry cat

@@ -1,0 +1,4 @@
+Alexa, open one minute workout
+Alexa, start one minute workout
+Alexa, ask one minute workout to start workout
+Alexa, disable one minute workout

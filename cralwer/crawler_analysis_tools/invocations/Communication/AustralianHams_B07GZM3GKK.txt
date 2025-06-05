@@ -1,0 +1,4 @@
+Alexa, open australian ham
+lookup victor kilo three foxtrot uniform romeo
+Alexa, ask Australian ham who is victor kilo three foxtrot uniform romeo
+Alexa, disable australian ham

@@ -1,0 +1,3 @@
+Alexa, open should i jump
+Alexa, ask should I jump if I should jump
+Alexa, disable should i jump

@@ -1,0 +1,5 @@
+Alexa, open soccer scores
+Alexa, ask Soccer Scores what is the Arsenal score?
+Alexa, ask Soccer Scores what are the Serie A scores?
+Alexa, ask Soccer Scores who do Liverpool play next?
+Alexa, disable soccer scores

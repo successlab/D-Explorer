@@ -1,0 +1,4 @@
+Alexa, open weather application
+karachi weather
+newyork weather
+Alexa, disable weather application

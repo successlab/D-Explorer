@@ -1,0 +1,4 @@
+Alexa, discover my devices
+Alexa, turn on the kitchen.
+Alexa, dim the bedroom to 50%.
+Alexa, disable LegrandLightingControl

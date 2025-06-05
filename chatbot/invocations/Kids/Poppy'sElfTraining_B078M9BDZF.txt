@@ -1,0 +1,4 @@
+Alexa, open elf training
+Alexa, start Elf Training.
+Alexa, start Elf Training
+Alexa, disable elf training

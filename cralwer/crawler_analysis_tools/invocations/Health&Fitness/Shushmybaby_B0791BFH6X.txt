@@ -1,0 +1,5 @@
+Alexa, open shush my baby
+Alexa, shush my baby
+Alexa, pause
+Alexa, stop
+Alexa, disable shush my baby

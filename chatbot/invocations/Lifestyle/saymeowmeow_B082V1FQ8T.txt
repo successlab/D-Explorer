@@ -1,0 +1,4 @@
+Alexa, open cat speak
+Alexa ask cat speak hi
+Alexa ask cat speak hello
+Alexa, disable cat speak

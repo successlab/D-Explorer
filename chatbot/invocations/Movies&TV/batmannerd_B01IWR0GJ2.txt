@@ -1,0 +1,5 @@
+Alexa, open batman nerd
+Alexa, ask batman nerd start game.
+Alexa, ask batman nerd to start a new trivia game.
+Echo, ask batman nerd to start new trivia game.
+Alexa, disable batman nerd

@@ -1,0 +1,4 @@
+Alexa, open eight o'clock
+Alexa ask eight o'clock to tell a few brewing tips
+Alexa ask eight o'clock to give me a recipe
+Alexa, disable eight o'clock

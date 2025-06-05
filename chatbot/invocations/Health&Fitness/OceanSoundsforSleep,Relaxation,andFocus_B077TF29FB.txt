@@ -1,0 +1,4 @@
+Alexa, open ocean sounds
+Alexa ask ocean sounds to play for 30 minutes
+Alexa stop
+Alexa, disable ocean sounds

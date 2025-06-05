@@ -1,0 +1,4 @@
+Alexa, open challenge me trivia
+Alexa, play challenge me trivia
+Alexa, start challenge me trivia
+Alexa, disable challenge me trivia

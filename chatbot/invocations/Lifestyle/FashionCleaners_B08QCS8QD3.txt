@@ -1,0 +1,4 @@
+Alexa, open fashion cleaners
+Alexa, ask fashion cleaners to request a pickup
+help
+Alexa, disable fashion cleaners

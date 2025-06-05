@@ -1,0 +1,4 @@
+Alexa, open saga quotes
+Alexa, open Saga Quotes and give me a line
+Alexa, tell Saga Quotes to quote me
+Alexa, disable saga quotes

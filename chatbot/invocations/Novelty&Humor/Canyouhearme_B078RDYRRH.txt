@@ -1,0 +1,3 @@
+Alexa, open toast rada
+Alexa, tell Toast RADA "This is Clem Fandango, can you hear me?
+Alexa, disable toast rada

@@ -1,0 +1,5 @@
+Alexa, open today's bible
+Alexa, read today's chapter from Today's Bible
+Alexa, read John 3 from Today's Bible
+Alexa, tell Today's Bible next
+Alexa, disable today's bible

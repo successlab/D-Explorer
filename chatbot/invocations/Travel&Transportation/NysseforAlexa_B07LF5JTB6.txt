@@ -1,0 +1,9 @@
+Alexa, open blue white
+Alexa, ask blue white for nearby stops
+Alexa, ask blue white for next departures for 35
+Alexa, ask blue white for next busses for 1761
+Alexa, ask blue white for departures
+Alexa, thank you
+Alexa, ask blue white for help
+Alexa, ask blue white for departures for 1761
+Alexa, disable blue white

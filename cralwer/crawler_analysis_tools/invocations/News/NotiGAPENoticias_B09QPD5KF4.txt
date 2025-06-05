@@ -1,0 +1,5 @@
+Alexa, open notigape noticias
+Alexa, abre notigape noticias
+Alexa, inicia notigape noticias
+Alexa, reproduce notigape noticias
+Alexa, disable notigape noticias

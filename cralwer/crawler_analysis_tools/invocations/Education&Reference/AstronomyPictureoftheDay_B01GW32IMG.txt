@@ -1,0 +1,5 @@
+Alexa, open astro pic
+alexa ask astro pic for the picture
+alexa ask astro pic what is the picture of the day
+alexa tell astro pic to give me the picture of the day
+Alexa, disable astro pic

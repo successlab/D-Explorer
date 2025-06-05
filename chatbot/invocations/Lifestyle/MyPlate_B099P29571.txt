@@ -1,0 +1,5 @@
+Alexa, open my plate
+Alexa, open MyPlate
+Alexa, ask MyPlate for a tip
+Alexa, ask MyPlate for help
+Alexa, disable my plate

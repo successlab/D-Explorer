@@ -1,0 +1,5 @@
+Alexa, open air guru
+Alexa, open Air Guru.
+Alexa, ask Air Guru for the current air quality.
+Alexa, ask Air Guru for the air quality tomorrow.
+Alexa, disable air guru

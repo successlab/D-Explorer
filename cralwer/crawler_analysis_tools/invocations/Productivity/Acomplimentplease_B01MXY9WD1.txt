@@ -1,0 +1,4 @@
+Alexa, open a compliment please
+tell me something nice
+give me a compliment
+Alexa, disable a compliment please

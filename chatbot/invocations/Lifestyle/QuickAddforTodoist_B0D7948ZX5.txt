@@ -1,0 +1,10 @@
+Alexa, open quick add
+Alexa, tell Quick Add to put apples on my Grocery List.
+Alexa, open Quick Add.
+Alexa, tell Quick Add
+Alexa, ask Quick Add.
+Alexa, tell Quick Add add [task].
+Alexa, tell Quick Add
+Alexa, tell quick add to add wash car Tuesday
+Alexa, tell quick add to put apples on my Grocery List
+Alexa, disable quick add

@@ -1,0 +1,5 @@
+Alexa, open pick between
+Alexa, open Pick Between.
+Should I eat rice or noodles?
+Alexa, ask Pick Between if I should play soccer or football.
+Alexa, disable pick between

@@ -1,0 +1,6 @@
+Alexa, open ocean waves
+Alexa, launch Ocean waves
+Alexa, pause.” To resume it again, say 
+Alexa, launch Ocean Waves
+Alexa, start Ocean Waves
+Alexa, disable ocean waves

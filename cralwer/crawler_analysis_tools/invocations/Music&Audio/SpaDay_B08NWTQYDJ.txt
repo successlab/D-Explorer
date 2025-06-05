@@ -1,0 +1,4 @@
+Alexa, open spa day
+Alexa, Start Spa Day
+Alexa, Play Spa Day
+Alexa, disable spa day

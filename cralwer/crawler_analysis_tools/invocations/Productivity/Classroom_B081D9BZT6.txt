@@ -1,0 +1,3 @@
+Alexa, open class room
+Alexa, start Class room
+Alexa, disable class room

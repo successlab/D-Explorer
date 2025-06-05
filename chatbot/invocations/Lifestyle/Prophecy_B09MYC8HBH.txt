@@ -1,0 +1,4 @@
+Alexa, open today's prophecy
+Alexa, start Today's Prophecy
+Alexa, ask Today's Prophecy
+Alexa, disable today's prophecy

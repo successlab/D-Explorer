@@ -1,0 +1,4 @@
+Alexa, turn on hallway light.
+Alexa, set the thermostat to 72 degrees.
+Alexa, set bedroom light to 60 percent.
+Alexa, disable VeraControl

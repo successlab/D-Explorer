@@ -1,0 +1,5 @@
+Alexa, open eruption radio
+Alexa, play Eruption Radio
+Alexa, start Eruption Radio
+Alexa, ask Eruption Radio what song is playing
+Alexa, disable eruption radio

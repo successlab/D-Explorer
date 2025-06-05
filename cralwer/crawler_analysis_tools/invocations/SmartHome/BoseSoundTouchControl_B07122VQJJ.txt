@@ -1,0 +1,7 @@
+Alexa, open bose
+Alexa, ask Bose to play Preset 1
+Alexa, ask Bose to play Preset 1 in the bedroom
+Alexa, ask Bose to play Preset 1.
+Alexa, ask Bose what's playing?
+Alexa, ask Bose to play this song on all of my speakers.
+Alexa, disable bose

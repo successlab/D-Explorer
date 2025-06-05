@@ -1,0 +1,5 @@
+Alexa, open stock info
+Alexa ask Stock Info AMZN
+Alexa ask Stock Info price of MSFT
+Alexa ask Stock Info give me price of FB
+Alexa, disable stock info

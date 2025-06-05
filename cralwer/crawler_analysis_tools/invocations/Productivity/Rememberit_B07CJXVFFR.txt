@@ -1,0 +1,4 @@
+Alexa, open remember it
+Alexa start remember it
+yes
+Alexa, disable remember it

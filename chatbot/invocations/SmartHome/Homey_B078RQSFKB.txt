@@ -1,0 +1,4 @@
+Alexa, turn on the TV
+Alexa, set the lights to hundred percent
+Alexa, set the house temperature to twenty-two degrees
+Alexa, disable Homey

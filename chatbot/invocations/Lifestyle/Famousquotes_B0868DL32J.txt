@@ -1,0 +1,5 @@
+Alexa, open famous quotes
+Alexa, next
+Alexa, stop
+Alexa, start famous quotes
+Alexa, disable famous quotes

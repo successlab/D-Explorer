@@ -1,0 +1,4 @@
+Alexa, open famous movie dialog
+Alexa, launch famous movie dialog
+Alexa, start famous movie dialog
+Alexa, disable famous movie dialog

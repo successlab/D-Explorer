@@ -1,0 +1,6 @@
+Alexa, open task link
+Alexa, open Task Link add milk
+Alexa, ask Task Link add milk
+Alexa, ask Task Link add feed the dog
+Alexa, ask Task Link add hide the evidence
+Alexa, disable task link

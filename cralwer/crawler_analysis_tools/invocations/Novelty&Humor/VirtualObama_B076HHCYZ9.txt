@@ -1,0 +1,4 @@
+Alexa, open virtual obama
+Alexa, start Virtual Obama
+Alexa, launch Virtual Obama
+Alexa, disable virtual obama

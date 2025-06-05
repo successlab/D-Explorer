@@ -1,0 +1,5 @@
+Alexa, open first date
+Alexa, ask First Date to ask us a question
+Alexa, ask First Date to break the ice
+Alexa, ask First Date for a question
+Alexa, disable first date

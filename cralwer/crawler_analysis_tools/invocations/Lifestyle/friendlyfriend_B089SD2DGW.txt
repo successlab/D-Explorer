@@ -1,0 +1,4 @@
+Alexa, open friendly friend
+hello
+help
+Alexa, disable friendly friend

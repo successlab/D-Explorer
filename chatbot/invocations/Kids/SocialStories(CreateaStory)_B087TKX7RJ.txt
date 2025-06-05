@@ -1,0 +1,4 @@
+Alexa, open social stories
+Alexa, start Social Stories
+Alexa, play Social Stories
+Alexa, disable social stories

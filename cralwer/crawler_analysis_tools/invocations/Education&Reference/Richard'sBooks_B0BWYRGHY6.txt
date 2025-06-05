@@ -1,0 +1,4 @@
+Alexa, open richard's books
+Alexa start Richard's Books
+Alexa launch Richard's Books
+Alexa, disable richard's books

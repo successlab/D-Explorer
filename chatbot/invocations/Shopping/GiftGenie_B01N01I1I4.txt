@@ -1,0 +1,6 @@
+Alexa, open gift genie
+Alexa, ask Gift Genie, find a for mom
+Alexa, ask Gift Genie, to help me find a gift for mom
+Alexa, ask Gift Genie, to find a gift for dad
+Alexa, ask Gift Genie, find a gift for dad
+Alexa, disable gift genie

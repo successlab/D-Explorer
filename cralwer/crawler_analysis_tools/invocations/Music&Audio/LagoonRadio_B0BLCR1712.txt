@@ -1,0 +1,4 @@
+Alexa, open lagoon radio
+Alexa, start lagoon radio
+Alexa, ask lagoon radio what's playing
+Alexa, disable lagoon radio

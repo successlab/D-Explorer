@@ -1,0 +1,5 @@
+Alexa, open jen air
+Alexa, tell JennAir to preheat the oven.
+Alexa, tell JennAir to set the upper oven timer for 12 minutes.
+Alexa, ask JennAir for time remaining on the oven timer.
+Alexa, disable jen air

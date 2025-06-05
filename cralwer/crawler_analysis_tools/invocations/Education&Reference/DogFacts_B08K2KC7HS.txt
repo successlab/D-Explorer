@@ -1,0 +1,4 @@
+Alexa, open dog facts
+Alexa ask dog facts for a fact
+Alexa ask dog facts to tell me a dog fact
+Alexa, disable dog facts

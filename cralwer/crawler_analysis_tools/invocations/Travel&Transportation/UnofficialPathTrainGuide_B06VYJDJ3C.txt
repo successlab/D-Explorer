@@ -1,0 +1,8 @@
+Alexa, open train guide
+Alexa, Ask train guide, help
+Alexa, Ask train guide next train from Hoboken to Newport
+Alexa, Ask train guide, Hoboken to Newport
+Alexa, ask Train Guide train from hoboken to newport
+Alexa, ask Train Guide next train from grove street to world trade center
+Alexa , open Train Guide
+Alexa, disable train guide

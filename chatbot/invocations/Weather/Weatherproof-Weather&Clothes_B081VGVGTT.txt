@@ -1,0 +1,10 @@
+Alexa, open weather proof
+Alexa, ask weatherproof what to wear today
+Alexa, ask weatherproof do I need an umbrella today
+Alexa, ask weatherproof is it going to be cold tomorrow?
+Alexa, ask weatherproof do I need sunscreen today?
+Alexa, ask weatherproof what's the weather like on Monday
+Alexa, ask weatherproof what to wear now for cycling
+Alexa, ask weather proof what to wear today
+Alexa, ask weather proof what's the weather like today
+Alexa, disable weather proof

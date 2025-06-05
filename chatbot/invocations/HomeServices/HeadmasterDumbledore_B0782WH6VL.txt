@@ -1,0 +1,5 @@
+Alexa, open headmaster dumbledore
+Alexa ask Headmaster Dumbledore to award ten points to Hufflepuff
+Alexa ask Headmaster Dumbledore to take away ten points from Hufflepuff
+Alexa ask Headmaster Dumbledore to declare the winning house
+Alexa, disable headmaster dumbledore

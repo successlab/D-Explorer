@@ -1,0 +1,5 @@
+Alexa, open dine on campus
+Alexa, ask dine on campus what's for lunch at dining commons at San Jose State University.
+Alexa, ask Dine on Campus what is Foster Walker at Northwestern University serving for dinner tomorrow.
+Alexa, ask Dine on Campus what is The Works at University of Nevada Reno serving for lunch.
+Alexa, disable dine on campus

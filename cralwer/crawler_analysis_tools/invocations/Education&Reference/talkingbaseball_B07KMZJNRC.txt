@@ -1,0 +1,4 @@
+Alexa, open talking baseball
+Alexa, ask Talking Baseball what is Babe Ruth's average
+How many homers does Willie Mays have?
+Alexa, disable talking baseball

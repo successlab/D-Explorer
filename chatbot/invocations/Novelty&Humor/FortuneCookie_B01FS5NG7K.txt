@@ -1,0 +1,5 @@
+Alexa, open fortune cookie
+Alexa, start fortune cookie.
+Alexa, open fortune cookie.
+Alexa, ask fortune cookie for a fortune.
+Alexa, disable fortune cookie

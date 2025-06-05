@@ -1,0 +1,3 @@
+Alexa, open guess it
+Alexa start guess it
+Alexa, disable guess it

@@ -1,0 +1,2 @@
+Alexa, open geography facts
+Alexa, disable geography facts

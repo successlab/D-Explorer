@@ -1,0 +1,5 @@
+Alexa, open my horoscope
+Alexa, change my default sign
+Alexa, ask My Horoscope
+Alexa, ask My Horoscope for Leo
+Alexa, disable my horoscope

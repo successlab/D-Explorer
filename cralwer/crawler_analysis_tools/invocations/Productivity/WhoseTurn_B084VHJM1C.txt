@@ -1,0 +1,5 @@
+Alexa, open whose turn
+Alexa, open whose turn.
+Whose turn is it to shovel?
+Whose turn is it to eat a bagel?
+Alexa, disable whose turn

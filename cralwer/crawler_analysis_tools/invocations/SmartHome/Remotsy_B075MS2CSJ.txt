@@ -1,0 +1,4 @@
+Alexa turn on TV
+Alexa pause DVD
+Alexa mute TV
+Alexa, disable Remotsy

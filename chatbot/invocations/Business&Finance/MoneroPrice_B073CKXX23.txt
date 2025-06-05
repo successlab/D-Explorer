@@ -1,0 +1,5 @@
+Alexa, open monero price
+Alexa, ask Monero Price what is the current price of monero?
+How is monero doing today?
+What is the price of monero?
+Alexa, disable monero price

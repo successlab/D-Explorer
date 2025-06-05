@@ -1,0 +1,5 @@
+Alexa, open remo plus
+Alexa, ask remo plus for battery status.
+Alexa, ask remo plus for last event details.
+Alexa, ask remo plus for wifi status.
+Alexa, disable remo plus

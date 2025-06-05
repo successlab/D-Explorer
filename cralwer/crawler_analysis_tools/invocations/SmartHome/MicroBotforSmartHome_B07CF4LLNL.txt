@@ -1,0 +1,3 @@
+Alexa, Turn On bathroom
+Alexa, Turn Off bathroom
+Alexa, disable MicroBotforSmartHome

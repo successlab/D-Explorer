@@ -1,0 +1,3 @@
+Alexa, open disney trivia
+Alexa, play Disney Trivia
+Alexa, disable disney trivia

@@ -1,0 +1,5 @@
+Alexa, open logic master
+Alexa launch logic master
+Alexa ask logic master to ask an interesting riddle
+help
+Alexa, disable logic master

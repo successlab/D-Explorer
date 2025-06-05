@@ -1,0 +1,6 @@
+Alexa, show me the <name of the device>.
+Alexa, show me the front door.
+Alexa, stop.
+Alexa, show me the living room camera.
+Alexa, show me the backyard camera.
+Alexa, disable Noorio

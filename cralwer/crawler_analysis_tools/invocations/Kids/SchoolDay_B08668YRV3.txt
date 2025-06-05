@@ -1,0 +1,4 @@
+Alexa, open school day
+Alexa, ask school day to read my chore list
+Alexa, ask school day to log a chore
+Alexa, disable school day

@@ -1,0 +1,4 @@
+Alexa, open complibot
+Compliment Leia
+Give me an insult
+Alexa, disable complibot

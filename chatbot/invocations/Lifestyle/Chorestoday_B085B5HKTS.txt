@@ -1,0 +1,4 @@
+Alexa, open chores today
+Alexa, ask chores today to read my chore list
+Alexa, ask chores today to log a chore
+Alexa, disable chores today

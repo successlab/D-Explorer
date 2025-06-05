@@ -1,0 +1,4 @@
+Alexa, open mars weather
+Alexa, ask mars weather what is the current temperature on Mars
+Alexa, ask mars weather is it cold on Mars
+Alexa, disable mars weather

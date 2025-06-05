@@ -1,0 +1,13 @@
+Alexa, open tailwind
+Alexa, ask Tailwind to open garage
+Alexa, ask Tailwind to open gate
+Alexa, ask Tailwind to close garage
+Alexa, ask Tailwind to close gate
+Alexa, ask Tailwind to check garage door
+Alexa, ask Tailwind to check door
+Alexa, ask Tailwind to check garage
+Alexa, ask Tailwind to check gate
+Alexa ask Tailwind to open garage door 1
+Alexa ask Tailwind to close all doors
+Alexa ask Tailwind to check garage door 3
+Alexa, disable tailwind

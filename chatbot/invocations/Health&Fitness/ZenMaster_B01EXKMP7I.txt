@@ -1,0 +1,6 @@
+Alexa, open zen master
+Alexa, ask ZenMaster for a koan
+Alexa, begin ZenMaster
+Alexa, ask ZenMaster to give me a koan
+Alexa, tell ZenMaster to begin zen practice
+Alexa, disable zen master

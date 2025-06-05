@@ -1,0 +1,3 @@
+Alexa, open black alert
+Alexa, black alert
+Alexa, disable black alert

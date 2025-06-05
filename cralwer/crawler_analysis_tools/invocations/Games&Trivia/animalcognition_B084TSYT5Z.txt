@@ -1,0 +1,6 @@
+Alexa, open animal cognition
+Alexa, launch Animal Cognition
+Alexa, stop
+Alexa ask animal cognition for a fact
+Alexa tell animal cognition to tell me trivia
+Alexa, disable animal cognition

@@ -1,0 +1,4 @@
+Alexa, open what am i
+Alexa, what am I?
+Alexa, ask What Am I to tell me what I am
+Alexa, disable what am i

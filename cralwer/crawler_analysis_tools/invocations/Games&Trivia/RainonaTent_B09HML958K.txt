@@ -1,0 +1,4 @@
+Alexa, open rain on a tent
+Alexa, start Rain on a Tent
+Alexa, launch Rain on a Tent
+Alexa, disable rain on a tent

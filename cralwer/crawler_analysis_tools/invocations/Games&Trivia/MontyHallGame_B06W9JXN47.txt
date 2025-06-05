@@ -1,0 +1,4 @@
+Alexa, open monty hall
+Alexa play Monty Hall
+Alexa launch Monty Hall
+Alexa, disable monty hall

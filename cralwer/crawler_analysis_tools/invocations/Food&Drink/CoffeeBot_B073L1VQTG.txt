@@ -1,0 +1,5 @@
+Alexa, open coffee bot
+Alexa, ask coffee bot what type of coffee should i drink
+I am having iced coffee
+I am having hot coffee
+Alexa, disable coffee bot

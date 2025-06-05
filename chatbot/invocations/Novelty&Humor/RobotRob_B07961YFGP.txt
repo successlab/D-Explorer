@@ -1,0 +1,5 @@
+Alexa, open robot rob
+Alexa, ask Robot Rob to tell me about yourself?
+Alexa, ask Robot Rob what's your favorite book?
+Alexa, ask Robot Rob to tell me about a time your work was criticized
+Alexa, disable robot rob

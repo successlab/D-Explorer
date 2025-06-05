@@ -1,0 +1,4 @@
+Alexa, open wine finder
+Alexa, ask wine finder what wine goes with apple pie
+Alexa, ask wine finder what goes well with pizza
+Alexa, disable wine finder

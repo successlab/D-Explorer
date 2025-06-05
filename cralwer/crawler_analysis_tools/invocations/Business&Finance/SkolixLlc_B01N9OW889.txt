@@ -1,0 +1,4 @@
+Alexa, open skolix website
+Alexa, Ask skolix website to give me the Skolix clients name
+Alexa, Ask skolix website to get the Skolix Location
+Alexa, disable skolix website

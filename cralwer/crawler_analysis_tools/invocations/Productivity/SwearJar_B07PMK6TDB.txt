@@ -1,0 +1,5 @@
+Alexa, open swear jar
+Alexa, ask Swear Jar what is the balance?
+Alexa, tell Swear Jar to add three dollars.
+Alexa, ask Swear Jar for the history.
+Alexa, disable swear jar

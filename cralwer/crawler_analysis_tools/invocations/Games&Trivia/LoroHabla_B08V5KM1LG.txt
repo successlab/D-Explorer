@@ -1,0 +1,6 @@
+Alexa, open loro habla
+Alexa, abre loro habla y repite esto ...
+Alexa abre loro habla
+Hola
+Ayuda
+Alexa, disable loro habla

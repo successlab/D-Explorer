@@ -1,0 +1,6 @@
+Alexa, open leap
+Alexa, Open LEAP and create a new fee of one hundred dollars for matter {matter name / number}
+Alexa, open LEAP and Create a new fee of one hundred dollars.
+Alexa, open LEAP and Create a time entry of three units.
+Alexa, open LEAP and Create expense recovery of two hundred dollars.
+Alexa, disable leap

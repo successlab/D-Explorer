@@ -1,0 +1,4 @@
+Alexa, open brain workout
+Alexa, start Brain Workout
+Alexa, launch Brain Workout
+Alexa, disable brain workout

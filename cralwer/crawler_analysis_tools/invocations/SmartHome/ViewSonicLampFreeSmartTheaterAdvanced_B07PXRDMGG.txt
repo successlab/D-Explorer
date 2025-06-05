@@ -1,0 +1,19 @@
+Alexa, open viewsonic
+Alexa, ask/tell viewsonic to power on.
+Alexa, ask/tell viewsonic to power off.
+Alexa, ask/tell viewsonic to volume up.
+Alexa, ask/tell viewsonic to volume down.
+Alexa, ask/tell viewsonic to volume 0-50.
+Alexa, ask/tell viewsonic to mute.
+Alexa, ask/tell viewsonic to unmute.
+Alexa, ask/tell viewsonic to HDMI 1.
+Alexa, ask/tell viewsonic to HDMI 2.
+Alexa, ask/tell viewsonic to HDMI 3.
+Alexa, ask/tell viewsonic to Computer.
+Alexa, ask/tell viewsonic to USB C.
+Alexa, ask/tell viewsonic to Home.
+Alexa, ask/tell viewsonic to focus.
+Alexa, tell viewsonic to power off.
+Alexa, tell viewsonic to mute.
+Alexa, tell viewsonic to HDMI 1.
+Alexa, disable viewsonic

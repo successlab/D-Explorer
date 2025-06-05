@@ -1,0 +1,5 @@
+Alexa, open westeros
+Alexa, ask Westeros if Eddard Stark is dead
+is Theon Greyjoy alive
+check if Jaime Lannister is dead yet
+Alexa, disable westeros

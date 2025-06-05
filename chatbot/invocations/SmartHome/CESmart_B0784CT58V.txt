@@ -1,0 +1,5 @@
+Alexa, discover devices.” Alexa responds “Starting Discovery, This can take up to 20 seconds.” Wait until Alexa says 
+Alexa, turn on bedroom socket
+Alexa, turn off bedroom socket
+Alexa, turn on bedroom light
+Alexa, disable CESmart

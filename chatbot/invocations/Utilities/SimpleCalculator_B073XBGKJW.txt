@@ -1,0 +1,5 @@
+Alexa, open simple calculator
+Alexa ask simple calculator to add 1 and 2
+Alexa ask simple calculator to subtract 1 by 2
+Alexa ask simple calculator to multiply 1 and 2
+Alexa, disable simple calculator

@@ -1,0 +1,7 @@
+Alexa, open pentair pool
+Alexa, ask Pentair Pool to turn on my Waterfall.
+Alexa, ask Pentair Pool what my pool temperature is.
+Alexa, ask Pentair Pool what my pool status is
+Alexa, ask pentair pool what my pool temperature is
+help
+Alexa, disable pentair pool

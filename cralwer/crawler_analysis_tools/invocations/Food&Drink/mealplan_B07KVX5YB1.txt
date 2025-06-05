@@ -1,0 +1,3 @@
+Alexa, open meal plan
+Alexa, ask meal plan what's for dinner
+Alexa, disable meal plan

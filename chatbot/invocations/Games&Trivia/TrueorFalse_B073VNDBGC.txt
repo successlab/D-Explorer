@@ -1,0 +1,3 @@
+Alexa, open true or false
+Alexa, play true or false
+Alexa, disable true or false

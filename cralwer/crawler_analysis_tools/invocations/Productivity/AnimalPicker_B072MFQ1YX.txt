@@ -1,0 +1,4 @@
+Alexa, open animal picker
+What is my favorite animal
+My favorite animal is tiger.
+Alexa, disable animal picker

@@ -1,0 +1,5 @@
+Alexa, open maverick radio
+Alexa, enable maverick radio skill
+Alexa, launch maverick radio
+Alexa, play maverick radio
+Alexa, disable maverick radio

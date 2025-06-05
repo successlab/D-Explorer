@@ -1,0 +1,4 @@
+Alexa, open my sweetheart
+Alexa, stop
+Alexa, start my sweetheart
+Alexa, disable my sweetheart

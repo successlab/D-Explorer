@@ -1,0 +1,4 @@
+Alexa, open question game
+Alexa, start question game
+Alexa, launch question game
+Alexa, disable question game

@@ -1,0 +1,11 @@
+Alexa, open job listings
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask Job Listings for the latest update
+Alexa, start Job Listings
+Alexa, disable job listings

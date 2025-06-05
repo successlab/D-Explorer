@@ -1,0 +1,5 @@
+Alexa, open recipe buddy
+Alexa, ask Recipe Buddy how to make chicken marsala.
+Alexa, ask Recipe Buddy to find me a recipe for philly cheese steak.
+Alexa, ask Recipe Buddy how do I cook pad thai?
+Alexa, disable recipe buddy

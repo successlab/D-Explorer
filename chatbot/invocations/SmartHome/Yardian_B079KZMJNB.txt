@@ -1,0 +1,5 @@
+Alexa, open yardian
+Alexa, ask Yardian to start watering
+Alexa, ask Yardian to start zone one for two minutes
+Alexa, ask Yardian to stop watering
+Alexa, disable yardian

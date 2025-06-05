@@ -1,0 +1,3 @@
+Alexa, open my rainfall
+Alexa, start my rainfall
+Alexa, disable my rainfall

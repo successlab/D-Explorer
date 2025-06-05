@@ -1,0 +1,5 @@
+Alexa, open dish tracker
+Alexa, tell Dish Tracker that the dishes are dirty.
+Alexa, ask Dish Tracker for the status of my dishes.
+Alexa, tell Dish Tracker that I washed the dishes.
+Alexa, disable dish tracker

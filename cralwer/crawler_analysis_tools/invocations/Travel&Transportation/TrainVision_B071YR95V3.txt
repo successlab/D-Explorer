@@ -1,0 +1,5 @@
+Alexa, open train vision
+Alexa, Ask Train vision to Get train status from Metro Park
+Alexa, Ask Train Vision When is the next train at New York
+Alexa, Ask Train Vision about Train information for Summit
+Alexa, disable train vision

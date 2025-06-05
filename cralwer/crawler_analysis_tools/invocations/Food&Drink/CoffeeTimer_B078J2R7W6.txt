@@ -1,0 +1,5 @@
+Alexa, open coffee timer
+Alexa, ask Coffee Timer to brew 25 grams of coffee with pourover
+Alexa, ask Coffee Timer to brew 18 grams of coffee by aeropress
+Alexa, ask Coffee Timer to brew 25 grams of coffee via pour over
+Alexa, disable coffee timer

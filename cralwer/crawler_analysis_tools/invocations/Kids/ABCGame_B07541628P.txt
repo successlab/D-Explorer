@@ -1,0 +1,5 @@
+Alexa, open a. b. c. game
+Alexa, launch ABC game.
+Reverse alphabet.
+Forward alphabet.
+Alexa, disable a. b. c. game

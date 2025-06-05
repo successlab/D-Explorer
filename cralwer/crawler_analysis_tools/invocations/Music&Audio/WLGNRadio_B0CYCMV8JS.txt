@@ -1,0 +1,4 @@
+Alexa, open w. l. g. n. radio
+Alexa, play WLGN Radio
+Alexa, open WLGN Radio
+Alexa, disable w. l. g. n. radio

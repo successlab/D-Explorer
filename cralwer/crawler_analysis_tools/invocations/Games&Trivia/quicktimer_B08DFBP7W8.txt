@@ -1,0 +1,4 @@
+Alexa, open quick timer
+Alexa can you start quick timer?
+Alexa start quick timer
+Alexa, disable quick timer

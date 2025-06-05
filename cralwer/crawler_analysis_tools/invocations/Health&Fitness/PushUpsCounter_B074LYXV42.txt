@@ -1,0 +1,5 @@
+Alexa, open push up
+Alexa, start push up
+I want to do ten push ups
+I am ready
+Alexa, disable push up

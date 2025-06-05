@@ -1,0 +1,6 @@
+Alexa, open sesame street
+Alexa, ask Sesame Street to find Elmo
+Alexa, open Sesame Street.
+Alexa, ask Sesame Street to call Elmo.
+Alexa, ask Sesame Street to play hide and seek.
+Alexa, disable sesame street

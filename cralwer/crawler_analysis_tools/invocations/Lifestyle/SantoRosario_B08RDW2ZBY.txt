@@ -1,0 +1,5 @@
+Alexa, open santo rosario
+Alexa, detente
+Alexa, abre santo rosario
+Alexa, inicia el santo rosario
+Alexa, disable santo rosario

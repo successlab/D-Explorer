@@ -1,0 +1,3 @@
+Alexa, open my hosted question
+Alexa, start my hosted question
+Alexa, disable my hosted question

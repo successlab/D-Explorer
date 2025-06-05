@@ -1,0 +1,3 @@
+Alexa, open stand arrow
+Alexa, start stand arrow
+Alexa, disable stand arrow

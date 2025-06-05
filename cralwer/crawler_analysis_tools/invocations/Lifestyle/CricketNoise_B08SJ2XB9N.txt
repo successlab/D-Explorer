@@ -1,0 +1,4 @@
+Alexa, open cricket noise
+Alexa, Pause
+Alexa, Resume
+Alexa, disable cricket noise

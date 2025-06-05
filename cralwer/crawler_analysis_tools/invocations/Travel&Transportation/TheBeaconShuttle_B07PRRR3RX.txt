@@ -1,0 +1,3 @@
+Alexa, open beacon shuttle
+Alexa ask beacon shuttle for next shuttle.
+Alexa, disable beacon shuttle

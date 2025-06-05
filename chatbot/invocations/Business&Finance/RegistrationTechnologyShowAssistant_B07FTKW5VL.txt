@@ -1,0 +1,5 @@
+Alexa, open show helper
+Alexa tell Show Helper to set my activation code to Midwest Security Conference
+Alexa ask show helper when is lunch
+Alexa ask show helper where is the applied concepts booth
+Alexa, disable show helper

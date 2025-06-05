@@ -1,0 +1,3 @@
+Alexa, open movie quote quiz
+Alexa, play Movie Quote Quiz
+Alexa, disable movie quote quiz

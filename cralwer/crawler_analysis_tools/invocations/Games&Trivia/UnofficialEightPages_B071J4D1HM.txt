@@ -1,0 +1,5 @@
+Alexa, open eight pages
+Alexa, play eight pages
+go north
+how much time have we been here
+Alexa, disable eight pages

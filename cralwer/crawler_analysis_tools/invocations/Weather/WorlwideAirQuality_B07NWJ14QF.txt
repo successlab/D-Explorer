@@ -1,0 +1,5 @@
+Alexa, open worldwide air quality
+Alexa, ask worldwide air quality to give me the air quality in london
+Alexa, ask worldwide air quality to tell me about the air quality in jakarta
+Alexa, ask worldwide air quality to tell me about the air quality in santiago de compostela
+Alexa, disable worldwide air quality

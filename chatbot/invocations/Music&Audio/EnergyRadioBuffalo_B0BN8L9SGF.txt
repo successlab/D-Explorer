@@ -1,0 +1,4 @@
+Alexa, open energy radio buffalo
+Alexa, start energy radio buffalo
+Alexa, ask energy radio buffalo what's playing
+Alexa, disable energy radio buffalo

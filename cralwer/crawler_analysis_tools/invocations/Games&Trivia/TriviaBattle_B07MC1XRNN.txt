@@ -1,0 +1,6 @@
+Alexa, open trivia battle
+Alexa, check state leaderboard
+Alexa, check player standings
+Alexa, Play Trivia Battle
+Alexa, Start Trivia Battle
+Alexa, disable trivia battle

@@ -1,0 +1,4 @@
+Alexa, discover device
+Alexa, turn on bulb socket
+Alexa, turn off bulb socket
+Alexa, disable HomeConfig

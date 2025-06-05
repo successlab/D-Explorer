@@ -1,0 +1,5 @@
+Alexa, open eagles calendar
+Alexa start Eagles Calendar
+what events are happening on 17th of September
+get me events for next week
+Alexa, disable eagles calendar

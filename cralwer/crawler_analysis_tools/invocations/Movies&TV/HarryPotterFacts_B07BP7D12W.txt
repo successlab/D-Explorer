@@ -1,0 +1,4 @@
+Alexa, open harry potter facts
+Alexa, ask Harry Potter facts to give me some information about Harry Potter
+Alexa, ask Harry Potter facts to tell me a Harry Potter fact
+Alexa, disable harry potter facts

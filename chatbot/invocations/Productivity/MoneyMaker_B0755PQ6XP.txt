@@ -1,0 +1,4 @@
+Alexa, open what is my account balance
+Alexa, what is my account balance
+Alexa, ask what is my account balance
+Alexa, disable what is my account balance

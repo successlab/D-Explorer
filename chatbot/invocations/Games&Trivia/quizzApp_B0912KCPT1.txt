@@ -1,0 +1,4 @@
+Alexa, open learn something
+Alexa launch learn something
+Alexa start learn something
+Alexa, disable learn something

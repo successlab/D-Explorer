@@ -1,0 +1,3 @@
+Alexa, open team info
+Alexa team info
+Alexa, disable team info

@@ -1,0 +1,4 @@
+Alexa, open song blast
+Alexa, play song blast
+Alexa launch song blast
+Alexa, disable song blast

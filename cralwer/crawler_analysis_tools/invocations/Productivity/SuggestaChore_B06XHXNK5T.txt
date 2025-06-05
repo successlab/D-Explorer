@@ -1,0 +1,5 @@
+Alexa, open suggest a chore
+Alexa, start suggest a chore
+Alexa, ask suggest a chore what I should work on
+Alexa, tell suggest a chore to give me a task
+Alexa, disable suggest a chore

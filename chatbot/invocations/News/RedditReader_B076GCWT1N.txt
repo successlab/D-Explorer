@@ -1,0 +1,5 @@
+Alexa, open reddit reader
+Alexa, ask Reddit Reader for the top three posts in world news.
+Give me the top two posts in today I learned
+Surprise me
+Alexa, disable reddit reader

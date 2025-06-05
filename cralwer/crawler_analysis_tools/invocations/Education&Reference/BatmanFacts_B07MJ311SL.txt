@@ -1,0 +1,5 @@
+Alexa, open batman facts
+Alexa ask Batman Facts to tell me a fact
+Alexa ask Batman facts to tell me a batman fact
+Alexa ask Batman Facts for a fact
+Alexa, disable batman facts

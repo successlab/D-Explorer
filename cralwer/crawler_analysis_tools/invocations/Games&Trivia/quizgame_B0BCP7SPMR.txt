@@ -1,0 +1,6 @@
+Alexa, open quiz game
+Alexa, launch States Quiz
+Alexa, open States Quiz
+Alexa, stop
+Alexa, play quiz game
+Alexa, disable quiz game

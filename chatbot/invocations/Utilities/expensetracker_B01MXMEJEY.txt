@@ -1,0 +1,5 @@
+Alexa, open expense tracker
+Alexa, ask expense tracker to create a new report
+Alexa, ask expense tracker to add bob
+Alexa, ask expense tracker to note that bob took fifteen dollars
+Alexa, disable expense tracker

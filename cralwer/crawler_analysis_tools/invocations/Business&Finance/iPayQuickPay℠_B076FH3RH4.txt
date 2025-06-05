@@ -1,0 +1,5 @@
+Alexa, open ipay quickpay
+Alexa, open iPay QuickPay.
+What is my next scheduled payment?
+Send twenty-five dollars on December fifth.
+Alexa, disable ipay quickpay

@@ -1,0 +1,4 @@
+Alexa, open pebble creek
+Alexa, ask Pebble Creek for the snow report
+Alexa, ask Pebble Creek for latest conditions
+Alexa, disable pebble creek

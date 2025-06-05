@@ -1,0 +1,5 @@
+Alexa, open turkey facts
+Alexa, tell turkey facts I want a fact.
+Alexa, ask turkey facts for a fact.
+Alexa, tell turkey facts to give me a fact.
+Alexa, disable turkey facts

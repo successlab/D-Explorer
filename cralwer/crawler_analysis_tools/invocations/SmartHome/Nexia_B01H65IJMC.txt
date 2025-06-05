@@ -1,0 +1,13 @@
+Alexa, turn on the living room light
+Alexa, turn off the living room light
+Alexa, turn on the Bedroom light
+Alexa, turn off the Bedroom light
+Alexa, set the Bedroom light to 50%
+Alexa, brighten the Bedroom light
+Alexa, dim the Bedroom light
+Alexa, set Kitchen to cool
+Alexa, set Kitchen to heat
+Alexa, set Kitchen to auto
+Alexa, set Kitchen to off
+Alexa, set Kitchen temperature to 72 degrees
+Alexa, disable Nexia

@@ -1,0 +1,5 @@
+Alexa, open toronto guide
+Alexa, ask toronto guide to tell me the top five things
+tell me a good attraction
+tell me more about number five
+Alexa, disable toronto guide

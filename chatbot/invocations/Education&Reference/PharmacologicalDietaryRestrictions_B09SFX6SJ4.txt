@@ -1,0 +1,4 @@
+Alexa, open food interactions
+launch food interactions
+tell me about losartan
+Alexa, disable food interactions

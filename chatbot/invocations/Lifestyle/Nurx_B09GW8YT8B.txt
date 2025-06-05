@@ -1,0 +1,5 @@
+Alexa, open nurx
+Alexa, ask Nurx how the pill works
+Alexa, ask Nurx for a healthcare fun fact.
+Alexa, ask Nurx to remind me to take my birth control at 9 a.m.
+Alexa, disable nurx

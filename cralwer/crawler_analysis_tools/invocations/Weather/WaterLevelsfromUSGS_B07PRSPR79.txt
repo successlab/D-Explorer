@@ -1,0 +1,4 @@
+Alexa, open water butler
+Alexa, ask Water Butler what locations are near me
+Alexa, ask Water Butler to set my default location
+Alexa, disable water butler

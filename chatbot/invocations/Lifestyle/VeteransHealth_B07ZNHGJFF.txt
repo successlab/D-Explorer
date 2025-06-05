@@ -1,0 +1,6 @@
+Alexa, open veterans health
+Alexa, tell veterans health I'd like to visit a doctor near 100 Legends Way, Boston, MA
+Alexa, tell veterans health I need care near Boston, MA
+Alexa, tell veterans health I need care near 4 Yawkey Way, Boston, MA
+Alexa, tell veterans health I'd like to visit a doctor near 4 Yawkey Way, Boston, MA
+Alexa, disable veterans health

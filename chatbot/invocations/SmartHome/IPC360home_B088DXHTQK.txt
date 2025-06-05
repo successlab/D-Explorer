@@ -1,0 +1,12 @@
+Alexa, show the room camera.
+Alexa, turn on the kitchen light.
+Alexa, turn off the kitchen light.
+Alexa, set the kitchen light to 50 percent.
+Alexa, dim the kitchen light by 10 percent.
+Alexa, set the kitchen light to red.
+Alexa, set the kitchen light daylight.
+Alexa, make the kitchen light cooler.
+Alexa, make the kitchen light warmer.
+Alexa, turn on the light.
+Alexa, set the light to red.
+Alexa, disable IPC360home

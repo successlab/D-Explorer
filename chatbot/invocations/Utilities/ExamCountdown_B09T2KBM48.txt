@@ -1,0 +1,3 @@
+Alexa, open exam countdown
+Alexa, start exam countdown
+Alexa, disable exam countdown

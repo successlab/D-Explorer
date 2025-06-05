@@ -1,0 +1,4 @@
+Alexa, open hub controller
+Alexa, ask hub controller to turn 'kitchen' heating on
+Alexa, ask hub controller to set the temperature in 'kitchen' to 20 degrees
+Alexa, disable hub controller

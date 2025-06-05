@@ -1,0 +1,5 @@
+Alexa, open simple countdown
+Alexa, start simple countdown
+Alexa, ask simple countdown to start a countdown at five
+Alexa, ask simple countdown for ten seconds
+Alexa, disable simple countdown

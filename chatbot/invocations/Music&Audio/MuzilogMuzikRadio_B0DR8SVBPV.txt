@@ -1,0 +1,4 @@
+Alexa, open muzi log music radio
+Alexa, play Muzi log Music Radio
+Alexa, start Muzi log Music Radio
+Alexa, disable muzi log music radio

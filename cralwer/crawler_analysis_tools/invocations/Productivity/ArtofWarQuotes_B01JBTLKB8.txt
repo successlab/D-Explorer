@@ -1,0 +1,5 @@
+Alexa, open art of war
+Alexa, start Art of War
+Alexa, ask Art of War to tell me a quote
+Alexa, ask Art of War to quote Sun Tzu
+Alexa, disable art of war

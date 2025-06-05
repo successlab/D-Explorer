@@ -1,0 +1,3 @@
+Alexa, open tablas multiplicar
+Alexa, abre tablas multiplicar
+Alexa, disable tablas multiplicar

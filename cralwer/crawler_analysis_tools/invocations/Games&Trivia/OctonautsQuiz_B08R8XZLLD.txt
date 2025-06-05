@@ -1,0 +1,5 @@
+Alexa, open octonauts quiz
+Alexa, next
+Alexa, stop
+Alexa, start octonauts quiz
+Alexa, disable octonauts quiz

@@ -1,0 +1,5 @@
+Alexa, discover devices
+Alexa, lock the door.
+Alexa, unlock the door.
+Alexa, is the door locked?
+Alexa, disable BOSMA

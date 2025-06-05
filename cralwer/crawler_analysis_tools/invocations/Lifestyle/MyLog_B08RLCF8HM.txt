@@ -1,0 +1,5 @@
+Alexa, open my log
+Alexa, tell My Log to record took medication.
+Alexa, tell My Log to log feed baby.
+Alexa, ask my log, when did I feed baby?
+Alexa, disable my log

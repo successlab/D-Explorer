@@ -1,0 +1,8 @@
+Alexa, open city bike
+Alexa, ask city bike to manage my station
+Alexa, tell city bike my station is six eight three nine one zero
+Alexa, ask city bike how many bikes are there
+Alexa, ask city bike for help 
+Alexa, ask city bike how many bikes there are
+Alexa, ask city bike for help
+Alexa, disable city bike

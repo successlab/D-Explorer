@@ -1,0 +1,4 @@
+Alexa, open santa tracker
+Alexa ask Santa Tracker where is Santa
+Alexa ask Santa Tracker where's Santa
+Alexa, disable santa tracker

@@ -1,0 +1,5 @@
+Alexa, open count words
+Alexa, count words
+how many words are in Hello, my name is Duck.
+count words in Hello, my name is Duck.
+Alexa, disable count words

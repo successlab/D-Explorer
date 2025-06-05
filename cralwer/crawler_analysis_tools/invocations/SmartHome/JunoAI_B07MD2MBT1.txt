@@ -1,0 +1,4 @@
+Alexa, turn on living room light
+Alexa, dim kitchen light
+Alexa, make the bedroom light warmer
+Alexa, disable JunoAI

@@ -1,0 +1,6 @@
+Alexa, open tibetan bowls
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Tibetan Bowls
+Alexa, launch Tibetan Bowls
+Alexa, disable tibetan bowls

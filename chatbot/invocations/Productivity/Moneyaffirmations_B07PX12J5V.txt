@@ -1,0 +1,5 @@
+Alexa, open money affirmations
+Alexa, next
+Alexa, stop
+Alexa, start Money affirmations
+Alexa, disable money affirmations

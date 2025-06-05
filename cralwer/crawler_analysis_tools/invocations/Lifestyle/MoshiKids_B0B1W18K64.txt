@@ -1,0 +1,4 @@
+Alexa, open moshi kids
+Alexa, ask Moshi Kids to play my favorites
+Alexa, ask Moshi Kids to play my playlists
+Alexa, disable moshi kids

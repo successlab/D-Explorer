@@ -1,0 +1,12 @@
+Alexa, open project cat
+Alexa, ask Project Cat for a fact
+Alexa, ask Project Cat how I can get involved
+Alexa, ask Project Cat for a joke
+Alexa, ask Project Cat how I can adopt a tiger
+Alexa, ask Project Cat how I can share Project Cat with others
+Alexa, ask Project Cat where I can watch tigers in Virtual Reality
+Alexa, ask Project Cat why Kyle MacLachlan cares about tigers
+Alexa, ask Project Cat for a fact.
+Alexa, ask Project Cat where can I watch tigers in Virtual Reality.
+Alexa, ask Project Cat for a joke.
+Alexa, disable project cat

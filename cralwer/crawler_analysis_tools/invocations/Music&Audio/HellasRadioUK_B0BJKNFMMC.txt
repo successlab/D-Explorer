@@ -1,0 +1,4 @@
+Alexa, open hellas radio
+Alexa start Hellas Radio
+Alexa launch Hellas Radio
+Alexa, disable hellas radio

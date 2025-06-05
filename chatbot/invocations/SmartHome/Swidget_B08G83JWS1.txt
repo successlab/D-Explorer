@@ -1,0 +1,4 @@
+Alexa, dim lamp to 10%
+Alexa, turn on Swidget 1
+Alexa, turn off Swidget 1
+Alexa, disable Swidget

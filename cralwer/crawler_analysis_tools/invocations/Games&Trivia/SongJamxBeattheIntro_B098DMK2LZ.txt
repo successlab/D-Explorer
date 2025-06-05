@@ -1,0 +1,4 @@
+Alexa, open song jam
+Alexa, play song jam
+Alexa launch song jam
+Alexa, disable song jam

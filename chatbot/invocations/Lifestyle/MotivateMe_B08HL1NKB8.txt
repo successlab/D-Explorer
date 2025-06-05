@@ -1,0 +1,6 @@
+Alexa, open motivate me
+Alexa, launch motivate me
+Alexa, stop
+Alexa ask Motivate Me I need motivation
+Alexa tell Motivate Me give me motivation
+Alexa, disable motivate me

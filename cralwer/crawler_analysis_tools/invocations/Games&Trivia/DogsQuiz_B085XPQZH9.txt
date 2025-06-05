@@ -1,0 +1,5 @@
+Alexa, open dogs quiz
+Alexa, next
+Alexa, stop
+Alexa, start dogs quiz
+Alexa, disable dogs quiz

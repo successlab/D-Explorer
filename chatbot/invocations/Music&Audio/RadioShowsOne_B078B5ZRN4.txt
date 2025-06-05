@@ -1,0 +1,5 @@
+Alexa, open radio shows one
+Alexa, Open Radio Shows One.
+Alexa, Next.
+Alexa, Previous.
+Alexa, disable radio shows one

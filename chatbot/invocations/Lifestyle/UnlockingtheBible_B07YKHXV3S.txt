@@ -1,0 +1,8 @@
+Alexa, open unlocking the bible
+Alexa, play Unlocking the Bible.
+Alexa, pause
+Alexa, resume.
+Alexa, play the previous episode.
+Alexa, ask Unlocking the Bible for the title of this episode.
+Alexa, ask Unlocking the Bible for the date of this episode.
+Alexa, disable unlocking the bible

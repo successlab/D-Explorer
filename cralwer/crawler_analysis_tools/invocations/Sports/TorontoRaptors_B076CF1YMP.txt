@@ -1,0 +1,5 @@
+Alexa, open raptors
+Alexa, open the Raptors
+Alexa, ask the Raptors who's winning tonight
+Alexa, ask the Raptors, when is the next game
+Alexa, disable raptors

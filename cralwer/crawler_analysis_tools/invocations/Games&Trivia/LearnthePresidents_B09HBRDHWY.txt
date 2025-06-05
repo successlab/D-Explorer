@@ -1,0 +1,5 @@
+Alexa, open learn the presidents
+Alexa, ask Learn the Presidents I want to take the normal test.
+Alexa, tell Learn the Presidents tell me about a random president.
+Alexa, ask Learn the Presidents what's my highscore?
+Alexa, disable learn the presidents

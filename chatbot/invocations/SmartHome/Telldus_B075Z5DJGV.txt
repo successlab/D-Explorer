@@ -1,0 +1,5 @@
+Alexa, brighten Dining Room to 60%
+Alexa, turn on kitchen
+Alexa, turn off hallway light
+Alexa, set office to 10 percent
+Alexa, disable Telldus

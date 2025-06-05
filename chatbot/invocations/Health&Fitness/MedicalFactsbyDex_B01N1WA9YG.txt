@@ -1,0 +1,4 @@
+Alexa, open medical facts
+Alexa, start medical facts
+Alexa, begin medical facts
+Alexa, disable medical facts

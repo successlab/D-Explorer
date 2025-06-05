@@ -1,0 +1,5 @@
+Alexa, open s. g. weather
+Alexa, start s. g. weather
+Alexa, ask s. g. weather for twenty four hours forecast
+Alexa, ask s. g. weather for today's weather
+Alexa, disable s. g. weather

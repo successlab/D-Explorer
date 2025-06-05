@@ -1,0 +1,4 @@
+Alexa, open daily things
+Alexa, ask Daily Things to give me another idea
+Alexa, Start Daily Things and give me a daily thing
+Alexa, disable daily things

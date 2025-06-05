@@ -1,0 +1,6 @@
+Alexa, open chatterbox adventure
+Alexa, launch chatterbox Adventure
+Alexa, stop
+Alexa help
+Alexa stop
+Alexa, disable chatterbox adventure

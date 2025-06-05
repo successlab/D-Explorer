@@ -1,0 +1,5 @@
+Alexa, open sad trombone
+Alexa, play Sad Trombone.
+Alexa, tell Sad Trombone to play.
+Alexa, ask Sad Trombone to say sad trombone.
+Alexa, disable sad trombone

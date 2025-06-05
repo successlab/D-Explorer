@@ -1,0 +1,3 @@
+Alexa, open smart calendar
+Alexa, start smart calendar
+Alexa, disable smart calendar

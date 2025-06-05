@@ -1,0 +1,4 @@
+Alexa, turn on bedroom light
+Alexa, brighten bedroom light
+Alexa, set bedroom light to blue
+Alexa, disable DayBetter

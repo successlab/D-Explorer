@@ -1,0 +1,5 @@
+Alexa, open levi's
+Alexa, ask Levi's can I exchange my order?
+Alexa, ask Levi's to find me pair of jeans?
+Alexa, ask Levi's to find the nearest store?
+Alexa, disable levi's

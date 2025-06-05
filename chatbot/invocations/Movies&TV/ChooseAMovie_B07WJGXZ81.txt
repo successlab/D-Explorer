@@ -1,0 +1,3 @@
+Alexa, open choose a movie
+Alexa, start Choose A Movie
+Alexa, disable choose a movie

@@ -1,0 +1,4 @@
+Alexa, open phone radar
+Alexa, ask Phone Radar to add a new number
+Alexa, ask Phone Radar to search
+Alexa, disable phone radar

@@ -1,0 +1,6 @@
+Alexa, open verificación vehicular
+Alexa, abre verificación vehicular
+Alexa, siete
+Alexa, rosa
+Alexa, adiós
+Alexa, disable verificación vehicular

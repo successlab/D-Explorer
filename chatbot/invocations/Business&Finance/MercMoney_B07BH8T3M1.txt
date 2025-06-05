@@ -1,0 +1,5 @@
+Alexa, open merc money
+Alexa, open MercMoney
+Alexa, ask MercMoney for my financial summary
+Alexa, ask MercMoney for my budgets
+Alexa, disable merc money

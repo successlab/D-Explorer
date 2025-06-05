@@ -1,0 +1,5 @@
+Alexa, open daily dalio
+Alexa, launch Daily Dalio
+Alexa, ask Daily Dalio for a tip
+Alexa, ask Daily Dalio for advice
+Alexa, disable daily dalio

@@ -1,0 +1,4 @@
+Alexa, open gem reading
+Alexa, ask gem reading for my fortune
+Alexa, start gem reading
+Alexa, disable gem reading

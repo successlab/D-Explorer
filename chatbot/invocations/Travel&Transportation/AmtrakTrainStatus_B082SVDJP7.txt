@@ -1,0 +1,5 @@
+Alexa, open amtrak
+Alexa, ask Amtrak 334 Milwaukee
+Alexa, ask Amtrak 2190 Boston
+Alexa, ask Amtrak 2100 Washington
+Alexa, disable amtrak

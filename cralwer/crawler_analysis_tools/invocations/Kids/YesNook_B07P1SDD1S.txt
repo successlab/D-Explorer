@@ -1,0 +1,4 @@
+Alexa, open yes no ok
+Alexa, ask yes no ok if I'll be rich when I grow up
+Alexa, start yes no ok
+Alexa, disable yes no ok

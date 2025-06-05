@@ -1,0 +1,4 @@
+Alexa, open squad fact
+Alexa, ask squad fact to give me a fact
+Alexa, ask squad fact to tell me something
+Alexa, disable squad fact

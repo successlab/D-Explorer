@@ -1,0 +1,4 @@
+Alexa, open greek philosopher
+hello
+help
+Alexa, disable greek philosopher

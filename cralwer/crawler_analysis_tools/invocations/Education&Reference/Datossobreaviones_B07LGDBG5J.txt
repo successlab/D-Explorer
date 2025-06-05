@@ -1,0 +1,5 @@
+Alexa, open datos sobre aviones
+Alexa, abre Datos sobre aviones
+Alexa, abre Datos sobre aviones y dame un dato de aviones
+Alexa, pide a Datos sobre aviones un dato de aviones
+Alexa, disable datos sobre aviones

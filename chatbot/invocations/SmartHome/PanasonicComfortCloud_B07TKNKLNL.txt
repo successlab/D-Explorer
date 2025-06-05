@@ -1,0 +1,5 @@
+Alexa, turn on living.
+Alexa, turn off bedroom.
+Alexa, set living to heat. 
+Alexa, set living to heat.
+Alexa, disable PanasonicComfortCloud

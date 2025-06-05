@@ -1,0 +1,5 @@
+Alexa, open basketball quiz
+alexa ask basketball quiz to start game
+alexa ask basketball quiz for new game
+alexa ask basketball quiz to start
+Alexa, disable basketball quiz

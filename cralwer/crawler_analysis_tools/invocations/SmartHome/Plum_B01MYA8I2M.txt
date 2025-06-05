@@ -1,0 +1,4 @@
+Alexa, turn on the Dining Table light
+Alexa, turn on Evening
+Alexa, set Front Porch to 25%
+Alexa, disable Plum

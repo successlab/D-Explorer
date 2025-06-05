@@ -1,0 +1,3 @@
+Alexa, open shopping list
+Alexa, start shopping list
+Alexa, disable shopping list

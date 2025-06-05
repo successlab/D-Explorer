@@ -1,0 +1,5 @@
+Alexa, open trivia time
+Alexa, ask trivia time for a new game
+Alexa, ask trivia time to start a game
+Alexa, tell trivia time the answer is B.
+Alexa, disable trivia time

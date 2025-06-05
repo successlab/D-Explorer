@@ -1,0 +1,3 @@
+Alexa, open local ten
+Alexa, open Local 10
+Alexa, disable local ten

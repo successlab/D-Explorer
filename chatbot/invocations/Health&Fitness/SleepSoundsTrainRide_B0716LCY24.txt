@@ -1,0 +1,6 @@
+Alexa, open train ride
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Train Ride
+Alexa, launch Train Ride
+Alexa, disable train ride

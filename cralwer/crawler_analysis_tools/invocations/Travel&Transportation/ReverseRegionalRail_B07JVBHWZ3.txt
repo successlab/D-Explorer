@@ -1,0 +1,5 @@
+Alexa, open reverse my train
+Alexa, reverse my train
+Alexa, start reverse my train
+Alexa, ask reverse my train for set departure station to gladstone
+Alexa, disable reverse my train

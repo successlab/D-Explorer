@@ -1,0 +1,4 @@
+Alexa, open bedtime explorers
+Alexa, ask Bedtime Explorers to set a bedtime reminder for 7pm
+Alexa, ask Bedtime Explorers to play Dinosaur Buddies
+Alexa, disable bedtime explorers

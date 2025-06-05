@@ -1,0 +1,4 @@
+Alexa, open appointment assistant
+Alexa ask appointment assistant what's my next meeting
+Alexa tell appointment assistant that I am running late
+Alexa, disable appointment assistant

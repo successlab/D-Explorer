@@ -1,0 +1,4 @@
+Alexa, open maths quiz
+Alexa begin maths quiz
+Alexa ask maths quiz
+Alexa, disable maths quiz

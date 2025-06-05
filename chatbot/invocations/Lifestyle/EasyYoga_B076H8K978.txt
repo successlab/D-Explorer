@@ -1,0 +1,5 @@
+Alexa, open easy yoga
+Alexa, open Easy Yoga.
+Alexa, ask Easy Yoga for morning yoga.
+Alexa, ask Easy Yoga for evening yoga.
+Alexa, disable easy yoga

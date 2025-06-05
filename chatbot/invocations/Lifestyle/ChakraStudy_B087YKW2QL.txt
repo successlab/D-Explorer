@@ -1,0 +1,4 @@
+Alexa, open chakra study
+Alexa, start Chakra Study
+Alexa, launch Chakra Study
+Alexa, disable chakra study

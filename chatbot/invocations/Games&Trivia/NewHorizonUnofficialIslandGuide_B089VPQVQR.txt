@@ -1,0 +1,5 @@
+Alexa, open island guide
+Alexa, ask island guide how much a barred knifejaw is worth
+Alexa, ask island guide where to find a stinkbug
+Alexa, ask island guide where to find an anchiove
+Alexa, disable island guide

@@ -1,0 +1,4 @@
+Alexa, open potter spells
+Alexa, ask Potter Spells to teach me a spell
+Alexa, ask Potter Spells for a spell
+Alexa, disable potter spells

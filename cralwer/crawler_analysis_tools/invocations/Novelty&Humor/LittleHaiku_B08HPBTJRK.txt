@@ -1,0 +1,5 @@
+Alexa, open little haiku
+Alexa ask Little Haiku to read me a haiku
+Alexa tell Little Haiku to read a poem
+Alexa open Little Haiku and tell me something
+Alexa, disable little haiku

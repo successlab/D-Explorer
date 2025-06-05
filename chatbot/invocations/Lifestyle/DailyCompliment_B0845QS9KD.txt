@@ -1,0 +1,4 @@
+Alexa, open daily compliment
+Alexa, start Daily Compliment
+Alexa, launch Daily Compliment
+Alexa, disable daily compliment

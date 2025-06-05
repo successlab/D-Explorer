@@ -1,0 +1,5 @@
+Alexa, open paula bot
+Alexa, ask paula bot Can I continue to use FMLA for leave due to my chronic serious health condition
+Alexa, ask paula bot if I am required to prove that I have a serious health condition
+Alexa, ask paula bot What happens if my employer says my medical certification is incomplete
+Alexa, disable paula bot

@@ -1,0 +1,4 @@
+Alexa, lock the door
+Alexa, turn on the light
+Alexa, set the bedroom light to fifty percent
+Alexa, disable SECURAMGuard

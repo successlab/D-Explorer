@@ -1,0 +1,4 @@
+Alexa, open more rock
+Alexa, play More Rock
+Alexa, launch More Rock
+Alexa, disable more rock

@@ -1,0 +1,4 @@
+Alexa, open e. z. contacts
+Alexa, ask EZ Contacts where is my order?
+Alexa, tell EZ Contacts I want to track my package
+Alexa, disable e. z. contacts

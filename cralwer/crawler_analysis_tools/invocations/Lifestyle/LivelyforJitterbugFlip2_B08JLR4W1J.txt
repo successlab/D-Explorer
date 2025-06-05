@@ -1,0 +1,5 @@
+Alexa, open lively
+Alexa, ask Lively to call Robert.
+Alexa, ask Lively to text Bill.
+Alexa, ask Lively how many minutes do I have left.
+Alexa, disable lively

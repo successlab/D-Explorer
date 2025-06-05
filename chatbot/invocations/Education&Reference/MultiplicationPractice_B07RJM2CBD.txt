@@ -1,0 +1,4 @@
+Alexa, open multiplication practice
+Alexa, start Multiplication Practice
+Alexa, launch Multiplication Practice
+Alexa, disable multiplication practice

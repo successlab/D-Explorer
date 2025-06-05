@@ -1,0 +1,5 @@
+Alexa, open ricky facts
+Alexa ask ricky facts to give me a fact
+Alexa ask ricky facts to tell me a fact about Ricky
+Alexa ask ricky facts to tell me a fact
+Alexa, disable ricky facts

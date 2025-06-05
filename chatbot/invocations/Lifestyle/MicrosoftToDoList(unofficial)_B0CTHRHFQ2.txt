@@ -1,0 +1,6 @@
+Alexa, open to do list
+Alexa, tell To Do task list add watering flowers and mowing lawn
+Alexa, start To Do list
+Alexa, ask To Do list to add watering flowers
+Alexa, ask To Do list to remove watering flowers
+Alexa, disable to do list

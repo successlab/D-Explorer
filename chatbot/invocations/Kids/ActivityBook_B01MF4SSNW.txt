@@ -1,0 +1,5 @@
+Alexa, open activity book
+Alexa, tell Activity Book I'm bored
+Alexa, ask Activity Book what is there to do
+Alexa, open Activity Book.
+Alexa, disable activity book

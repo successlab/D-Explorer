@@ -1,0 +1,5 @@
+Alexa, open musiccast
+Alexa, ask MusicCast to play recents in the kitchen.
+Alexa, ask MusicCast to turn up the volume in the living room.
+Alexa, ask MusicCast to mute the bedroom.
+Alexa, disable musiccast

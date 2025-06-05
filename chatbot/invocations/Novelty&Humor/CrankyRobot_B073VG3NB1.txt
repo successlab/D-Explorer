@@ -1,0 +1,5 @@
+Alexa, open cranky robot
+Alexa, ask Cranky Robot what time is it?
+Alexa, open Cranky Robot.
+Alexa, ask Cranky Robot what the weather is like.
+Alexa, disable cranky robot

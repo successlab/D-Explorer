@@ -1,0 +1,5 @@
+Alexa, open fight club
+Alexa, ask Fight Club what is the first rule of fight club
+Alexa, ask Fight Club for the second rule of fight club
+Alexa, ask Fight Club what's the fifth rule of fight club
+Alexa, disable fight club

@@ -1,0 +1,5 @@
+Alexa, open info stretch nest
+Alexa, ask Infostretch Nest to check my PTO balance
+Alexa, ask Infostretch Nest to check upcoming holiday
+Alexa, ask Infostretch Nest to check upcoming training
+Alexa, disable info stretch nest

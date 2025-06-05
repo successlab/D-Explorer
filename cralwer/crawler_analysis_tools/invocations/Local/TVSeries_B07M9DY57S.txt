@@ -1,0 +1,5 @@
+Alexa, open television series
+Alexa ask television series when will the next episode of The Walking Dead air
+Alexa ask television series what is the plot of Stranger Things
+Alexa ask television series how long is an episode of The Office
+Alexa, disable television series

@@ -1,0 +1,4 @@
+Alexa, open fact book
+Alexa, tell fact book to tell me some fact
+Alexa, open fact book and tell something
+Alexa, disable fact book

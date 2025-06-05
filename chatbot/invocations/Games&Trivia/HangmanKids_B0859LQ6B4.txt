@@ -1,0 +1,7 @@
+Alexa, open hangman kids
+Alexa, A
+Alexa, letter A
+Alexa, joker
+Alexa, hint
+Alexa, open hangman kids.
+Alexa, disable hangman kids

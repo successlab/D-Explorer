@@ -1,0 +1,5 @@
+Alexa, open k. o. r. radio
+Alexa, play KOR Radio
+Alexa, start KOR Radio
+Alexa, ask KOR Radio what song is playing
+Alexa, disable k. o. r. radio

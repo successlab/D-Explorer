@@ -1,0 +1,3 @@
+Alexa, open egypt azan
+Alexa, start egypt azan
+Alexa, disable egypt azan

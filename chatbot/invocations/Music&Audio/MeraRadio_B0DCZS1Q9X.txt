@@ -1,0 +1,4 @@
+Alexa, open mera radio
+Alexa, start mera radio
+Alexa, ask mera radio what's playing
+Alexa, disable mera radio

@@ -1,0 +1,4 @@
+Alexa, show the baby room
+Alexa, show the front door
+Alexa, hide the front door
+Alexa, disable LaViewONE

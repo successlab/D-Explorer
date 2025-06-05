@@ -1,0 +1,5 @@
+Alexa, open my community
+Alexa, ask My Community what's for dinner today
+Alexa, ask My Community what's happening on Friday
+Alexa, ask My Community what are today's announcements
+Alexa, disable my community

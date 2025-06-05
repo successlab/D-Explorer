@@ -1,0 +1,3 @@
+Alexa, open quiz games
+Alexa play quiz games
+Alexa, disable quiz games

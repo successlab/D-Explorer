@@ -1,0 +1,4 @@
+Alexa, open let's talk
+Alexa, launch let's talk
+Alexa, start let's talk
+Alexa, disable let's talk

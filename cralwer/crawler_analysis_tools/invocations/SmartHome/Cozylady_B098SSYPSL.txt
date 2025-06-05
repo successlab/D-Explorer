@@ -1,0 +1,4 @@
+Alexa, set bedroom light to green.
+Alexa, turn on the bedroom light
+Alexa, turn off the bedroom light
+Alexa, disable Cozylady

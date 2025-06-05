@@ -1,0 +1,5 @@
+Alexa, open distance between
+Alexa, ask distance between Santa Barbara, California and Chicago, Illinois if I drive.
+Alexa, ask distance between Aspen and Denver by bike.
+Alexa, ask distance between London, England and York, England, if I walk.
+Alexa, disable distance between

@@ -1,0 +1,4 @@
+Alexa, open i. d. s. radio
+Alexa, play i. d. s. radio
+Alexa, ask i. d. s. radio what is the current song
+Alexa, disable i. d. s. radio

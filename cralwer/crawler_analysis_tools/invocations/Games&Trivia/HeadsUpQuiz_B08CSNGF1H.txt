@@ -1,0 +1,4 @@
+Alexa, open heads up quiz
+play animals
+play places
+Alexa, disable heads up quiz

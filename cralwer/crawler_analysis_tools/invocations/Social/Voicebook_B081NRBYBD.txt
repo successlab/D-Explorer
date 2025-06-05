@@ -1,0 +1,4 @@
+Alexa, open voice book
+Alexa, ask voice book to sign up
+Alexa, ask voice book to send a message
+Alexa, disable voice book

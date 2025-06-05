@@ -1,0 +1,5 @@
+Alexa, open libro
+Alexa open libro.
+Alexa ask libro to search for a book by Dan Brown.
+Alexa ask libro to search for a book dragons love tacos written by Adam
+Alexa, disable libro

@@ -1,0 +1,5 @@
+Alexa, open wisdom quotes
+Alexa, launch wisdom quotes
+Alexa, ask wisdom quotes for a quote
+Alexa, ask wisdom quotes to tell me a quote
+Alexa, disable wisdom quotes

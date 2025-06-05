@@ -1,0 +1,5 @@
+Alexa, open the mike gallagher show
+Alexa, play The Mike Gallagher Show
+Alexa, ask The Mike Gallagher Show to play
+Alexa, tell The Mike Gallagher Show to play
+Alexa, disable the mike gallagher show

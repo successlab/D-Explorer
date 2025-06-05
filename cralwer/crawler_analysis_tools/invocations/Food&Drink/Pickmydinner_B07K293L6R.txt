@@ -1,0 +1,5 @@
+Alexa, open pick my dinner
+Alexa, ask Pick my dinner what should we eat?
+Alexa, ask Pick my dinner what should we cook tonight?
+Alexa, ask Pick my dinner what restaurant should we go to tonight?
+Alexa, disable pick my dinner

@@ -1,0 +1,4 @@
+Alexa, open celsius weather
+Alexa, Celsius Weather
+Alexa, ask Celsius Weather
+Alexa, disable celsius weather

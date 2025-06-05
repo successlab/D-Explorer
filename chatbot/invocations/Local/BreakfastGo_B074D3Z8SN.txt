@@ -1,0 +1,4 @@
+Alexa, open breakfast go
+Alexa, breakfast go
+Alexa, start breakfast go
+Alexa, disable breakfast go

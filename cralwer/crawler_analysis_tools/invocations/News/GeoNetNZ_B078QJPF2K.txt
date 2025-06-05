@@ -1,0 +1,5 @@
+Alexa, open geo net
+Alexa, ask geo net for earthquakes.
+Alexa, ask geo net did the ground shake.
+Alexa, ask geo net was that an earthquake.
+Alexa, disable geo net

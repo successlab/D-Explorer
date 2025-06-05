@@ -1,0 +1,5 @@
+Alexa, open sun tzu
+Alexa, ask Sun Tzu to give me a quote
+Alexa, ask Sun Tzu to share with me your wisdom
+Alexa, ask Sun Tzu to make me wise
+Alexa, disable sun tzu

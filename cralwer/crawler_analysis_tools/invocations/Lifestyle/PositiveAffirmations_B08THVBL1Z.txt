@@ -1,0 +1,6 @@
+Alexa, open positive affirmations
+Alexa, next
+Alexa, stop
+Alexa, start positive affirmations
+Alexa, ask positive affirmations for a fact
+Alexa, disable positive affirmations

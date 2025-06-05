@@ -1,0 +1,8 @@
+Alexa, open my workout
+Alexa, begin My Workout
+Alexa, (rest/pause/break/interval) in My Workout
+Alexa, ask My Workout to finish
+Alexa, ask My Workout to resume
+Alexa, rest in My Workout
+Alexa, interval in My Workout
+Alexa, disable my workout

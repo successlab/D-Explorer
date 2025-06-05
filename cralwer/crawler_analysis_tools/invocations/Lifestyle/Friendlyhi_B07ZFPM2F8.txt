@@ -1,0 +1,3 @@
+Alexa, open friendly hi
+Alexa, friendly hi
+Alexa, disable friendly hi

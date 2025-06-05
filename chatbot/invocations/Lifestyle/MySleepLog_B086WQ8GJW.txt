@@ -1,0 +1,7 @@
+Alexa, open my sleep log
+Alexa, ask My Sleep Log for the morning questions.
+Alexa, ask My Sleep Log for the night questions.
+Alexa, open My Sleep Log.
+Alexa, ask My Sleep Log to start the morning questions.
+Alexa, ask My Sleep Log to start the night questions.
+Alexa, disable my sleep log

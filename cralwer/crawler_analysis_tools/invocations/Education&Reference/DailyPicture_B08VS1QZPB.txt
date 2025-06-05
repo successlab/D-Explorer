@@ -1,0 +1,4 @@
+Alexa, open daily picture
+Show yesterday's picture
+Set a reminder
+Alexa, disable daily picture

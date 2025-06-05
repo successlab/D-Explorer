@@ -1,0 +1,4 @@
+Alexa, turn on calculator
+Alexa, turn off monitor on pc
+Alexa, turn on notepad
+Alexa, disable TRIGGERcmdSmartHome

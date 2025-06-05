@@ -1,0 +1,4 @@
+Alexa, turn on the room
+Alexa, show the room
+Alexa, turn off the room
+Alexa, disable blurams

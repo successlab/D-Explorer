@@ -1,0 +1,5 @@
+Alexa, open interview training
+Alexa, launch Interview Training
+ask Interview Training for a question
+give me a question from Interview Training
+Alexa, disable interview training

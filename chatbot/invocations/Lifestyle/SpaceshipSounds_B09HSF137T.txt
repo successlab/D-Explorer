@@ -1,0 +1,4 @@
+Alexa, open spaceship sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable spaceship sounds

@@ -1,0 +1,5 @@
+Alexa, open my nurse bot
+Alexa ask myNursebot to add a symptom
+Alexa ask myNursebot to add a blood pressure reading
+Alexa ask myNursebot to check medications
+Alexa, disable my nurse bot

@@ -1,0 +1,5 @@
+Alexa, open running clothes
+Alexa, launch Running Clothes
+Alexa, ask Running Clothes to start the advisor
+Alexa, ask Running Clothes to input run conditions
+Alexa, disable running clothes

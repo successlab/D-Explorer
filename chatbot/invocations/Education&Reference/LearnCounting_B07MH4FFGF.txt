@@ -1,0 +1,5 @@
+Alexa, open learn count
+Alexa open learn count and count upto 11
+Alexa open learn count and count till 122
+Alexa ask learn count to count till 10
+Alexa, disable learn count

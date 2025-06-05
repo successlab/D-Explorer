@@ -1,0 +1,4 @@
+Alexa, open om mantra
+Alexa, play om mantra
+Alexa, launch om mantra
+Alexa, disable om mantra

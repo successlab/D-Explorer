@@ -1,0 +1,4 @@
+Alexa, open superior sounds radio
+Alexa, ask superior sounds radio what's playing.
+Alexa, ask superior sounds radio to play live.
+Alexa, disable superior sounds radio

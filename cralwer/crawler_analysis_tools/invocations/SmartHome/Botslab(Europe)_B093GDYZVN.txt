@@ -1,0 +1,4 @@
+Alexa, discover the device
+Alexa, show mycamera.
+Alexa, show the front door camera.
+Alexa, disable Botslab(Europe)

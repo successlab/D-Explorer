@@ -1,0 +1,5 @@
+Alexa, open math buddy
+Alexa, Open Math Buddy.
+Alexa, Talk to Math Buddy.
+Alexa, Ask Math Buddy to Start a Game.
+Alexa, disable math buddy

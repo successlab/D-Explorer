@@ -1,0 +1,5 @@
+Alexa, open t. i. a. a.
+Alexa, ask TIAA, what is my balance
+Alexa, ask TIAA, get me the nearest advisor
+Alexa, ask TIAA, quote for Amazon
+Alexa, disable t. i. a. a.

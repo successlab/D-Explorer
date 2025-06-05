@@ -1,0 +1,4 @@
+Alexa, open endangered birds
+Alexa, stop
+Alexa, start endangered birds
+Alexa, disable endangered birds

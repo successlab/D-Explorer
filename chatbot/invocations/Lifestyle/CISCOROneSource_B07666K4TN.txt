@@ -1,0 +1,5 @@
+Alexa, open care givers
+Alexa, tell the care givers I need assistance.
+Alexa, ask the care givers to send help.
+Alexa, tell the care givers to cancel the call.
+Alexa, disable care givers

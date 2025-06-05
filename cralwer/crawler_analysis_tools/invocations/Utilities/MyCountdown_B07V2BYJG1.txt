@@ -1,0 +1,3 @@
+Alexa, open my countdown
+Alexa, start My Countdown
+Alexa, disable my countdown

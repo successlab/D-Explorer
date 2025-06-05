@@ -1,0 +1,5 @@
+Alexa, open horror movies
+Alexa, ask Horror Movies to show me a movie
+Alexa, ask Horror Movies to show a movie
+Alexa, ask Horror Movies tell me a movie
+Alexa, disable horror movies

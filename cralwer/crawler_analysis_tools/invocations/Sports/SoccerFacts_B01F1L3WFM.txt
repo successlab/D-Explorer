@@ -1,0 +1,5 @@
+Alexa, open soccer facts
+Alexa, Launch Soccer Facts
+Alexa, Open Soccer Facts and tell me a fact
+Alexa, Start Soccer Facts and give me a fact
+Alexa, disable soccer facts

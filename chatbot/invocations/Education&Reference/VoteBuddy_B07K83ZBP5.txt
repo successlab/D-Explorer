@@ -1,0 +1,5 @@
+Alexa, open vote buddy
+Alexa, ask Vote Buddy where do I vote?
+Alexa, ask Vote Buddy where can I vote?
+Alexa, ask Vote Buddy where is my poll?
+Alexa, disable vote buddy

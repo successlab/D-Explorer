@@ -1,0 +1,5 @@
+Alexa, open pole position
+Alexa, ask Pole Position who won the last race
+Ask Pole Position when is the next race
+ask Pole Position for team standings
+Alexa, disable pole position

@@ -1,0 +1,19 @@
+Alexa, open my dishwasher
+Alexa, tell My Dishwasher to assist
+Alexa, tell My Dishwasher to start the Normal degrees programme
+Alexa, tell My Dishwasher to start the Auto programme with vario speed
+Alexa, tell My Dishwasher to start
+Alexa, tell My Dishwasher to run with half load
+Alexa, tell My Dishwasher to run Heavy in 2 hours
+Alexa, tell My Dishwasher to start my favorite program
+Alexa, tell My Dishwasher to stop beeping
+Alexa, ask My Dishwasher to turn on
+Alexa, ask My Dishwasher to turn off
+Alexa, ask My Dishwasher for its status
+Alexa, ask My Dishwasher when the dishes will be ready
+Alexa, ask My Dishwasher to start Silence on Demand
+Alexa, ask My Dishwasher to speed up
+Alexa, tell My Dishwasher to start the Normal program.
+Alexa, ask My Dishwasher for status.
+Alexa, tell My Dishwasher to run the Glass program with half load in two hours.
+Alexa, disable my dishwasher

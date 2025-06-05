@@ -1,0 +1,5 @@
+Alexa, open dad joke
+Alexa, dad joke
+Alexa, ask dad joke to tell me a joke
+Alexa, ask dad joke for a joke
+Alexa, disable dad joke

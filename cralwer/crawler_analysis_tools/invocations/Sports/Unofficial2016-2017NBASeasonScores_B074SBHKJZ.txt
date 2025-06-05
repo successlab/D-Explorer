@@ -1,0 +1,5 @@
+Alexa, open game finder
+Alexa, ask Game Finder for game on 2016-10-25
+Alexa, ask Game Finder to Give me the game on 2016-10-25?
+game on 2016-10-25
+Alexa, disable game finder

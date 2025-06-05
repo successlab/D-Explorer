@@ -1,0 +1,5 @@
+Alexa, open change me
+Alexa, what is on my schedule today?
+Alexa, add an event
+Alexa, move an event
+Alexa, disable change me

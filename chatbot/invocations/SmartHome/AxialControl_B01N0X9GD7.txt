@@ -1,0 +1,4 @@
+Alexa, turn on the kitchen light
+Alexa, set the kitchen light to 20 percent
+Alexa, turn off the kitchen light
+Alexa, disable AxialControl

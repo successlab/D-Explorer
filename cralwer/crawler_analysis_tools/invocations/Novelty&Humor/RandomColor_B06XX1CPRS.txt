@@ -1,0 +1,4 @@
+Alexa, open random color
+tell me a color
+give me a color
+Alexa, disable random color

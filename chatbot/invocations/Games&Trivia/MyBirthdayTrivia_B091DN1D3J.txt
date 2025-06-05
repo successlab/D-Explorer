@@ -1,0 +1,3 @@
+Alexa, open birthday trivia
+Alexa, start birthday trivia
+Alexa, disable birthday trivia

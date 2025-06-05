@@ -1,0 +1,5 @@
+Alexa, open my happy
+alexa, ask my happy for todays happy reminder
+alexa, ask my happy for a new reminder
+alexa, ask my happy for my happy reminder
+Alexa, disable my happy

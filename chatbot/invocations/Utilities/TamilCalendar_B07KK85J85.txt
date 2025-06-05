@@ -1,0 +1,4 @@
+Alexa, open tamil calendar
+Alexa, ask tamil calendar about today
+Alexa, ask tamil calendar to tell me the auspicious timings
+Alexa, disable tamil calendar

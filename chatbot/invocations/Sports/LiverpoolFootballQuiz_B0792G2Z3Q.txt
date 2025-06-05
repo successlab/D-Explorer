@@ -1,0 +1,4 @@
+Alexa, open liverpool quiz
+Alexa, start Liverpool Quiz
+My answer is 2
+Alexa, disable liverpool quiz

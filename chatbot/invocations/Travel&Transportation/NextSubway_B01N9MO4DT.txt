@@ -1,0 +1,5 @@
+Alexa, open next subway
+Alexa, ask NextSubway when is the next uptown R train at Union Square?
+Alexa, ask NextSubway when is the next Manhattan bound L train arriving at Bedford Avenue?
+Alexa, ask NextSubway for my last train.
+Alexa, disable next subway

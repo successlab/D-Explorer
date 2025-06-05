@@ -1,0 +1,3 @@
+Alexa, open next metro
+Alexa, next metro
+Alexa, disable next metro

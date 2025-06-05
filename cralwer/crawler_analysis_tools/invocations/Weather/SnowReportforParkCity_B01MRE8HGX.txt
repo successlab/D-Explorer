@@ -1,0 +1,4 @@
+Alexa, open park city
+Alexa, ask Park City for the snow report
+Alexa, ask Park City for latest conditions
+Alexa, disable park city

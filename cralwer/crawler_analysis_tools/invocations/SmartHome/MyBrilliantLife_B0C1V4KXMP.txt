@@ -1,0 +1,28 @@
+Alexa, power off [TV name].
+Alexa, turn on [TV name].
+Alexa, turn up the volume on [TV name].
+Alexa, turn down the volume by 10 on [TV name].
+Alexa, set the volume to 20 on [TV name].
+Alexa, mute [TV name].
+Alexa, switch input to HDMI 1 on [TV name].
+Alexa, channel up on [TV name].
+Alexa, change channel to 6 on [TV name].
+Alexa, change channel to BBC on [TV name].
+Alexa, play on [TV name].
+Alexa, pause on [TV name].
+Alexa, stop on [TV name].
+Alexa, play next on [TV name].
+Alexa, fast forward on [TV name].
+Alexa, skip 10 seconds on [TV name].
+Alexa, launch YouTube.
+Alexa, go to network settings.
+Alexa, show me the movie Star Wars.
+Alexa, play the movie Star Wars.
+Alexa, go right.
+Alexa, move down.
+Alexa, start recording on [TV name].
+Alexa, stop recording on [TV name].
+Alexa, power off TV
+Alexa, turn up the volume on TV
+Alexa, launch YouTube
+Alexa, disable MyBrilliantLife

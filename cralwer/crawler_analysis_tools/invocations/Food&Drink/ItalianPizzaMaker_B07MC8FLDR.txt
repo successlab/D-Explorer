@@ -1,0 +1,5 @@
+Alexa, open italian pizzamaker
+Alexa, ask italian pizzamaker the recipe for neapolitan pizza
+Alexa, ask italian pizzamaker what is the recipe for two neapolitan pizzas
+Alexa, tell italian pizzamaker to give me the recipe for ten italian pizzas using a long leavened
+Alexa, disable italian pizzamaker

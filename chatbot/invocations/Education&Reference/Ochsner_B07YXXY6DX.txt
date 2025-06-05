@@ -1,0 +1,3 @@
+Alexa, open ochsner
+Alexa, ask Ochsner for the nearest urgent care
+Alexa, disable ochsner

@@ -1,0 +1,5 @@
+Alexa, open fitbit
+Alexa, ask Fitbit how I'm doing today.
+Alexa, ask Fitbit how I slept last night.
+Alexa, ask Fitbit how many steps I've taken.
+Alexa, disable fitbit

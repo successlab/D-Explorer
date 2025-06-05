@@ -1,0 +1,5 @@
+Alexa, open winners minute
+Alexa, Start Winners Minute
+Alexa, Play Winners Minute
+Alexa, begin Winners Minute
+Alexa, disable winners minute

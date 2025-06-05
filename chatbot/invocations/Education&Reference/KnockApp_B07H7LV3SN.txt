@@ -1,0 +1,2 @@
+Alexa, open knock facts
+Alexa, disable knock facts

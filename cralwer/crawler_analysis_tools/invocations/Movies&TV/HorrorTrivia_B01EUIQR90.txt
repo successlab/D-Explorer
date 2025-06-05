@@ -1,0 +1,5 @@
+Alexa, open horror trivia
+Alexa, open Horror Trivia.
+Alexa ask horror trivia to give me a horror fact.
+Alexa open horror trivia and tell me something.
+Alexa, disable horror trivia

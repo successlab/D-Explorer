@@ -1,0 +1,20 @@
+Alexa, open building link
+Alexa, open BuildingLink.
+Alexa, ask BuildingLink
+Alexa, ask BuildingLink do I have any packages.
+Alexa, ask BuildingLink if my items have been picked up.
+Alexa, ask BuildingLink what’s going on in the building today.
+Alexa, ask BuildingLink to get my car.
+Alexa, ask BuildingLink if there are any new announcements.
+Alexa, ask BuildingLink about my maintenance requests.
+Alexa, ask BuildingLink who's on duty.
+Alexa, ask BuildingLink how to contact the front desk.
+Alexa, ask BuildingLink for my digest
+Alexa, ask BuildingLink tell me about the fitness center
+Alexa, ask BuildingLink what machines are available.
+Alexa, ask BuildingLink if the gym is crowded.
+Alexa, ask BuildingLink how the gym feels.
+Alexa, open Building Link.
+Alexa, ask BuildingLink what's happening.
+Alexa, ask BuildingLink for my digest.
+Alexa, disable building link

@@ -1,0 +1,5 @@
+Alexa, open hub radio
+Alexa, play hub radio
+Alexa, start hub radio
+Alexa, ask hub radio what is playing
+Alexa, disable hub radio

@@ -1,0 +1,5 @@
+Alexa, open the funny quiz
+Alexa, next
+Alexa, stop
+Alexa, start The Funny Quiz
+Alexa, disable the funny quiz

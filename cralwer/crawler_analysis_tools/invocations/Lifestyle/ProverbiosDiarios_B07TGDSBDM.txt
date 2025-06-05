@@ -1,0 +1,4 @@
+Alexa, open proverbios diarios
+Alexa, abre proverbios diarios y dime el proverbio del día 12 de febrero
+Alexa, abre proverbios diarios y dime el proverbio de hoy
+Alexa, disable proverbios diarios

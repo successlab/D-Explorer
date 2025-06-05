@@ -1,0 +1,4 @@
+Alexa, open number adventures
+Alexa, tell Number Adventures to start a new adventure
+2 plus 2 is 4
+Alexa, disable number adventures

@@ -1,0 +1,3 @@
+Alexa, open board game
+Alexa, ask board game
+Alexa, disable board game

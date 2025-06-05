@@ -1,0 +1,4 @@
+Alexa, open juju mirror
+hello
+Hi
+Alexa, disable juju mirror

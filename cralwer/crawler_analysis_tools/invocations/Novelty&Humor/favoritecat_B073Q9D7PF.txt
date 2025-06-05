@@ -1,0 +1,4 @@
+Alexa, open favorite cat
+my favorite cat is lucy
+who is my favorite cat
+Alexa, disable favorite cat

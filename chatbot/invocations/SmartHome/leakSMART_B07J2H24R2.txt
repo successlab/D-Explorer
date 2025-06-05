@@ -1,0 +1,3 @@
+Alexa, turn on the Valve
+Alexa, turn off the Valve
+Alexa, disable leakSMART

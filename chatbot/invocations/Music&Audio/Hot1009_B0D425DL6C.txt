@@ -1,0 +1,4 @@
+Alexa, open hot one hundred point nine
+Alexa, pause
+Alexa, resume
+Alexa, disable hot one hundred point nine

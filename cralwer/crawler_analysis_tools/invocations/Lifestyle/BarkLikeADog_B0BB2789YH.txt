@@ -1,0 +1,4 @@
+Alexa, open bark like dog
+Alexa, ask bark like dog
+Alexa, start bark like dog
+Alexa, disable bark like dog

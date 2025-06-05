@@ -1,0 +1,4 @@
+Alexa, open got questions
+Alexa, tell Got Questions to ask who is Jesus
+Alexa, ask Got Questions to browse new answers
+Alexa, disable got questions

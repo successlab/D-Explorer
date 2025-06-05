@@ -1,0 +1,4 @@
+Alexa, open geo guesser
+new game
+Alexa play Geo Guesser
+Alexa, disable geo guesser

@@ -1,0 +1,3 @@
+Alexa, open toefl training
+Alexa, start TOEFL training.
+Alexa, disable toefl training

@@ -1,0 +1,4 @@
+Alexa, open jungle sounds
+Alexa ask jungle sounds to play for 30 minutes
+Alexa stop
+Alexa, disable jungle sounds

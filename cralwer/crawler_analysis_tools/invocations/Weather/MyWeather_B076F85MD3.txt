@@ -1,0 +1,5 @@
+Alexa, open my weather
+Alexa, ask My Weather for status
+Alexa, ask My Weather is outside air is safe to breathe
+Alexa, ask My Weather for the current temperature
+Alexa, disable my weather

@@ -1,0 +1,6 @@
+Alexa, open trigger command
+Alexa, turn on Calculator.
+Alexa, launch TRIGGER command
+Alexa, ask TRIGGER command to run Calculator on Office PC
+Alexa, tell TRIGGER command to trigger Notepad on Office PC
+Alexa, disable trigger command

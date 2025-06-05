@@ -1,0 +1,4 @@
+Alexa, open my green thumb
+hello
+help
+Alexa, disable my green thumb

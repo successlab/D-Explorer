@@ -1,0 +1,5 @@
+Alexa, open yummy meals
+Alexa, ask YummyMeals what I should make for dinner.
+Alexa, ask YummyMeals what I should feed my family for lunch.
+Alexa, ask YummyMeals what I should fix for dinner.
+Alexa, disable yummy meals

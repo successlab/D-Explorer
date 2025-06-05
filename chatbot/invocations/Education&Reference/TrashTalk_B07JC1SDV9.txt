@@ -1,0 +1,4 @@
+Alexa, open trash talk
+Alexa, start trash talk
+Alexa, launch trash talk
+Alexa, disable trash talk

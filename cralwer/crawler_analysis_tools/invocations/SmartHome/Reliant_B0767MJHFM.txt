@@ -1,0 +1,5 @@
+Alexa, open reliant
+Alexa, ask Reliant what is my account balance
+Alexa, ask Reliant to make a payment
+Alexa, ask Reliant When does my plan expire
+Alexa, disable reliant

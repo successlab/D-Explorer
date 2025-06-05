@@ -1,0 +1,3 @@
+Alexa, open ab workout
+Alexa, start Ab Workout
+Alexa, disable ab workout

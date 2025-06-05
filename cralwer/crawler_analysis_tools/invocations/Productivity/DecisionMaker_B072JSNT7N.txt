@@ -1,0 +1,5 @@
+Alexa, open decision maker
+Alexa, ask Decision Maker if we should have Chinese or Italian for dinner.
+Alexa, ask Decision Maker Should we watch Peter Pan or Rocky.
+Alexa, ask Decision Maker if I should go out or sleep.
+Alexa, disable decision maker

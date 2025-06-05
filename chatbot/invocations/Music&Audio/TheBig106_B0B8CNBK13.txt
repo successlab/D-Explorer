@@ -1,0 +1,4 @@
+Alexa, open k. palm
+Alexa, launch k. palm
+Alexa, play k. palm
+Alexa, disable k. palm

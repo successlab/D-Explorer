@@ -1,0 +1,4 @@
+Alexa, open true false
+Alexa, start true false
+Alexa, launch true false
+Alexa, disable true false

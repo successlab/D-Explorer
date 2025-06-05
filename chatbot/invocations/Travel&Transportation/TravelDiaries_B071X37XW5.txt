@@ -1,0 +1,5 @@
+Alexa, open travel diaries
+Alexa, ask travel diaries who is the developer of travel diaries
+Alexa, ask travel diaries what are the places to visit at Chicago
+Alexa, ask travel diaries tell me places to see at Houston
+Alexa, disable travel diaries

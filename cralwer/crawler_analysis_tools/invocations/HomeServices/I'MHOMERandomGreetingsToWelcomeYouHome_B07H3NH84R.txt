@@ -1,0 +1,5 @@
+Alexa, open i'm home
+Alexa, open I'm home.
+Alexa, start I'm home.
+Alexa, play I'm home.
+Alexa, disable i'm home

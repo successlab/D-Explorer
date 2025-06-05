@@ -1,0 +1,3 @@
+Alexa, open get time
+Alexa, get time
+Alexa, disable get time

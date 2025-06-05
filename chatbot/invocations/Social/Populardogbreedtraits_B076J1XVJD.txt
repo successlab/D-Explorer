@@ -1,0 +1,4 @@
+Alexa, open dog breed traits
+Alexa, ask dog breed traits What are the Dog names
+Alexa tell dog breed traits to Tell me about boxer
+Alexa, disable dog breed traits

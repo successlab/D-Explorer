@@ -1,0 +1,3 @@
+Alexa, open say something positive
+Alexa, Say something positive.
+Alexa, disable say something positive

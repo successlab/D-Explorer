@@ -1,0 +1,4 @@
+Alexa, open developer wisdom
+yes
+no
+Alexa, disable developer wisdom

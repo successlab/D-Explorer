@@ -1,0 +1,5 @@
+Alexa, open daily affirmations
+Alexa, ask daily affirmations to give me an affirmation
+Alexa, ask daily affirmations for a affirmation
+Alexa, ask daily affirmations to tell me an affirmation
+Alexa, disable daily affirmations

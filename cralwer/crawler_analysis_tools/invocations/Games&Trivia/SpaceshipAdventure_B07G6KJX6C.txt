@@ -1,0 +1,4 @@
+Alexa, open spaceship adventure
+Give me a tutorial
+Set a course for planet X
+Alexa, disable spaceship adventure

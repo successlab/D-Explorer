@@ -1,0 +1,3 @@
+Alexa, open quién le toca
+Alexa, abre quién le toca
+Alexa, disable quién le toca

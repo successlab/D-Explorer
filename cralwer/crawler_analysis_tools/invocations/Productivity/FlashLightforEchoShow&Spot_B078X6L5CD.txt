@@ -1,0 +1,5 @@
+Alexa, open flash light
+Alexa, turn off screen.
+Alexa start flash light
+Alexa launch flash light
+Alexa, disable flash light

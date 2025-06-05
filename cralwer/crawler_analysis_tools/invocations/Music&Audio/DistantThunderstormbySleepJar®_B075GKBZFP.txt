@@ -1,0 +1,9 @@
+Alexa, open distant thunderstorm
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Distant Thunderstorm to turn on Background Mode
+Alexa, ask Distant Thunderstorm to turn Background Mode off
+Alexa, start Distant Thunderstorm
+Alexa, launch Distant Thunderstorm
+Alexa, disable distant thunderstorm

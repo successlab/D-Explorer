@@ -1,0 +1,5 @@
+Alexa, open mark facts
+Alexa, ask Mark Facts to give me a fact
+Alexa, ask Mark Facts tell me a mark fact
+Alexa, ask Mark Facts a fact
+Alexa, disable mark facts

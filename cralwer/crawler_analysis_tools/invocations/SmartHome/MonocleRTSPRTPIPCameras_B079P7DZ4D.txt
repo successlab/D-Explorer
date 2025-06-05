@@ -1,0 +1,4 @@
+Alexa, show the nursery.
+Alexa, show my kitchen camera.
+Alexa, show the garage camera.
+Alexa, disable MonocleRTSPRTPIPCameras

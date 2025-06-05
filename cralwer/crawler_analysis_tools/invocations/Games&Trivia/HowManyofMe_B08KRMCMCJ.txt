@@ -1,0 +1,4 @@
+Alexa, open how many of me
+How many people are named bob
+How many people have the name josh
+Alexa, disable how many of me

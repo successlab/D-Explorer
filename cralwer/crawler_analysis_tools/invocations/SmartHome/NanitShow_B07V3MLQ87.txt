@@ -1,0 +1,2 @@
+Alexa, show me Sara
+Alexa, disable NanitShow

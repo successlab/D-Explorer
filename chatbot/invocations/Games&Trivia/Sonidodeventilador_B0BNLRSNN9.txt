@@ -1,0 +1,5 @@
+Alexa, open sonido de ventilador
+Alexa, abre Sonido de ventilador
+Alexa, pausa
+Alexa, reanudar
+Alexa, disable sonido de ventilador

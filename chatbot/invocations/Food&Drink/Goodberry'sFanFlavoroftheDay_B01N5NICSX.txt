@@ -1,0 +1,5 @@
+Alexa, open good berry's fan
+Alexa, Open Good berry's fan.
+Alexa, ask Good berry's fan what is the flavor of the day?
+Alexa, ask Good berry's fan what is the flavor of the day on Friday?
+Alexa, disable good berry's fan

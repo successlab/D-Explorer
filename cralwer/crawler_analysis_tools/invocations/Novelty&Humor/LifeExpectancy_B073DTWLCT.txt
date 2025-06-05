@@ -1,0 +1,5 @@
+Alexa, open life expectancy
+Alexa, ask Life Expectancy how much time do I have left
+Alexa, ask Life Expectancy how long do I have left to live
+Alexa, ask Life Expectancy what's my life expectancy
+Alexa, disable life expectancy

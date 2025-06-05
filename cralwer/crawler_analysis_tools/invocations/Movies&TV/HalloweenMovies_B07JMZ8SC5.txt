@@ -1,0 +1,4 @@
+Alexa, open halloween movies
+Alexa, ask Halloween Movies to show me a movie
+Alexa, Ask Halloween Movies to tell me a movie
+Alexa, disable halloween movies

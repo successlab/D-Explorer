@@ -1,0 +1,4 @@
+Alexa, open pirate translator
+Alexa ask pirate translator to say "I am going to bed
+Alexa tell pirate translator to translate "where is my dinner 
+Alexa, disable pirate translator

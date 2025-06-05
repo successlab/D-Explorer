@@ -1,0 +1,5 @@
+Alexa, open new movies
+Alexa, ask New Movies what movies have been released recently
+Alexa, start New Movies
+Alexa, ask New Movies what's new
+Alexa, disable new movies

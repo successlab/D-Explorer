@@ -1,0 +1,2 @@
+Alexa, open chicken bot
+Alexa, disable chicken bot

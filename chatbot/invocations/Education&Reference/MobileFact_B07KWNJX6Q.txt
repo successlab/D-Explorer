@@ -1,0 +1,3 @@
+Alexa, open mobile fact
+Alexa, mobile fact
+Alexa, disable mobile fact

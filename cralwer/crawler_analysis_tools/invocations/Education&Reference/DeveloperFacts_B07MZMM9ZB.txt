@@ -1,0 +1,4 @@
+Alexa, open developer facts
+Alexa, open developer facts and tell me a fact
+Alexa, open developer facts and tell me a developer fact
+Alexa, disable developer facts

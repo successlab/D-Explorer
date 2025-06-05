@@ -1,0 +1,4 @@
+Alexa, open mount bachelor
+Alexa, ask Mount Bachelor for the snow report
+Alexa, ask Mount Bachelor for latest conditions
+Alexa, disable mount bachelor

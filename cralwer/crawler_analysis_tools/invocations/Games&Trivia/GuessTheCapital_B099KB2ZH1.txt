@@ -1,0 +1,2 @@
+Alexa, open guess the capital
+Alexa, disable guess the capital

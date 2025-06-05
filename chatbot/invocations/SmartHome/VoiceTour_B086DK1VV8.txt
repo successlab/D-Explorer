@@ -1,0 +1,4 @@
+Alexa, open voice tour
+Alexa, start Voice Tour
+Alexa, launch Voice Tour
+Alexa, disable voice tour

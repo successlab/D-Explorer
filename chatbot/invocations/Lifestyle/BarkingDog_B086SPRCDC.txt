@@ -1,0 +1,5 @@
+Alexa, open barking dog
+Alexa, launch barking dog.
+Alexa, open barking dog.
+Alexa, play barking dog.
+Alexa, disable barking dog

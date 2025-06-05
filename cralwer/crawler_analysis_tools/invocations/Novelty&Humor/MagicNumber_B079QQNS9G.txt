@@ -1,0 +1,4 @@
+Alexa, open magic number
+Alexa, launch Magic Number
+Alexa, play Magic Number
+Alexa, disable magic number

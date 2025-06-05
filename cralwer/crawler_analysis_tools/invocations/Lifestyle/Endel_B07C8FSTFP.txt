@@ -1,0 +1,5 @@
+Alexa, open endel
+Alexa, start Endel
+Alexa, ask Endel to play Focus
+Alexa, launch Endel and play Sleep
+Alexa, disable endel

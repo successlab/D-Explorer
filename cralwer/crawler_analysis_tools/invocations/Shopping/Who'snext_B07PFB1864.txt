@@ -1,0 +1,4 @@
+Alexa, open who's next
+Alexa, ask Who's next whose turn it is to pick a restaurant
+Alexa, ask Who's next who should take out the trash
+Alexa, disable who's next

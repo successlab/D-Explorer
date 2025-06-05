@@ -1,0 +1,5 @@
+Alexa, open what beer
+Alexa, ask what beer goes with a burger?
+Alexa, ask what beer goes with fish?
+Alexa, ask what beer goes with dessert?
+Alexa, disable what beer

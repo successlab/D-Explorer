@@ -1,0 +1,4 @@
+Alexa, open taste trip
+Alexa, stop
+Alexa, start taste trip
+Alexa, disable taste trip

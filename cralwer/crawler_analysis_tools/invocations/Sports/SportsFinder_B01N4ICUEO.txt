@@ -1,0 +1,4 @@
+Alexa, open sports finder
+Start Over
+Play Again
+Alexa, disable sports finder

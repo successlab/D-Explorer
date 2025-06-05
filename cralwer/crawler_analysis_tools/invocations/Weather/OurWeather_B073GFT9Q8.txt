@@ -1,0 +1,3 @@
+Alexa, open our weather
+Alexa, ask our weather for the hourly forecast
+Alexa, disable our weather

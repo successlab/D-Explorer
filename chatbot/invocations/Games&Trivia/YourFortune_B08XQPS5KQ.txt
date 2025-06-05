@@ -1,0 +1,4 @@
+Alexa, open your fortune
+Alexa, ask your fortune for my fortune
+Alexa, start your fortune
+Alexa, disable your fortune

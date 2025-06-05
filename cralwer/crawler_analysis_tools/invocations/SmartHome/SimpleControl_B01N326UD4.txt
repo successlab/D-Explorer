@@ -1,0 +1,4 @@
+Alexa, turn on the Living Room
+Alexa, turn off the Bedroom TiVo
+Alexa, set the Office TV to 50%
+Alexa, disable SimpleControl

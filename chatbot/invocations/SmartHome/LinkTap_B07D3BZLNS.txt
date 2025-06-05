@@ -1,0 +1,9 @@
+Alexa, open linktap
+Alexa, ask LinkTap to start watering for ten minutes.
+Alexa, ask LinkTap to use interval mode.
+Alexa, ask LinkTap to use odd-even mode.
+Alexa, ask LinkTap to use 7-day mode.
+Alexa, ask LinkTap how much battery left.
+Alexa, ask LinkTap when it water again.
+Alexa, ask LinkTap to stop watering.
+Alexa, disable linktap

@@ -1,0 +1,4 @@
+Alexa, open question of the day
+Alexa, play Question of the Day
+Alexa, ask Question of the Day
+Alexa, disable question of the day

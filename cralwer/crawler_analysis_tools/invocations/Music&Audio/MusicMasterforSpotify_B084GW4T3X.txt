@@ -1,0 +1,19 @@
+Alexa, open music master
+Alexa, open music master and add song to my library
+Alexa, open music master and add song to playlist
+Alexa, open music master and play similar songs
+Alexa, open music master and play more songs by this artist
+Alexa, open music master and turn down volume by five percent
+Alexa, open music master and set volume to seven percent
+Alexa, open music master and play music on my smartphone
+Alexa, open music master and transfer playback to playstation
+Alexa, open music master and transfer playback to device one
+Alexa, open music master and turn shuffle on
+Alexa, open music master and start the playlist <playlist name>
+Alexa, open music master and play my saved songs
+Alexa, open music master and play <song name>
+Alexa, open music master and play <song name> by <musician name>
+Alexa, tell music master to pause
+Alexa, tell music master to resume
+Alexa, tell music master to set volume to five percent
+Alexa, disable music master

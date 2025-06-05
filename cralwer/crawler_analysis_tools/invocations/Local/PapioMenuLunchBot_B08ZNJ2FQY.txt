@@ -1,0 +1,5 @@
+Alexa, open papio menu
+Alexa, ask Papio Menu what's for lunch today
+Alexa, ask Papio Menu what is for lunch tomorrow
+Alexa, ask Papio Menu what are we having for lunch on Friday
+Alexa, disable papio menu

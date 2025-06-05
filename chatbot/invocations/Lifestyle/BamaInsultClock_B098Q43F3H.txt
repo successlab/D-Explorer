@@ -1,0 +1,3 @@
+Alexa, open what time is it
+Alexa, what time is it?
+Alexa, disable what time is it

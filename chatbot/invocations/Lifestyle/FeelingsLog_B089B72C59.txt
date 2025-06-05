@@ -1,0 +1,4 @@
+Alexa, open feelings log
+Tell Feelings log I'm lonely
+Ask feelings log what were my feelings yesterday
+Alexa, disable feelings log

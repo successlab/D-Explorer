@@ -1,0 +1,3 @@
+Alexa, open dog house
+Alexa, bark
+Alexa, disable dog house

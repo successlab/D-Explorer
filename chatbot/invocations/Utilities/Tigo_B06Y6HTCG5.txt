@@ -1,0 +1,5 @@
+Alexa, open tigo
+Alexa, ask Tigo for a system summary
+Alexa, ask Tigo how much power I am producing
+Alexa, ask Tigo how much did i produce in january
+Alexa, disable tigo

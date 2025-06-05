@@ -1,0 +1,10 @@
+Alexa, open reading log
+Alexa, launch Reading Log and add John
+Alexa, start Reading Log and add twenty minutes for John
+Alexa, open Reading Log and tell me total minutes for John
+Alexa, open Reading Log and tell me total minutes for John for this month
+Alexa, start Reading Log and remove John
+Alexa, Launch Reading Log and add john
+add twenty minutes for john
+tell me total minutes for john
+Alexa, disable reading log

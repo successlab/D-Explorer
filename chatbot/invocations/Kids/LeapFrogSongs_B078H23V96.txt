@@ -1,0 +1,6 @@
+Alexa, open leap frog songs
+Alexa, ask LeapFrog Songs for my track list.
+Alexa, ask LeapFrog Songs to play the song Gus Naps.
+Alexa, open LeapFrog Songs
+Alexa, ask LeapFrog Songs to play music
+Alexa, disable leap frog songs

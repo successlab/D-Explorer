@@ -1,0 +1,6 @@
+Alexa, open my daily reading
+Alexa, ask my daily reading to draw my daily card
+Alexa launch my daily reading
+Alexa ask my daily reading to draw my daily card
+Alexa ask my daily reading to give me today's reading
+Alexa, disable my daily reading

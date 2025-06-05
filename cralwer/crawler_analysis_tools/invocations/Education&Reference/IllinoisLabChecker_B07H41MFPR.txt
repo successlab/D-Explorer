@@ -1,0 +1,4 @@
+Alexa, open lab checker
+Alexa, start lab checker
+Find me a lab
+Alexa, disable lab checker

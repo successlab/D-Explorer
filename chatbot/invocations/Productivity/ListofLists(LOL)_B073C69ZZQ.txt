@@ -1,0 +1,10 @@
+Alexa, open my lists
+Alexa, tell my lists to create list <list name>
+Alexa, tell my lists, change list to <list name>
+Alexa, tell my lists to delete list <list name>
+Alexa, tell my lists to delete entry <entry name>
+Alexa, ask my lists to tell me my lists
+Alexa, ask my lists what are my entries
+Alexa, ask my lists to create list dogs
+Alexa, tell my lists to tell me my entries
+Alexa, disable my lists

@@ -1,0 +1,4 @@
+Alexa, open jailbreaks status
+status
+help
+Alexa, disable jailbreaks status

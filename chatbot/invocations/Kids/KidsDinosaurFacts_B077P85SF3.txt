@@ -1,0 +1,4 @@
+Alexa, open kids dinosaur facts
+tell me a dinosaur fact
+givel me a dinosaur fact
+Alexa, disable kids dinosaur facts

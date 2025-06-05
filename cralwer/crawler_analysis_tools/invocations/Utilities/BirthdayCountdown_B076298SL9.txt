@@ -1,0 +1,5 @@
+Alexa, open birthday countdown
+Alexa, open birthday countdown for Maria
+Alexa, open birthday countdown for Miranda
+
+Alexa, disable birthday countdown

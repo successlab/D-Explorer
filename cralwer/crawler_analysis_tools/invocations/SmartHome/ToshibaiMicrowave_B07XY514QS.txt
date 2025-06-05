@@ -1,0 +1,4 @@
+Alexa, microwave for 5 minutes.
+Alexa, pause the microwave.
+Alexa, stop the microwave.
+Alexa, disable ToshibaiMicrowave

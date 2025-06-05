@@ -1,0 +1,4 @@
+Alexa, open random facts
+Alexa, start random facts
+Alexa, random facts
+Alexa, disable random facts

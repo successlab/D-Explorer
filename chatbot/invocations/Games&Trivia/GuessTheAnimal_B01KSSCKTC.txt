@@ -1,0 +1,5 @@
+Alexa, open guess the animal
+Alexa, open Guess the Animal and start a new game
+repeat the clues
+play a new game
+Alexa, disable guess the animal

@@ -1,0 +1,4 @@
+Alexa, open hey you
+Alexa, stop
+Alexa, start Hey You
+Alexa, disable hey you

@@ -1,0 +1,4 @@
+Alexa, open mobile notes
+create todo list
+add gym to todo list
+Alexa, disable mobile notes

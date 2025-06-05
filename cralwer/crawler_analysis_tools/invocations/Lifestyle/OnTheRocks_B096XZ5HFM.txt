@@ -1,0 +1,5 @@
+Alexa, open commonwealth spirits
+Alexa, ask commonwealth spirits to find 019880
+Alexa, ask commonwealth spirits to tell me my current store
+Alexa, ask commonwealth spirits to tell me which stores
+Alexa, disable commonwealth spirits

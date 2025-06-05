@@ -1,0 +1,4 @@
+Alexa, open video game trivia
+Alexa, start Video Game Trivia
+Alexa, launch Video Game Trivia
+Alexa, disable video game trivia

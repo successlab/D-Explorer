@@ -1,0 +1,4 @@
+Alexa, open elf on the shelf name
+Alexa, ask Elf On The Shelf Name what is my elf on the shelf called
+Alexa, launch Elf On The Shelf Name
+Alexa, disable elf on the shelf name

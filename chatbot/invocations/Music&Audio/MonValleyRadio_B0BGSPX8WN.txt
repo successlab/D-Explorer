@@ -1,0 +1,4 @@
+Alexa, open mawn valley radio
+Alexa, start mawn valley radio
+Alexa, ask mawn valley radio what's playing
+Alexa, disable mawn valley radio

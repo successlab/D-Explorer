@@ -1,0 +1,5 @@
+Alexa, open joel's quotes
+Alexa, ask Joel's Quotes to give me a Joel Quote
+Alexa, ask Joel's Quotes for a Quote
+Alexa, ask Joel's Quotes for Joel Quotes
+Alexa, disable joel's quotes

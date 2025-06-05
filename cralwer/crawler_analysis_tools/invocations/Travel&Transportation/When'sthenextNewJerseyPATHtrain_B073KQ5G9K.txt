@@ -1,0 +1,4 @@
+Alexa, open path schedule
+Alexa, ask PATH Schedule whats next from Newark to World Trade Center
+Alexa, ask PATH Schedule when is the next train from Journal Square to 33rd Street
+Alexa, disable path schedule

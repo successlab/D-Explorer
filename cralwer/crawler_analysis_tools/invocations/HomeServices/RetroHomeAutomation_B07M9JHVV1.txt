@@ -1,0 +1,6 @@
+Alexa, open my smart home
+Alexa, ask my smart home to turn on the light
+Alexa, ask my smart home to turn on
+flip the light on
+turn the other device off
+Alexa, disable my smart home

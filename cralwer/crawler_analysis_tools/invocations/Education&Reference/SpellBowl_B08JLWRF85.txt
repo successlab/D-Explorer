@@ -1,0 +1,4 @@
+Alexa, open spelling bowl
+Alexa, run spelling bowl
+Select words between 1 and 5
+Alexa, disable spelling bowl

@@ -1,0 +1,3 @@
+Alexa, turn on my URL Switch.
+Alexa, turn off my URL Switch.
+Alexa, disable URLSwitch

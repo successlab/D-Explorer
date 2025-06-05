@@ -1,0 +1,4 @@
+Alexa, open personal trainer
+Alexa, open personal trainer and start a workout
+Alexa, open personal trainer and start a 20 minute cardio workout
+Alexa, disable personal trainer

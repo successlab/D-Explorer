@@ -1,0 +1,4 @@
+Alexa, open baby animal trivia
+Alexa, start Baby Animal Trivia
+Alexa, ask Baby Animal Trivia to start a new game
+Alexa, disable baby animal trivia

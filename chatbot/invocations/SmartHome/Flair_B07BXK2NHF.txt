@@ -1,0 +1,6 @@
+Alexa, set the living room temperature to 72 degrees.
+Alexa, what is the temperature in the kitchen?
+Alexa, decrease the bedroom temperature by 2 degrees.
+Alexa, set the living room temperature to 72 degrees
+Alexa, decrease the bedroom temperature by 2 degrees
+Alexa, disable Flair

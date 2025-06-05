@@ -1,0 +1,5 @@
+Alexa, open pilot talk
+Alexa, start pilot talk
+lets fly
+what is my callsign
+Alexa, disable pilot talk

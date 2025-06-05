@@ -1,0 +1,11 @@
+Alexa, open game score
+Alexa, ask Game Score to start a new game.
+Alexa, tell Game Score that Susan is playing.
+Alexa, tell Game Score to give 5 points to Robert.
+Alexa, ask Game Score for the score.
+Alexa, ask Game Score who's winning.
+Alexa, ask Game Score how many points Steve has.
+Alexa, tell Game Score to give Susan 3 points.
+Alexa, ask Game Score for the score?
+Alexa, ask Game Score who's winning?
+Alexa, disable game score

@@ -1,0 +1,6 @@
+Alexa, open campfire sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Campfire Sounds
+Alexa, launch Campfire Sounds
+Alexa, disable campfire sounds

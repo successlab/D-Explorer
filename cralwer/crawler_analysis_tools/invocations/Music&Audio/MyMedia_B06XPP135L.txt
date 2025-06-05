@@ -1,0 +1,5 @@
+Alexa, open my media
+Alexa, ask My Media to play music by Michael Jackson
+Alexa, ask My Media to play the album Dirty Wings
+Alexa, ask My Media to play some Classical music
+Alexa, disable my media

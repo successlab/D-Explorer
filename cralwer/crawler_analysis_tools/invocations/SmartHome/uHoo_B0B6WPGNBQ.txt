@@ -1,0 +1,5 @@
+Alexa, open uhoo sensor
+Alexa, ask uhoo sensor to give me a summary of my living room
+Alexa, ask uhoo sensor for the carbon dioxide level in my bedroom
+Alexa, ask uhoo sensor for humidity level
+Alexa, disable uhoo sensor

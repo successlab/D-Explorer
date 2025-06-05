@@ -1,0 +1,4 @@
+Alexa, open funny word
+Alexa start Funny Word
+Alexa launch Funny Word
+Alexa, disable funny word

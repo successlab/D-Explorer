@@ -1,0 +1,4 @@
+Alexa, open frida the farmer
+Alexa, ask Frida the farmer what does a cow sound like
+Alexa, ask Frida the farmer for tractor sounds
+Alexa, disable frida the farmer

@@ -1,0 +1,4 @@
+Alexa, open another fact
+a fact
+tell me something
+Alexa, disable another fact

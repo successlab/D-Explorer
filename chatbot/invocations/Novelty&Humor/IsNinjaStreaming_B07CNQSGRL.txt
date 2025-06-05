@@ -1,0 +1,4 @@
+Alexa, open ninja stream
+Alexa, ask ninja stream if ninja is streaming
+Alexa, ask ninja stream if he is streaming
+Alexa, disable ninja stream

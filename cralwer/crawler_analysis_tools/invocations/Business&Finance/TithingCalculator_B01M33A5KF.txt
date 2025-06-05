@@ -1,0 +1,5 @@
+Alexa, open tithing calculator
+Alexa, ask tithing calculator what is tithing of one thousand dollars
+Alexa, ask tithing calculator what is tithing for one thousand dollars
+Alexa, ask tithing calculator what is tithing from one thousand dollars
+Alexa, disable tithing calculator

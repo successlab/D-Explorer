@@ -1,0 +1,14 @@
+Alexa, open potty training
+Alexa, tell potty training to add one star
+Alexa, tell potty training I used the potty
+Alexa, tell potty training to add reminders
+Alexa, ask potty training to pause reminders until tomorrow morning 
+Alexa, ask potty training to pause reminders for 4 hours 
+Alexa, ask potty training to delete reminders
+Alexa, ask potty training to play a song
+Alexa, ask potty training to reset skill
+Alexa, ask Potty Training for help
+Alexa tell potty training to add reminders
+Alexa tell potty training to play a song
+Alexa tell potty training to add one star
+Alexa, disable potty training

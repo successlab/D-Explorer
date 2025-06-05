@@ -1,0 +1,4 @@
+Alexa, open birthday card
+Alexa, stop
+Alexa, start birthday card
+Alexa, disable birthday card

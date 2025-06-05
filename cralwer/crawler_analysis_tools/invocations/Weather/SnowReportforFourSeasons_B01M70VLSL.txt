@@ -1,0 +1,4 @@
+Alexa, open four seasons
+Alexa, ask Four Seasons for the snow report
+Alexa, ask Four Seasons for latest conditions
+Alexa, disable four seasons

@@ -1,0 +1,4 @@
+Alexa, turn on Movie Night.
+Alexa, set Kitchen Lights to 50 percent.
+Alexa, dim Bedroom Lights
+Alexa, disable FIBAROSmartHomeSkill

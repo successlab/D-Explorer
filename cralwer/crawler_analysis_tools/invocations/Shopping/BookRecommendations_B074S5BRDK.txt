@@ -1,0 +1,5 @@
+Alexa, open book recommender
+Alexa, ask Book Recommender to give me a recommendation about flowers.
+Alexa, ask Book Recommender for a book about sadness.
+Alexa, ask Book Recommender to for a recommendation around cheesecake.
+Alexa, disable book recommender

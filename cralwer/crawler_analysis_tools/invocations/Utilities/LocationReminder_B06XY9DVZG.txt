@@ -1,0 +1,4 @@
+Alexa, open location reminder
+Alexa, tell Location Reminder my keys are in the drawer
+Alexa, ask Location Reminder where my phone is
+Alexa, disable location reminder

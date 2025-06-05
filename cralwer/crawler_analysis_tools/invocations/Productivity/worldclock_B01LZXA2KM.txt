@@ -1,0 +1,5 @@
+Alexa, open world clock
+Alexa, ask world clock what's the time in San Francisco
+Alexa, ask world clock what's the time in New York
+Alexa, ask world clock what's the time in Houston
+Alexa, disable world clock

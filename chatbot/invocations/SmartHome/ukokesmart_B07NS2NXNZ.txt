@@ -1,0 +1,4 @@
+Alexa, set the Air-Condition temperature to 25 degrees.
+Alexa, decrease the Air-Condition temperature.
+Alexa, increase the Air-Condition temperature.
+Alexa, disable ukokesmart

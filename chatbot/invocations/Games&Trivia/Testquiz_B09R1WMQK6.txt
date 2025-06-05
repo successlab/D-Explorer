@@ -1,0 +1,5 @@
+Alexa, open test quiz
+Alexa, next
+Alexa, stop
+Alexa, start test quiz
+Alexa, disable test quiz

@@ -1,0 +1,5 @@
+Alexa, open indian culture guide
+Alexa ask Indian Culture Guide how many languages are there
+Alexa ask Indian Culture Guide what religions are there in India
+Alexa ask Indian Culture Guide what festivals are celebrated in India
+Alexa, disable indian culture guide

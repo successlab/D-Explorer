@@ -1,0 +1,3 @@
+Alexa, open harry bosch
+Alexa ask Harry Bosch for a book recommendation
+Alexa, disable harry bosch

@@ -1,0 +1,4 @@
+Alexa, open vox protocol
+Alexa launch Vox Protocol
+Alexa start Vox Protocol
+Alexa, disable vox protocol

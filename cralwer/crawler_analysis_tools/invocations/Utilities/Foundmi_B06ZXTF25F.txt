@@ -1,0 +1,5 @@
+Alexa, open foundmi
+Alexa Ask foundmi to find my Superman tag
+Alexa Ask foundmi to find my Batman tag
+Alexa Ask foundmi to find my phone
+Alexa, disable foundmi

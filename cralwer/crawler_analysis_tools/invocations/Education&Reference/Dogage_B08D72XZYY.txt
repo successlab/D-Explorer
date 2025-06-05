@@ -1,0 +1,4 @@
+Alexa, open dog age
+Alexa, start dog age
+Alexa, ask dog age
+Alexa, disable dog age

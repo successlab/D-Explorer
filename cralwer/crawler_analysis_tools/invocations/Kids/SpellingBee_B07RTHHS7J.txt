@@ -1,0 +1,7 @@
+Alexa, open spelling bee
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, open spelling bee.
+Alexa, disable spelling bee

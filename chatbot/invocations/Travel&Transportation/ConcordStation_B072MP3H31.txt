@@ -1,0 +1,4 @@
+Alexa, open concord station
+Alexa ask Concord Station for train times
+Alexa ask Concord Station for times
+Alexa, disable concord station

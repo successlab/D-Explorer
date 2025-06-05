@@ -1,0 +1,3 @@
+Alexa, open electronic quiz
+Alexa, start electronic quiz
+Alexa, disable electronic quiz

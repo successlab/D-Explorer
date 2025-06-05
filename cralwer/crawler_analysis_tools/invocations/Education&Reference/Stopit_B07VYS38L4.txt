@@ -1,0 +1,3 @@
+Alexa, open plantronics
+Alexa ask Plantronics to connect to laptop
+Alexa, disable plantronics

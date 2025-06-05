@@ -1,0 +1,4 @@
+Alexa, open my lady
+Alexa, ask my lady what is for dinner
+Alexa, ask my lady whats for lunch
+Alexa, disable my lady

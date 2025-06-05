@@ -1,0 +1,4 @@
+Alexa, turn on the Bedroom lamp
+Alexa, dim the Kitchen lights to 25%
+Alexa, set Living room thermostat to 72 degrees
+Alexa, disable Smartenit

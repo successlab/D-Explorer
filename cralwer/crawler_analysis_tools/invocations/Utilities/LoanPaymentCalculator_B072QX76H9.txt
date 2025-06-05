@@ -1,0 +1,5 @@
+Alexa, open payment calculator
+Alexa, launch payment calculator
+what would my payment be on a ten thousand dollar sixty month loan at two percent
+Calculate my monthly payment for a Sixty month loan for a principle amount of twenty thousand dollars at six percent
+Alexa, disable payment calculator

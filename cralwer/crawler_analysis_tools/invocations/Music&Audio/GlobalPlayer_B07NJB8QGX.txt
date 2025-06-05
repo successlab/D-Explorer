@@ -1,0 +1,4 @@
+Alexa, open global player
+Alexa, ask Global player to play Capital
+Alexa, ask Global Player to play The News Agents
+Alexa, disable global player

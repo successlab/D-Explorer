@@ -1,0 +1,4 @@
+Alexa, turn on/off XXX
+Alexa, turn on Living room lamp
+Alexa, turn off boiler
+Alexa, disable myTS

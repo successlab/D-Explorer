@@ -1,0 +1,4 @@
+Alexa, open scripture box
+Alexa, tell Scripture Box to review today's verses.
+Alexa, ask Scripture Box to review my verses.
+Alexa, disable scripture box

@@ -1,0 +1,11 @@
+Alexa, open the bible app
+Alexa, open YouVersion Bible
+Alexa, ask YouVersion Bible to read Psalms
+Alexa, ask YouVersion Bible to read the daily devotional
+Alexa, tell YouVersion Bible to read my plan
+Alexa, tell YouVersion Bible to read the verse of the day
+Alexa, ask YouVersion Bible for my prayer list
+Alexa, ask YouVersion Bible to read John
+Alexa, ask YouVersion Bible to read my plan
+Alexa, ask YouVersion Bible for the verse of the day
+Alexa, disable the bible app

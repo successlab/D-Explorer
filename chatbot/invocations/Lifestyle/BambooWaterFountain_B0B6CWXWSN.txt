@@ -1,0 +1,4 @@
+Alexa, open bamboo water fountain
+Alexa, Pause
+Alexa, Resume
+Alexa, disable bamboo water fountain

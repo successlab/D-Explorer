@@ -1,0 +1,4 @@
+Alexa, turn on the Plug
+Alexa, turn off gosmart
+Alexa, turn off the Plug
+Alexa, disable GoSmart

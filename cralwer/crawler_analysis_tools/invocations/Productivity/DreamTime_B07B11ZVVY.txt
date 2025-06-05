@@ -1,0 +1,6 @@
+Alexa, open dream time
+Alexa, start Dream Time
+alexa, start dream time
+pause
+resume
+Alexa, disable dream time

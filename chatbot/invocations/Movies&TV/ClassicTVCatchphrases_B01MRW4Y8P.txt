@@ -1,0 +1,4 @@
+Alexa, open classic catchphrase
+tell me a catchphrase
+tell me a classic catchphrase
+Alexa, disable classic catchphrase

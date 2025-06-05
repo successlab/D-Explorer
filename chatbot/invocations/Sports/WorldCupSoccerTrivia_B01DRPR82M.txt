@@ -1,0 +1,4 @@
+Alexa, open soccer trivia
+Alexa, start soccer trivia
+Alexa, launch soccer trivia
+Alexa, disable soccer trivia

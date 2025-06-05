@@ -1,0 +1,4 @@
+Alexa, open zapier
+Alexa, ask Zapier to trigger a zap
+Alexa, ask Zapier to update my status
+Alexa, disable zapier

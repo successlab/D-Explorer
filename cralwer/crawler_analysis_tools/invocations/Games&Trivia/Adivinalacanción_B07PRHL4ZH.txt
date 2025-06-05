@@ -1,0 +1,5 @@
+Alexa, open adivina la canción
+Alexa, abre adivina la canción
+Alexa, pregunta a adivina la canción por una canción
+Alexa, pregunta a adivina la canción una canción
+Alexa, disable adivina la canción

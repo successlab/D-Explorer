@@ -1,0 +1,9 @@
+Alexa, open busy hands
+Alexa, ask Busy Hands what projects are available?
+Alexa, ask Busy Hands to start the make slime project.
+Alexa, ask Busy Hands what equipment do I need to roll a can with static electricity
+Alexa, ask Busy Hands for a fact
+Alexa, ask Busy Hands to give me a fact about non spill water
+Alexa, ask busy hands what equipment I need to make slime
+Alexa, ask busy hands to give me a science experiment
+Alexa, disable busy hands

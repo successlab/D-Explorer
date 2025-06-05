@@ -1,0 +1,4 @@
+Alexa, set Thermostat temperature to 72 degrees.
+Alexa, what's the temperature in the Bedroom?
+Alexa, set Thermostat to AUTO
+Alexa, disable LennoxSmartThermostats(S40,L40,S30,E30&M30)

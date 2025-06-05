@@ -1,0 +1,5 @@
+Alexa, open happy learning
+Alexa ask happy learning Tell me the Names of 5 Colors
+List me the Names of 10 Cities
+What are the 3 Animals
+Alexa, disable happy learning

@@ -1,0 +1,5 @@
+Alexa, open safe zone
+Alexa, ask safe zone How safe is the city of Irvine?
+How safe is the neighborhood of Los Angeles?
+What is the safety rating for the Los Angeles area?
+Alexa, disable safe zone

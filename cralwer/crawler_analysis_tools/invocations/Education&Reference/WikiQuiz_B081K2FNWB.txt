@@ -1,0 +1,3 @@
+Alexa, open give me a wiki quiz
+Alexa, give me a wiki quiz
+Alexa, disable give me a wiki quiz

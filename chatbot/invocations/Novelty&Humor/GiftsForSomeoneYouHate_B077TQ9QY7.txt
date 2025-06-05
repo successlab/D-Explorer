@@ -1,0 +1,5 @@
+Alexa, open gift buddy
+Alexa, ask Gift Buddy to give me a gift
+Alexa, ask Gift Buddy to tell me a gift
+Alexa, ask Gift Buddy for a gift
+Alexa, disable gift buddy

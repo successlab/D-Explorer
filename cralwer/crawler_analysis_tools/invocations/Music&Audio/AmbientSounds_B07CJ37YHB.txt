@@ -1,0 +1,10 @@
+Alexa, open ambient sounds
+Alexa, ask Ambient Sounds to play thunderstorms
+Alexa, ask Ambient Sounds for a list
+Alexa, stop
+Alexa, stop in 3 hours
+Alexa, ask Ambient Sounds for the daily meditation.
+Alexa, ask Ambient Sounds to turn on Background Mode
+Alexa, ask Ambient Sounds to turn off Background Mode
+Alexa, ask Ambient Sounds for thunderstorms
+Alexa, disable ambient sounds

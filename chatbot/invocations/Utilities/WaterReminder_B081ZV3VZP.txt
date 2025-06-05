@@ -1,0 +1,7 @@
+Alexa, open water reminder
+Alexa, launch water reminder
+Alexa, cancel water reminders
+Alexa, cancel all reminders
+Alexa, start Water Reminder
+Alexa, launch Water Reminder
+Alexa, disable water reminder

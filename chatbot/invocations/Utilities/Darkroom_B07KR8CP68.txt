@@ -1,0 +1,5 @@
+Alexa, open dark room
+Alexa, launch dark room
+Set development to 60 seconds
+Count from 12
+Alexa, disable dark room

@@ -1,0 +1,3 @@
+Alexa, open diario as
+Alexa, abre DIARIO AS.
+Alexa, disable diario as

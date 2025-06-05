@@ -1,0 +1,5 @@
+Alexa, open guess my animal
+Alexa launch guess my animal
+answer
+next
+Alexa, disable guess my animal

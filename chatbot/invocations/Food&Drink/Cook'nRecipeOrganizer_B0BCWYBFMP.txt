@@ -1,0 +1,6 @@
+Alexa, open cook'n recipe organizer
+Alexa, ask Cook'n Recipe Organizer for my Homemade Oreo Cookie recipe
+Alexa, launch Cook'n Recipe Organizer
+Alexa, ask Cook'n Recipe Organizer to show me my cookbooks
+Alexa, ask Cook'n Recipe Organizer to show me my creamy chicken stew recipe
+Alexa, disable cook'n recipe organizer

@@ -1,0 +1,7 @@
+Alexa, open someone surprised
+Alexa, tell/ask Someone Surprised [say your phrase] in/after [say any delay in minutes or seconds less than 11 minutes]
+Alexa, tell Someone Surprised 'good morning, welcome to the kitchen' in 55 seconds.
+Alexa, ask Someone Surprised after 10 minutes 'are you just going to sit there all morning?
+Alexa, start someone surprised
+Alexa, launch someone surprised
+Alexa, disable someone surprised

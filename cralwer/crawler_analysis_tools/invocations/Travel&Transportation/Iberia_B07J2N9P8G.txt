@@ -1,0 +1,5 @@
+Alexa, open iberia
+Alexa, abre iberia
+Alexa, pide a iberia el estado del vuelo de Madrid a Barcelona de hoy
+Alexa, abre iberia y busca el vuelo iberia tres cero cero cuatro de mañana
+Alexa, disable iberia

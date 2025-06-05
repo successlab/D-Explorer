@@ -1,0 +1,4 @@
+alexa, show the office camera
+alexa, stop
+alexa, show my office camera
+Alexa, disable TECKINCAM

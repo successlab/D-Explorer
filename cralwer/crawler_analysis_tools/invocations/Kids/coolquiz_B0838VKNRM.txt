@@ -1,0 +1,5 @@
+Alexa, open cool quiz
+Alexa, next
+Alexa, stop
+Alexa, start cool quiz
+Alexa, disable cool quiz

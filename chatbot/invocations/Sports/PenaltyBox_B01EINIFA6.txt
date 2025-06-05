@@ -1,0 +1,5 @@
+Alexa, open the penalty box
+Alexa, ask the Penalty Box to tell me a hockey fact.
+Alexa, open the Penalty Box.
+Alexa, use the Penalty Box to tell me some hockey trivia.
+Alexa, disable the penalty box

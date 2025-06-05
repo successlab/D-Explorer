@@ -1,0 +1,4 @@
+Alexa, open should i eat
+Alexa, Launch Should I Eat
+Alexa, Start Should I Eat
+Alexa, disable should i eat

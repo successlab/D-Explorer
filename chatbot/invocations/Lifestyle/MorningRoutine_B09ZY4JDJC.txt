@@ -1,0 +1,4 @@
+Alexa, open morning routine
+Alexa, start Morning Routine
+Alexa, launch Morning Routine
+Alexa, disable morning routine

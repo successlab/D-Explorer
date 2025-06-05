@@ -1,0 +1,5 @@
+Alexa, open chit chat
+Alexa, tell chit chat to send a message
+Alexa, tell chit chat to read my messages
+Alexa, tell chit chat send a tell
+Alexa, disable chit chat

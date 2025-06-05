@@ -1,0 +1,5 @@
+Alexa, open affirmation bear
+Alexa, ask AffirmationBear for a random affirmation
+Alexa, ask Affirmation Bear for a random affirmation
+Alexa, ask Affirmation Bear to give me love energy
+Alexa, disable affirmation bear

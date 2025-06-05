@@ -1,0 +1,19 @@
+Alexa, turn on the bedside lamp
+Alexa, turn off the bedside lamp
+Alexa, unlock the front door
+Alexa, turn on the south garden sprinkler
+Alexa, turn off the south garden sprinkler
+Alexa, turn on the front gate
+Alexa, turn off the front gate
+Alexa, turn on the south garden sprinkler
+Alexa, turn off the south garden sprinkler
+Alexa, set the Bedroom to 22 degrees
+Alexa, what is the temperature in the Bedroom?
+Alexa, what is the Living Room set to?
+Alexa, set the Bedroom to 25 degrees
+Alexa, set the Living Room to heating mode
+Alexa, turn on party
+Alexa, set the thermostat temperature to 22 degrees
+Alexa, turn on the living room light
+Alexa, turn off the living room light
+Alexa, disable ComelitHome

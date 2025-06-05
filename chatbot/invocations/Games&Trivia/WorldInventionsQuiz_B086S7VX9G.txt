@@ -1,0 +1,4 @@
+Alexa, open inventions quiz
+Alexa ask inventions quiz to check my world inventions knowledge
+Alexa tell inventions quiz to ask me about world inventions
+Alexa, disable inventions quiz

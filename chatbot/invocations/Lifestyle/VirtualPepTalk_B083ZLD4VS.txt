@@ -1,0 +1,5 @@
+Alexa, open virtual pep talk
+Alexa, next
+Alexa, stop
+Alexa, start virtual pep talk
+Alexa, disable virtual pep talk

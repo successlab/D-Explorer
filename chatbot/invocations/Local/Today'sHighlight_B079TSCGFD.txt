@@ -1,0 +1,5 @@
+Alexa, open today's highlight
+Alexa, ask Today's Highlight about today
+Alexa, ask Today's Highlight what's special about today
+Alexa, ask Today's Highlight what should I celebrate today
+Alexa, disable today's highlight

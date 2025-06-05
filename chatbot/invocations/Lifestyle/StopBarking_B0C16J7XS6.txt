@@ -1,0 +1,4 @@
+Alexa, open stop barking
+Alexa, Pause
+Alexa, Resume
+Alexa, disable stop barking

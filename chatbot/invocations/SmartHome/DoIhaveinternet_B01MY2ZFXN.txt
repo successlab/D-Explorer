@@ -1,0 +1,5 @@
+Alexa, open connection check
+Alexa, open connection check.
+Alexa, launch connection check and tell me the internet status.
+Alexa, start connection check and what is the connection status.
+Alexa, disable connection check

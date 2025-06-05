@@ -1,0 +1,6 @@
+Alexa, open mississippi
+Alexa, ask Mississippi...
+Alexa, ask Mississippi for a random fact
+Alexa, ask Mississippi to name the current Secretary of State
+Alexa, tell Mississippi to give me the address to the Department of Revenue
+Alexa, disable mississippi

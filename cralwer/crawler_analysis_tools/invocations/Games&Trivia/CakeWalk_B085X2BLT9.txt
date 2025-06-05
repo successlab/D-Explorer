@@ -1,0 +1,2 @@
+Alexa, open birthday countdown
+Alexa, disable birthday countdown

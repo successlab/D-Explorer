@@ -1,0 +1,6 @@
+Alexa, open orbit
+Alexa, ask Orbit to find my phone
+Alexa, ask Orbit to find my keys
+Alexa, ask Orbit to ring my phone
+Alexa, ask Orbit to find my wallet
+Alexa, disable orbit

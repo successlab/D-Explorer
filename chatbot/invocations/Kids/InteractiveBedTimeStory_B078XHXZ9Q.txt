@@ -1,0 +1,4 @@
+Alexa, open bed time
+read a spooky story
+read a normal story
+Alexa, disable bed time

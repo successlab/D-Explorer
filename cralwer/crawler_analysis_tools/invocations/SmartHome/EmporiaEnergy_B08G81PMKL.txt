@@ -1,0 +1,4 @@
+Alexa, turn on Smart Plug
+Alexa, turn off Smart Plug
+Alexa, turn on EV Charger
+Alexa, disable EmporiaEnergy

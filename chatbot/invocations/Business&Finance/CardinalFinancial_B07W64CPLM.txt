@@ -1,0 +1,5 @@
+Alexa, open cardinal financial
+Alexa, ask Cardinal Financial what pre-approval is
+Alexa, ask Cardinal Financial how long it takes to close on a home
+Alexa, ask Cardinal Financial how much I need for a down payment
+Alexa, disable cardinal financial

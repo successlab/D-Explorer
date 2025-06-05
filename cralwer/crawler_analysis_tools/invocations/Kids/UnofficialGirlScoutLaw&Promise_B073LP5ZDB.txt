@@ -1,0 +1,5 @@
+Alexa, open scout practice
+Alexa, ask scout practice to tell me the girl scout promise.
+Alexa, ask scout practice to tell me the girl scout law.
+What is the girl scout law?
+Alexa, disable scout practice

@@ -1,0 +1,4 @@
+Alexa, open montana vigilante
+Alexa, start montana vigilante
+Alexa, ask montana vigilante what's playing
+Alexa, disable montana vigilante

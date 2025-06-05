@@ -1,0 +1,4 @@
+Alexa, open magic crystal
+Alexa, ask magic crystal for my fortune
+Alexa, start magic crystal
+Alexa, disable magic crystal

@@ -1,0 +1,5 @@
+Alexa, open meal dictator
+Alexa, ask Meal Dictator to find me a place to eat in Cincinnati
+I want to eat in Seattle
+feed me in Chicago
+Alexa, disable meal dictator

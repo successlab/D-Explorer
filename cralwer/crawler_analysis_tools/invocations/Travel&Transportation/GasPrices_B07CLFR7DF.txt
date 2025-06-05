@@ -1,0 +1,8 @@
+Alexa, open gas prices
+Alexa, gas prices!
+Alexa, ask gas prices for the price overview around Honolulu.
+Alexa, ask gas prices for price in Toronto airport.
+Alexa, ask gas prices for price trend at San Francisco.
+What is the price around Planet Fitness?
+Are gas prices going up?
+Alexa, disable gas prices

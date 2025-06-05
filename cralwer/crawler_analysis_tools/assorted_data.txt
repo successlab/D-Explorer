@@ -1,0 +1,27 @@
+2789 skills share data with amazon. All but 2 are in smart home.
+
+11 skills skipped.
+
+Category: SmartHome, Dir1 Count: 878, Dir2 Count: 3513, Percentage: 25.0%
+Category: HomeServices, Dir1 Count: 23, Dir2 Count: 282, Percentage: 8.2%
+Category: Shopping, Dir1 Count: 67, Dir2 Count: 268, Percentage: 25.0%
+Category: Lifestyle, Dir1 Count: 1339, Dir2 Count: 5598, Percentage: 23.9%
+Category: Movies&TV, Dir1 Count: 219, Dir2 Count: 897, Percentage: 24.4%
+Category: Games&Trivia, Dir1 Count: 1235, Dir2 Count: 5054, Percentage: 24.4%
+Category: ConnectedCar, Dir1 Count: 16, Dir2 Count: 67, Percentage: 23.9%
+Category: Utilities, Dir1 Count: 355, Dir2 Count: 1435, Percentage: 24.7%
+Category: Social, Dir1 Count: 209, Dir2 Count: 1805, Percentage: 11.6%
+Category: Education&Reference, Dir1 Count: 1408, Dir2 Count: 5633, Percentage: 25.0%
+Category: Kids, Dir1 Count: 682, Dir2 Count: 3483, Percentage: 19.6%
+Category: Food&Drink, Dir1 Count: 287, Dir2 Count: 1150, Percentage: 25.0%
+Category: Music&Audio, Dir1 Count: 1365, Dir2 Count: 6152, Percentage: 22.2%
+Category: Weather, Dir1 Count: 162, Dir2 Count: 654, Percentage: 24.8%
+Category: Travel&Transportation, Dir1 Count: 251, Dir2 Count: 1004, Percentage: 25.0%
+Category: Sports, Dir1 Count: 179, Dir2 Count: 977, Percentage: 18.3%
+Category: News, Dir1 Count: 156, Dir2 Count: 774, Percentage: 20.2%
+Category: Local, Dir1 Count: 100, Dir2 Count: 1056, Percentage: 9.5%
+Category: Novelty&Humor, Dir1 Count: 691, Dir2 Count: 2801, Percentage: 24.7%
+Category: Business&Finance, Dir1 Count: 272, Dir2 Count: 1093, Percentage: 24.9%
+Category: Productivity, Dir1 Count: 423, Dir2 Count: 3662, Percentage: 11.6%
+Category: Communication, Dir1 Count: 4, Dir2 Count: 327, Percentage: 1.2%
+Category: Health&Fitness, Dir1 Count: 205, Dir2 Count: 2893, Percentage: 7.1%

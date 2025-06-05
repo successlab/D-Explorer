@@ -1,0 +1,10 @@
+Alexa, open flight deals
+Alexa, ask Flight Deals what are today's deals from New York
+Alexa, ask Flight Deals for deals on Delta
+Alexa, ask Flight Deals for deals from Seattle
+Alexa, ask Flight Deals for deals to London
+Alexa, ask Flight Deals for deals between Seattle and London
+Alexa, ask Flight Deals to list all cities
+Alexa, ask Flight Deals for summary of deals
+Alexa, ask Flight Deals for latest deals for Seattle
+Alexa, disable flight deals

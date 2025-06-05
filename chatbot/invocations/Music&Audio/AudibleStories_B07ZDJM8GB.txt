@@ -1,0 +1,6 @@
+Alexa, open audible stories
+Alexa, read me a story,
+Alexa, read me a story
+Alexa, ask Audible Stories for a funny story
+Alexa, ask Audible Stories for a night time story
+Alexa, disable audible stories

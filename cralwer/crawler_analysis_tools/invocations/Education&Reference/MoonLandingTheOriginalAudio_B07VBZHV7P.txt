@@ -1,0 +1,4 @@
+Alexa, open moon landing
+Alexa, ask Moon Landing to play the lift-off
+Alexa, ask Moon Landing to play Neil Armstrong's famous quote
+Alexa, disable moon landing

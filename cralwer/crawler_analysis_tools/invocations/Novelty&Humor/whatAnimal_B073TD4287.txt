@@ -1,0 +1,4 @@
+Alexa, open what animal
+yes
+no
+Alexa, disable what animal

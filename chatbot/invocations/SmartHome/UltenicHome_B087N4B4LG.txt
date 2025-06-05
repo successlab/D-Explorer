@@ -1,0 +1,3 @@
+Alexa, turn on ultenic smart device.
+Alexa, turn off ultenic smart device.
+Alexa, disable UltenicHome

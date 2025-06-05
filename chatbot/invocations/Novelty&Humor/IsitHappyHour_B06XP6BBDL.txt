@@ -1,0 +1,4 @@
+Alexa, open is it happy hour
+Alexa, ask is it Happy Hour
+Alexa, is it Happy Hour
+Alexa, disable is it happy hour

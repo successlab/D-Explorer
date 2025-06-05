@@ -1,0 +1,4 @@
+Alexa, open amazon storytime
+Alexa, ask Amazon Storytime to tell me a bedtime story
+Alexa, ask Amazon Storytime to tell me a LEGO story
+Alexa, disable amazon storytime

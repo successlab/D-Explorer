@@ -1,0 +1,3 @@
+Alexa, open smack talk
+Alexa, tell Smack Talk to insult Bill
+Alexa, disable smack talk

@@ -1,0 +1,4 @@
+Alexa, open k. triple x.
+Alexa, ask k. triple x. what's playing.
+Alexa, ask k. triple x. to play live.
+Alexa, disable k. triple x.

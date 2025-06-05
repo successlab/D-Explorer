@@ -1,0 +1,5 @@
+Alexa, open rap name generator
+Alexa ask rap name generator to give me a rap name
+give me a rap name
+tell me a rap name
+Alexa, disable rap name generator

@@ -1,0 +1,5 @@
+Alexa, open garbage buddy
+Alexa, ask garbage buddy if it's recycling week
+Alexa, ask garbage buddy if this week is recycling week
+Alexa, ask garbage buddy if recycling is being picked up this week
+Alexa, disable garbage buddy

@@ -1,0 +1,5 @@
+Alexa, open give me inspiration
+Alexa, give me inspiration
+Alexa, ask Give Me Inspiration for a quote
+Alexa, ask Give Me Inspiration for the thought of the day
+Alexa, disable give me inspiration

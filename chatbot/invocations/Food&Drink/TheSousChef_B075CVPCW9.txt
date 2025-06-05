@@ -1,0 +1,5 @@
+Alexa, open the sous chef
+Alexa ask the sous chef what goes well with apples bananas and chicken
+Alexa ask the sous chef what is sweet that goes with bread
+Alexa ask the sous chef what herb that goes with salmon
+Alexa, disable the sous chef

@@ -1,0 +1,9 @@
+Alexa, open car ride sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Car Ride Sounds to turn on Background Mode
+Alexa, ask Car Ride Sounds to turn Background Mode off
+Alexa, start Car Ride Sounds
+Alexa, launch Car Ride Sounds
+Alexa, disable car ride sounds

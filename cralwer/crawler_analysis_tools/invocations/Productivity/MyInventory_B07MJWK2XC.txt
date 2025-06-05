@@ -1,0 +1,5 @@
+Alexa, open my inventory
+Alexa open My Inventory and Store
+Alexa open My Inventory and Find
+Alexa open My Inventory and Delete
+Alexa, disable my inventory

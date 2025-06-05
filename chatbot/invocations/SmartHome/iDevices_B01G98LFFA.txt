@@ -1,0 +1,6 @@
+Alexa, dim the Living Room lights
+Alexa, what is the Thermostat set to?
+Alexa, what is the Bedroom temperature?
+Alexa, turn on the Bedroom lights.
+Alexa, dim the Kitchen.
+Alexa, disable iDevices

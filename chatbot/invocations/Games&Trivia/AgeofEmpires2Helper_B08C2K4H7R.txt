@@ -1,0 +1,5 @@
+Alexa, open a. o. e. helper
+Alexa, ask AoE Helper, what is the unique unit of the Aztecs
+Alexa, ask AoE Helper, what is the Byzantine unique unit
+Alexa, ask AoE Helper, tell me about the Franks
+Alexa, disable a. o. e. helper

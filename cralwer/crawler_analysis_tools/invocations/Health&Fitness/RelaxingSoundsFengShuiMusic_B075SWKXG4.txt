@@ -1,0 +1,4 @@
+Alexa, open feng shui music
+Alexa, Start Feng Shui Music
+Alexa, Play Feng Shui Music
+Alexa, disable feng shui music

@@ -1,0 +1,4 @@
+Alexa, set the bedroom to 72 degrees.
+Alexa, turn off the living room light.
+Alexa, dim the kitchen light.
+Alexa, disable AlarmcomSmartHome

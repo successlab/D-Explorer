@@ -1,0 +1,5 @@
+Alexa, open alarm oh
+Alexa, tell alarm oh to arm away
+Alexa, ask alarm oh to give me my panel status
+Alexa, tell alarm oh to set the temperature to 73 degrees fahrenheit
+Alexa, disable alarm oh

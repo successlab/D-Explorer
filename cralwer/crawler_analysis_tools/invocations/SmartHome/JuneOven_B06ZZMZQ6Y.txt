@@ -1,0 +1,5 @@
+Alexa, open june
+Alexa, bake for 10 minutes at 325 degrees in my June Oven.
+Alexa, preheat my June Oven to 450 degrees.
+Alexa, when will the food be done in my June Oven?
+Alexa, disable june

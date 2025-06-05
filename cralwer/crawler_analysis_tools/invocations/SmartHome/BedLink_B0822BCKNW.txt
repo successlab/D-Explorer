@@ -1,0 +1,5 @@
+Alexa, open bed control
+Alexa tell bed control lower the bed down two
+Alexa tell bed control lower my feet down five
+Alexa tell bed control raise my head up three
+Alexa, disable bed control

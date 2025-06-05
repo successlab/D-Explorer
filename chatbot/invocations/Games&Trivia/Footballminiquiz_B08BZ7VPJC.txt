@@ -1,0 +1,5 @@
+Alexa, open football mini quiz
+Alexa, next
+Alexa, stop
+Alexa, start football mini quiz
+Alexa, disable football mini quiz

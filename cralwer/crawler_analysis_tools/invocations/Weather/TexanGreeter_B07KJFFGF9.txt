@@ -1,0 +1,5 @@
+Alexa, open texan greeter
+Alexa, ask Texan Greeter to say hi to Sarah.
+Alexa, ask Texan Greeter to greet Sarah.
+Alexa, ask Texan Greeter to say hello to Sarah.
+Alexa, disable texan greeter

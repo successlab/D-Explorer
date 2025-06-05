@@ -1,0 +1,4 @@
+Alexa, open quran player
+Alexa, ask Quran player to play Chapter 1
+Alexa, ask Quran player to play verse of the day
+Alexa, disable quran player

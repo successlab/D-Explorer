@@ -1,0 +1,5 @@
+Alexa, open animal fun facts
+Alexa ask animal fun facts to tell me a fact
+Alexa ask animal fun facts to tell me trivia
+Alexa ask animal fun facts to give me some random information
+Alexa, disable animal fun facts

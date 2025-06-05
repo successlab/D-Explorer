@@ -1,0 +1,5 @@
+Alexa, open primary songs
+Alexa, ask Primary Songs to start playing
+Alexa, ask Primary Songs to start the music
+Alexa, ask Primary Songs to play
+Alexa, disable primary songs

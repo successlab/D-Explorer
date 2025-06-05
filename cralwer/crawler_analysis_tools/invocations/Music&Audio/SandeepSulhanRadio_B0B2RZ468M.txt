@@ -1,0 +1,4 @@
+Alexa, open sandeep sulhan radio
+Alexa, start sandeep sulhan radio
+Alexa, ask sandeep sulhan radio what's playing
+Alexa, disable sandeep sulhan radio

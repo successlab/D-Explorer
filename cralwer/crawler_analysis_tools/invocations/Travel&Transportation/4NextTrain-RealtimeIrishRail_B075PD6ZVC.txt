@@ -1,0 +1,5 @@
+Alexa, open four next train
+Alexa, ask four next train
+Alexa, ask four next train to set new favourite
+favourite Sutton
+Alexa, disable four next train

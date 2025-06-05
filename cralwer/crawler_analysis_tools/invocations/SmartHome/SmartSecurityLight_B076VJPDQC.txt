@@ -1,0 +1,5 @@
+Alexa, open light camera
+Alexa, ask Light Camera to turn off lighting mode for living room
+Alexa, ask Light Camera to turn on lighting mode for living room
+Alexa, ask Light Camera to turn off living room lighting mode
+Alexa, disable light camera

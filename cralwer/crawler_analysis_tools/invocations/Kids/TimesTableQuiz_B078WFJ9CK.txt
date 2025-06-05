@@ -1,0 +1,3 @@
+Alexa, open times table quiz
+Alexa launch times table quiz
+Alexa, disable times table quiz

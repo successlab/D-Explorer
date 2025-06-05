@@ -1,0 +1,5 @@
+Alexa, open bahai calendar
+Alexa, ask bahai calendar for the next feast date
+Alexa, ask bahai calendar what day it is today
+Alexa, ask bahai calendar for the next holy day
+Alexa, disable bahai calendar

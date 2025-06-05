@@ -1,0 +1,8 @@
+Alexa, open trash collector
+Alexa, start TRASH COLLECTOR.
+Alexa, ask TRASH COLLECTOR regist new data.
+Alexa, ask TRASH COLLECTOR what is today's garbage?
+Alexa, ask trash collector register new data.
+Alexa, ask trash collector what is today's garbage?
+Alexa, ask trash collector delete all data.
+Alexa, disable trash collector

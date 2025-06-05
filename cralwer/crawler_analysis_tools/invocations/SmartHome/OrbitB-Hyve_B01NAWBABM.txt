@@ -1,0 +1,5 @@
+Alexa, open beehive
+Alexa, ask B-Hyve to set a rain delay.
+Alexa, ask B-Hyve to water the lawn.
+Alexa, ask B-Hyve to water zone 3 for 10 minutes.
+Alexa, disable beehive

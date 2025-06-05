@@ -1,0 +1,5 @@
+Alexa, open dive planner
+Alexa ask Dive Planner to plan 90 feet for 20 minutes.
+Alexa ask Dive Planner to plan 180 feet for 20 minutes using 18 45 and the VPMB model.
+Alexa ask Dive Planner to list decompression stops.
+Alexa, disable dive planner

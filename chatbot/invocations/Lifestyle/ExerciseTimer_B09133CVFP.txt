@@ -1,0 +1,5 @@
+Alexa, open exercise timer
+Alexa, open Exercise Timer.
+Start a medium routine.
+Start a long routine in continuous mode.
+Alexa, disable exercise timer

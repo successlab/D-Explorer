@@ -1,0 +1,5 @@
+Alexa, open the hacker news
+Alexa, Ask the hacker news for the latest headlines
+Alexa, Ask the hacker news for the latest posts
+Alexa, Start the hacker news
+Alexa, disable the hacker news

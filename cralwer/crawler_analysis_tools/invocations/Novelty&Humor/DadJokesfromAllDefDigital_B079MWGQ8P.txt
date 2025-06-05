@@ -1,0 +1,4 @@
+Alexa, open dad jokes
+Tell another joke
+How many jokes do you know?
+Alexa, disable dad jokes

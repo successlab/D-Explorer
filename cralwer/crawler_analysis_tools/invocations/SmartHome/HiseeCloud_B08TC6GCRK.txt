@@ -1,0 +1,3 @@
+Alexa, show the camera name
+Alexa, stop the camera name
+Alexa, disable HiseeCloud

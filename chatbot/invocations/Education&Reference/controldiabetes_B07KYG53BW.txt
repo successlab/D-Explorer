@@ -1,0 +1,4 @@
+Alexa, open control diabetes
+Alexa, start control diabetes
+Alexa, launch control diabetes
+Alexa, disable control diabetes

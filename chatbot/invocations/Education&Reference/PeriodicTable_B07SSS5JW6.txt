@@ -1,0 +1,5 @@
+Alexa, open periodic table
+Alexa, open periodic table and give me an element.
+Alexa, open periodic table.
+Alexa, open periodic table and provide me an element.
+Alexa, disable periodic table

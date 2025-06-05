@@ -1,0 +1,5 @@
+Alexa, open task recorder
+Alexa, ask task recorder to record mowed the lawn
+Alexa, ask task recorder when I mowed the lawn
+Alexa, ask task recorder what my last task was
+Alexa, disable task recorder

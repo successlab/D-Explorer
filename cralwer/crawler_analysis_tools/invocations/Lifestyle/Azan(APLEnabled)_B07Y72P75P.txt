@@ -1,0 +1,4 @@
+Alexa, open azan prayer
+Alexa, start azan prayer
+Alexa, launch azan prayer
+Alexa, disable azan prayer

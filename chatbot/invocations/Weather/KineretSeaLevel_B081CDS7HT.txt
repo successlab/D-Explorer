@@ -1,0 +1,4 @@
+Alexa, open kineret sea level
+Alexa, ask kineret sea level what is the current status
+Alexa, ask kineret sea level, how far are we from the red lines
+Alexa, disable kineret sea level

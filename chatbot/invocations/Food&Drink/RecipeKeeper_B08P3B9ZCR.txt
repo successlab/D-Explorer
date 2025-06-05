@@ -1,0 +1,10 @@
+Alexa, open recipe keeper
+Alexa, ask Recipe Keeper for cookie recipes
+Alexa, how many eggs?
+Alexa, how much flour?
+Alexa, ask Recipe Keeper to add eggs to my shopping list
+Alexa, ask Recipe Keeper to remove eggs from my shopping list
+Alexa, ask Recipe Keeper what's on my shopping list
+Alexa, ask Recipe Keeper to search for chocolate recipes
+Alexa, ask Recipe Keeper to add tomatoes to my shopping list
+Alexa, disable recipe keeper

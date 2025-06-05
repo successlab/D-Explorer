@@ -1,0 +1,3 @@
+Alexa, open math flashcards
+Alexa, start math flashcards
+Alexa, disable math flashcards

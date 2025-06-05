@@ -1,0 +1,4 @@
+Alexa, show my front door.
+Alexa, enable the Wansview Skill
+Alexa, go home.
+Alexa, disable Wansview

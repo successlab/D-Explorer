@@ -1,0 +1,3 @@
+Alexa, open hacker news
+hacker news
+Alexa, disable hacker news

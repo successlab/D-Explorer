@@ -1,0 +1,4 @@
+Alexa, open mr rogers
+Alexa, open Mister Rogers
+
+Alexa, disable mr rogers

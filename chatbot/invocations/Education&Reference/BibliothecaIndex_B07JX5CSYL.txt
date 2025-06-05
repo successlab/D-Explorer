@@ -1,0 +1,5 @@
+Alexa, open bible index
+Alexa, ask Bible Index where Proverbs chapter three is.
+Alexa, ask Bible Index where Proverbs seven is.
+Alexa, ask Bible Index to locate Proverbs five.
+Alexa, disable bible index

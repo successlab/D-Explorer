@@ -1,0 +1,3 @@
+Alexa, open nearby grub
+Alexa, ask nearby grub where should I go to eat.
+Alexa, disable nearby grub

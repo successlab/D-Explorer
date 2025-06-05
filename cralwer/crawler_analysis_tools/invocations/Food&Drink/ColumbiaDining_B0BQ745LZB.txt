@@ -1,0 +1,4 @@
+Alexa, open columbia dining
+hello
+help
+Alexa, disable columbia dining

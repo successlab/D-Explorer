@@ -1,0 +1,5 @@
+Alexa, open are you smarter than a matchmaker
+Alexa, start Are You Smarter Than A Matchmaker
+Alexa, stop
+Alexa, launch Are You Smarter Than A Matchmaker
+Alexa, disable are you smarter than a matchmaker

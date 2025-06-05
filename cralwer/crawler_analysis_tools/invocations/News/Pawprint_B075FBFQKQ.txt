@@ -1,0 +1,5 @@
+Alexa, open paw print
+Alexa, ask paw print for a fact
+Alexa, ask paw print for another fact
+Alexa, launch paw print
+Alexa, disable paw print

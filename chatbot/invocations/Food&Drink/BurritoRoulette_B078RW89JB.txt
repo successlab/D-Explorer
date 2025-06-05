@@ -1,0 +1,5 @@
+Alexa, open burrito roulette
+Alexa, ask Burrito Roulette to make a burrito.
+Alexa, ask Burrito Roulette to build me a burrito.
+Alexa, ask Burrito Roulette which burrito I should have.
+Alexa, disable burrito roulette

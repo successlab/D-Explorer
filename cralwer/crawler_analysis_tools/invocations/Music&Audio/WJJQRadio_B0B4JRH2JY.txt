@@ -1,0 +1,4 @@
+Alexa, open w. j. j. q. radio
+Alexa, ask w. j. j. q. radio what's playing.
+Alexa, ask w. j. j. q. radio to play live.
+Alexa, disable w. j. j. q. radio

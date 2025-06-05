@@ -1,0 +1,4 @@
+Alexa, open word of the week
+Alexa, ask Word of the Week what is the word of the week
+Alexa, ask word of the Week how to submit a word
+Alexa, disable word of the week

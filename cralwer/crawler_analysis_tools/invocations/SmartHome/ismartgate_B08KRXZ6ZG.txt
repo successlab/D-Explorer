@@ -1,0 +1,4 @@
+Alexa, open garage door
+Alexa, close garage door
+Alexa, what is the status of garage door?
+Alexa, disable ismartgate

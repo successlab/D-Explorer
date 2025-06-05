@@ -1,0 +1,6 @@
+Alexa, open to do shopping list
+Alexa, tell To Do Shopping list add cucumber and milk
+Alexa, start To Do shopping list
+Alexa, ask To Do shopping list to add milk and butter
+Alexa, ask To Do shopping list to remove butter
+Alexa, disable to do shopping list

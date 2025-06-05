@@ -1,0 +1,3 @@
+Alexa, open the music trivia
+Alexa, start the music trivia
+Alexa, disable the music trivia

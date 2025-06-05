@@ -1,0 +1,3 @@
+Alexa, turn on the Wi-Fi for Wayne's phone
+Alexa, turn off the Wi-Fi for Wayne's phone
+Alexa, disable LinksysSmartHome

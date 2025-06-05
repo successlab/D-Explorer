@@ -1,0 +1,4 @@
+Alexa, open spell emily
+Alexa start spell Emily
+Alexa launch spell Emily
+Alexa, disable spell emily

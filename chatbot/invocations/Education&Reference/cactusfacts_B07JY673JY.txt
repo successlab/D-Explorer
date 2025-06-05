@@ -1,0 +1,5 @@
+Alexa, open cactus facts
+Alexa ask cactus facts to launch cactus fact
+Alexa ask cactus facts for a cactus fact
+Alexa ask cactus facts to tell me a cactus fact
+Alexa, disable cactus facts

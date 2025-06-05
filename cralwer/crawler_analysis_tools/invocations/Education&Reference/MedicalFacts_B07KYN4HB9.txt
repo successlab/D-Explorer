@@ -1,0 +1,3 @@
+Alexa, open medical facts
+Alexa, Medical Facts
+Alexa, disable medical facts

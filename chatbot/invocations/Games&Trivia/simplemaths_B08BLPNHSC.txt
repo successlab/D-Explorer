@@ -1,0 +1,4 @@
+Alexa, open simple maths
+tell me gcd of 45 and 5
+tell me area and perimeter of rectangle of length 5 and breadth 6
+Alexa, disable simple maths

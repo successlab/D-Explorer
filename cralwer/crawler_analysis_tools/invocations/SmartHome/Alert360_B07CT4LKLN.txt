@@ -1,0 +1,5 @@
+Alexa, open alert three sixty
+Alexa, tell Alert Three Sixty to turn on the lights
+Alexa, ask Alert Three Sixty to run sleep scene
+Alexa, ask Alert Three Sixty to arm stay
+Alexa, disable alert three sixty

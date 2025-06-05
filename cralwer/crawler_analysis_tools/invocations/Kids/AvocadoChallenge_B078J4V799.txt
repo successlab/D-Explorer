@@ -1,0 +1,4 @@
+Alexa, open avocado challenge
+tomato
+cucumber
+Alexa, disable avocado challenge

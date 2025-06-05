@@ -1,0 +1,5 @@
+Alexa, open rockets
+Alexa, open the Rockets
+Alexa, ask the Rockets who's winning tonight
+Alexa, ask the Rockets, when is the next game
+Alexa, disable rockets

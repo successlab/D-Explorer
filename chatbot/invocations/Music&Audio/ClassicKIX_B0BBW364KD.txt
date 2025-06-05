@@ -1,0 +1,4 @@
+Alexa, open classic kix
+Alexa, start classic kix
+Alexa, ask classic kix what's playing
+Alexa, disable classic kix

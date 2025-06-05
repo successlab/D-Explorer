@@ -1,0 +1,3 @@
+Alexa, open santa finder
+Alexa, ask Santa Finder where's Santa
+Alexa, disable santa finder

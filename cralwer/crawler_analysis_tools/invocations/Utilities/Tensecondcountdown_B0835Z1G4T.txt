@@ -1,0 +1,3 @@
+Alexa, open ten second countdown
+Alexa, start ten second countdown
+Alexa, disable ten second countdown

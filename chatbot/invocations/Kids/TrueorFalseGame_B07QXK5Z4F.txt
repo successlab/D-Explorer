@@ -1,0 +1,3 @@
+Alexa, open true or false game
+Alexa ask true or false game to start
+Alexa, disable true or false game

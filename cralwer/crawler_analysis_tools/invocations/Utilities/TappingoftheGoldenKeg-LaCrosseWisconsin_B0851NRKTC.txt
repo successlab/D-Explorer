@@ -1,0 +1,3 @@
+Alexa, open golden keg
+Alexa, start golden keg
+Alexa, disable golden keg

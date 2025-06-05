@@ -1,0 +1,5 @@
+Alexa, open pregnancy tips
+Alexa, quit
+Alexa, start Pregnancy Tips
+Alexa, launch Pregnancy Tips
+Alexa, disable pregnancy tips

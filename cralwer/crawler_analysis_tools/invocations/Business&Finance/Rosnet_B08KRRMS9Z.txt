@@ -1,0 +1,3 @@
+Alexa, open my rosnet
+Alexa, open my rosnet and list periods
+Alexa, disable my rosnet

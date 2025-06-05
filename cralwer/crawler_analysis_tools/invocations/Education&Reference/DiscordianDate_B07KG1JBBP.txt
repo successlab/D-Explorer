@@ -1,0 +1,5 @@
+Alexa, open discordian date
+Alexa, tell Discordian Date to tell me todays date
+Alexa, tell Discordian Date to give me the Erisian date for today
+Alexa, tell Discordian Date to say today's Discordian date
+Alexa, disable discordian date

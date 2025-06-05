@@ -1,0 +1,6 @@
+Alexa, open playlist trivia
+Alexa, what are the available playlists?
+Alexa, switch playlist
+Alexa, start playlist trivia and switch playlist
+Alexa, ask playlist trivia to start a new game
+Alexa, disable playlist trivia

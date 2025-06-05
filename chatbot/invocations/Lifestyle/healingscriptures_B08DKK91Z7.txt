@@ -1,0 +1,6 @@
+Alexa, open healing scriptures
+Alexa, next
+Alexa, stop
+Alexa, start healing scriptures
+Alexa, ask healing scriptures for a fact
+Alexa, disable healing scriptures

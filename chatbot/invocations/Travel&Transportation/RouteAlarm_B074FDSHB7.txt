@@ -1,0 +1,6 @@
+Alexa, open route alarm
+Alexa, start route alarm.
+Alexa open route alarm.
+Alexa launch route alarm.
+Alexa start route alarm.
+Alexa, disable route alarm

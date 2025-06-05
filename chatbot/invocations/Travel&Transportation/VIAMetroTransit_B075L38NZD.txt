@@ -1,0 +1,5 @@
+Alexa, open via metro
+Alexa, ask VIA Metro when the next bus leaves from stop 46637
+Alexa, ask VIA Metro when route 75 leaves from stop 92399
+Alexa, ask VIA Metro for information about bus stop 46637
+Alexa, disable via metro

@@ -1,0 +1,5 @@
+Alexa, open sergeant tabata
+Alexa, start Sergeant Tabata.
+Alexa, ask Sergeant Tabata to start a standard tabata.
+Alexa, ask Sergeant Tabata to start a ten minute tabata.
+Alexa, disable sergeant tabata

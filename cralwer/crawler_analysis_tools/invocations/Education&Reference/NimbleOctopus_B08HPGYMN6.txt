@@ -1,0 +1,2 @@
+Alexa, open nimble octopus
+Alexa, disable nimble octopus

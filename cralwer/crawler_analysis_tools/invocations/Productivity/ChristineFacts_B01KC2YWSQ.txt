@@ -1,0 +1,4 @@
+Alexa, open christine facts
+Alexa, begin Christine Facts
+Alexa, start Christine Facts
+Alexa, disable christine facts

@@ -1,0 +1,5 @@
+Alexa, open seven minute workout
+Alexa, ask seven minute workout to start a session
+Alexa, ask seven minute workout to start a workout
+Alexa, ask seven minute workout to begin a seven minute session
+Alexa, disable seven minute workout

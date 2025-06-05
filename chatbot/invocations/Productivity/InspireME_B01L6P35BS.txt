@@ -1,0 +1,5 @@
+Alexa, open inspire me
+Alexa, inspire me
+Alexa, ask inspire me for quote
+Alexa, ask inspire me for inspirational quote
+Alexa, disable inspire me

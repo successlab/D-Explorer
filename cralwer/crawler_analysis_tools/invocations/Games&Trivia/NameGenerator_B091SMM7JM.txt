@@ -1,0 +1,2 @@
+Alexa, open name generator
+Alexa, disable name generator

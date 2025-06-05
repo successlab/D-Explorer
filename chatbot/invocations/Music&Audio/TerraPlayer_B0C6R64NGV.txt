@@ -1,0 +1,5 @@
+Alexa, open terra player
+Alexa, open Terra Player and play Game That Tune Radio
+Alexa, open Terra Player and play The SID Station
+Alexa, open Terra Player and play Over Clocked Remix Radio
+Alexa, disable terra player

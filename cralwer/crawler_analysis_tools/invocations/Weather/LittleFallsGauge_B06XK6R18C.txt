@@ -1,0 +1,5 @@
+Alexa, open little falls gauge
+Alexa, ask Little Falls Gauge for the level
+Alexa, ask Little Falls Gauge what's running
+Alexa, ask Little Falls Gauge for the water temp
+Alexa, disable little falls gauge

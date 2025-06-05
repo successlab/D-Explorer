@@ -1,0 +1,4 @@
+Alexa, play my Flow on Deezer
+Alexa, play some Jazz on Deezer
+Alexa, play the playlist Chill Hits on Deezer
+Alexa, disable Deezer

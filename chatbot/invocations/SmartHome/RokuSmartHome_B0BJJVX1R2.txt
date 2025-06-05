@@ -1,0 +1,4 @@
+Alexa, turn on light
+Alexa, turn off light
+Alexa, show me doorbell
+Alexa, disable RokuSmartHome

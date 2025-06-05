@@ -1,0 +1,5 @@
+Alexa, open tabata timer
+Alexa, ask Tabata Timer to start.
+Alexa, open Tabata Timer.
+Go
+Alexa, disable tabata timer

@@ -1,0 +1,6 @@
+Alexa, open crash stappen
+Alexa, stop
+Alexa, open crashstappen
+Alexa, ask crashstappen if Max has crashed
+Alexa, ask crashstappen for the last crash
+Alexa, disable crash stappen

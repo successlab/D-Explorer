@@ -1,0 +1,4 @@
+Alexa, open birthday reminder
+Alexa, Launch Birthday reminder
+Alexa, start Birthday reminder
+Alexa, disable birthday reminder

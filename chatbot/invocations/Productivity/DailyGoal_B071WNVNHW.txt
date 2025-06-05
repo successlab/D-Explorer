@@ -1,0 +1,5 @@
+Alexa, open daily goal
+Alexa, open Daily Goal.
+What is my goal for today?
+What should I do today?
+Alexa, disable daily goal

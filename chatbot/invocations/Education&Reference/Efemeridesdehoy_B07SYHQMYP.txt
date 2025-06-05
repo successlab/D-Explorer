@@ -1,0 +1,4 @@
+Alexa, open efemerides de hoy
+Alexa, lanza efemérides de hoy.
+Alexa, abre efemérides de hoy.
+Alexa, disable efemerides de hoy

@@ -1,0 +1,3 @@
+Alexa, open personality teller
+Alexa launch personality teller
+Alexa, disable personality teller

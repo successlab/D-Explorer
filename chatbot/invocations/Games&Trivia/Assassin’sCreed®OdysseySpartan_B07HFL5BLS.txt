@@ -1,0 +1,5 @@
+Alexa, open the spartan
+Alexa, open the spartan.
+Alexa, ask The Spartan to tell me about the Athenian Treasury
+Alexa, ask The Spartan to tell me about the Battle of the Giants vs Gods
+Alexa, disable the spartan

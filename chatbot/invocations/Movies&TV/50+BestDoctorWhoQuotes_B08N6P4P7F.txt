@@ -1,0 +1,5 @@
+Alexa, open doctor who quotes
+Alexa, next
+Alexa, stop
+Alexa, start doctor who quotes
+Alexa, disable doctor who quotes

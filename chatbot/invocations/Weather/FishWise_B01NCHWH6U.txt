@@ -1,0 +1,5 @@
+Alexa, open fish wise
+Alexa, open FishWise
+Alexa, ask FishWise for the forecast
+Alexa, ask FishWise for the freshwater fish forecast
+Alexa, disable fish wise

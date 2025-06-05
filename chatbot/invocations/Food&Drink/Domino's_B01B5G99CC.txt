@@ -1,0 +1,4 @@
+Alexa, open dominos
+Alexa, open Dominos and place an order
+Alexa, open Dominos and track my order
+Alexa, disable dominos

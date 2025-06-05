@@ -1,0 +1,3 @@
+Alexa, open daily advice
+Alexa, open Daily Advice.
+Alexa, disable daily advice

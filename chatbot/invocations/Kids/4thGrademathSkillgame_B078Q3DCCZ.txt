@@ -1,0 +1,6 @@
+Alexa, open math game
+Alexa,give me a math fact
+Alexa begin math game
+Alexa launch math game and ask me my questions
+Alexa open math game and ask me my questions
+Alexa, disable math game

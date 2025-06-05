@@ -1,0 +1,4 @@
+Alexa, open scripture study
+Alexa, ask Scripture Study to read Genesis chapter one
+Alexa, ask Scripture Study to read the Book of Mormon
+Alexa, disable scripture study

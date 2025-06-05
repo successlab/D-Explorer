@@ -1,0 +1,4 @@
+Alexa, open who am i
+Alexa, start who am i
+Alexa, ask who am i for a fact
+Alexa, disable who am i

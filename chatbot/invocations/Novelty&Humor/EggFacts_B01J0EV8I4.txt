@@ -1,0 +1,5 @@
+Alexa, open egg facts
+Alexa, ask Egg Facts to tell me a fact.
+Alexa, tell Egg Facts to give me an egg fact.
+Alexa, ask Egg Facts to give me trivia.
+Alexa, disable egg facts

@@ -1,0 +1,5 @@
+Alexa, open ringbyname
+Alexa, ask RingByName to call John Smith
+Alexa, ask RingByName to call 8553457464
+Alexa, ask RingByName to call my coworker Mary Smith
+Alexa, disable ringbyname

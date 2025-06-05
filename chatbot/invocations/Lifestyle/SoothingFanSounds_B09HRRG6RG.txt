@@ -1,0 +1,4 @@
+Alexa, open soothing fan sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable soothing fan sounds

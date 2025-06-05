@@ -1,0 +1,5 @@
+Alexa, open sound of the color of the year
+Alexa, ask Sound of the Color of the Year to play the Event Music
+Alexa, launch Sound of the Color of the Year
+Alexa, play Sound of the Color of the Year
+Alexa, disable sound of the color of the year

@@ -1,0 +1,5 @@
+Alexa, open mission advisory group
+Alexa, ask Mission Advisory Group to tell me about Greg Saurenman
+Alexa, ask Mission Advisory Group to tell me about the company
+Alexa, ask Mission Advisory Group to play the latest update
+Alexa, disable mission advisory group

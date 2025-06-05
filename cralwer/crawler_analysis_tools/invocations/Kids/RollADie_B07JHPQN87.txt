@@ -1,0 +1,5 @@
+Alexa, open roll a die
+Alexa, open Roll A Die!
+Alexa, roll a die
+Alexa, ask Roll A Die to spin the die
+Alexa, disable roll a die

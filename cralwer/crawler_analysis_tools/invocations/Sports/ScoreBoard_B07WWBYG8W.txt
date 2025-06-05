@@ -1,0 +1,4 @@
+Alexa, open score board
+Alexa, open score board and new match tennis
+Alexa, open score board and tell me what is the score?
+Alexa, disable score board

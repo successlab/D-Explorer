@@ -1,0 +1,3 @@
+Alexa, open movie mode
+Alexa, movie mode
+Alexa, disable movie mode

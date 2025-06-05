@@ -1,0 +1,5 @@
+Alexa, open my player
+Alexa, show menu
+Alexa, channel 3
+Alexa, Next
+Alexa, disable my player

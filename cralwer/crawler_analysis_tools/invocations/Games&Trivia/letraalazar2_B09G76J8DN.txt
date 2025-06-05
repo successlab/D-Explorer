@@ -1,0 +1,4 @@
+Alexa, open letra al azar dos
+Alexa, abre letra al azar dos
+Alexa, abre letra al azar dos y dame una letra
+Alexa, disable letra al azar dos

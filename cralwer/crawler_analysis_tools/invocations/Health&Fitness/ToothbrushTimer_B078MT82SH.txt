@@ -1,0 +1,4 @@
+Alexa, open toothbrush timer
+Alexa, ask Toothbrush Timer to start
+Alexa, ask Toothbrush Timer to begin brushing
+Alexa, disable toothbrush timer

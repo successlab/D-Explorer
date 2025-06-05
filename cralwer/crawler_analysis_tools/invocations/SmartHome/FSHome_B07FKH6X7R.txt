@@ -1,0 +1,4 @@
+Alexa, turn on porch light
+Alexa, set table lamp to blue
+Alexa, set table lamp to 50 percent
+Alexa, disable FSHome

@@ -1,0 +1,4 @@
+Alexa, open christmas doorbell
+Alexa, start christmas doorbell
+Alexa, launch christmas doorbell
+Alexa, disable christmas doorbell

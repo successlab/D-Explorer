@@ -1,0 +1,5 @@
+Alexa, open mi taquería
+Alexa, abre mi taqueria
+Alexa, pide a mi taquería abrir un puesto de tacos
+Alexa, abre mi taquería
+Alexa, disable mi taquería

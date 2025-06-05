@@ -1,0 +1,4 @@
+Alexa, open sleep sounds box fan
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds box fan

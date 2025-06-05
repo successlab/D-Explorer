@@ -1,0 +1,5 @@
+Alexa, open chair doctor
+Alexa start chair doctor
+Power on
+Give me a massage
+Alexa, disable chair doctor

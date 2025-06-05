@@ -1,0 +1,3 @@
+Alexa, turn off my outdoor lights
+Alexa, turn on my outdoor lights
+Alexa, disable Intermatic-Home-Skill

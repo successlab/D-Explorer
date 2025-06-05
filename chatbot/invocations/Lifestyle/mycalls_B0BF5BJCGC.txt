@@ -1,0 +1,5 @@
+Alexa, open my calls
+Alexa, call Jeff
+Alexa, ask My Calls to Register Available Time
+Alexa, ask My Calls to Check Settings
+Alexa, disable my calls

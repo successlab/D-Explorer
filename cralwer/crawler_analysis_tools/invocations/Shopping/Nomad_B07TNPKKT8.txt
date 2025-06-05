@@ -1,0 +1,4 @@
+Alexa, open nomad
+Alexa, ask nomad for top product
+Alexa, ask nomad for shipping policy
+Alexa, disable nomad

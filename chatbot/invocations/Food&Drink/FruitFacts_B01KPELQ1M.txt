@@ -1,0 +1,4 @@
+Alexa, open fruit facts
+Alexa, ask fruit facts to give me a fruit fact
+Alexa, ask fruit facts to tell me a fruit fact
+Alexa, disable fruit facts

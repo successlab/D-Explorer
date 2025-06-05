@@ -1,0 +1,5 @@
+Alexa, open qardio
+Alexa, open Qardio.
+Alexa, ask Qardio what my latest blood pressure measurement is.
+What is my latest weight measurement?
+Alexa, disable qardio

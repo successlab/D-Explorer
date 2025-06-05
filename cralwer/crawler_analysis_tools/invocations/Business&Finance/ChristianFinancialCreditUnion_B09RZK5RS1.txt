@@ -1,0 +1,5 @@
+Alexa, open christian financial
+Alexa, enable the Christian Financial skill
+Alexa ask christian financial for balance
+Alexa ask christian financial for transactions
+Alexa, disable christian financial

@@ -1,0 +1,6 @@
+Alexa, open leyendas ecuatorianas
+Alexa, siguiente
+Alexa, para
+Alexa, abre leyendas ecuatorianas
+Alexa, inicia leyendas ecuatorianas
+Alexa, disable leyendas ecuatorianas

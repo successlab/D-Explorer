@@ -1,0 +1,6 @@
+Alexa, open accordion lesson
+Alexa, next
+Alexa, stop
+Alexa, start Accordion lesson
+Alexa, ask Accordion lesson for a fact
+Alexa, disable accordion lesson

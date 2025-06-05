@@ -1,0 +1,4 @@
+Alexa, open daily inspiration
+Alexa, Open Daily Inspiration and ask for the Daily Word
+Alexa, Start Daily Inspiration
+Alexa, disable daily inspiration

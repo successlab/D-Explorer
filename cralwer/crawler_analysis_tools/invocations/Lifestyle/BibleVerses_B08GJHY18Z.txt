@@ -1,0 +1,6 @@
+Alexa, open bible verses
+Alexa, start Bible verses
+Alexa, stop
+Alexa, start bible verses
+Alexa, launch bible verses
+Alexa, disable bible verses

@@ -1,0 +1,4 @@
+Alexa, turn on Thermostat
+Alexa, set Thermostat temperature to 78 degrees
+Alexa , set Thermostat to cool
+Alexa, disable FGLairSmartHome

@@ -1,0 +1,5 @@
+Alexa, open skymee feeder
+Alexa, start skymee feeder
+jack feed 1
+jack feed 2 at 1 am
+Alexa, disable skymee feeder

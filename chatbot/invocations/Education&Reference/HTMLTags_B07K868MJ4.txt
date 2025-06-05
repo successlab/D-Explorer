@@ -1,0 +1,4 @@
+Alexa, open h. t. m. l. tags
+Alexa, tell h. t. m. l. tags to give me a tag.
+Alexa, ask h. t. m. l. tags to give me a tag.
+Alexa, disable h. t. m. l. tags

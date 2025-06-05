@@ -1,0 +1,3 @@
+Alexa, turn on the kitchen light
+Alexa, turn off the kitchen light
+Alexa, disable MonsterSmart

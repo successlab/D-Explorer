@@ -1,0 +1,5 @@
+Alexa, open daily quiz
+Alexa, next
+Alexa, stop
+Alexa, open daily quiz.
+Alexa, disable daily quiz

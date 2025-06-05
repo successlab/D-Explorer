@@ -1,0 +1,5 @@
+Alexa, open my mind games
+Alexa, next
+Alexa, stop
+Alexa, start my mind games
+Alexa, disable my mind games

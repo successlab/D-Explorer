@@ -1,0 +1,4 @@
+Alexa, open delicious desserts
+Alexa, ask delicious desserts tell me an interesting fact
+Alexa, ask delicious desserts to give me some information
+Alexa, disable delicious desserts

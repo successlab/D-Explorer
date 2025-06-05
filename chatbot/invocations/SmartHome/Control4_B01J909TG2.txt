@@ -1,0 +1,4 @@
+Alexa, turn on kitchen lights
+Alexa, turn off house
+Alexa, is front door locked?
+Alexa, disable Control4

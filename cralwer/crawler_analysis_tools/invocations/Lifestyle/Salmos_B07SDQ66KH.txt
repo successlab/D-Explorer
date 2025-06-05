@@ -1,0 +1,4 @@
+Alexa, open salmos diarios
+Alexa abre salmos diarios y dime el salmo uno de salmos
+Proclama el salmo veinte de salmos diarios
+Alexa, disable salmos diarios

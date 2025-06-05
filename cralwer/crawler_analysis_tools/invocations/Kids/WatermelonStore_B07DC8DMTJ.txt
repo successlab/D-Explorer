@@ -1,0 +1,5 @@
+Alexa, open watermelon store
+Alexa, ask watermelon store to get a watermelon
+Alexa, ask watermelon store for a watermelon
+Alexa, tell watermelon store it's watermelon time
+Alexa, disable watermelon store

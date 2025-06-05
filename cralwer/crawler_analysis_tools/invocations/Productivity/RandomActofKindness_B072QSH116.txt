@@ -1,0 +1,4 @@
+Alexa, open random act of kindness
+Alexa, ask Random Act of Kindness for an idea
+Alexa, ask Random Act of Kindness for inspiration
+Alexa, disable random act of kindness

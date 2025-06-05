@@ -1,0 +1,4 @@
+Alexa, open the bedroom blinds
+Alexa, turn on the coffee maker
+Alexa, dim the living room lights
+Alexa, disable IKEAHomesmart

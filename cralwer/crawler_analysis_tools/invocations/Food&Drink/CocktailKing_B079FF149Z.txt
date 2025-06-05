@@ -1,0 +1,5 @@
+Alexa, open cocktail king
+Alexa, ask Cocktail King how do I make a Martini?
+Alexa, ask Cocktail King what can I make with Vodka and Chocolate
+Alexa, launch Cocktail King
+Alexa, disable cocktail king

@@ -1,0 +1,3 @@
+Alexa, turn on the AC
+Alexa, set the bedroom fan speed to high
+Alexa, disable TCLHomeComfort

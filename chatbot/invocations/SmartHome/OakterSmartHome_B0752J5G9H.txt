@@ -1,0 +1,4 @@
+Alexa, change channel to ESPN
+Alexa, set temperature to 24 on AC
+Alexa, turn off lamp
+Alexa, disable OakterSmartHome

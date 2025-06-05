@@ -1,0 +1,5 @@
+Alexa, open drizzle cloud
+Alexa ask Drizzle cloud will it rain after an hour
+Alexa ask Drizzle cloud what is the weather in washington
+Alexa ask Drizzle cloud Is it raining now
+Alexa, disable drizzle cloud

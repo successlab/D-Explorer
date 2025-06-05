@@ -1,0 +1,16 @@
+Alexa, turn on the Bedroom AC.
+Alexa, turn off my Living Room.
+Alexa, what is the temperature in the Kitchen?
+Alexa, set Bedroom temperature to 75 degrees.
+Alexa, set the Living Room temperature to 78.
+Alexa, increase my Bedroom temperature by 3 degrees.
+Alexa, decrease the Living Room by 2 please.
+Alexa, increase the Bedroom temperature.
+Alexa, turn up my Bedroom temperature.
+Alexa, turn down the Living Room temperature.
+Alexa, make my Bedroom warmer.
+Alexa, make the Living Room cooler.
+Alexa, turn on the Living Room AC.
+Alexa, what is the temperature in the Living Room?
+Alexa, set the Living Room AC to 75 degrees.
+Alexa, disable smartAC

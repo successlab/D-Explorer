@@ -1,0 +1,4 @@
+Alexa, open wake up time
+Alexa what time I should wake up?
+Alexa I want to wake up at 8 am
+Alexa, disable wake up time

@@ -1,0 +1,4 @@
+Alexa, open me who is cool
+Alexa, tell me who is cool
+Alexa, tell me who is cool, change name
+Alexa, disable me who is cool

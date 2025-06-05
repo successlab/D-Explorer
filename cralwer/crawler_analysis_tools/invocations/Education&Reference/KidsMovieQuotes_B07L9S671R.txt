@@ -1,0 +1,3 @@
+Alexa, open kids movies
+Alexa ask Kids Movies for a quote
+Alexa, disable kids movies

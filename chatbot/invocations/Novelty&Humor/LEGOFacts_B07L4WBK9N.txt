@@ -1,0 +1,4 @@
+Alexa, open lego facts
+Alexa, ask lego facts for a fact
+Alexa, ask lego facts to tell me a fact
+Alexa, disable lego facts

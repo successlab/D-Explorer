@@ -1,0 +1,6 @@
+Alexa, open beat navy
+Alexa, start Beat Navy
+Alexa, stop
+Alexa, start beat navy
+Alexa, ask beat navy for a burn
+Alexa, disable beat navy

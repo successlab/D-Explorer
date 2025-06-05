@@ -1,0 +1,5 @@
+Alexa, open shipping easy
+Alexa, ask Shipping Easy how many orders I have.
+Alexa, ask Shipping Easy to buy and print labels for all orders with a rate quote.
+Alexa, ask Shipping Easy to print packing slips for all orders.
+Alexa, disable shipping easy

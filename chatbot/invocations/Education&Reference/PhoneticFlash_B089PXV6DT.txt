@@ -1,0 +1,3 @@
+Alexa, open phonetic flash
+Alexa, start Phonetic Flash
+Alexa, disable phonetic flash

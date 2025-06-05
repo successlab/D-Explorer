@@ -1,0 +1,7 @@
+Alexa, open united states presidents
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start united states presidents
+Alexa, disable united states presidents

@@ -1,0 +1,5 @@
+Alexa, open quick turn
+Alexa, launch quick turn
+Hello
+Bingo
+Alexa, disable quick turn

@@ -1,0 +1,4 @@
+Alexa, open item manager
+Alexa, Ask Item Manager to help me record my keys
+Alexa, Ask Item Manager where I put my keys
+Alexa, disable item manager

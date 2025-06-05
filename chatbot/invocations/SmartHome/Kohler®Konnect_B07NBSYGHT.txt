@@ -1,0 +1,6 @@
+Alexa, open kohler
+Alexa, enable Kohler Konnect skill.
+Alexa, ask Kohler to turn on kitchen faucet
+Alexa, ask Kohler to turn on shower
+Alexa, ask Kohler to check my water usage
+Alexa, disable kohler

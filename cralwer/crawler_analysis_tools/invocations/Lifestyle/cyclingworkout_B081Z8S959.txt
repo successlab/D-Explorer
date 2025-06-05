@@ -1,0 +1,4 @@
+Alexa, open workout cycling week
+Alexa, start Workout Cycling Week
+Alexa, ask Workout Cycling Week to start workout
+Alexa, disable workout cycling week

@@ -1,0 +1,5 @@
+Alexa, open santa's helper
+Alexa, ask Santa's Helper have I been naughty or nice?
+Alexa, ask Santa's Helper am I on the nice list?
+Alexa, ask Santa's Helper for a fact
+Alexa, disable santa's helper

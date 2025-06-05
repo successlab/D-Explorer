@@ -1,0 +1,5 @@
+Alexa, open silence of the lambs
+Alexa, ask Silence of the Lambs trivia to start game
+repeat
+start over
+Alexa, disable silence of the lambs

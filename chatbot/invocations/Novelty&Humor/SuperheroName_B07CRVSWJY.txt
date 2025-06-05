@@ -1,0 +1,4 @@
+Alexa, open superhero name
+Alexa, ask Superhero Name what is my Superhero name
+Alexa, launch Superhero Name
+Alexa, disable superhero name

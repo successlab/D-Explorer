@@ -1,0 +1,5 @@
+Alexa, discover devices
+Alexa, turn on the lights
+Alexa, turn off the lights in the bedroom
+Alexa, set the living room to purple
+Alexa, disable PhilipsHue

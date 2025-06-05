@@ -1,0 +1,5 @@
+Alexa, open kids maths quiz
+Alexa, next
+Alexa, stop
+Alexa, start kids maths quiz
+Alexa, disable kids maths quiz

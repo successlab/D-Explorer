@@ -1,0 +1,5 @@
+Alexa, open dateline alarm
+Alexa, set an alarm to Dateline!
+Alexa, wake me up at 7:00 AM to dateline alarm tone
+Alexa, set an alarm at 7:00 AM to dateline alarm tone
+Alexa, disable dateline alarm

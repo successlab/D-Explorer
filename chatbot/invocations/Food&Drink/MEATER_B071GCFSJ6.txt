@@ -1,0 +1,5 @@
+Alexa, open meater
+Alexa, ask MEATER to check on my cooks.
+Alexa, ask MEATER how long does my lamb need?
+Alexa, ask MEATER what is the temperature of my chicken?
+Alexa, disable meater

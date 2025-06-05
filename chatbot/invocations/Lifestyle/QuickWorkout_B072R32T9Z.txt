@@ -1,0 +1,5 @@
+Alexa, open quick workout
+Alexa, start quick workout
+launch a workout
+give me a workout
+Alexa, disable quick workout

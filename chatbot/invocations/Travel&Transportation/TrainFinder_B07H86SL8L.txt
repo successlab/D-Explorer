@@ -1,0 +1,4 @@
+Alexa, open train finder
+Alexa, ask Train Finder to set Tel Aviv Savidor as home station
+Alexa, ask Train Finder for trains from Tel Aviv Savidor to Nahariyya at 8 am
+Alexa, disable train finder

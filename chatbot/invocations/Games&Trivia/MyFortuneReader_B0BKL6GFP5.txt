@@ -1,0 +1,4 @@
+Alexa, open fortune reader
+Alexa, ask fortune reader for my fortune
+Alexa, start fortune reader
+Alexa, disable fortune reader

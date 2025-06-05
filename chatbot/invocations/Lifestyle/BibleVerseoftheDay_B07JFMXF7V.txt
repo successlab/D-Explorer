@@ -1,0 +1,6 @@
+Alexa, open bible verse
+Alexa, ask Bible Verse which translation it is
+Alexa, start Bible verse
+Alexa, ask Bible verse for todays verse
+Alexa, ask Bible verse for one
+Alexa, disable bible verse

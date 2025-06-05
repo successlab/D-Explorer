@@ -1,0 +1,4 @@
+Alexa, open chords buddy
+Alexa tell Chords Buddy to play C major
+Alexa ask Chords Buddy to play D
+Alexa, disable chords buddy

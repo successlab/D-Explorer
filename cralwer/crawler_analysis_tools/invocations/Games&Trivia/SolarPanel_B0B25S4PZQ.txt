@@ -1,0 +1,3 @@
+Alexa, open our solar panels
+Alexa, ask our solar panels what's the current power
+Alexa, disable our solar panels

@@ -1,0 +1,4 @@
+Alexa, play the Highway on SiriusXM
+Alexa, play NFL Radio on SiriusXM
+Alexa, play the Howard Stern Show on SiriusXM
+Alexa, disable SiriusXM

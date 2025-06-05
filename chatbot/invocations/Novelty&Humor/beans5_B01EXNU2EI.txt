@@ -1,0 +1,6 @@
+Alexa, open how many beans
+Alexa, ask how many beans make five?
+Alexa, ask how many beans make five
+Alexa, ask how many beans make six
+Alexa, ask how many beans make one
+Alexa, disable how many beans

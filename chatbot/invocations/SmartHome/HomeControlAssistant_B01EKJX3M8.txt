@@ -1,0 +1,4 @@
+Alexa, turn on kitchen light
+Alexa, dim living room light
+Alexa, set thermostat to 68 degrees
+Alexa, disable HomeControlAssistant

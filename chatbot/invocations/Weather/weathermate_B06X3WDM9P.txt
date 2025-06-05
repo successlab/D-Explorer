@@ -1,0 +1,4 @@
+Alexa, open weather mate
+Alexa ask weather mate for weather in london
+Alexa ask weather mate what is the weather in London
+Alexa, disable weather mate

@@ -1,0 +1,4 @@
+Alexa, open my acurite
+Alexa, ask My AcuRite to list my devices
+Alexa, ask My AcuRite what is my current condition
+Alexa, disable my acurite

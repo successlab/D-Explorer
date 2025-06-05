@@ -1,0 +1,4 @@
+Alexa, arm abode in away mode.
+Alexa, turn on living room lights.
+Alexa, lock the front door.
+Alexa, disable abodeSmartHome

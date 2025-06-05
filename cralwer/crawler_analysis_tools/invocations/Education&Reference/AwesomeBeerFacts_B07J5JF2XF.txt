@@ -1,0 +1,4 @@
+Alexa, open awesome beer facts
+Alexa, start awesome beer facts
+Alexa, launch awesome beer facts
+Alexa, disable awesome beer facts

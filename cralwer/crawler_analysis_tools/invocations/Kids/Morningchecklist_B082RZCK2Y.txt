@@ -1,0 +1,4 @@
+Alexa, open wake up route
+Alexa, open morning checklist
+Alexa, start morning checklist
+Alexa, disable wake up route

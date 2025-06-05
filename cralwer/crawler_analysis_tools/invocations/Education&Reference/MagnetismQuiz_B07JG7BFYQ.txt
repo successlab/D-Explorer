@@ -1,0 +1,5 @@
+Alexa, open quiz me on magnetism
+Alexa, quiz me on magnetism
+my answer is 4
+I don't know
+Alexa, disable quiz me on magnetism

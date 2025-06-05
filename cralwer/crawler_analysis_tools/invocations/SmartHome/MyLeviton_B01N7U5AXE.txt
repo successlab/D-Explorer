@@ -1,0 +1,4 @@
+Alexa, turn on master bedroom.
+Alexa, dim dining room.
+Alexa, turn on movie lighting.
+Alexa, disable MyLeviton

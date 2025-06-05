@@ -1,0 +1,4 @@
+Alexa, turn on my porch light
+Alexa, answer the front door
+Alexa, arm Ring
+Alexa, disable Ring

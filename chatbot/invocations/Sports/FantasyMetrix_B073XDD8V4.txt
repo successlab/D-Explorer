@@ -1,0 +1,5 @@
+Alexa, open fantasy metrix
+Alexa, ask FantasyMetrix for Tom Brady's fantasy points per game in 2015
+Alexa, ask FantasyMetrix what was David Johnson's game log for week 5 of 2016
+Alexa, ask FantasyMetrix who do the Seattle Seahawks play during week 12 of 2017
+Alexa, disable fantasy metrix

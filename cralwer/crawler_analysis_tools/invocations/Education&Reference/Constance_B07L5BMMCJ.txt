@@ -1,0 +1,5 @@
+Alexa, open constance one
+Alexa, Ask Constance One to give me a tip
+Alexa, ask Constance One to tell me another tip
+Alexa, ask Constance One what is the tip of the day
+Alexa, disable constance one

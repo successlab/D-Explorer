@@ -1,0 +1,4 @@
+Alexa, open personal guess who
+ My guess is giraffe.
+The animal is dolphin.
+Alexa, disable personal guess who

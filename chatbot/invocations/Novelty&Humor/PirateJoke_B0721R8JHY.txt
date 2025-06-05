@@ -1,0 +1,3 @@
+Alexa, open pirate joke
+Alexa, ask pirate joke to tell me a pirate joke.
+Alexa, disable pirate joke

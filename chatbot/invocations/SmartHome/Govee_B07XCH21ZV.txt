@@ -1,0 +1,5 @@
+Alexa, open govee
+Alexa, ask govee what is the temperature and humidity of bedroom
+Alexa, ask govee about the temperature of bedroom
+Alexa, ask govee to tell me the humidity of bedroom
+Alexa, disable govee

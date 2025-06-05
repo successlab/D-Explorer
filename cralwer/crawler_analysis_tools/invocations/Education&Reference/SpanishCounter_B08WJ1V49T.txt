@@ -1,0 +1,6 @@
+Alexa, open spanish counter
+Alexa, launch Spanish Counter!
+Alexa, open Spanish Counter.
+Alexa, launch Spanish Counter.
+Alexa, ask Spanish Counter to count to 100.
+Alexa, disable spanish counter

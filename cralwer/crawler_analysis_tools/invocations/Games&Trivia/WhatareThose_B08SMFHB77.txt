@@ -1,0 +1,4 @@
+Alexa, open what are those
+Alexa, enable What are Those skill
+Alexa launch what are those
+Alexa, disable what are those

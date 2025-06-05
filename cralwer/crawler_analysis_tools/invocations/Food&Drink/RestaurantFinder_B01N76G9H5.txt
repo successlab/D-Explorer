@@ -1,0 +1,4 @@
+Alexa, open restaurant finder
+find good Italian restaurants in Boise
+find great Chinese restaurants in Seattle
+Alexa, disable restaurant finder

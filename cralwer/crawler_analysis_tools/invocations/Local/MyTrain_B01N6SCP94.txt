@@ -1,0 +1,4 @@
+Alexa, open my train
+Alexa, ask my train for train 422
+Alexa, ask my train what is the status of train 420
+Alexa, disable my train

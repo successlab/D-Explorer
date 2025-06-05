@@ -1,0 +1,4 @@
+Alexa, open sai sayings
+Alexa, start Sai Sayings
+Alexa, launch Sai Sayings
+Alexa, disable sai sayings

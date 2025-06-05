@@ -1,0 +1,4 @@
+Alexa, open fun facts
+Alexa, launch Fun facts
+Alexa, start fun facts
+Alexa, disable fun facts

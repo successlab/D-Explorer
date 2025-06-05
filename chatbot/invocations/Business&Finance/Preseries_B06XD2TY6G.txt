@@ -1,0 +1,5 @@
+Alexa, open pre series
+Alexa, ask preseries, how many startups were founded in New York in 2015?
+Alexa, ask preseries, what is the highest scoring startup in Machine Learning?
+Alexa, ask preseries, what investor invested more money in 2016
+Alexa, disable pre series

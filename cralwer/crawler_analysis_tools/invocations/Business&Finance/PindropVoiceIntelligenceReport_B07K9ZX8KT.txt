@@ -1,0 +1,5 @@
+Alexa, open pindrop
+Alexa, open Pindrop.
+Alexa, ask Pindrop what is the fraud rate in banking?
+Alexa, ask Pindrop to tell me about IVR attacks.
+Alexa, disable pindrop

@@ -1,0 +1,37 @@
+Alexa, open voice command module
+Alexa, ask voice command module head up
+Alexa, ask voice command module head down
+Alexa, ask voice command module foot up
+Alexa, ask voice command module foot down
+Alexa, ask voice command module leg up
+Alexa, ask voice command module leg down
+Alexa, ask voice command module lumbar up
+Alexa, ask voice command module lumbar down
+Alexa, ask voice command module stop
+Alexa, ask voice command module flat
+Alexa, ask voice command module antisnore
+Alexa, ask voice command module lounge
+Alexa, ask voice command module zero gravity
+Alexa, ask voice command module incline
+Alexa, ask voice command module lounge program
+Alexa, ask voice command module zero gravity program
+Alexa, ask voice command module incline program
+Alexa, ask voice command module massage start
+Alexa, ask voice command module wave one
+Alexa, ask voice command module wave two
+Alexa, ask voice command module wave three
+Alexa, ask voice command module wave four
+Alexa, ask voice command module full body one
+Alexa, ask voice command module full body two
+Alexa, ask voice command module massage up
+Alexa, ask voice command module massage down
+Alexa, ask voice command module massage stop
+Alexa, ask voice command module light on
+Alexa, ask voice command module lights on
+Alexa, ask voice command module light off
+Alexa, ask voice command module lights off
+Alexa, ask voice command module toggle light
+Alexa, ask voice command module toggle lights
+Alexa, ask voice command module feedback on
+Alexa, ask voice command module feedback off
+Alexa, disable voice command module

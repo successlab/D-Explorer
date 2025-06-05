@@ -1,0 +1,3 @@
+Alexa, open gem quiz
+Alexa, start gem quiz
+Alexa, disable gem quiz

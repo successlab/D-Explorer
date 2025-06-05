@@ -1,0 +1,17 @@
+Alexa, open my fridge
+Alexa, tell My Fridge the milk expires on the 27th
+Alexa, ask My Fridge what's about to expire
+Alexa, ask My Fridge to remove my expired items
+Alexa, ask My Fridge to give me a list of expiring items
+Alexa, ask My Fridge what's expired
+Alexa, tell My Fridge the eggs expire tomorrow
+Alexa, ask My Fridge when the eggs expire
+Alexa, tell My Fridge I just opened the milk.
+Alexa, tell My Fridge I opened the milk yesterday.
+Alexa, ask my Fridge when was the milk opened
+Alexa, ask My Fridge when did I open the milk
+Alexa, ask My Fridge what's opened
+Alexa, tell My Fridge to remove the milk
+Alexa, ask My Fridge how many things are opened
+Alexa, tell My Fridge I just opened the milk
+Alexa, disable my fridge

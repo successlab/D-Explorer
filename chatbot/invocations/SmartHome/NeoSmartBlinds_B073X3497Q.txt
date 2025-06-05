@@ -1,0 +1,4 @@
+Alexa, open Kitchen's blinds
+Alexa, close Study Room
+Alexa, open Bedroom
+Alexa, disable NeoSmartBlinds

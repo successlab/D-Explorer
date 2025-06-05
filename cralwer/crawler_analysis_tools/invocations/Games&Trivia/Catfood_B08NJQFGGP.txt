@@ -1,0 +1,6 @@
+Alexa, open cat food
+Alexa, next
+Alexa, stop
+Alexa, start cat food
+Alexa, ask cat food for a joke
+Alexa, disable cat food

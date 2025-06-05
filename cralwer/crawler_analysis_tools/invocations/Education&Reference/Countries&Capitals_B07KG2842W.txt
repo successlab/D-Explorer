@@ -1,0 +1,3 @@
+Alexa, open country of the day
+Alexa, country of the day
+Alexa, disable country of the day

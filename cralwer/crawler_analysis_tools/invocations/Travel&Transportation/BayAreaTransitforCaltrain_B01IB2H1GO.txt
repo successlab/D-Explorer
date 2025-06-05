@@ -1,0 +1,5 @@
+Alexa, open bay area transit
+Alexa, ask Bay Area Transit for the next 3 trains from San Francisco to Palo Alto.
+Alexa, ask Bay Area Transit for the next BART from Civic Centre to Millbrae 20 minutes from now.
+Alexa, ask Bay Area Transit in 35 minutes from West Oakland to SFO.
+Alexa, disable bay area transit

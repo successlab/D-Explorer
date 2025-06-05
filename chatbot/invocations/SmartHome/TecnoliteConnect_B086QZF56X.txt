@@ -1,0 +1,4 @@
+Alexa, turn on light
+Alexa, turn on switch
+Alexa, turn on thermostat
+Alexa, disable TecnoliteConnect

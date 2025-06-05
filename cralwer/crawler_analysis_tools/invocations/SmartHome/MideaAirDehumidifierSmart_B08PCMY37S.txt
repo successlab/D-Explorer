@@ -1,0 +1,4 @@
+Alexa, Turn on living room.
+Alexa, living room humidity set to 60.
+Alexa, living room set to smart mode.
+Alexa, disable MideaAirDehumidifierSmart

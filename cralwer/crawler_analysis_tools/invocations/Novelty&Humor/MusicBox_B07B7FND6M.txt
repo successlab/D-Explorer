@@ -1,0 +1,5 @@
+Alexa, open music box
+Alexa, tell music box to sing Happy Birthday to Taylor Swift.
+Alexa, tell music box to sing Happy Birthday to Katy Perry.
+Alexa, tell music box to sing Happy Birthday to Justin Timberlake.
+Alexa, disable music box

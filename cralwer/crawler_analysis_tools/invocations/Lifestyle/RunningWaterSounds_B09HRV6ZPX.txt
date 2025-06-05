@@ -1,0 +1,4 @@
+Alexa, open running water sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable running water sounds

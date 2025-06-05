@@ -1,0 +1,5 @@
+Alexa, open blue air
+Alexa, ask Blueair to start cleaning
+Alexa, ask Blueair for the indoor air quality
+Alexa, ask Blueair when I need to change the filter
+Alexa, disable blue air

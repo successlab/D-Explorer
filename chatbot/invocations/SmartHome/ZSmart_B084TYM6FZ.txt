@@ -1,0 +1,11 @@
+Alexa, discover devices. 
+Alexa, unlock the front door.
+Alexa, show me the backyard camera.
+Alexa, arm the alarm system in away mode.
+Alexa, turn on the plug.
+Alexa, turn off the bedroom light.
+Alexa, set bedroom light to blue.
+Alexa, unlock the front door
+Alexa, show me the backyard camera
+Alexa, arm the alarm system in away mode
+Alexa, disable ZSmart

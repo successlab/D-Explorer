@@ -1,0 +1,3 @@
+Alexa, open calendar week
+Alexa, launch calendar week
+Alexa, disable calendar week

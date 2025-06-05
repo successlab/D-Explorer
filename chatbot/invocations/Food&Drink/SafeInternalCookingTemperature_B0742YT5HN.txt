@@ -1,0 +1,5 @@
+Alexa, open safe cooking
+Alexa, ask safe cooking what temperature Chicken should be
+Alexa, ask safe cooking what temperature Ground Beef should be
+Alexa, ask safe cooking how hot Ham should be
+Alexa, disable safe cooking

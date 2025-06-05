@@ -1,0 +1,3 @@
+Alexa, open the monster tracker
+Alexa, start the monster tracker
+Alexa, disable the monster tracker

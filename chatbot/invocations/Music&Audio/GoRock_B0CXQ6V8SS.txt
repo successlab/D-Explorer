@@ -1,0 +1,5 @@
+Alexa, open go rock
+Alexa, play go rock
+Alexa, ask go rock what is playing
+Alexa, ask go rock who's on air now
+Alexa, disable go rock

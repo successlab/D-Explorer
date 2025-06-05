@@ -1,0 +1,4 @@
+Alexa, open ebay facts
+Alexa, ask eBay Facts for a fact
+Alexa, ask eBay Facts to tell me a fact
+Alexa, disable ebay facts

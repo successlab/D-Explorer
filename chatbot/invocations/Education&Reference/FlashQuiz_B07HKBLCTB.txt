@@ -1,0 +1,4 @@
+Alexa, open flash quiz
+Alexa tell flash quiz to start a quiz
+Alexa tell flash quiz to use deck
+Alexa, disable flash quiz

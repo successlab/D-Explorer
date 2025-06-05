@@ -1,0 +1,4 @@
+Alexa, turn on air purifier name
+Alexa, set air purifier name fan speed to high
+Alexa, set mode on air purifier name to auto
+Alexa, disable RabbitAir

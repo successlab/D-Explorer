@@ -1,0 +1,4 @@
+Alexa, open menu plan
+Alexa, ask Menu Plan what's for dinner
+Alexa, ask Menu Plan what are we having for breakfast tomorrow
+Alexa, disable menu plan

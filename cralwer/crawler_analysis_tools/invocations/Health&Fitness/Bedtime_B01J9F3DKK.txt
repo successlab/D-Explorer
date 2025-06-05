@@ -1,0 +1,10 @@
+Alexa, open bed time
+Alexa, tell bed time I want to go to sleep at 8:00 pm.
+Alexa, tell bed time I'm going to bed at 10:30 pm
+Alexa, tell bed time I need to wake up at 7:30 am
+Alexa, ask bed time when should I go to bed to wake up at 5:30 am?
+Alexa, ask bed time when should I wake up if I go to sleep at 11:55 pm?
+Alexa, open bed time.
+Alexa, tell bed time I want to go to sleep at 8 pm.
+Alexa, tell bed time I need to wake up at 5 30 am.
+Alexa, disable bed time

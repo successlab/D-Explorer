@@ -1,0 +1,4 @@
+Alexa, open leslie digital assistant
+Alexa, start Leslie Digital Assistant
+Alexa, launch Leslie Digital Assistant
+Alexa, disable leslie digital assistant

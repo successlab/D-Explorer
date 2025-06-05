@@ -1,0 +1,3 @@
+Alexa, open genie tasks
+Alexa, start genie tasks
+Alexa, disable genie tasks

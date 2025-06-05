@@ -1,0 +1,5 @@
+Alexa, open lamps plus
+Alexa, ask Lamps Plus where is my order?
+Alexa, ask Lamps Plus to find store nearby
+Alexa, ask Lamps Plus what payments do you accept?
+Alexa, disable lamps plus

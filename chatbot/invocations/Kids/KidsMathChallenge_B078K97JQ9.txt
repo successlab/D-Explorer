@@ -1,0 +1,4 @@
+Alexa, open math challenge
+Alexa, start the math challenge
+Alexa, math challenge
+Alexa, disable math challenge

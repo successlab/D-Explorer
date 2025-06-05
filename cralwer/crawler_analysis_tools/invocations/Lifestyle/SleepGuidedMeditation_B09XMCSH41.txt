@@ -1,0 +1,4 @@
+Alexa, open sleep guided meditation
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep guided meditation

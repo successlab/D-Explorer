@@ -1,0 +1,11 @@
+Alexa, open blind bat blog
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask blind bat blog for the latest update
+Alexa, start blind bat blog
+Alexa, disable blind bat blog

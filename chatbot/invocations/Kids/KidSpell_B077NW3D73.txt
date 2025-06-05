@@ -1,0 +1,6 @@
+Alexa, open kid spell
+Alexa, ask Kid Spell to spell dog.
+Alexa, ask Kid Spell for the next letter.
+Alexa, ask Kid Spell to repeat.
+Alexa, ask Kid Spell to spell mommy.
+Alexa, disable kid spell

@@ -1,0 +1,3 @@
+Alexa, open addams family trivia
+Alexa, start addams family trivia
+Alexa, disable addams family trivia

@@ -1,0 +1,5 @@
+Alexa, open aetna health guide
+Alexa, ask Aetna Health Guide what the difference is between coinsurance and deductible.
+Alexa, ask Aetna Health Guide how I can replace my ID card.
+Alexa, ask Aetna Health Guide to explain what an EOB is.
+Alexa, disable aetna health guide

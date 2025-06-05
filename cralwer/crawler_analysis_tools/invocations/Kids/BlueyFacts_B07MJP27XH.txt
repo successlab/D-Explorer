@@ -1,0 +1,4 @@
+Alexa, open bluey facts
+Alexa, open Bluey Facts and tell me a Bluey fact
+Alexa, open Bluey Facts and tell me something
+Alexa, disable bluey facts

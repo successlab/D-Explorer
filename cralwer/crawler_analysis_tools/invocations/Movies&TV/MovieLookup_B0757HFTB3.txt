@@ -1,0 +1,4 @@
+Alexa, open movie lookup
+Alexa launch movie lookup
+Alexa start movie lookup
+Alexa, disable movie lookup

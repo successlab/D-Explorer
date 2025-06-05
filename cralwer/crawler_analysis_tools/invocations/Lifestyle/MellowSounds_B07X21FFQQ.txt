@@ -1,0 +1,11 @@
+Alexa, open mellow sounds
+Alexa, Play Mellow Sounds
+Alexa, Next
+Alexa, Previous
+Alexa, stop in 4 hours
+Alexa, cancel
+Alexa, stop in 7 hours
+Alexa, cancel
+Alexa, ask mellow sounds to play random
+Alexa, ask mellow sounds to play moon jazz
+Alexa, disable mellow sounds

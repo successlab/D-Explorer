@@ -1,0 +1,4 @@
+Alexa, open p. s. e. radio
+Alexa, start p. s. e. radio
+Alexa, ask p. s. e. radio what's playing
+Alexa, disable p. s. e. radio

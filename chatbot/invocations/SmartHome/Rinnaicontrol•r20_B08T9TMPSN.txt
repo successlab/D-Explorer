@@ -1,0 +1,5 @@
+Alexa, open control r.
+Alexa, Tell control r I need hot water
+Alexa, Ask control r for hot water
+Alexa, Ask control r to give me hot water
+Alexa, disable control r.

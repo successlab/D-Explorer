@@ -1,0 +1,5 @@
+Alexa, open toddlers first quiz
+Alexa, next
+Alexa, stop
+Alexa, start toddlers first quiz
+Alexa, disable toddlers first quiz

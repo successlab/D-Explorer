@@ -1,0 +1,4 @@
+Alexa, open box fan
+Alexa, play Box Fan
+Alexa, ask Box Fan to play
+Alexa, disable box fan

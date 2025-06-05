@@ -1,0 +1,11 @@
+Alexa, open harvest olney
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask harvest olney for the latest talk
+Alexa, start harvest olney
+Alexa, disable harvest olney

@@ -1,0 +1,4 @@
+Alexa, open development alarms
+Alexa, wake me up at 7:00 AM to development alarms
+Alexa, set an alarm at 7:00 AM to development alarms
+Alexa, disable development alarms

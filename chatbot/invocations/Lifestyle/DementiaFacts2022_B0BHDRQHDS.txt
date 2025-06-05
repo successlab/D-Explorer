@@ -1,0 +1,4 @@
+Alexa, open dementia facts
+Alexa, start dementia facts
+Alexa, ask dementia facts for a fact
+Alexa, disable dementia facts

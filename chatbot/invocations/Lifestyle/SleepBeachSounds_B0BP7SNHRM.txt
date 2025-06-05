@@ -1,0 +1,4 @@
+Alexa, open sleep beach sounds
+pause
+resume
+Alexa, disable sleep beach sounds

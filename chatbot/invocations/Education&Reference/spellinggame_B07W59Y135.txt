@@ -1,0 +1,3 @@
+Alexa, open spelling game
+Alexa, launch spelling game
+Alexa, disable spelling game

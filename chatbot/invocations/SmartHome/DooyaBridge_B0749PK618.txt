@@ -1,0 +1,4 @@
+Alexa, turn on shade.
+Alexa, turn off shade.
+Alexa,set shade to 20%.
+Alexa, disable DooyaBridge

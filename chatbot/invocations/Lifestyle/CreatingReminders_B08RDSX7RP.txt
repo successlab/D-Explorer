@@ -1,0 +1,4 @@
+Alexa, open drink water
+Alexa open drink water.
+Alexa launch drink water
+Alexa, disable drink water

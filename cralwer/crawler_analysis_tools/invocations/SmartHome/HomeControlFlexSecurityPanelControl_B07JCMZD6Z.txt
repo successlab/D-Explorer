@@ -1,0 +1,4 @@
+Alexa, open home control flex
+Alexa, ask Home Control Flex if my system is armed
+Alexa, tell Home Control Flex to arm my system
+Alexa, disable home control flex

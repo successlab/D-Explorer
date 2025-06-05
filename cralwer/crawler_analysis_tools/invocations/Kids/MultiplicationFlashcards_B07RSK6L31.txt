@@ -1,0 +1,7 @@
+Alexa, open multiplication flashcards
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start Multiplication Flashcards
+Alexa, disable multiplication flashcards

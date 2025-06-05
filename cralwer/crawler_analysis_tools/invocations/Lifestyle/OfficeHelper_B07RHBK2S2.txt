@@ -1,0 +1,3 @@
+Alexa, open office helper
+Alexa, start Office Helper
+Alexa, disable office helper

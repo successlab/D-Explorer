@@ -1,0 +1,10 @@
+Alexa, open relevant radio
+Alexa, ask Relevant Radio to list prayers.
+Alexa, ask Relevant Radio what's playing?
+Alexa, next.
+Alexa, go back.
+Alexa, turn off Relevant Radio.
+Alexa, open Relevant Radio.
+Alexa, ask Relevant Radio to listen live
+Alexa, ask Relevant Radio to pray the Joyful Mysteries.
+Alexa, disable relevant radio

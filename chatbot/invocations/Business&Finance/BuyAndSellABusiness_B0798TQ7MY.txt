@@ -1,0 +1,5 @@
+Alexa, open biz on
+Alexa, ask biz on what's new?
+Alexa, ask biz on for most recent listings.
+Alexa, ask biz on for new opportunities.
+Alexa, disable biz on

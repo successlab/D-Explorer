@@ -1,0 +1,5 @@
+Alexa, open noise blend
+Alexa, ask noiseblend to play my Focus blend
+Alexa, ask noiseblend to play something based on Bruno Mars
+Alexa, ask noiseblend to play something nice
+Alexa, disable noise blend

@@ -1,0 +1,4 @@
+Alexa, open crazy animals
+Alexa, Start Crazy Animals
+Alexa, Play Crazy Animals
+Alexa, disable crazy animals

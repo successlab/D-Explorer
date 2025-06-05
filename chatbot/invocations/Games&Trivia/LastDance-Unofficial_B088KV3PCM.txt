@@ -1,0 +1,5 @@
+Alexa, open last dance
+Alexa, play last dance
+Alexa, stop
+Alexa, play Last Dance
+Alexa, disable last dance

@@ -1,0 +1,4 @@
+Alexa, open language tutor
+What's my progress?
+Go to Setup
+Alexa, disable language tutor

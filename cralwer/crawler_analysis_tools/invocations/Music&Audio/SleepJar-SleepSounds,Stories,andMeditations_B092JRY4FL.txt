@@ -1,0 +1,10 @@
+Alexa, open sleep jar
+Alexa, ask Sleep Jar to play thunderstorms
+Alexa, ask Sleep Jar for a list
+Alexa, stop
+Alexa, stop in 3 hours
+Alexa, ask Sleep Jar for the daily meditation.
+Alexa, ask Sleep Jar to turn on Background Mode
+Alexa, ask Sleep Jar to turn off Background Mode
+Alexa, ask Sleep Jar for thunderstorms
+Alexa, disable sleep jar

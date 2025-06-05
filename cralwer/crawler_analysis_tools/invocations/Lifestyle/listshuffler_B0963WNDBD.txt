@@ -1,0 +1,4 @@
+Alexa, open list shuffler
+Alexa, ask list shuffler to suggest something from menu
+get something to cook
+Alexa, disable list shuffler

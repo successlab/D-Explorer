@@ -1,0 +1,5 @@
+Alexa, open p. s. l. events calendar
+Alexa, ask PSL Calendar about the events happening today,
+Alexa, ask PSL Events Calendar to tell me about the events on December 25th
+Alexa, ask PSL Events Calendar what events are happening this weekend
+Alexa, disable p. s. l. events calendar

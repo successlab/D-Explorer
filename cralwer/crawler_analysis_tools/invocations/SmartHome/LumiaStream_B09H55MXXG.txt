@@ -1,0 +1,4 @@
+Alexa, open lumia stream
+ask lumia stream to change to green
+ask lumia stream to change to color red with brightness one hundred and transition one thousand
+Alexa, disable lumia stream

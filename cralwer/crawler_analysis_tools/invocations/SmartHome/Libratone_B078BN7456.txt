@@ -1,0 +1,7 @@
+Alexa, play on (speaker name)
+Alexa, pause on (speaker name)
+Alexa, set volume to (number) on (speaker name)
+Alexa, play in the living room
+Alexa, turn up the volume on office speaker
+Alexa, stop on bedroom speaker
+Alexa, disable Libratone

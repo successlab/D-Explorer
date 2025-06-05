@@ -1,0 +1,4 @@
+Alexa, open only the hits radio
+Alexa, Start Only The Hits Radio
+Alexa, Play Only The Hits Radio
+Alexa, disable only the hits radio

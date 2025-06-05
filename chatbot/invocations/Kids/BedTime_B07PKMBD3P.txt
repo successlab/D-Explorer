@@ -1,0 +1,5 @@
+Alexa, open bed time
+Alexa, ask bed time should Mia be in bed
+Alexa, ask bed time is it Sophie's bed time
+Alexa, ask bed time is it time Daddy went to bed
+Alexa, disable bed time

@@ -1,0 +1,4 @@
+Alexa, open halo home
+Alexa, ask halo home for wynd score
+Alexa, ask halo home to turn night mode on
+Alexa, disable halo home

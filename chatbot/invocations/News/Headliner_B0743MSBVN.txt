@@ -1,0 +1,5 @@
+Alexa, open headliner news
+Alexa, ask Headliner News for the latest from BBC News
+Alexa, ask Headliner News for the breaking news from The Guardian UK
+Alexa, ask Headliner News for the news from TechCrunch
+Alexa, disable headliner news

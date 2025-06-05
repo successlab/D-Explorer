@@ -1,0 +1,6 @@
+Alexa, open quote book
+Alexa, read quote from quote book
+Alexa, ask quote book to read quote
+Alexa, ask quote book to read favorite quote
+Alexa, ask quote book to read one of pat's favorite quotes
+Alexa, disable quote book

@@ -1,0 +1,4 @@
+Alexa, open san diego border
+Alexa, ask San Diego Border how many cars are in San Ysidro
+Alexa, ask San Diego Border how many cars are in Otay
+Alexa, disable san diego border

@@ -1,0 +1,3 @@
+Alexa, open semester countdown
+Alexa, tell semester countdown I graduate on may nineteen twenty twenty one
+Alexa, disable semester countdown

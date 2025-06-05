@@ -1,0 +1,4 @@
+Alexa, turn on kitchen lights
+Alexa, set the thermostat to 72 degrees
+Alexa, turn on goodnight
+Alexa, disable ClareHome

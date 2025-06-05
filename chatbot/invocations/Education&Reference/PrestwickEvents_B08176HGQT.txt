@@ -1,0 +1,3 @@
+Alexa, open prestwick events
+Alexa, start prestwick events
+Alexa, disable prestwick events

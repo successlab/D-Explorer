@@ -1,0 +1,5 @@
+Alexa, open n. p. r.
+Alexa, play NPR
+Alexa, play the news from NPR
+Alexa, play NPR One
+Alexa, disable n. p. r.

@@ -1,0 +1,8 @@
+Alexa, open notification maker
+Alexa, open Notification Maker.
+Alexa, ask Notification Maker to send a weather notification.
+Alexa, ask Notification Maker media.
+Alexa, what are my notifications?
+Alexa, tell notification maker occasion
+Alexa, ask notification maker to send sport notification
+Alexa, disable notification maker

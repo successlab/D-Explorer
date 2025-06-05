@@ -1,0 +1,4 @@
+Alexa, open chest day
+Alexa, ask chest day, is it chest day?
+What day is it?
+Alexa, disable chest day

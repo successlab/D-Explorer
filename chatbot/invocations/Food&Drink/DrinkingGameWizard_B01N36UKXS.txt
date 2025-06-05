@@ -1,0 +1,5 @@
+Alexa, open drinking game wizard
+Alexa, ask drinking game wizard to name a completely random game
+Alexa, ask drinking game wizard for a table game
+Alexa, ask drinking game wizard to name games for five people
+Alexa, disable drinking game wizard

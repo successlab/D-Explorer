@@ -1,0 +1,5 @@
+Alexa, open destination decider
+Alexa, open Destination Decider.
+Quiz me.
+Describe it, please.
+Alexa, disable destination decider

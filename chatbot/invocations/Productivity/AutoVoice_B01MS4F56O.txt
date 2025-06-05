@@ -1,0 +1,5 @@
+Alexa, open auto voice
+Alexa ask AutoVoice to say hello
+Alexa ask autovoice to turn on my lights
+Alexa ask autovoice to play a movie
+Alexa, disable auto voice

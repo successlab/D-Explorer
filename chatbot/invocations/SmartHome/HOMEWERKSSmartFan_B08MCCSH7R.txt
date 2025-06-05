@@ -1,0 +1,5 @@
+Alexa, open smart fan
+Alexa, ask smart fan to run for five minutes.
+Alexa, ask smart fan to run for five minutes on bathroom.
+Alexa, turn on bathroom light.
+Alexa, disable smart fan

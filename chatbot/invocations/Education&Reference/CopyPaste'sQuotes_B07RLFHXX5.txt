@@ -1,0 +1,5 @@
+Alexa, open copy paste's quotes
+Alexa, next
+Alexa, stop
+Alexa, start copy paste's quotes
+Alexa, disable copy paste's quotes

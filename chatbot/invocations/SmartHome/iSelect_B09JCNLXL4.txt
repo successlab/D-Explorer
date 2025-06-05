@@ -1,0 +1,4 @@
+Alexa, set weight to ten pounds
+Alexa, set weight of weights to curls
+Alexa, increase weight by five pounds
+Alexa, disable iSelect

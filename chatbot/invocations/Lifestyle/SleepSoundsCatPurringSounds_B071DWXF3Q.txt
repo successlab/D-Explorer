@@ -1,0 +1,6 @@
+Alexa, open cat purring sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Cat Purring Sounds
+Alexa, launch Cat Purring Sounds
+Alexa, disable cat purring sounds

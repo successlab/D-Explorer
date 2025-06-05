@@ -1,0 +1,4 @@
+Alexa show my basement camera
+Alexa hide my basement camera
+Alexa stop
+Alexa, disable ProjectNurseryVideo

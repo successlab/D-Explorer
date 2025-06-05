@@ -1,0 +1,4 @@
+Alexa, open tree fort
+Alexa, stop
+Alexa, start tree fort
+Alexa, disable tree fort

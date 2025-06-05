@@ -1,0 +1,5 @@
+Alexa, open daily thought
+Alexa, ask daily thought to share something deep
+Alexa, ask daily thought to tell me something thought provoking
+Alexa, ask daily thought to give me an uplifting thought
+Alexa, disable daily thought

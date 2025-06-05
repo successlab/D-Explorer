@@ -1,0 +1,4 @@
+Alexa, turn on Verdera name
+Alexa, turn off Verdera name
+Alexa, brighten Verdera name
+Alexa, disable KohlerVerdera

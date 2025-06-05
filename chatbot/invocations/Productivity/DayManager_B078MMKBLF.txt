@@ -1,0 +1,5 @@
+Alexa, open day manager
+Alexa, ask Day Manager to add Sam.
+Alexa, open Day Manager and list tasks for Ryan.
+Alexa, ask Day Manager to remove task 2 for Sam.
+Alexa, disable day manager

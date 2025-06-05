@@ -1,0 +1,5 @@
+Alexa, open journal prompts
+Alexa, next
+Alexa, stop
+Alexa, start journal prompts
+Alexa, disable journal prompts

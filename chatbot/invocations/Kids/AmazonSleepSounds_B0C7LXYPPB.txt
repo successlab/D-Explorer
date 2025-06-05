@@ -1,0 +1,4 @@
+Alexa, open amazon sleep sounds
+Alexa, start amazon sleep sounds
+Alexa, ask amazon sleep sounds to play a rain sound
+Alexa, disable amazon sleep sounds

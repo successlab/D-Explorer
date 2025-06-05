@@ -1,0 +1,4 @@
+Alexa,turn on the office light
+Alexa,turn off the bedroom curtain
+Alexa,turn on the meeting scene
+Alexa, disable Geeklink

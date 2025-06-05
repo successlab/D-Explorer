@@ -1,0 +1,3 @@
+Alexa, open word match
+First is letter L
+Alexa, disable word match

@@ -1,0 +1,3 @@
+Alexa, turn on hallway light.
+Alexa, set bedroom light to 60 percent.
+Alexa, disable EzloSmartHomeControl

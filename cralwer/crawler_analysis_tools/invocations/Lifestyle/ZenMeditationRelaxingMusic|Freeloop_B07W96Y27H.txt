@@ -1,0 +1,8 @@
+Alexa, open zen meditation
+Alexa, start Zen Meditation
+Alexa, play Zen Meditation
+Alexa, stop
+Alexa, stop playing in 1 hour
+Alexa, open Zen Meditation and send me other relaxing music
+Alexa, launch Zen Meditation
+Alexa, disable zen meditation

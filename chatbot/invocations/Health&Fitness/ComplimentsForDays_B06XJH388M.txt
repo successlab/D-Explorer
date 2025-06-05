@@ -1,0 +1,4 @@
+Alexa, open compliment me
+Alexa, compliment me
+Tell me a compliment
+Alexa, disable compliment me

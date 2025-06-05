@@ -1,0 +1,4 @@
+Alexa, open world countries
+Name a country
+give me a spot
+Alexa, disable world countries

@@ -1,0 +1,5 @@
+Alexa, open space station
+Alexa, ask Space Station how far away it is
+how far is the space station
+what address is set for this device
+Alexa, disable space station

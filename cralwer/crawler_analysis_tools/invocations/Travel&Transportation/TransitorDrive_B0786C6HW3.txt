@@ -1,0 +1,4 @@
+Alexa, open transit or drive
+Alexa, ask Transit or Drive what is the fastest way to get to Newark Airport
+Should I drive or take public transit to get to 1600 Pennsylvania Ave NW Washington, DC
+Alexa, disable transit or drive

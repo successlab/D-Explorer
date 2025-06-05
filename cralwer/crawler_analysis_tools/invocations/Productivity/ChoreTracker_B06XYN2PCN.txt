@@ -1,0 +1,6 @@
+Alexa, open chore tracker
+Alexa, ask Chore Tracker when's the last time I washed my jeans?
+Alexa, tell Chore Tracker I cleaned the kitchen today.
+I washed the car on Sunday
+When's the last time I washed the car?
+Alexa, disable chore tracker

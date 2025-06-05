@@ -1,0 +1,5 @@
+Alexa, open place information
+Alexa ask Place Information for nearby pizza.
+Alexa ask Place Information for nearby coffee.
+Alexa ask Place Information for nearby ice cream.
+Alexa, disable place information

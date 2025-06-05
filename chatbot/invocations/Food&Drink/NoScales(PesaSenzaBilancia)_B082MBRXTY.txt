@@ -1,0 +1,3 @@
+Alexa, open no scales
+Alexa, ask no scales how much do twenty ounces of flour weigh
+Alexa, disable no scales

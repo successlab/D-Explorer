@@ -1,0 +1,4 @@
+Alexa, open windy rain
+Alexa, start windy rain
+Alexa, launch windy rain
+Alexa, disable windy rain

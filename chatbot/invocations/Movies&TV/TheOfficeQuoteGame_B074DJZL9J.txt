@@ -1,0 +1,5 @@
+Alexa, open office quotes
+Alexa, ask Office Quotes for a quote
+Alexa, ask Office Quotes to tell me a quote
+Alexa, ask Office Quotes to give me a quote
+Alexa, disable office quotes

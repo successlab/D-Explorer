@@ -1,0 +1,3 @@
+Alexa, open wake up
+Alexa, ask wake up to set alarm for 7 A.M. tomorrow
+Alexa, disable wake up

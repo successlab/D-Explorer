@@ -1,0 +1,4 @@
+Alexa, open carnaval stereo
+Alexa, abre Carnaval Stereo
+Alexa, inicar Carnaval Stereo
+Alexa, disable carnaval stereo

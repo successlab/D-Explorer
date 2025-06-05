@@ -1,0 +1,5 @@
+Alexa, open pet buddy
+Alexa, update pets
+Alexa, Stop
+Alexa, start Pet Buddy
+Alexa, disable pet buddy

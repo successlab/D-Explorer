@@ -1,0 +1,7 @@
+Alexa, open me who
+Alexa, tell me who is John Smith
+Alexa, tell me who is Cygnus Consulting
+Alexa, tell me who is Cygnus
+Alexa, tell me who was Johnny Cash
+Alexa, tell me who are The Beatles
+Alexa, disable me who

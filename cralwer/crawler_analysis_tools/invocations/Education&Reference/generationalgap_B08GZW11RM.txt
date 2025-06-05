@@ -1,0 +1,4 @@
+Alexa, open generational gap
+Alexa, stop
+Alexa, start generational gap
+Alexa, disable generational gap

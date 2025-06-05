@@ -1,0 +1,5 @@
+Alexa, open chef
+Alexa, ask Chef what I can use instead of two tablespoons of baking powder
+how much do three cups of bread flour weigh
+what's a good substitute for cooking wine
+Alexa, disable chef

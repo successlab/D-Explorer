@@ -1,0 +1,5 @@
+Alexa, open battery state of charge
+Alexa, ask battery state of charge 12 point 5 volts
+Alexa, ask battery state of charge to convert 12 point 5 volts
+Alexa, ask battery state of charge 12 point 5
+Alexa, disable battery state of charge

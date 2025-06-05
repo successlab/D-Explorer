@@ -1,0 +1,4 @@
+Alexa, turn on the Bedroom light
+Alexa, turn off the Hallway lights
+Alexa, dim the Living Room lights to 25%
+Alexa, disable TOPGREENER

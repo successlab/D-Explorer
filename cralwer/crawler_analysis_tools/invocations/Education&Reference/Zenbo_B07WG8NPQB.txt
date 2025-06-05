@@ -1,0 +1,4 @@
+Alexa, open zenbo junior
+Alexa, tell Zenbo Junior to follow me
+Alexa, ask Zenbo Junior to turn left
+Alexa, disable zenbo junior

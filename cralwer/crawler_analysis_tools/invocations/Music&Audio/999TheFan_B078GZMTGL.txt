@@ -1,0 +1,4 @@
+Alexa, open ninety nine nine the fan
+Alexa, pause
+Alexa, resume
+Alexa, disable ninety nine nine the fan

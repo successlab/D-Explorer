@@ -1,0 +1,4 @@
+Alexa,volume up on tv
+Alexa,launch youtube on tv
+Alexa,wake up on tv
+Alexa, disable TVAssistant

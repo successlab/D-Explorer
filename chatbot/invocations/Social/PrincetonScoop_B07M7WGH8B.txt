@@ -1,0 +1,3 @@
+Alexa, open princeton scoop
+Alexa, Start Princeton Scoop
+Alexa, disable princeton scoop

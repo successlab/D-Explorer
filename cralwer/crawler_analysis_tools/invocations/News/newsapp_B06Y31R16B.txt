@@ -1,0 +1,5 @@
+Alexa, open news reader
+Alexa ask news reader to get the news for california
+Alexa ask news reader to read the news of mumbai
+Alexa ask news reader to get the news for bangalore
+Alexa, disable news reader

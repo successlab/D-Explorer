@@ -1,0 +1,5 @@
+Alexa, open three little pigs
+Alexa, start three little pigs
+yes
+no
+Alexa, disable three little pigs

@@ -1,0 +1,2 @@
+Alexa, open photo of the day
+Alexa, disable photo of the day

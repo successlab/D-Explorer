@@ -1,0 +1,5 @@
+Alexa, open norad tracks santa
+Alexa, ask NORAD Tracks Santa, where's Santa?
+Alexa, ask NORAD Tracks Santa for a fact from the Santa Files.
+Alexa, ask NORAD Tracks Santa, when will Santa be at my house?
+Alexa, disable norad tracks santa

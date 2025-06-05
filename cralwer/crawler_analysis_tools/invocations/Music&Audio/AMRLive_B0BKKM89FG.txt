@@ -1,0 +1,5 @@
+Alexa, open a. m. r. radio
+Alexa play a. m. r. radio
+Alexa launch a. m. r. radio
+Alexa ask a. m. r. radio what is playing
+Alexa, disable a. m. r. radio

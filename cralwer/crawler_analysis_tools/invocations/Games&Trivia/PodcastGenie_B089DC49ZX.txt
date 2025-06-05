@@ -1,0 +1,4 @@
+Alexa, open pod genie
+Alexa, ask pod genie when should I launch my podcast?
+Alexa, ask pod genie what is streamlined?
+Alexa, disable pod genie

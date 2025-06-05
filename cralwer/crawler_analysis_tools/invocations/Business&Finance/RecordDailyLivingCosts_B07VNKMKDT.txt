@@ -1,0 +1,5 @@
+Alexa, open my budget
+Alexa ask my budget to record 5 dollars on beer
+Alexa ask my budget to record 5 dollars and 79 cents on food
+Alexa ask my budget to list costs
+Alexa, disable my budget

@@ -1,0 +1,6 @@
+Alexa, open kopps frozen custard
+Alexa, ask Kopps Frozen Custard what the flavors are for tomorrow
+Alexa, ask Kopps Frozen Custard what the flavor of the day is
+Alexa, ask Kopps Frozen Custard what the flavor forecast is tomorrow
+Alexa, ask Kopps Frozen Custard what the flavors of the day are next Sunday
+Alexa, disable kopps frozen custard

@@ -1,0 +1,5 @@
+Alexa, open tomato score
+Alexa, ask Tomato Score what is the score of 'Star Wars'
+Alexa, ask Tomato Score what is the score of "Star Wars
+Alexa, ask Tomato Score give me the score of "Empire Strikes Back
+Alexa, disable tomato score

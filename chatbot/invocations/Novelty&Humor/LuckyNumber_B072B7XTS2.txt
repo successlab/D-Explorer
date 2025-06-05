@@ -1,0 +1,5 @@
+Alexa, open lucky number
+Alexa, ask Lucky Number to tell me lucky number
+Alexa, ask Lucky Number to give me a lucky number
+Alexa, ask Lucky Number to give me a number
+Alexa, disable lucky number

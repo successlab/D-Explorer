@@ -1,0 +1,5 @@
+Alexa, open roddenberry daily quote
+Alexa, play Roddenberry daily quote
+Alexa, stop
+Alexa, play roddenberry daily quote
+Alexa, disable roddenberry daily quote

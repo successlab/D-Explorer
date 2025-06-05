@@ -1,0 +1,5 @@
+Alexa, open t. v. episodes
+Alexa ask t. v. episodes what's on this week
+Alexa ask t. v. episodes to add show The Office
+Alexa ask t. v. episodes to remove show The Office
+Alexa, disable t. v. episodes

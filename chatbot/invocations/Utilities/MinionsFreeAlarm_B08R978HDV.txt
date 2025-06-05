@@ -1,0 +1,4 @@
+Alexa, open minions alarms
+Alexa, wake me up at 7:00 AM to minions alarms tone
+Alexa, set an alarm at 7:00 AM to minions alarms tone
+Alexa, disable minions alarms

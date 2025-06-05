@@ -1,0 +1,5 @@
+Alexa, open purell
+Alexa, open Purell.
+Alexa, ask Purell to take me to the Hand Hygiene Center.
+Alexa, ask Purell to buy hand sanitizer.
+Alexa, disable purell

@@ -1,0 +1,5 @@
+Alexa, open scramble quiz
+Alexa, open Scramble Quiz.
+Alexa ask Scramble Quiz for help.
+Alexa, play Scramble Quiz.
+Alexa, disable scramble quiz

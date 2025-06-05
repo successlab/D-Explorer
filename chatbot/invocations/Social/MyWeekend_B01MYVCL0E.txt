@@ -1,0 +1,7 @@
+Alexa, open my weekend
+Alexa, Ask My Weekend to add My Kid
+Alexa, Ask My Weekend to Start Over
+Alexa Ask My Weekend if I have Johnny next weekend
+Alexa Ask My Weekend to add Johnny
+Alexa Ask My Weekend to stop tracking Johnny
+Alexa, disable my weekend

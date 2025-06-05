@@ -1,0 +1,4 @@
+Alexa, open my protection
+Alexa, start My Protection
+Alexa, launch My Protection
+Alexa, disable my protection

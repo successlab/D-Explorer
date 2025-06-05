@@ -1,0 +1,4 @@
+Alexa, open coffee maker
+Help me make a cappuccino
+Give me the recipe for a latte
+Alexa, disable coffee maker

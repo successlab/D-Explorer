@@ -1,0 +1,4 @@
+Alexa, open rocky facts
+Alexa, ask rocky facts to tell me more
+tell me more
+Alexa, disable rocky facts

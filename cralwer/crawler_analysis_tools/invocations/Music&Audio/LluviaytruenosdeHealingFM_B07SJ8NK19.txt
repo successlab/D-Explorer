@@ -1,0 +1,3 @@
+Alexa, open lluvia y truenos
+Alexa, abre lluvia y truenos
+Alexa, disable lluvia y truenos

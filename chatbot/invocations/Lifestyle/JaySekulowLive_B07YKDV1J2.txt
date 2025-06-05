@@ -1,0 +1,8 @@
+Alexa, open jay sekulow live
+Alexa, play Jay Sekulow live.
+Alexa, pause
+Alexa, resume.
+Alexa, play the previous episode.
+Alexa, ask Jay Sekulow live for the title of this episode.
+Alexa, ask Jay Sekulow live for the date of this episode.
+Alexa, disable jay sekulow live

@@ -1,0 +1,6 @@
+Alexa, open fountain sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Fountain Sounds
+Alexa, launch Fountain Sounds
+Alexa, disable fountain sounds

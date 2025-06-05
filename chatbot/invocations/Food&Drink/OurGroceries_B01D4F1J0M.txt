@@ -1,0 +1,6 @@
+Alexa, open our groceries
+Alexa, open OurGroceries
+Alexa, ask OurGroceries to add milk to shopping list.
+Alexa, ask OurGroceries to remove olive oil.
+Alexa, ask OurGroceries what are my lists.
+Alexa, disable our groceries

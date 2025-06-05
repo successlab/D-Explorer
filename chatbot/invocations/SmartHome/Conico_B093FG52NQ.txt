@@ -1,0 +1,4 @@
+Alexa, show office.
+Alexa, show my office camera
+Alexa, hide office.
+Alexa, disable Conico

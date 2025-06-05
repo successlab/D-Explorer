@@ -1,0 +1,5 @@
+Alexa, open cricket nerd
+Alexa, ask cricket nerd to start
+my answer is 4
+skip
+Alexa, disable cricket nerd

@@ -1,0 +1,4 @@
+Alexa, open how many days
+Alexa, ask How Many Days until Nicole's birthday
+Alexa, ask How Many Days when Hawaii vacation starts
+Alexa, disable how many days

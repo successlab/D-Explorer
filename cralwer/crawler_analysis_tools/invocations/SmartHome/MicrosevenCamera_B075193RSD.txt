@@ -1,0 +1,4 @@
+Alexa, show the east gate camera
+Alexa, show the feed from the front door camera
+Alexa, hide the playroom camera
+Alexa, disable MicrosevenCamera

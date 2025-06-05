@@ -1,0 +1,4 @@
+Alexa, open presidential tweets
+Alexa, ask presidential tweets for a tweet
+Alexa, ask presidential tweets to give me a tweet from Donald Trump
+Alexa, disable presidential tweets

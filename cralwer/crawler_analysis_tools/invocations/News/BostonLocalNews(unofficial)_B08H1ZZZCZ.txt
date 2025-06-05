@@ -1,0 +1,2 @@
+Alexa, open boston local news
+Alexa, disable boston local news

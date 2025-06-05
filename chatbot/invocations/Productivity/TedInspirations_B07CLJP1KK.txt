@@ -1,0 +1,4 @@
+Alexa, open ted inspirations
+inspire me
+tell me an inspiration quote
+Alexa, disable ted inspirations

@@ -1,0 +1,4 @@
+Alexa, turn on bedroom TV
+Alexa, mute bedroom TV
+Alexa, turn up the volume by 5 on bedroom TV
+Alexa, disable IRController

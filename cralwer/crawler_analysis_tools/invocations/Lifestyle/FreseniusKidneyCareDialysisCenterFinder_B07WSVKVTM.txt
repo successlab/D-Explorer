@@ -1,0 +1,4 @@
+Alexa, open dialysis finder
+Alexa, start dialysis finder
+Alexa, launch dialysis finder
+Alexa, disable dialysis finder

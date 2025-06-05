@@ -1,0 +1,4 @@
+Alexa, open christmas songs
+Alexa, start Christmas Songs
+Alexa, launch Christmas Songs
+Alexa, disable christmas songs

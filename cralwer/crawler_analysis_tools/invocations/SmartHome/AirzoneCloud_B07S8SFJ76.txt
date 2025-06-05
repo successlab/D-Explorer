@@ -1,0 +1,4 @@
+Alexa, turn on the kitchen.
+Alexa, increase the bedroom by 2 degrees.
+Alexa, set the bedroom to 72 degrees.
+Alexa, disable AirzoneCloud

@@ -1,0 +1,4 @@
+Alexa, turn on the Friedrich air conditioner
+Alexa, turn off Friedrich the air conditioner
+Alexa, set Friedrich air conditioner temperature to 27 degrees
+Alexa, disable FriedrichGo

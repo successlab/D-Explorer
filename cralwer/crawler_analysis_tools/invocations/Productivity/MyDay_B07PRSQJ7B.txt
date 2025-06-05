@@ -1,0 +1,4 @@
+Alexa, open my day
+Alexa, ask My Day for my fortune
+Alexa, start My Day
+Alexa, disable my day

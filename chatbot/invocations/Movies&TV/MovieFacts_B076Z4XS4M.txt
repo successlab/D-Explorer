@@ -1,0 +1,5 @@
+Alexa, open movie facts
+Alexa ask movie facts to give me a marvel fact
+Give me a random fact about any movie
+Give me the new Lord of The Rings fact
+Alexa, disable movie facts

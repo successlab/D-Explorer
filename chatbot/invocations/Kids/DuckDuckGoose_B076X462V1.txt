@@ -1,0 +1,4 @@
+Alexa, open duck duck goose
+Alexa, start duck duck goose
+Alexa, duck duck goose
+Alexa, disable duck duck goose

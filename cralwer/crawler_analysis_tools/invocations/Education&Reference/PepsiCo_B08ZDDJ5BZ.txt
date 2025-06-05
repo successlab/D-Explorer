@@ -1,0 +1,4 @@
+Alexa, open pepsico
+Alexa, launch PepsiCo
+Alexa, ask PepsiCo for Diet Pepsi
+Alexa, disable pepsico

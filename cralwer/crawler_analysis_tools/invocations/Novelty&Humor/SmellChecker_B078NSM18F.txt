@@ -1,0 +1,5 @@
+Alexa, open smell checker
+Alexa, ask Smell Checker if Kieran smells.
+Alexa, ask Smell Checker does Charlotte smell?
+Alexa, ask Smell Checker to tell me if Malika smells.
+Alexa, disable smell checker

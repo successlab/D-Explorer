@@ -1,0 +1,5 @@
+Alexa, open motivate me
+Alexa, motivate me
+Alexa, ask motivate me for a quote
+Alexa, ask motivate me to give me some inspiration
+Alexa, disable motivate me

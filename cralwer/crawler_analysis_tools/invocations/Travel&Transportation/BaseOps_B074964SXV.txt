@@ -1,0 +1,5 @@
+Alexa, open base ops
+Alexa, ask Base Ops, what are the winds at K A T L
+Alexa, ask Base Ops, winds at K L G A
+Alexa, ask Base Ops, say winds for K W R B
+Alexa, disable base ops

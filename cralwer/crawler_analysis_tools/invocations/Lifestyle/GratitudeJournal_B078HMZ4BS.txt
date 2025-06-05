@@ -1,0 +1,4 @@
+Alexa, open my gratitude journal
+Alexa, write something in my gratitude journal
+Alexa, read something from my gratitude journal
+Alexa, disable my gratitude journal

@@ -1,0 +1,4 @@
+Alexa, open property bot
+Alexa, start Property Bot
+Alexa, launch Property Bot
+Alexa, disable property bot

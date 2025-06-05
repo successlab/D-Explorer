@@ -1,0 +1,4 @@
+Alexa, open coconut mall
+Alexa, start Coconut Mall
+Alexa, launch Coconut Mall
+Alexa, disable coconut mall

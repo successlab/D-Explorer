@@ -1,0 +1,4 @@
+Alexa, open alarma sonora
+Alexa, abre alarma sonora
+termina
+Alexa, disable alarma sonora

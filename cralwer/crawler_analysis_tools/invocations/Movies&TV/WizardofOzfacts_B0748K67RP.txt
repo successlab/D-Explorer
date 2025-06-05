@@ -1,0 +1,4 @@
+Alexa, open wizard of oz
+alexa ask wizard of oz a fact
+a wizard of oz fact
+Alexa, disable wizard of oz

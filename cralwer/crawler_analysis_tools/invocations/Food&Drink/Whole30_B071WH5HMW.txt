@@ -1,0 +1,5 @@
+Alexa, open whole thirty
+Alexa, ask Whole Thirty if eggs are ok to eat
+Alexa, ask Whole Thirty are almonds in the diet
+Alexa, ask Whole Thirty to explain the diet
+Alexa, disable whole thirty

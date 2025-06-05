@@ -1,0 +1,3 @@
+Alexa, open unofficial marvel trivia
+Alexa, start unofficial marvel trivia
+Alexa, disable unofficial marvel trivia

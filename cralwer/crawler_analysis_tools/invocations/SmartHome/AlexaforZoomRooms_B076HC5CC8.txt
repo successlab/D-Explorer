@@ -1,0 +1,3 @@
+Alexa, start meeting
+Alexa, end meeting
+Alexa, disable AlexaforZoomRooms

@@ -1,0 +1,4 @@
+Alexa, open math dojo
+Alexa, ask Math Dojo to practice addition
+Alexa, ask Math Dojo to practice subtraction
+Alexa, disable math dojo

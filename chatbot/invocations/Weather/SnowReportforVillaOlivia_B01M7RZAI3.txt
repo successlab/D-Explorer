@@ -1,0 +1,4 @@
+Alexa, open villa olivia
+Alexa, ask Villa Olivia for the snow report
+Alexa, ask Villa Olivia for latest conditions
+Alexa, disable villa olivia

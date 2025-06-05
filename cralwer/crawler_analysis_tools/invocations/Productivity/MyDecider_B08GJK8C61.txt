@@ -1,0 +1,5 @@
+Alexa, open my decider
+Alexa, ask My Decider if I should sleep in today
+Should we visit the beach tomorrow
+Decide if it makes sense to go for a run
+Alexa, disable my decider

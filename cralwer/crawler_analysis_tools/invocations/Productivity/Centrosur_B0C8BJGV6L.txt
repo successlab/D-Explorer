@@ -1,0 +1,5 @@
+Alexa, open centro sur
+Alexa, abre Centrosur
+Alexa, abre Centrosur y dime cuánto debo de planilla
+Alexa, abre Centrosur y dime un dato curioso
+Alexa, disable centro sur

@@ -1,0 +1,4 @@
+Alexa, discover my devices
+Alexa, show my front door camera
+Alexa, show my pet camera
+Alexa, disable AmcrestCloud

@@ -1,0 +1,6 @@
+Alexa, open crazy fact
+Alexa, open Crazy Facts
+Alexa, stop
+Alexa ask crazy fact for a fact
+Alexa, start crazy fact.
+Alexa, disable crazy fact

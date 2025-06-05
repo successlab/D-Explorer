@@ -1,0 +1,4 @@
+Alexa, open forget me not
+Alexa, tell Forget Me Not, I am leaving for work
+Alexa, tell Forget Me Not, I am going on date
+Alexa, disable forget me not

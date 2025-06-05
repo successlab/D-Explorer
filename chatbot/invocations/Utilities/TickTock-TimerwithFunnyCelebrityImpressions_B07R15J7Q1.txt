@@ -1,0 +1,5 @@
+Alexa, open tic toc
+Alexa, open Tick Tock.
+Alexa, ask Tick Tock to run for 6 minutes.
+Alexa, ask Tick Tock how long?
+Alexa, disable tic toc

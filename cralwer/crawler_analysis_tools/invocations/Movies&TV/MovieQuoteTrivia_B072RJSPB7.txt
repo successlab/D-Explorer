@@ -1,0 +1,3 @@
+Alexa, open movie quote trivia
+Alexa, ask movie quote trivia to start.
+Alexa, disable movie quote trivia

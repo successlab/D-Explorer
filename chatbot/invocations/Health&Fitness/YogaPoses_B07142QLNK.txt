@@ -1,0 +1,4 @@
+Alexa, open yoga poses
+next pose
+skip pose
+Alexa, disable yoga poses

@@ -1,0 +1,3 @@
+Alexa, open richest trivia
+Alexa, start richest trivia
+Alexa, disable richest trivia

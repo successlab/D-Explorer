@@ -1,0 +1,4 @@
+Alexa, open quiz maker
+Alexa tell quiz maker to start a game
+Alexa tell quiz maker I want to play
+Alexa, disable quiz maker

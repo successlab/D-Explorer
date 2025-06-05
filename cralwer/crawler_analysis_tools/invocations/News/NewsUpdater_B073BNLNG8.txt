@@ -1,0 +1,5 @@
+Alexa, open news updater
+Alexa, ask News Updater to get business news updates
+Alexa, ask News Updater to get sports news updates
+Alexa, ask News Updater for entertainment news updates
+Alexa, disable news updater

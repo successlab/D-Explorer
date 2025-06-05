@@ -1,0 +1,4 @@
+Alexa, open cooling fan noise
+Alexa, Pause
+Alexa, Resume
+Alexa, disable cooling fan noise

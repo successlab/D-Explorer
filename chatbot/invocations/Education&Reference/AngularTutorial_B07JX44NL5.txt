@@ -1,0 +1,6 @@
+Alexa, open angular tutorial
+Alexa, stop
+Alexa, open angular tutorial and what is angular
+Alexa, open angular tutorial and what is angular two
+Alexa, open angular tutorial and angular four overview
+Alexa, disable angular tutorial

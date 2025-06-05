@@ -1,0 +1,4 @@
+Alexa, lock door
+Alexa, unlock front door
+Alexa, is the front door locked?
+Alexa, disable KwiksetSmartHome

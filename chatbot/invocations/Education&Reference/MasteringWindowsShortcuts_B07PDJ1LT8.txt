@@ -1,0 +1,7 @@
+Alexa, open mastering windows
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start Mastering Windows
+Alexa, disable mastering windows

@@ -1,0 +1,4 @@
+Alexa, open hello world
+hello
+help
+Alexa, disable hello world

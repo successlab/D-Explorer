@@ -1,0 +1,4 @@
+Alexa, set Bedroom to 70 degrees.
+Alexa, what is Kitchen thermostat set to?
+Alexa, set My thermostat to cool mode.
+Alexa, disable Pro1ConnectWIFIThermostat

@@ -1,0 +1,4 @@
+Alexa, turn on morning
+Alexa, turn off living room
+Alexa, open the bedroom shades
+Alexa, disable LutronConnect-HomeworksQS+RadioRA2

@@ -1,0 +1,5 @@
+Alexa, open eagle quiz
+Alexa, next
+Alexa, stop
+Alexa, start eagle quiz
+Alexa, disable eagle quiz

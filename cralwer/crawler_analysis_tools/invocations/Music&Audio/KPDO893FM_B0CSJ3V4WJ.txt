@@ -1,0 +1,4 @@
+Alexa, open pescadero public radio
+Alexa, ask pescadero public radio what's playing.
+Alexa, ask pescadero public radio to play live.
+Alexa, disable pescadero public radio

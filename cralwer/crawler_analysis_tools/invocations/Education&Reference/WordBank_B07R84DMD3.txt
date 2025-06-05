@@ -1,0 +1,4 @@
+Alexa, open word bank
+Alexa, start Word Bank
+Alexa, launch Word Bank
+Alexa, disable word bank

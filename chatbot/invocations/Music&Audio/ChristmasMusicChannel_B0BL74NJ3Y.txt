@@ -1,0 +1,4 @@
+Alexa, open christmas music channel
+Alexa, Start Christmas Music Channel
+Alexa, Play Christmas Music Channel
+Alexa, disable christmas music channel

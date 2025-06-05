@@ -1,0 +1,11 @@
+Alexa, open spiritual talks
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask spiritual talks for the latest talk
+Alexa, start spiritual talks
+Alexa, disable spiritual talks

@@ -1,0 +1,5 @@
+Alexa, open fish tank
+Alexa ask fish tank to feed the fish
+turn lights off
+turn lights on
+Alexa, disable fish tank

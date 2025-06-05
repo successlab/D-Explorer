@@ -1,0 +1,5 @@
+Alexa, open my calculator
+Alexa, ask My Calculator to add five and seven.
+Alexa, ask My Calculator to raise two to the power of three.
+Alexa, ask My Calculator to take the square root of nine.
+Alexa, disable my calculator

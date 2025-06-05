@@ -1,0 +1,5 @@
+Alexa, open good eats
+Alexa ask Good Eats Is broccoli healthy
+Alexa ask Good Eats are brussels sprouts healthy
+Alexa ask Good Eats is french fries good for you
+Alexa, disable good eats

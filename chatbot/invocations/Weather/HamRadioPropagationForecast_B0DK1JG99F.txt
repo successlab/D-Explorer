@@ -1,0 +1,4 @@
+Alexa, open ham radio propagation
+Alexa, launch ham radio propagation
+Alexa, give me the ham radio propagation
+Alexa, disable ham radio propagation

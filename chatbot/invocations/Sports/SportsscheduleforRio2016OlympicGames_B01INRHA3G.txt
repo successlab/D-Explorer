@@ -1,0 +1,5 @@
+Alexa, open olympic games program
+Alexa, ask Olympic Games Program what is scheduled for basketball on August 13
+Alexa, ask Olympic Games Program when is basketball
+Alexa, ask Olympic Games Program to tell me about the Olympic Games in Rio de Janeiro
+Alexa, disable olympic games program

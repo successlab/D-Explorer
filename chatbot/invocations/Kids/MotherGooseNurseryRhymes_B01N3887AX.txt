@@ -1,0 +1,5 @@
+Alexa, open mother goose
+Alexa, start Mother Goose
+Alexa, ask Mother Goose for "Baa Baa Black Sheep
+Alexa, ask Mother Goose for a rhyme about the itsy bitsy spider
+Alexa, disable mother goose

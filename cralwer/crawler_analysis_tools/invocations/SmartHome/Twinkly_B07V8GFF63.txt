@@ -1,0 +1,6 @@
+Alexa, set Twinkly to 50%
+Alexa, turn on Twinkly
+Alexa, turn off Twinkly.
+Alexa, turn off Twinkly
+Alexa, set the Twinkly to 50%
+Alexa, disable Twinkly

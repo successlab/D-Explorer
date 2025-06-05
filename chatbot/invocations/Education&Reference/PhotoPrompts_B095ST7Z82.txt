@@ -1,0 +1,4 @@
+Alexa, open photo prompts
+Alexa, stop
+Alexa, start photo prompts
+Alexa, disable photo prompts

@@ -1,0 +1,3 @@
+Alexa, open routine tracker
+Alexa, start routine tracker
+Alexa, disable routine tracker

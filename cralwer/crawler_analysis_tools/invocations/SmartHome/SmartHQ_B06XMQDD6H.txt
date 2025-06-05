@@ -1,0 +1,5 @@
+Alexa, open smart h. q.
+Alexa, smoke my salmon at two hundred degrees in smoker
+Alexa, set smoker temperature to two hundred degrees
+Alexa, set mixer direction to forward
+Alexa, disable smart h. q.

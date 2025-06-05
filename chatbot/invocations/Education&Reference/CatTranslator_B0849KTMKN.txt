@@ -1,0 +1,4 @@
+Alexa, open cat translator
+Alexa, Ask Cat Translator how do you say Hello
+Alexa, Play Cat Translator
+Alexa, disable cat translator

@@ -1,0 +1,5 @@
+Alexa, open moodo box
+Alexa, start moodo box
+enable shuffle
+interval mode disable
+Alexa, disable moodo box

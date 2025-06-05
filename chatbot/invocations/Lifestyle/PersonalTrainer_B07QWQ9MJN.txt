@@ -1,0 +1,4 @@
+Alexa, open fitness anywhere
+Alexa, start Fitness Anywhere
+Alexa, ask Fitness Anywhere to start workout
+Alexa, disable fitness anywhere

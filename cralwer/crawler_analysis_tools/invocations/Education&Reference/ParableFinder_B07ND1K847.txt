@@ -1,0 +1,4 @@
+Alexa, open parable finder
+Tell me a parable
+Good Samaritan
+Alexa, disable parable finder

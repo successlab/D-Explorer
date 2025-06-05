@@ -1,0 +1,4 @@
+Alexa, open sweet air
+Alexa, ask Sweet Air for a detailed report
+Alexa, ask Sweet Air for the nearest indoor sensor
+Alexa, disable sweet air

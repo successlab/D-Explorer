@@ -1,0 +1,4 @@
+Alexa, open cross products
+My vector is one two three
+My vector is two four six
+Alexa, disable cross products

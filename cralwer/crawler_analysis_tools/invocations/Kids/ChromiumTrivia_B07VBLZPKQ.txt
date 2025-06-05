@@ -1,0 +1,2 @@
+Alexa, open chromium trivia
+Alexa, disable chromium trivia

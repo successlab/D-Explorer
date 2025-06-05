@@ -1,0 +1,4 @@
+Alexa, open ocean facts
+Alexa, ask ocean facts for a fact
+Alexa, ask ocean facts to tell me something
+Alexa, disable ocean facts

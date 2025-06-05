@@ -1,0 +1,4 @@
+Alexa, turn on Elixir
+Alexa, dim Spirit by 40 percent
+Alexa, brighten Hero
+Alexa, disable WiZSmartHomeSkill

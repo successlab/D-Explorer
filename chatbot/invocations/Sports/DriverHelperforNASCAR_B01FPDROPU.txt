@@ -1,0 +1,5 @@
+Alexa, open driver helper
+Alexa, ask driver helper who drives the number nineteen car?
+What car does Joey Logano drive?
+Who does Martin Truex Junior drive for?
+Alexa, disable driver helper

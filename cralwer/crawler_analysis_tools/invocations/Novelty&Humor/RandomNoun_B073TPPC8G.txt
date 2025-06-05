@@ -1,0 +1,6 @@
+Alexa, open random noun
+Alexa, tell Random Noun give me a random noun!
+Alexa, tell Random Noun give me a random noun
+Alexa, ask Random Noun to tell me another one
+Alexa, tell Random Noun noun
+Alexa, disable random noun

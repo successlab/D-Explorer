@@ -1,0 +1,7 @@
+Alexa, open starship sounds
+Alexa, launch Starship Sounds
+Alexa, play Starship Sounds
+Alexa, stop
+Alexa, Play Starship Sounds
+Alexa, Launch Starship Sounds
+Alexa, disable starship sounds

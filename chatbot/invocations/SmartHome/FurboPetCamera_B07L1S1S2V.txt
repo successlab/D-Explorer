@@ -1,0 +1,5 @@
+Alexa, open furbo
+Alexa, tell Furbo to toss a treat
+Alexa, set Furbo to on
+Alexa, tell Furbo to start a treat schedule
+Alexa, disable furbo

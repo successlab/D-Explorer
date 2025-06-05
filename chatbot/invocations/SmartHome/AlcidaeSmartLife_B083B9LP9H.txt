@@ -1,0 +1,4 @@
+Alexa, open Garage Door
+Alexa, turn on Garage Door
+Alexa, lock Garage Door
+Alexa, disable AlcidaeSmartLife

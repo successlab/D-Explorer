@@ -1,0 +1,4 @@
+Alexa, open fish bowl
+Alexa, open Fishbowl
+Alexa, start Fishbowl
+Alexa, disable fish bowl

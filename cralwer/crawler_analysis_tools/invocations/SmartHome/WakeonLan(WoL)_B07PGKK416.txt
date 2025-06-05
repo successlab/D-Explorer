@@ -1,0 +1,5 @@
+Alexa, turn on <device name>
+Alexa, turn on the TV
+Alexa, turn on the computer
+Alexa, turn on the server
+Alexa, disable WakeonLan(WoL)

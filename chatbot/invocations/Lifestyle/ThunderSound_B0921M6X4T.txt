@@ -1,0 +1,4 @@
+Alexa, open thunder sound
+Alexa, start thunder sound
+Alexa, launch thunder sound
+Alexa, disable thunder sound

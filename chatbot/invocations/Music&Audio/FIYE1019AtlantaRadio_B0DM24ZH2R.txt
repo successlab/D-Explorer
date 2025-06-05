@@ -1,0 +1,4 @@
+Alexa, open fiye radio
+Alexa, start fiye radio
+Alexa, ask fiye radio what's playing
+Alexa, disable fiye radio

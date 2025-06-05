@@ -1,0 +1,4 @@
+Alexa, open la voz de multiplica
+Alexa, abre La voz de Multiplica
+Alexa, lanza La voz de Multiplica
+Alexa, disable la voz de multiplica

@@ -1,0 +1,7 @@
+Alexa, open pendulum clock
+Alexa, ask pendulum clock what is the current time?
+Alexa, tell me the current time from pendulum clock?
+Alexa, ask Pendulum Clock to tell me the time
+Alexa, start Pendulum Clock
+Alexa, launch Pendulum Clock
+Alexa, disable pendulum clock

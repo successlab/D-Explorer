@@ -1,0 +1,4 @@
+Alexa, open harry potter name
+Alexa, ask Harry Potter Name to make a name
+Alexa, launch Harry Potter Name
+Alexa, disable harry potter name

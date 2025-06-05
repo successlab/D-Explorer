@@ -1,0 +1,4 @@
+Alexa, open forest night
+Alexa, pause
+Alexa, resume
+Alexa, disable forest night

@@ -1,0 +1,5 @@
+Alexa, open super ball
+Alexa start super ball
+right
+left
+Alexa, disable super ball

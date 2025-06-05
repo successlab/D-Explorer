@@ -1,0 +1,5 @@
+Alexa, open sounds simulator
+Alexa, ask Sounds Simulator to do a cow
+Alexa, open Sounds Simulator and give me the sound of a doorbell
+Alexa, open Sounds Simulator and do a random sound
+Alexa, disable sounds simulator

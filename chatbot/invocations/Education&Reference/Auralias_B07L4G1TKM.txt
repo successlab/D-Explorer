@@ -1,0 +1,3 @@
+Alexa, open aural training
+Alexa, launch aural training
+Alexa, disable aural training

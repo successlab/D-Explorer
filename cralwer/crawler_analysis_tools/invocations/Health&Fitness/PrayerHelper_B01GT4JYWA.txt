@@ -1,0 +1,5 @@
+Alexa, open prayer helper
+Alexa ask prayer helper to pray Our Father
+Alexa ask prayer helper to read Hail Mary
+Alexa ask prayer helper to recite the Angelus
+Alexa, disable prayer helper

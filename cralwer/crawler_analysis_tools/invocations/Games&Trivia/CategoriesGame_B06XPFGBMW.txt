@@ -1,0 +1,4 @@
+Alexa, open categories game
+Alexa, play Categories Game
+Alexa, ask Categories Game to play
+Alexa, disable categories game

@@ -1,0 +1,4 @@
+Alexa, open sound of forest
+Alexa, pause
+Alexa, resume
+Alexa, disable sound of forest

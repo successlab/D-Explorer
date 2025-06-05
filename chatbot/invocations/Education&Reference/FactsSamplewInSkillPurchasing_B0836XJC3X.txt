@@ -1,0 +1,4 @@
+Alexa, open premium facts sample
+Tell me a great fact
+Give me a fact
+Alexa, disable premium facts sample

@@ -1,0 +1,5 @@
+Alexa, open fox news
+Alexa, ask Fox News to play Hemmer Time.
+Alexa, ask Fox News for Fox News Radio.
+Alexa, ask Fox News to play the Livin the Bream podcast.
+Alexa, disable fox news

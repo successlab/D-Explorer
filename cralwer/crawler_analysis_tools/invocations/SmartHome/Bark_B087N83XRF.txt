@@ -1,0 +1,4 @@
+Alexa, open bark
+Alexa, ask Bark to pause the internet
+Alexa, ask Bark to unpause the internet
+Alexa, disable bark

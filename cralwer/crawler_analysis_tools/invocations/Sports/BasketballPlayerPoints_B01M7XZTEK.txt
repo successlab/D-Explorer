@@ -1,0 +1,4 @@
+Alexa, open basketball points
+Alexa, ask basketball points how many points Russell Westbrook scored.
+Alexa, ask basketball points about LeBron James
+Alexa, disable basketball points

@@ -1,0 +1,7 @@
+Alexa, open ocean sounds
+Alexa, next
+Alexa, go back
+Alexa, loop
+Alexa, loop off
+Alexa, start Ocean Sounds
+Alexa, disable ocean sounds

@@ -1,0 +1,3 @@
+Alexa, open pivot podcast
+Alexa, ask Pivot Podcast to find episodes on Faith
+Alexa, disable pivot podcast

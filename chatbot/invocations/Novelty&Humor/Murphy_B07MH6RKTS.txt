@@ -1,0 +1,5 @@
+Alexa, open murphy
+Alexa, ask Murphy what is the weather?
+Alexa, ask Murphy what color is the sky?
+Alexa, ask Murphy how are you?
+Alexa, disable murphy

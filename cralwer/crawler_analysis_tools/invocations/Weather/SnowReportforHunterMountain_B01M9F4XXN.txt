@@ -1,0 +1,4 @@
+Alexa, open hunter mountain
+Alexa, ask Hunter Mountain for the snow report
+Alexa, ask Hunter Mountain for latest conditions
+Alexa, disable hunter mountain

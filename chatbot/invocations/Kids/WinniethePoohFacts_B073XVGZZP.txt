@@ -1,0 +1,5 @@
+Alexa, open winnie the pooh
+Alexa, ask Winnie the Pooh to tell me a fact.
+Alexa, ask Winnie the Pooh for a fact.
+Alexa, ask Winnie the Pooh for a fact about Winnie the Pooh.
+Alexa, disable winnie the pooh

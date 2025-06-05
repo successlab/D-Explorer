@@ -1,0 +1,4 @@
+Alexa, open now wave radio
+Alexa, start Now Wave Radio.
+Alexa, play Now Wave Radio.
+Alexa, disable now wave radio

@@ -1,0 +1,4 @@
+Alexa, open panda fact
+Alexa, Start Panda Fact
+Alexa, Launch Panda Fact
+Alexa, disable panda fact

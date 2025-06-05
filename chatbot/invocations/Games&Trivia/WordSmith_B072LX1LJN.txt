@@ -1,0 +1,4 @@
+Alexa, open word smith
+Add A at the beginning
+Spell the current word
+Alexa, disable word smith

@@ -1,0 +1,5 @@
+Alexa, open smash picker
+Alexa, ask Smash Picker to choose four characters
+Alexa, ask Smash Picker to pick a character
+Alexa, ask Smash Picker to choose eight characters
+Alexa, disable smash picker

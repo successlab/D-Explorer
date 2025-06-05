@@ -1,0 +1,4 @@
+Alexa, open snatch word
+Find apple
+Snatch apple
+Alexa, disable snatch word

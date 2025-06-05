@@ -1,0 +1,4 @@
+Alexa, open motivation of the day
+Alexa, tell motivation of the day
+Alexa, ask motivation of the day
+Alexa, disable motivation of the day

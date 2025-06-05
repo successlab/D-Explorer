@@ -1,0 +1,3 @@
+Alexa, open phillies fan trivia
+Alexa, start phillies fan trivia
+Alexa, disable phillies fan trivia

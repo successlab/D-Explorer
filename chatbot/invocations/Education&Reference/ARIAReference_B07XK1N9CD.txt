@@ -1,0 +1,4 @@
+Alexa, open aria reference
+Alexa ask ARIA Reference about the button role
+tell me about aria pressed
+Alexa, disable aria reference

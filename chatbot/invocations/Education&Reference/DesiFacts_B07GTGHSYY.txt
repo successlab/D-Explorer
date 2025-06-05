@@ -1,0 +1,4 @@
+Alexa, open aaj ka fact
+Alexa, aaj ka fact
+aaj ka fact
+Alexa, disable aaj ka fact

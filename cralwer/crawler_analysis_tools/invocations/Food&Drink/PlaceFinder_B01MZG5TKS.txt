@@ -1,0 +1,4 @@
+Alexa, open place finder
+Search for an Indian buffet In Seattle Washington
+Find me a Flower Shop Near 94040
+Alexa, disable place finder

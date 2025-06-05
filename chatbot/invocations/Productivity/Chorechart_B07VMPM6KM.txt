@@ -1,0 +1,4 @@
+Alexa, open chore my chart
+Alexa, ask chore my chart to read my chore list
+Alexa, ask chore my chart to log a chore
+Alexa, disable chore my chart

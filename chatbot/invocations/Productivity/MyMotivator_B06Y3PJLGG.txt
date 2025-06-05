@@ -1,0 +1,4 @@
+Alexa, open my motivator
+Alexa ask my motivator to motivate me
+Alexa ask my motivator say something nice about me
+Alexa, disable my motivator

@@ -1,0 +1,5 @@
+Alexa, open my assistant
+Alexa, ask my assistant to welcome David
+Alexa, ask my assistant to say hello to David
+Alexa, ask my assistant to hello Eva
+Alexa, disable my assistant

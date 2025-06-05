@@ -1,0 +1,5 @@
+Alexa, open weather companion
+Alexa, ask Weather Companion how should I be dressing today
+What should I wear tomorrow?
+Give me a dressing advice for today
+Alexa, disable weather companion

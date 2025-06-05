@@ -1,0 +1,5 @@
+Alexa, open clima cast
+Alexa, ask Clima Cast if it will rain today
+Alexa, ask Clima Cast for the temperature on Tuesday
+Alexa, ask Clima Cast for the forecast in Seattle Washington on the 13th
+Alexa, disable clima cast

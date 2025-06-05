@@ -1,0 +1,2 @@
+Alexa, open forbidden facts
+Alexa, disable forbidden facts

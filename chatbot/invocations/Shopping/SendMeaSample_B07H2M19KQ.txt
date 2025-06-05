@@ -1,0 +1,4 @@
+Alexa, open send me a sample
+Alexa, Send Me a Sample
+Alexa, ask Send Me a Sample
+Alexa, disable send me a sample

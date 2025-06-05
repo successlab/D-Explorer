@@ -1,0 +1,5 @@
+Alexa, open burping contest
+Alexa, ask Burping Contest for a contest between Guy and Karen.
+Alexa, ask Burping Contest for a contest between Guy and Karen
+Alexa, tell burping contest to have a contest with Guy and Karen
+Alexa, disable burping contest

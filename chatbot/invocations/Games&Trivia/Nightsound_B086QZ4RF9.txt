@@ -1,0 +1,5 @@
+Alexa, open night sound
+Alexa, activate premium
+Alexa, pause
+Alexa, resume
+Alexa, disable night sound

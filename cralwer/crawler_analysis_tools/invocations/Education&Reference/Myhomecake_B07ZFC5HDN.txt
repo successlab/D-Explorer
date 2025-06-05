@@ -1,0 +1,2 @@
+Alexa, open my home
+Alexa, disable my home

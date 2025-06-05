@@ -1,0 +1,3 @@
+Alexa, open airplane quiz
+Alexa, start Airplane Quiz
+Alexa, disable airplane quiz

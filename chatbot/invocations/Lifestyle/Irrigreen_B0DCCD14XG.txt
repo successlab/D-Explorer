@@ -1,0 +1,6 @@
+Alexa, open my sprinklers
+Alexa, tell my sprinklers to add controller _____
+Alexa, open my sprinklers.
+Alexa, open my sprinklers and start watering.
+Alexa, open my sprinklers and run zone one.
+Alexa, disable my sprinklers

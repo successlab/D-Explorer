@@ -1,0 +1,4 @@
+Alexa, open penguins hockey trivia
+Alexa, ask Penguins hockey trivia for an item
+Alexa, ask Penguins hockey trivia for trivia
+Alexa, disable penguins hockey trivia

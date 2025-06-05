@@ -1,0 +1,5 @@
+Alexa, open mac address lookup
+Alexa, open MAC address lookup.
+Look up F0D2F1.
+Which vendor is associated with alpha four seven seven three three?
+Alexa, disable mac address lookup

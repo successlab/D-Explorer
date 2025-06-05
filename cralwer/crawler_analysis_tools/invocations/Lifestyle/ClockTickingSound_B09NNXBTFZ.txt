@@ -1,0 +1,4 @@
+Alexa, open clock ticking sound
+Alexa, Pause
+Alexa, Resume
+Alexa, disable clock ticking sound

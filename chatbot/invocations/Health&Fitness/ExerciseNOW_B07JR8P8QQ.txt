@@ -1,0 +1,5 @@
+Alexa, open exercise now
+Alexa, open exercise now.
+Alexa, open exercise now and give me a exercise.
+Alexa, ask exercise now for a bodyweight exercise.
+Alexa, disable exercise now

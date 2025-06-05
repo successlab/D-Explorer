@@ -1,0 +1,5 @@
+Alexa, open crypto price
+Alexa, give me the price of Bitcoin from Crypto Price.
+Alexa, ask Crypto price what is the price of Ether in Euros?
+Alexa, look up the price of Litecoin in pounds from Crypto Price.
+Alexa, disable crypto price

@@ -1,0 +1,4 @@
+Alexa, open grippy sock radio
+Alexa, start grippy sock radio
+Alexa, ask grippy sock radio what's playing
+Alexa, disable grippy sock radio

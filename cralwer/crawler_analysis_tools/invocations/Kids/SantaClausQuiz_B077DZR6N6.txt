@@ -1,0 +1,5 @@
+Alexa, open santa claus quiz
+Alexa, start Santa Claus Quiz.
+Start new game.
+Repeat the question.
+Alexa, disable santa claus quiz

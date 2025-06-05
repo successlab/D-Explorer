@@ -1,0 +1,5 @@
+Alexa, open share radio
+Alexa, play share radio
+Alexa, ask share radio what is playing
+Alexa, ask share radio who's on air now
+Alexa, disable share radio

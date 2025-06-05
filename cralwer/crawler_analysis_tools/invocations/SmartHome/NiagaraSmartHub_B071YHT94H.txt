@@ -1,0 +1,5 @@
+Alexa, open smart hub
+Alexa, ask Smart Hub for temperature in bedroom
+Alexa, check humidity in living room with smart hub
+Alexa, read alarms from Smart Hub
+Alexa, disable smart hub

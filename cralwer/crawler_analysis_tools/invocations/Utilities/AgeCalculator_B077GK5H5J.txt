@@ -1,0 +1,5 @@
+Alexa, open age calculator
+Alexa, ask Age Calculator how many years ago was june 23, 1782
+Alexa, ask Age Calculator how old is someone born on May 20, 2010.
+Alexa, ask Age Calculator how long ago was March 16, 1998.
+Alexa, disable age calculator

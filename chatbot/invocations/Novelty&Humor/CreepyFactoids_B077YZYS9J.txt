@@ -1,0 +1,3 @@
+Alexa, open say something creepy
+Alexa, say something creepy
+Alexa, disable say something creepy

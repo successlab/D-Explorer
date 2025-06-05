@@ -1,0 +1,5 @@
+Alexa, open radio medea
+Alexa abre radio medea
+Alexa, pon radio medea
+Alexa, reproduce radio medea
+Alexa, disable radio medea

@@ -1,0 +1,9 @@
+Alexa, open clock sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Clock Sounds to turn on Background Mode
+Alexa, ask Clock Sounds to turn Background Mode off
+Alexa, start Clock Sounds
+Alexa, launch Clock Sounds
+Alexa, disable clock sounds

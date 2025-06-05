@@ -1,0 +1,4 @@
+Alexa, open word finder
+Alexa, ask word finder to search apple is a thing or not
+Alexa, ask word finder to set bing
+Alexa, disable word finder

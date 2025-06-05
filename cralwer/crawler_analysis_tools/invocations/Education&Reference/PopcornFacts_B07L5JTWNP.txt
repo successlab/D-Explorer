@@ -1,0 +1,5 @@
+Alexa, open popcorn facts
+Alexa, open Popcorn Facts.
+Alexa, ask Popcorn Facts for a fact.
+Alexa, tell Popcorn Facts to enlighten me.
+Alexa, disable popcorn facts

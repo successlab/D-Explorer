@@ -1,0 +1,3 @@
+Alexa, open mcgraw helper
+Alexa, start McGraw Helper
+Alexa, disable mcgraw helper

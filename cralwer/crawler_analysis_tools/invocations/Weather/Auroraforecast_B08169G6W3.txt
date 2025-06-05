@@ -1,0 +1,4 @@
+Alexa, open aurora forecast
+Alexa, start aurora forecast
+Alexa, launch aurora forecast
+Alexa, disable aurora forecast

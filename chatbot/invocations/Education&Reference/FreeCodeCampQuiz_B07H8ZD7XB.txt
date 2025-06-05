@@ -1,0 +1,4 @@
+Alexa, open free code camp quiz
+Alexa, start Free Code Camp Quiz
+Alexa, launch Free Code Camp Quiz
+Alexa, disable free code camp quiz

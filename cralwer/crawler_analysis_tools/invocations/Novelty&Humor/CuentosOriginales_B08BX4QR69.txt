@@ -1,0 +1,4 @@
+Alexa, open cuentos originales
+Alexa, abre cuentos originales
+Alexa, lanza cuentos originales
+Alexa, disable cuentos originales

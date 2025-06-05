@@ -1,0 +1,5 @@
+Alexa, open bus time left
+Alexa, ask bus time left.
+Bus time
+Where is my bus?
+Alexa, disable bus time left

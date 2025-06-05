@@ -1,0 +1,3 @@
+Alexa, open music game
+Alexa, launch music game
+Alexa, disable music game

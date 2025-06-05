@@ -1,0 +1,42 @@
+Alexa, open robot yeedi
+Alexa, ask robot yeedi to start cleaning.
+Alexa, ask robot yeedi to start vacuuming.
+Alexa, ask robot yeedi to start mopping.
+Alexa, tell robot yeedi it missed a spot.
+Alexa, tell robot yeedi the house isn't going to clean itself.
+Alexa, ask robot yeedi to start vacuuming with kitty.
+Alexa, ask robot yeedi to start mopping with kitty.
+Alexa, ask robot yeedi to stop cleaning.
+Alexa, ask robot yeedi to stop vacuuming.
+Alexa, ask robot yeedi to stop mopping.
+Alexa, tell robot yeedi it's fired.
+Alexa, tell robot yeedi its services are no longer needed.
+Alexa, ask robot yeedi to stop vacuuming with kitty.
+Alexa, ask robot yeedi to stop mopping with kitty.
+Alexa, ask robot yeedi to pause vacuuming.
+Alexa, ask robot yeedi to pause mopping.
+Alexa, tell robot yeedi to take a breather.
+Alexa, tell robot yeedi to wait just a moment.
+Alexa, tell robot yeedi that Simon says 'freeze'.
+Alexa, ask robot yeedi to pause vacuuming with kitty.
+Alexa, ask robot yeedi to pause mopping with kitty.
+Alexa, ask robot yeedi where it is?
+Alexa, tell robot yeedi it has 10 seconds to show its face.
+Alexa, tell robot yeedi I miss it.
+Alexa, tell robot yeedi I said Marco.
+Alexa, ask robot yeedi what's its status?
+Alexa, tell robot yeedi I haven't heard from it in a while
+Alexa, ask robot yeedi how much longer until it's done?
+Alexa, ask robot yeedi to return to dock.
+Alexa, ask robot yeedi to return to the charging dock.
+Alexa, tell robot yeedi I said goodnight.
+Alexa, tell robot yeedi it's time to hit the sack.
+Alexa, tell robot yeedi it's past its bedtime.
+Alexa, ask robot yeedi to start charging with kitty.
+Alexa, ask robot yeedi to vacuum the guest room.
+Alexa, ask robot yeedi to mop the master bedroom.
+Alexa, tell robot yeedi the kid's room is waiting for it.
+Alexa, tell robot yeedi the kids made a little mess in the kitchen.
+Alexa, ask robot yeedi to clean bedroom and living room.
+Alexa, ask robot yeedi to clean bedroom and living room with kitty.
+Alexa, disable robot yeedi

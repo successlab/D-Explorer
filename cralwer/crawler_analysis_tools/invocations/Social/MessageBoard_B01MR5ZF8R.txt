@@ -1,0 +1,5 @@
+Alexa, open message board
+Alexa, ask Message Board to add message for Nina
+Alexa ask Message Board to read message for Nina
+Alexa ask Message Board to erase message for Nina
+Alexa, disable message board

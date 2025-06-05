@@ -1,0 +1,4 @@
+Alexa, open red intruder
+Alexa, ask red intruder for my fortune
+Alexa, start red intruder
+Alexa, disable red intruder

@@ -1,0 +1,7 @@
+Alexa, open mila
+Alexa, tell Mila to pause/resume in the kitchen.
+Alexa, ask Mila to set Whitenoise Mode in the baby room.
+Alexa, set the fan speed to Minimum on the Bedroom Mila
+Alexa, what's the temperature in the nursery?
+Alexa, tell Mila to pause
+Alexa, disable mila

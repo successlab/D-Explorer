@@ -1,0 +1,3 @@
+Alexa, open holiday counter
+Alexa, start holiday counter
+Alexa, disable holiday counter

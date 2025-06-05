@@ -1,0 +1,4 @@
+Alexa, open american cancer society
+Alexa, ask American Cancer Society about lung cancer
+Alexa, start American Cancer Society
+Alexa, disable american cancer society

@@ -1,0 +1,5 @@
+Alexa, open kenra color
+Alexa, ask Kenra Color what is the processing time for Kenra Permanent
+Alexa, ask Kenra Color what is the mixing ratio for Demi Permanent
+Alexa, ask Kenra Color what is the color conversion for redken five n
+Alexa, disable kenra color

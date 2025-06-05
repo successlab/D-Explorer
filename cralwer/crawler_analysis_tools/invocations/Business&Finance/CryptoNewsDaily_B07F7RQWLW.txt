@@ -1,0 +1,4 @@
+Alexa, open crypto news
+Alexa, Launch Crypto News
+Alexa, Crypto News
+Alexa, disable crypto news

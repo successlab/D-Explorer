@@ -1,0 +1,7 @@
+Alexa, open travel report
+Alexa, ask Travel Report how long will it take to get from {Point A} to {Point B}?
+Alexa, ask Travel Report how long will it take from Richmond Virginia to McLean Virginia?
+Alexa, ask Travel Report how is it from 7900 Westpark Drive, Virginia to Tysons Mall, Virginia?
+Alexa, open Travel Report. How long will it take to get from Washington D.C. to Pittsburgh?
+how long will it take to get from Washington D.C. to Pittsburgh?
+Alexa, disable travel report

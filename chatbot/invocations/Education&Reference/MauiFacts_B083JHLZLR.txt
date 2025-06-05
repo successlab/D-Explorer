@@ -1,0 +1,4 @@
+Alexa, open maui facts
+Tell me a Maui Fact
+Educate me
+Alexa, disable maui facts

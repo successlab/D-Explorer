@@ -1,0 +1,7 @@
+Alexa, open my washer
+Alexa, turn on Washer
+Alexa, turn off Washer
+Alexa, start My Washer
+Alexa, tell my Washer to run with Cotton Eco and be finished in five hours
+Alexa, ask My Washer when the laundry will be ready
+Alexa, disable my washer

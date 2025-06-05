@@ -1,0 +1,5 @@
+Alexa, open movie buff
+Alexa, ask Movie Buff which movie should I watch
+Alexa, tell Movie Buff to tell me a good movie
+Alexa, ask Movie Buff for a movie
+Alexa, disable movie buff

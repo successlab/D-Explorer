@@ -1,0 +1,4 @@
+Alexa, open thinking of you
+Alexa, stop
+Alexa, start thinking of you
+Alexa, disable thinking of you

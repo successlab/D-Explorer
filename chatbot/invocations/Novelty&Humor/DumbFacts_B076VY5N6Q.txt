@@ -1,0 +1,3 @@
+Alexa, open dumb facts
+Alexa, ask Dumb Facts for a fact
+Alexa, disable dumb facts

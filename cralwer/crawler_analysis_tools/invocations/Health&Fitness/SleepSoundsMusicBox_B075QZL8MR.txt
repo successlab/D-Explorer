@@ -1,0 +1,6 @@
+Alexa, open music box
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Music Box
+Alexa, launch Music Box
+Alexa, disable music box

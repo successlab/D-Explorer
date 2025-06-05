@@ -1,0 +1,5 @@
+Alexa, open m. b. home
+Alexa, ask m. b. home to change the player
+Alexa, ask m. b. home to play a few songs
+Alexa, ask m. b. home to suggest a movie
+Alexa, disable m. b. home

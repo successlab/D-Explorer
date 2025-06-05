@@ -1,0 +1,4 @@
+Alexa, open shout media radio
+Alexa, start shout media radio
+Alexa, play shout media radio
+Alexa, disable shout media radio

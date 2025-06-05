@@ -1,0 +1,4 @@
+Alexa, open good times radio
+Alexa, start good times radio
+Alexa, play good times radio
+Alexa, disable good times radio

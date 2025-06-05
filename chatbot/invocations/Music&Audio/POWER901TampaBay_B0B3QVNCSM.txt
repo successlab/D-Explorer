@@ -1,0 +1,4 @@
+Alexa, open power ninety point one
+Alexa, ask power ninety point one what's playing.
+Alexa, ask power ninety point one to play live.
+Alexa, disable power ninety point one

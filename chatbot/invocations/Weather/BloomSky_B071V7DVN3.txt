@@ -1,0 +1,6 @@
+Alexa, open bloom sky
+Alexa, ask Bloom Sky for
+Alexa, ask Bloom Sky for temperature
+Alexa, ask Bloom Sky for humidity
+Alexa, ask Bloom Sky for air pressure
+Alexa, disable bloom sky

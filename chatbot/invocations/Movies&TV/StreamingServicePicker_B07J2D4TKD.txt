@@ -1,0 +1,5 @@
+Alexa, open streaming service picker
+Alexa ask streaming service picker to find me a streaming service to watch today
+Can you pick a streaming service I can watch today
+Choose a streaming service for me to watch today
+Alexa, disable streaming service picker

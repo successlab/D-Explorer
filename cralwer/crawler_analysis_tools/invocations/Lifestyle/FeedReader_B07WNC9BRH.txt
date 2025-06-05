@@ -1,0 +1,4 @@
+Alexa, open feed reader
+Alexa tell feed reader to play favorites
+Alexa ask feed reader to get categories
+Alexa, disable feed reader

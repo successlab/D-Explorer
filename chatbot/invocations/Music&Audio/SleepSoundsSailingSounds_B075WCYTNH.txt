@@ -1,0 +1,6 @@
+Alexa, open sailing sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Sailing Sounds
+Alexa, launch Sailing Sounds
+Alexa, disable sailing sounds

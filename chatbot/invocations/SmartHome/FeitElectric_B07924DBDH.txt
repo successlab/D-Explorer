@@ -1,0 +1,5 @@
+Alexa, discover my devices
+Alexa, turn on bedroom light
+Alexa, set bedroom light to blue
+Alexa, dim bedroom light
+Alexa, disable FeitElectric

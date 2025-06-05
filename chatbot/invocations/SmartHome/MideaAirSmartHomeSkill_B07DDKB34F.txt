@@ -1,0 +1,4 @@
+Alexa, Turn on living room
+Alexa, Turn off living room
+Alexa, set living room to 70 degrees
+Alexa, disable MideaAirSmartHomeSkill

@@ -1,0 +1,5 @@
+Alexa, open charge status
+Alexa, ask Charge Status what is the battery level on my phone?
+Alexa, ask Charge Status is my computer plugged in?
+Alexa, ask Charge Status to report
+Alexa, disable charge status

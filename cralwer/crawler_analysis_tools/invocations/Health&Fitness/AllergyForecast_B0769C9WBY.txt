@@ -1,0 +1,3 @@
+Alexa, open allergy forecast
+Alexa, ask Allergy Forecast to get my allergy forecast
+Alexa, disable allergy forecast

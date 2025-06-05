@@ -1,0 +1,4 @@
+Alexa, open call reminders
+Alexa, launch call reminders
+Alexa, launch call reminders and remind DAD to take out the trash tomorrow at 8am from Sam
+Alexa, disable call reminders

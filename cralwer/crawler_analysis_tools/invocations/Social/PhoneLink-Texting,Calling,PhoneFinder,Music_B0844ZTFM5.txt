@@ -1,0 +1,6 @@
+Alexa, open phone link
+Alexa, what did I miss?
+Alexa, ask Phone Link to find my phone.
+Alexa, ask Phone Link to text Jane Doe.
+Alexa, ask Phone Link to play my Classic Rock playlist.
+Alexa, disable phone link

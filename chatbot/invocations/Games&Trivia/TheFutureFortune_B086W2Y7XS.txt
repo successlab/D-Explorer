@@ -1,0 +1,4 @@
+Alexa, open the future fourtune
+Alexa, ask the future fourtune for my fortune
+Alexa, start the future fourtune
+Alexa, disable the future fourtune

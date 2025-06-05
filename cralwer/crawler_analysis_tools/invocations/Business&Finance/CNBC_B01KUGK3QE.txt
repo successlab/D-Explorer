@@ -1,0 +1,5 @@
+Alexa, open cnbc
+Alexa, ask CNBC When is the next earnings date for Comcast
+Alexa, ask CNBC how are the markets doing.
+Alexa, ask CNBC for the price of Comcast
+Alexa, disable cnbc

@@ -1,0 +1,4 @@
+Alexa, open healing session
+Alexa, start Healing Session
+Alexa, launch Healing Session
+Alexa, disable healing session

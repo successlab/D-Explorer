@@ -1,0 +1,3 @@
+Alexa, open baby song
+Alexa, play Baby Song
+Alexa, disable baby song

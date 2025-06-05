@@ -1,0 +1,4 @@
+Alexa, open sports quiz
+Alexa, start Sports Quiz
+Alexa, play Sports Quiz
+Alexa, disable sports quiz

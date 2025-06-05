@@ -1,0 +1,6 @@
+Alexa, open business stories
+Alexa, next
+Alexa, stop
+Alexa, start business stories
+Alexa, ask business stories for a fact
+Alexa, disable business stories

@@ -1,0 +1,3 @@
+Alexa, unlock the front door
+Alexa, is the front door locked?
+Alexa, disable LevelHome

@@ -1,0 +1,2 @@
+Alexa, open learning library
+Alexa, disable learning library

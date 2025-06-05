@@ -1,0 +1,5 @@
+Alexa, open quick remote
+Alexa, ask Quick Remote to pause
+Alexa, ask Quick Remote to start Netflix and wait
+Alexa, ask Quick Remote to go home, right, down and select
+Alexa, disable quick remote

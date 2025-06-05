@@ -1,0 +1,3 @@
+Alexa, open wasp radio
+Alexa play WASP Radio
+Alexa, disable wasp radio

@@ -1,0 +1,4 @@
+Alexa, open sleep sounds brown noise
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds brown noise

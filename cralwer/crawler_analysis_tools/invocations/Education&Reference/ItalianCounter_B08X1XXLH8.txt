@@ -1,0 +1,5 @@
+Alexa, open italian counter
+Alexa, launch Italian Counter!
+Alexa open Italian Counter.
+Alexa launch Italian Counter.
+Alexa, disable italian counter

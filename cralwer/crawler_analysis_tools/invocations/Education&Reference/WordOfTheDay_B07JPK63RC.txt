@@ -1,0 +1,2 @@
+Alexa, open today's word of the day
+Alexa, disable today's word of the day

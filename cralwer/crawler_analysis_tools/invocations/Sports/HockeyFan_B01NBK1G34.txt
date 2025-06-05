@@ -1,0 +1,5 @@
+Alexa, open hockey team
+Alexa ask hockey team for Kings
+Alexa ask hockey team for plays boston bruins
+Alexa ask hockey team for events Jets
+Alexa, disable hockey team

@@ -1,0 +1,4 @@
+Alexa, open civic action network
+Alexa, tell Civic Action Network to tell me the latest bill
+Alexa, tell Civic Action Network to tell me the last survey
+Alexa, disable civic action network

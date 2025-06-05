@@ -1,0 +1,3 @@
+Alexa, open trash time
+Alexa, ask trash time who should take out the trash
+Alexa, disable trash time

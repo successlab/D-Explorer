@@ -1,0 +1,4 @@
+Alexa, open tejutepeque radio
+Alexa, iniciar tejutepeque radio
+Alexa, reproducir tejutepeque radio
+Alexa, disable tejutepeque radio

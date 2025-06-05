@@ -1,0 +1,4 @@
+Alexa, open good or bad
+Are biscuits bad?
+Is apple good?
+Alexa, disable good or bad

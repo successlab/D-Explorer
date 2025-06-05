@@ -1,0 +1,4 @@
+Alexa, open northstar california
+Alexa, ask Northstar California for the snow report
+Alexa, ask Northstar California for latest conditions
+Alexa, disable northstar california

@@ -1,0 +1,4 @@
+Alexa, turn on the boiler
+Alexa, turn off the pool pump
+Alexa, turn on the kitchen lights
+Alexa, disable SolarEdgeSmartHome

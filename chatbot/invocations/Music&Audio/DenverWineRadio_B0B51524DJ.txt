@@ -1,0 +1,4 @@
+Alexa, open denver wine radio
+Alexa, start denver wine radio
+Alexa, ask denver wine radio what's playing
+Alexa, disable denver wine radio

@@ -1,0 +1,2 @@
+Alexa, open pizza baker
+Alexa, disable pizza baker

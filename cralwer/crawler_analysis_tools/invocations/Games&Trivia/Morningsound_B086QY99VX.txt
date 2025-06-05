@@ -1,0 +1,5 @@
+Alexa, open morning sound
+Alexa, activate premium
+Alexa, pause
+Alexa, resume
+Alexa, disable morning sound

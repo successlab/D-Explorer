@@ -1,0 +1,5 @@
+Alexa, open un volado
+Alexa, lanza unvolado
+Alexa, abre unvolado
+Alexa, pregunta unvolado
+Alexa, disable un volado

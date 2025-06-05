@@ -1,0 +1,5 @@
+Alexa, open s. d. g. e.
+Alexa ask SDGE for today's forecast
+Alexa ask SDGE to show me the closest weather camera
+Alexa ask SDGE for the fire risk
+Alexa, disable s. d. g. e.

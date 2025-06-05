@@ -1,0 +1,2 @@
+Alexa, open silent bee
+Alexa, disable silent bee

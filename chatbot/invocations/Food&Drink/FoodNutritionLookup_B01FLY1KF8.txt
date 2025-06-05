@@ -1,0 +1,5 @@
+Alexa, open nutri lookup
+Alexa, ask Nutri Lookup about apples raw
+Alexa, ask Nutri Lookup about butter salted from dairy products
+Alexa, ask Nutri Lookup how many calories are in oranges
+Alexa, disable nutri lookup

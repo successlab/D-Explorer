@@ -1,0 +1,3 @@
+Alexa, open trivia de capitales
+Alexa, abre trivia de capitales
+Alexa, disable trivia de capitales

@@ -1,0 +1,6 @@
+Alexa, open the living room blinds.
+Alexa, close the bedroom blinds.
+Alexa, open the living room blinds
+Alexa, close the bedroom blinds
+Alexa, set kitchen blinds to fifty percent
+Alexa, disable Sunsa

@@ -1,0 +1,5 @@
+Alexa, open t. v. installer
+Alexa, Ask t. v. installer what size TV should I buy
+Alexa, Ask t. v. installer what type of TV mount should I buy
+Alexa, Ask t. v. installer what is the correct mounting height for my TV
+Alexa, disable t. v. installer

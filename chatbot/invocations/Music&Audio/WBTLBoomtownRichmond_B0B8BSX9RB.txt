@@ -1,0 +1,5 @@
+Alexa, open boomtown richmond
+Alexa, enable Boomtown Richmond skill
+Alexa, launch Boomtown Richmond
+Alexa, play Boomtown Richmond
+Alexa, disable boomtown richmond

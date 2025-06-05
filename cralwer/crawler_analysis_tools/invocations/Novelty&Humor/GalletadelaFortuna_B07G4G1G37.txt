@@ -1,0 +1,3 @@
+Alexa, open una galleta de la fortuna
+Alexa, abre una galleta de la fortuna.
+Alexa, disable una galleta de la fortuna

@@ -1,0 +1,3 @@
+Alexa, open wwe trivia
+Alexa launch WWE Trivia
+Alexa, disable wwe trivia

@@ -1,0 +1,4 @@
+Alexa, open my day
+Alexa, ask my day to motivate me
+Alexa, open my day and motivate me
+Alexa, disable my day

@@ -1,0 +1,5 @@
+Alexa, open quotation mark
+Alexa, next
+Alexa, stop
+Alexa, start quotation mark
+Alexa, disable quotation mark

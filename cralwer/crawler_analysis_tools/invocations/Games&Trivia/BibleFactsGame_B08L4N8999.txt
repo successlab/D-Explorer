@@ -1,0 +1,6 @@
+Alexa, open bible facts
+Alexa, launch Bible Facts
+Alexa, stop
+Alexa ask Bible facts for a fact
+Alexa tell Bible facts to tell me trivia
+Alexa, disable bible facts

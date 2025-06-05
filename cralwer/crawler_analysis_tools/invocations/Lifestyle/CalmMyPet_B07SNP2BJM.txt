@@ -1,0 +1,6 @@
+Alexa, open calm my pet
+Alexa, stop
+Alexa, play calm my pet
+Alexa, ask calm my pet to forward
+Alexa, ask calm my pet to play
+Alexa, disable calm my pet

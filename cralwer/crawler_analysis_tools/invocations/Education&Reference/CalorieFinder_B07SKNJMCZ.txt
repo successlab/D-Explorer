@@ -1,0 +1,3 @@
+Alexa, open calorie finder
+Alexa, start calorie finder
+Alexa, disable calorie finder

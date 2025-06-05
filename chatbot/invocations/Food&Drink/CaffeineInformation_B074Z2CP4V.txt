@@ -1,0 +1,6 @@
+Alexa, open caffeine information
+Alexa, ask Caffeine Information for the amount of caffeine in a Red Bull?
+Alexa, ask Caffeine Information How much caffeine is in Diet Coke.
+Alexa, ask Caffeine Information for the amount of caffeine in a Red Bull.
+Alexa, ask Caffeine Information for the amount of caffeine in 5 hour energy.
+Alexa, disable caffeine information

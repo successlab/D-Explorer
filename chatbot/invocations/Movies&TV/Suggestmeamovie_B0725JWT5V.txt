@@ -1,0 +1,6 @@
+Alexa, open suggest me a movie
+Alexa, suggest me a movie.
+Alexa, suggest me a movie
+suggest me a cool movie
+something else
+Alexa, disable suggest me a movie

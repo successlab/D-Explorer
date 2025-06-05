@@ -1,0 +1,4 @@
+Alexa, open symptom checker
+Alexa, ask symptom checker do I have sleep apnea
+Alexa ask symptom checker about anxiety disorder
+Alexa, disable symptom checker

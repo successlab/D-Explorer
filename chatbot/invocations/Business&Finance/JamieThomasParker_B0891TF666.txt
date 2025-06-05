@@ -1,0 +1,11 @@
+Alexa, open doctor jamie parker
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask doctor jamie parker for the latest talk
+Alexa, start doctor jamie parker
+Alexa, disable doctor jamie parker

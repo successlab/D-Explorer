@@ -1,0 +1,4 @@
+Alexa, open voicify
+Alexa, ask voicify who is the ceo
+Alexa, ask voicify what's new in voice
+Alexa, disable voicify

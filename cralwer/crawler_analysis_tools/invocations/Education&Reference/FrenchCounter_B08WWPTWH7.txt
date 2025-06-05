@@ -1,0 +1,5 @@
+Alexa, open french counter
+Alexa, launch French Counter!
+Alexa, open French Counter.
+Alexa, launch French Counter.
+Alexa, disable french counter

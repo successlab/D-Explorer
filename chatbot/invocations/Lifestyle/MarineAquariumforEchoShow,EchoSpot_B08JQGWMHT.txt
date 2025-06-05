@@ -1,0 +1,3 @@
+Alexa, open marine aquarium
+Alexa, play Marine Aquarium
+Alexa, disable marine aquarium

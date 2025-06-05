@@ -1,0 +1,3 @@
+Alexa, open written text
+Alexa, launch written text
+Alexa, disable written text

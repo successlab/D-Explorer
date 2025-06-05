@@ -1,0 +1,4 @@
+Alexa, open camelback mountain
+Alexa, ask Camelback Mountain for the snow report
+Alexa, ask Camelback Mountain for latest conditions
+Alexa, disable camelback mountain

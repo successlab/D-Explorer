@@ -1,0 +1,4 @@
+Alexa, turn on my living room lights.
+Alexa, lock my front door.
+Alexa, set my thermostat to 67 degrees.
+Alexa, disable VirtualKeypad

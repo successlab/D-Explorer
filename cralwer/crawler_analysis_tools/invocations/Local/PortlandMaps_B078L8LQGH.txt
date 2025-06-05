@@ -1,0 +1,5 @@
+Alexa, open portland maps
+Alexa, ask Portland Maps if this is garbage pick-up week
+Alexa, ask Portland Maps about the curbside schedule
+Alexa, ask Portland Maps if I can recycle wine bottles
+Alexa, disable portland maps

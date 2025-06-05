@@ -1,0 +1,5 @@
+Alexa, open radio el shaddai
+Alexa, Abre radio el shaddai
+Alexa, Inicia radio el shaddai
+Alexa, Reproduce radio el shaddai
+Alexa, disable radio el shaddai

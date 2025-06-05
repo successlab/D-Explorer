@@ -1,0 +1,4 @@
+Alexa, open vegetarian dinner food
+Alexa, ask vegetarian dinner food what should I have for dinner
+ask vegetarian dinner food what should I eat for dinner
+Alexa, disable vegetarian dinner food

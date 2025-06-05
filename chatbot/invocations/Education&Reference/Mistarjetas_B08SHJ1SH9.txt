@@ -1,0 +1,6 @@
+Alexa, open mis tarjetas
+Alexa, modo de revisión
+Alexa, modo de examen
+Alexa, siguiente
+Alexa, abre mis tarjetas
+Alexa, disable mis tarjetas

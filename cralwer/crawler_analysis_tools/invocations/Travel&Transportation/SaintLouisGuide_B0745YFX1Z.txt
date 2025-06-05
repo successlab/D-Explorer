@@ -1,0 +1,4 @@
+Alexa, open saint louis guide
+Alexa, Launch Saint Louis Guide and tell me local weather
+Alexa, Start Saint Louis Guide and tell me a good attraction
+Alexa, disable saint louis guide

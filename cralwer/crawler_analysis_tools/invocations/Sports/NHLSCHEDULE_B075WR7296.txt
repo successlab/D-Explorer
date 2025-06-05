@@ -1,0 +1,4 @@
+Alexa, open n. h. l. schedule
+Alexa ask n. h. l. schedule when is the next game for the kings
+Is there a game on October 10th
+Alexa, disable n. h. l. schedule

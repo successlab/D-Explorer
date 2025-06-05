@@ -1,0 +1,4 @@
+Alexa, open division game
+Alexa, start Division Game
+help
+Alexa, disable division game

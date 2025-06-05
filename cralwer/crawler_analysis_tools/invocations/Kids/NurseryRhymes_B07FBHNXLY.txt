@@ -1,0 +1,4 @@
+Alexa, open nursery rhymes
+Play Johnny Johnny
+Play Baa Baa Black Sheep
+Alexa, disable nursery rhymes

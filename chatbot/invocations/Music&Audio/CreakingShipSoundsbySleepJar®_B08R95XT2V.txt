@@ -1,0 +1,9 @@
+Alexa, open creaking ship sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Creaking Ship Sounds to turn on Background Mode
+Alexa, ask Creaking Ship Sounds to turn Background Mode off
+Alexa, start Creaking Ship Sounds
+Alexa, launch Creaking Ship Sounds
+Alexa, disable creaking ship sounds

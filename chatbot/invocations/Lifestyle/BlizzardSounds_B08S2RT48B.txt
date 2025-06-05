@@ -1,0 +1,4 @@
+Alexa, open blizzard sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable blizzard sounds

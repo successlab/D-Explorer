@@ -1,0 +1,5 @@
+Alexa, open house cup
+Alexa, launch House Cup
+Alexa, ask House Cup what are the house standings?
+Alexa, tell House Cup to add five points to Hufflepuff!
+Alexa, disable house cup

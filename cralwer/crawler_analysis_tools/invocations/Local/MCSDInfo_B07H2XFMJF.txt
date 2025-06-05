@@ -1,0 +1,5 @@
+Alexa, open my school
+Alexa, ask my school what cycle day it is
+Alexa, ask my school what cycle day will it be on Tuesday
+Alexa, ask my school when is the next holiday
+Alexa, disable my school

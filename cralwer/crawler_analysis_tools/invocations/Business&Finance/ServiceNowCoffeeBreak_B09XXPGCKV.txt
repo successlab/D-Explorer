@@ -1,0 +1,3 @@
+Alexa, open coffee break
+Alexa, start coffee break
+Alexa, disable coffee break

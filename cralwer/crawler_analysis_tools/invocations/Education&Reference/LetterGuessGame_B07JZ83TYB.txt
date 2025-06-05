@@ -1,0 +1,4 @@
+Alexa, open letter guess game
+Alexa start letter guess game
+Alexa ask letter guess game
+Alexa, disable letter guess game

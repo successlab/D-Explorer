@@ -1,0 +1,5 @@
+Alexa, open harmony
+Alexa, ask Harmony to pause
+Alexa, tell Harmony to turn on Netflix
+Alexa, tell Harmony to turn on the TV
+Alexa, disable harmony

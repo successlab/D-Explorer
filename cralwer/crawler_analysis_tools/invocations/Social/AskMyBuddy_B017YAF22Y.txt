@@ -1,0 +1,6 @@
+Alexa, open my buddy
+Alexa, Ask My Buddy to check in with yourContact
+Alexa, ask My Buddy to send help
+Alexa, ask My Buddy to check in with everyone.
+Alexa, ask My Buddy to alert James.
+Alexa, disable my buddy

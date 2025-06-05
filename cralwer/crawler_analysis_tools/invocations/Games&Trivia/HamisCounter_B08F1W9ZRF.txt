@@ -1,0 +1,3 @@
+Alexa, open hamis counter
+Alexa, open hamis counter and count from one to ten in spanish
+Alexa, disable hamis counter

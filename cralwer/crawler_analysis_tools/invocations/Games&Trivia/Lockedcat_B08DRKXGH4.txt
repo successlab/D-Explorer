@@ -1,0 +1,4 @@
+Alexa, open locked cat
+help
+new game
+Alexa, disable locked cat

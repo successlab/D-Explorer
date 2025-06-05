@@ -1,0 +1,3 @@
+Alexa, open weather forecast
+Alexa launch weather forecast
+Alexa, disable weather forecast

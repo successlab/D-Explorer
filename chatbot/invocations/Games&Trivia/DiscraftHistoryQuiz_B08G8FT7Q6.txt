@@ -1,0 +1,5 @@
+Alexa, open discraft history quiz
+Alexa, next
+Alexa, stop
+Alexa, start discraft history quiz
+Alexa, disable discraft history quiz

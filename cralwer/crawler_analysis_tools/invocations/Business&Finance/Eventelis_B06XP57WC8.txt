@@ -1,0 +1,2 @@
+Alexa, open my events
+Alexa, disable my events

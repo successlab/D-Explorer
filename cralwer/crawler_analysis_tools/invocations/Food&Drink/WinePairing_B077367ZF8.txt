@@ -1,0 +1,5 @@
+Alexa, open wine pairing
+Alexa, ask wine pairing which wine goes best with lamb
+Alexa, ask wine pairing for a wine to go with chili
+Alexa, ask wine pairing for a good Riesling
+Alexa, disable wine pairing

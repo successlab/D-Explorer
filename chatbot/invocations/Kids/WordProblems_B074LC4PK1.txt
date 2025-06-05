@@ -1,0 +1,5 @@
+Alexa, open word problems
+Alexa, Ask Word Problems to ask a problem
+Repeat
+What is the correct answer
+Alexa, disable word problems

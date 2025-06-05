@@ -1,0 +1,4 @@
+Alexa, open presidio bus
+Alexa, ask Presidio bus
+Alex, begin Presidio bus
+Alexa, disable presidio bus

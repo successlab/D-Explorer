@@ -1,0 +1,4 @@
+Alexa, open bamboo flute
+Alexa, Start Bamboo Flute
+Alexa, Play Bamboo Flute
+Alexa, disable bamboo flute

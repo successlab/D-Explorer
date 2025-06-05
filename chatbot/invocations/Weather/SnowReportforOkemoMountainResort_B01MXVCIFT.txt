@@ -1,0 +1,4 @@
+Alexa, open okemo mountain resort
+Alexa, ask Okemo Mountain Resort for the snow report
+Alexa, ask Okemo Mountain Resort for latest conditions
+Alexa, disable okemo mountain resort

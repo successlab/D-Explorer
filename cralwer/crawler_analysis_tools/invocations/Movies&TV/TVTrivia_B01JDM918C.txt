@@ -1,0 +1,5 @@
+Alexa, open t. v. trivia
+Alexa, ask t. v. trivia to give a tv trivia
+Alexa, ask t. v. trivia for a tv fact
+Alexa, ask t. v. trivia for a television fact
+Alexa, disable t. v. trivia

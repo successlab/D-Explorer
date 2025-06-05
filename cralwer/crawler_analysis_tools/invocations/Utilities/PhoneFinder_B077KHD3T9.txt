@@ -1,0 +1,10 @@
+Alexa, open phone finder
+Alexa, open Phone Finder and search for my phone
+Alexa, ask Phone Finder to find my device
+Alexa, open Phone Finder and add a new device
+Alexa, start Phone Finder and remove my phone
+Alexa, ask Phone Finder for my code
+Alexa, open Phone Finder and give me my PIN
+Alexa, start Phone Finder and add a new device
+Alexa, open Phone Finder and find my tablet
+Alexa, disable phone finder

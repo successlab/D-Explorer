@@ -1,0 +1,5 @@
+Alexa, open deal sniper
+Alexa, ask deal sniper does chipotle have any offers
+Alexa, ask deal sniper are there any coupons for qdoba
+Alexa, ask deal sniper are there any deals at denny's
+Alexa, disable deal sniper

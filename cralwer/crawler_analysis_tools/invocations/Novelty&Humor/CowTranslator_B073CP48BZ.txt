@@ -1,0 +1,5 @@
+Alexa, open cow translator
+Alexa, ask cow translator what does the cow say?
+Alexa, ask cow translator moo moo.
+What does the cow say?
+Alexa, disable cow translator

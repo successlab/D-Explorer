@@ -1,0 +1,5 @@
+Alexa, discover my devices.
+Alexa, set the dining room to 70 degrees.
+Alexa, what is the temperature in bedroom?
+Alexa, set the dining room to auto.
+Alexa, disable MitsubishiElectricUSkumocloud

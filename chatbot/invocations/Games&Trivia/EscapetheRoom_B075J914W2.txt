@@ -1,0 +1,4 @@
+Alexa, open escape the room
+look right
+inspect door
+Alexa, disable escape the room

@@ -1,0 +1,5 @@
+Alexa, open doctor dog
+Alexa, ask doctor dog if my dog can eat apples.
+can my dog eat chocolate?
+will my dog get sick if he eats garlic?
+Alexa, disable doctor dog

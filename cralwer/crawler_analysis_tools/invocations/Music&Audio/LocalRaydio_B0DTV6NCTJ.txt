@@ -1,0 +1,4 @@
+Alexa, open local raydio rocks
+Alexa, ask local raydio rocks what's playing.
+Alexa, ask local raydio rocks to play live.
+Alexa, disable local raydio rocks

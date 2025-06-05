@@ -1,0 +1,4 @@
+Alexa, open evox meditation
+Alexa, ask evox meditation to start today's meditation
+Alexa, ask evox meditation to help me sleep
+Alexa, disable evox meditation

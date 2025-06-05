@@ -1,0 +1,5 @@
+Alexa, open winix
+Alexa, ask WINIX to turn on my purifier
+Alexa, ask WINIX for indoor air quality
+Alexa, ask WINIX to change fan speed to auto
+Alexa, disable winix

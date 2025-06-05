@@ -1,0 +1,4 @@
+Alexa, open big boulder
+Alexa, ask Big Boulder for the snow report
+Alexa, ask Big Boulder for latest conditions
+Alexa, disable big boulder

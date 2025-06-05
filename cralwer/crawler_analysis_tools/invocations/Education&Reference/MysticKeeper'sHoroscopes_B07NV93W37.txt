@@ -1,0 +1,4 @@
+Alexa, open mystic keeper's horoscopes
+Alexa, ask Mystic Keeper's Horoscopes for my fortune
+Alexa, start Mystic Keeper's Horoscopes
+Alexa, disable mystic keeper's horoscopes

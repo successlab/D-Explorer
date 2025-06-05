@@ -1,0 +1,3 @@
+Alexa, open dot light ring
+Alexa, start Dot Light Ring
+Alexa, disable dot light ring

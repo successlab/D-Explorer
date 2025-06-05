@@ -1,0 +1,4 @@
+Alexa, open fruits facts
+Alexa, launch fruits facts
+Alexa, start fruits facts
+Alexa, disable fruits facts

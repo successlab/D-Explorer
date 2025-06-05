@@ -1,0 +1,7 @@
+Alexa, open malayalam christian radio
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, ask malayalam christian radio for the latest talk
+Alexa, start malayalam christian radio
+Alexa, disable malayalam christian radio

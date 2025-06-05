@@ -1,0 +1,5 @@
+Alexa, open bay traffic guru
+Alexa, ask bay traffic guru how is the traffic
+List accidents on 101
+How is 237
+Alexa, disable bay traffic guru

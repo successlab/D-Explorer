@@ -1,0 +1,13 @@
+Alexa, Discover.
+Alexa, show Entrance Camera.
+Alexa, show Living Room.
+Alexa, hide the Living Room.
+Alexa, what's the temperature of Living Room?
+Alexa, turn on Privacy Mode of Living Room.
+Alexa, turn off Privacy Mode of Living Room.
+Alexa, turn on / off Living Room light.
+Alexa, brighten / dim Living Room light.
+Alexa, show the entrance camera
+Alexa, hide the entrance camera
+Alexa, show the indoor camera
+Alexa, disable PanasonicHomeHawk

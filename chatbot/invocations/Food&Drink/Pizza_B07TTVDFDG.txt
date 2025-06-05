@@ -1,0 +1,3 @@
+Alexa, open hey buddy
+Alexa, start Hey buddy
+Alexa, disable hey buddy

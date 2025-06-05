@@ -1,0 +1,5 @@
+Alexa, open monster scanner
+Alexa, ask Monster Scanner to check my bed for monsters.
+Alexa, ask Monster Scanner to start a scan.
+Alexa, ask Monster Scanner to look for monsters.
+Alexa, disable monster scanner

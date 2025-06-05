@@ -1,0 +1,4 @@
+Alexa, turn on the lights
+Alexa, pause Lounge TV
+Alexa, switch input to HDMI 1 on Lounge TV
+Alexa, disable Node-REDSmartHomeControl

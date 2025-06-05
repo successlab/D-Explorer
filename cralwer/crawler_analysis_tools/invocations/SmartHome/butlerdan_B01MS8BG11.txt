@@ -1,0 +1,5 @@
+Alexa, open butler dan
+Alexa tell butler Dan to say hi to John
+Alexa tell butler Dan to welcome James
+Alexa ask butler Dan to say hello to John
+Alexa, disable butler dan

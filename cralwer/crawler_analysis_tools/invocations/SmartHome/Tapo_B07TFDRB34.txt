@@ -1,0 +1,9 @@
+Alexa, turn on my bedroom lamp.
+Alexa, show my baby room camera.
+Alexa, change the brightness of living room light to 50%
+Alexa, show my Baby room camera
+Alexa, turn on my bedroom lamp
+Alexa, change the brightness of living room light to 50%
+Alexa, turn off living room fan
+Alexa, change the brightness of bedroom lamp to 50%
+Alexa, disable Tapo

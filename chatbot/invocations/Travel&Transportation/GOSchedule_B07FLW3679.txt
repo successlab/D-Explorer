@@ -1,0 +1,5 @@
+Alexa, open go schedule
+Alexa, ask GO Schedule when is the next train from Pickering to Union?
+Alexa, ask GO Schedule what is the status of Lakeshore West
+Alexa, ask GO Schedule when is the last train from Union to Whitby on Sunday?
+Alexa, disable go schedule

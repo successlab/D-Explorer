@@ -1,0 +1,4 @@
+Alexa, open funny bone
+Alexa, ask funny bone to tell jokes
+Alexa, ask funny bone to tell me a joke
+Alexa, disable funny bone

@@ -1,0 +1,3 @@
+Alexa, open trivia genius
+Alexa, start trivia genius
+Alexa, disable trivia genius

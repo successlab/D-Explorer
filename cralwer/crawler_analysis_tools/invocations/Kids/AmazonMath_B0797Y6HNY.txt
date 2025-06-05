@@ -1,0 +1,5 @@
+Alexa, open amazon math
+Alexa, start Amazon Math.
+Alexa, practice addition with Amazon Math.
+Alexa, start counting with Amazon Math.
+Alexa, disable amazon math

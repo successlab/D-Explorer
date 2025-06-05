@@ -1,0 +1,4 @@
+Alexa, open p. s. a. t. word of the day
+tell me a word
+a word
+Alexa, disable p. s. a. t. word of the day

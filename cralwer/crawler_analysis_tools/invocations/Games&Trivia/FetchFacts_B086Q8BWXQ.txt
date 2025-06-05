@@ -1,0 +1,3 @@
+Alexa, open fetch facts
+Alexa, start fetch facts
+Alexa, disable fetch facts

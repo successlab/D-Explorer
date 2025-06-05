@@ -1,0 +1,5 @@
+Alexa, open rhyme finder
+Alexa, open Rhyme Finder.
+Give me a rhyme for Peanut.
+Find a three syllable near rhyme for Peanut.
+Alexa, disable rhyme finder

@@ -1,0 +1,5 @@
+Alexa, open count down timer
+Alexa, Ask count down timer to start
+Alexa, Ask count down timer to start count down from 5
+Alexa, Ask count down timer to start count down from 10 to Boom
+Alexa, disable count down timer

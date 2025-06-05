@@ -1,0 +1,4 @@
+Alexa, open flamingo facts
+Alexa, start flamingo facts
+Alexa, launch flamingo facts
+Alexa, disable flamingo facts

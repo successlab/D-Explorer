@@ -1,0 +1,9 @@
+Alexa, open its supernatural
+Alexa, play It’s Supernatural!
+Alexa, pause
+Alexa, resume.
+Alexa, play the previous episode.
+Alexa, ask It’s Supernatural! for the title of this episode.
+Alexa, ask It’s Supernatural! for the date of this episode.
+Alexa, open It's Supernatural
+Alexa, disable its supernatural

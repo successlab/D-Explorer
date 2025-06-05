@@ -1,0 +1,4 @@
+Alexa, open job search
+I want a chef Job
+i am searching for a accountant job
+Alexa, disable job search

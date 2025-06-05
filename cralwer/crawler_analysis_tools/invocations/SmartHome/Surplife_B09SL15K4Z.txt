@@ -1,0 +1,5 @@
+Alexa, Discover Devices
+Alexa, turn on kitchen light
+Alexa, dim living room light
+Alexa, brighten kitchen light by 80 percent
+Alexa, disable Surplife

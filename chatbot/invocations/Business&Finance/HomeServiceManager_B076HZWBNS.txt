@@ -1,0 +1,4 @@
+Alexa, open home service manager
+Alexa, ask Home Service Manager what is the status of my dishwasher claim
+Alexa, tell Home Service Manager my refrigerator is broken
+Alexa, disable home service manager

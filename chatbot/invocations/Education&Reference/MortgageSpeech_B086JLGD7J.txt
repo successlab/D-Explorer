@@ -1,0 +1,3 @@
+Alexa, open mortgage speech
+Alexa, Ask Mortgage Speech to check my loans
+Alexa, disable mortgage speech

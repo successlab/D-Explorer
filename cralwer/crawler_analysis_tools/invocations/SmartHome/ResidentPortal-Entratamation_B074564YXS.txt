@@ -1,0 +1,4 @@
+Alexa, turn on Living Room
+Alexa, turn off Living Room
+Alexa, set Thermostat to 75 degrees
+Alexa, disable ResidentPortal-Entratamation

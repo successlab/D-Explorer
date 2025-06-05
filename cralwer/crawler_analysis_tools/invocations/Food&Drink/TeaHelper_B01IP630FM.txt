@@ -1,0 +1,5 @@
+Alexa, open tea helper
+Alexa ask tea helper about green tea
+Alexa ask tea helper how long should I steep black tea
+Alexa ask tea helper to tell me about oolong tea
+Alexa, disable tea helper

@@ -1,0 +1,4 @@
+Alexa, play Sway's Interviews Podcast on Pandora
+Alexa, play Today's Hits on Pandora
+Alexa, play Tom Petty on Pandora
+Alexa, disable Pandora

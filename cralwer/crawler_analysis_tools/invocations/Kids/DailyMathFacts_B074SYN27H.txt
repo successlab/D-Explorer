@@ -1,0 +1,5 @@
+Alexa, open math facts
+Alexa, Ask Math Facts to tell Daily Math Facts
+Alexa, Ask Math Facts to tell Math Facts
+Open Math Facts
+Alexa, disable math facts

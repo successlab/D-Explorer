@@ -1,0 +1,6 @@
+Alexa, open learn black history
+Alexa, next
+Alexa, stop
+Alexa, start learn black history
+Alexa, ask learn black history for a fact
+Alexa, disable learn black history

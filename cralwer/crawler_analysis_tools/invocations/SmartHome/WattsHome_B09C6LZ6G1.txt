@@ -1,0 +1,4 @@
+Alexa, set thermostat to Heat mode.
+Alexa, turn up the Bathroom.
+Alexa, set the Kitchen to 85.
+Alexa, disable WattsHome

@@ -1,0 +1,9 @@
+Alexa, open talk it out
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, previous
+Alexa, next
+Alexa, ask Talk It Out for the latest talk
+Alexa, start Talk It Out
+Alexa, disable talk it out

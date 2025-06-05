@@ -1,0 +1,4 @@
+Alexa, open manhattan gold
+Alexa, ask Manhattan Gold for the price of gold on March 10 1986
+Alexa, ask Manhattan Gold about silver price on yesterday
+Alexa, disable manhattan gold

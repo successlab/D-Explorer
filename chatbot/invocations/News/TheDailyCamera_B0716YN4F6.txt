@@ -1,0 +1,5 @@
+Alexa, open the daily camera
+Alexa, ask The Daily Camera for Top News
+Alexa, ask The Daily Camera for Business News
+Alexa, ask The Daily Camera for Campus News
+Alexa, disable the daily camera

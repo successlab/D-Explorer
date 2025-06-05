@@ -1,0 +1,3 @@
+Alexa, open plane spotter
+Alexa, ask plane spotter to tell me the closest plane to me
+Alexa, disable plane spotter

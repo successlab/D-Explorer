@@ -1,0 +1,5 @@
+Alexa, show me the doorbell 3
+Alexa, stop
+Alexa, show me the front door
+Alexa, talk to front door
+Alexa, disable Ubox

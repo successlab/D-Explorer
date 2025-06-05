@@ -1,0 +1,5 @@
+Alexa, open touch point radio
+Alexa, start touch point radio
+Alexa, play touch point radio
+Alexa, ask touch point radio what is the current song
+Alexa, disable touch point radio

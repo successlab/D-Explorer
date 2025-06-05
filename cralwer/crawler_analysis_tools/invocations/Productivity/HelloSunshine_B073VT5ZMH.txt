@@ -1,0 +1,4 @@
+Alexa, open hello sunshine
+Ask Hello Sunshine to say hello to Tom
+Ask Hello Sunshine to get me a quote
+Alexa, disable hello sunshine

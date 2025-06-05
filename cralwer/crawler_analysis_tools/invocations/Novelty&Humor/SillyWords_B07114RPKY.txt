@@ -1,0 +1,4 @@
+Alexa, open silly words
+Alexa, ask Silly Words to say some silly words
+Alexa, tell Silly Words to say 10 silly words
+Alexa, disable silly words

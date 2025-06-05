@@ -1,0 +1,5 @@
+Alexa, open magical messages
+Alexa, tell me a magical message from Magical Messages
+Alexa, can I have a magical message from Magical Messages
+Give me a message from Magical Messages
+Alexa, disable magical messages

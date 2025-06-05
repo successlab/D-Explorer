@@ -1,0 +1,6 @@
+Alexa, set bedroom light to green.
+Alexa, set bedroom light to cool white.
+Alexa,turn on the bedroom light
+Alexa,turn off the bedroom light
+Alexa,set the bedroom light to fifty percent
+Alexa, disable BrilliantSmart

@@ -1,0 +1,5 @@
+Alexa, open on shape
+Alexa ask Onshape for the version
+Alexa ask Onshape what is the status
+Alexa ask Onshape help on Sketching
+Alexa, disable on shape

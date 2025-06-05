@@ -1,0 +1,4 @@
+Alexa,show me the Camera.
+Alexa, talk to name
+Alexa，show me name
+Alexa, disable Heimcloud

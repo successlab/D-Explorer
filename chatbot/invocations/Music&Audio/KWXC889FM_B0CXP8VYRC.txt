@@ -1,0 +1,5 @@
+Alexa, open k. w. x. c. radio
+Alexa, play KWXC Radio
+Alexa, open KWXC Radio
+Alexa, start KWXC Radio
+Alexa, disable k. w. x. c. radio

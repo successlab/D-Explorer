@@ -1,0 +1,5 @@
+Alexa, open resist events
+Alexa, use Resist Events to find next event near me
+Find the next rally within 20 miles of Washington, DC
+Find the nearest event to Boston, Massachusetts after May 15
+Alexa, disable resist events

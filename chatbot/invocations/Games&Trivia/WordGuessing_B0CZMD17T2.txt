@@ -1,0 +1,4 @@
+Alexa, open word guessing
+Alexa play word guessing
+Alexa run word guessing
+Alexa, disable word guessing

@@ -1,0 +1,4 @@
+Alexa, turn on living room.
+Alexa, what's the temperature in the kids room?
+Alexa, turn on leaving home.
+Alexa, disable ACCloudControl

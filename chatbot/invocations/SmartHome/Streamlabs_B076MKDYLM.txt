@@ -1,0 +1,5 @@
+Alexa, open stream labs
+Alexa, tell Streamlabs I'm going away.
+Alexa, tell Streamlabs I'm home.
+Alexa, tell Streamlabs to put my monitor at city in away mode.
+Alexa, disable stream labs

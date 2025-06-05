@@ -1,0 +1,5 @@
+Alexa, open amazing facts
+Alexa tell me a fact from amazing facts
+Alexa tell me something from amazing facts
+Alexa Give me something from amazing facts
+Alexa, disable amazing facts

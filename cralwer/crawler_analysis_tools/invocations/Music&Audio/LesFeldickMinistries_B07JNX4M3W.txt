@@ -1,0 +1,4 @@
+Alexa, open les feldick
+Alexa, pause
+Alexa, resume
+Alexa, disable les feldick

@@ -1,0 +1,7 @@
+Alexa, open random facts
+Alexa, launch Space Facts
+Alexa, open Space Facts
+Alexa, stop
+Alexa ask random facts for a fact
+Alexa tell random facts to tell me trivia
+Alexa, disable random facts

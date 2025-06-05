@@ -1,0 +1,3 @@
+Alexa, open monitor del aire
+Alexa, abre monitor del aire
+Alexa, disable monitor del aire

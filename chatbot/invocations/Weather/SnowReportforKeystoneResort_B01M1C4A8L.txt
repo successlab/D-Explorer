@@ -1,0 +1,4 @@
+Alexa, open keystone resort
+Alexa, ask Keystone Resort for the snow report
+Alexa, ask Keystone Resort for latest conditions
+Alexa, disable keystone resort

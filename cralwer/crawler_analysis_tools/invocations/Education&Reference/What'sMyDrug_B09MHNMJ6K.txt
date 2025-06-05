@@ -1,0 +1,4 @@
+Alexa, open what's my drug
+alexa launch what's my drug
+alexa start what's my drug
+Alexa, disable what's my drug

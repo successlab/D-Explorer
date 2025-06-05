@@ -1,0 +1,5 @@
+Alexa, open gator football
+Alexa, ask Gator Football to tell me a fact
+Alexa, ask Gator Football to tell me a football fact
+Alexa, ask Gator Football to tell me something
+Alexa, disable gator football

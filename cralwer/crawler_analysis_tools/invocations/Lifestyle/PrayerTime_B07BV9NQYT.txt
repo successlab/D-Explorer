@@ -1,0 +1,4 @@
+Alexa, open prayer time
+Alexa, Ask Prayer Time, When is Fajr?
+Alexa, Ask Prayer Time, When is the next Prayer?
+Alexa, disable prayer time

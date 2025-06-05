@@ -1,0 +1,4 @@
+Alexa, open monarch mountain
+Alexa, ask Monarch Mountain for the snow report
+Alexa, ask Monarch Mountain for latest conditions
+Alexa, disable monarch mountain

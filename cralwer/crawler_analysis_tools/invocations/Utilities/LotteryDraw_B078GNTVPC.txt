@@ -1,0 +1,5 @@
+Alexa, open lottery draw
+Alexa start lottery draw and give me 5 out of 69
+New draw
+6 out of 49
+Alexa, disable lottery draw

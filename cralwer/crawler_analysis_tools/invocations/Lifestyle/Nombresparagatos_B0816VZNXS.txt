@@ -1,0 +1,4 @@
+Alexa, open nombres para gatos
+Alexa, abre nombres para gatos
+Alexa, inicia nombres para gatos
+Alexa, disable nombres para gatos

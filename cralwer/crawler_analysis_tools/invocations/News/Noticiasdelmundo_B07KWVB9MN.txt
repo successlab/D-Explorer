@@ -1,0 +1,3 @@
+Alexa, open noticias del mundo
+Alexa, abre Noticias del mundo
+Alexa, disable noticias del mundo

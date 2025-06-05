@@ -1,0 +1,4 @@
+Alexa, open treasure chest
+ask treasure chest Tell me something new
+ask treasure chest Tell me Interesting facts
+Alexa, disable treasure chest

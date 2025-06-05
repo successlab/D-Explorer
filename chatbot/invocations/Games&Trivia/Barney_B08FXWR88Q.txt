@@ -1,0 +1,3 @@
+Alexa, open barney game
+Alexa, start barney game
+Alexa, disable barney game

@@ -1,0 +1,3 @@
+Alexa, open city quotes
+Alexa, launch City Quotes
+Alexa, disable city quotes

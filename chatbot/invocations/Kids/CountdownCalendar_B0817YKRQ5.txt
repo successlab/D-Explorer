@@ -1,0 +1,3 @@
+Alexa, open countdown calendar
+Alexa, start Countdown Calendar
+Alexa, disable countdown calendar

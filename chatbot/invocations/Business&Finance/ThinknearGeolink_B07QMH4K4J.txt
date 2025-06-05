@@ -1,0 +1,3 @@
+Alexa, open think near geolink
+Alexa, ask Thinknear Geolink, What is Geolink?
+Alexa, disable think near geolink

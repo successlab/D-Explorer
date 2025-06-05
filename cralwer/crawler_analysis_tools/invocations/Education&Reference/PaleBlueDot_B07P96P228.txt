@@ -1,0 +1,4 @@
+Alexa, open pale blue dot
+Alexa, ask Pale Blue Dot to read a quote from Carl Sagan
+Alexa, ask Pale Blue Dot to give me a quote about space
+Alexa, disable pale blue dot

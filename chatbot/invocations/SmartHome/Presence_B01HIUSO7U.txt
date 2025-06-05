@@ -1,0 +1,16 @@
+Alexa, open presence
+Alexa, ask Presence for help.
+Alexa, ask Presence for the status of my devices.
+Alexa, ask Presence to take my picture.
+Alexa, tell Presence to turn on my lights.
+Alexa, tell Presence to turn off my outlets.
+Alexa, tell Presence to brighten my living room.
+Alexa, tell Presence to dim my lights.
+Alexa, tell Presence to set my office light to 50%.
+Alexa, tell Presence to set my thermostat to cool.
+Alexa, tell Presence to increase my thermostat.
+Alexa, tell Presence to decrease my thermostat.
+Alexa, ask Presence about suggestions.
+Alexa, ask Presence what I can do.
+Alexa, tell Presence to set my lights to thirty percent.
+Alexa, disable presence

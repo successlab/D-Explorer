@@ -1,0 +1,7 @@
+Alexa, open cuál es el número
+Alexa, abre ¿Cuál es el número?
+Alexa, inicia ¿Cuál es el número?
+Alexa, para
+Alexa, abrir cuál es el número
+Alexa, iniciar cuál es el número
+Alexa, disable cuál es el número

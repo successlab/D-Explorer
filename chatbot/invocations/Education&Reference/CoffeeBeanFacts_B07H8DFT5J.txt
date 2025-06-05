@@ -1,0 +1,4 @@
+Alexa, open coffee bean facts
+Alexa, start coffee bean facts
+Alexa, play coffee bean facts
+Alexa, disable coffee bean facts

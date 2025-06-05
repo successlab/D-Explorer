@@ -1,0 +1,5 @@
+Alexa, open pit crew
+Alexa, ask Pit Crew when is the next race
+Alexa, ask Pit Crew who won the last race
+Alexa, ask Pit Crew who is winning
+Alexa, disable pit crew

@@ -1,0 +1,2 @@
+Alexa, open is a task help
+Alexa, disable is a task help

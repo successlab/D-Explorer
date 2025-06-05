@@ -1,0 +1,3 @@
+Alexa, open binary clock
+Alexa, ask Binary Clock what time it is
+Alexa, disable binary clock

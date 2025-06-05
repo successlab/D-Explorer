@@ -1,0 +1,4 @@
+Alexa, open ibiza radio station
+Alexa, play Ibiza Radio Station
+Alexa, start Ibiza Radio Station
+Alexa, disable ibiza radio station

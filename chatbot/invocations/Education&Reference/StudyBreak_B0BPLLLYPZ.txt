@@ -1,0 +1,6 @@
+Alexa, open study break
+Alexa, set study time
+Alexa, set break time
+Alexa, start studying
+Alexa start study break
+Alexa, disable study break

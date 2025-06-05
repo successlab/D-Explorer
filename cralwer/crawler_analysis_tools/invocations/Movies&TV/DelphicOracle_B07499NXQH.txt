@@ -1,0 +1,5 @@
+Alexa, open delphic oracle
+Alexa tell Delphic Oracle to give me a recommendation based on Arctic Monkeys
+Recommend me something if I like the movie Birdman
+Recommend me something based on the show Gotham
+Alexa, disable delphic oracle

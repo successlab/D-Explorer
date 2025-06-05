@@ -1,0 +1,3 @@
+Alexa, open slime flashcard
+Alexa, start slime flashcard
+Alexa, disable slime flashcard

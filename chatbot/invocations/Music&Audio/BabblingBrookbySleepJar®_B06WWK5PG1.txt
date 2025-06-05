@@ -1,0 +1,9 @@
+Alexa, open babbling brook
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Babbling Brook to turn on Background Mode
+Alexa, ask Babbling Brook to turn Background Mode off
+Alexa, start Babbling Brook
+Alexa, launch Babbling Brook
+Alexa, disable babbling brook

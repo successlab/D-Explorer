@@ -1,0 +1,4 @@
+Alexa, open southern bancorp
+Alexa, Ask Southern Bancorp for my balance
+Alexa, Ask Southern Bancorp for my last deposit
+Alexa, disable southern bancorp

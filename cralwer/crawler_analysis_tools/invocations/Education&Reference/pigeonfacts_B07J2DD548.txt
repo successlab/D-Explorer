@@ -1,0 +1,4 @@
+Alexa, open pigeon facts
+Alexa, start pigeon facts
+Alexa, launch pigeon facts
+Alexa, disable pigeon facts

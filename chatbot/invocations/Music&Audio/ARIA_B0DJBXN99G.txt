@@ -1,0 +1,7 @@
+Alexa, open aria classical
+Alexa, play aria classical
+Alexa, ask aria classical what's this song?
+Alexa, stop
+Alexa, ask aria classical what is playing
+Alexa, ask aria classical who's on air now
+Alexa, disable aria classical

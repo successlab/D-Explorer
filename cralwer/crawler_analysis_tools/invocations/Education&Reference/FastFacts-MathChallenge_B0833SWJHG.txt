@@ -1,0 +1,2 @@
+Alexa, open fast facts
+Alexa, disable fast facts

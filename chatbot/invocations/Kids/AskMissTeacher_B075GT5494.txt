@@ -1,0 +1,5 @@
+Alexa, open miss teacher
+Alexa, ask miss teacher what are some farm animals
+Alexa, ask miss teacher what does the cow say
+Alexa, ask miss teacher to count from two to twenty
+Alexa, disable miss teacher

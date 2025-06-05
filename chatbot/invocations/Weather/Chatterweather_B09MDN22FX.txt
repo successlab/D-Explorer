@@ -1,0 +1,4 @@
+Alexa, open chatter weather
+Tell me the weather for Paris
+Tell me the weather for London
+Alexa, disable chatter weather

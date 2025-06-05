@@ -1,0 +1,6 @@
+Alexa, open rain on a tin roof
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Rain On A Tin Roof
+Alexa, launch Rain On A Tin Roof
+Alexa, disable rain on a tin roof

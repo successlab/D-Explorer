@@ -1,0 +1,3 @@
+Alexa, open smart azan
+Alexa, ask smart azan to automate all azans.
+Alexa, disable smart azan

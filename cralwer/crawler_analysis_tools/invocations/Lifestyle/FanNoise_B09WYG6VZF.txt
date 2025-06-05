@@ -1,0 +1,4 @@
+Alexa, open fan noise
+Alexa, pause
+Alexa, resume
+Alexa, disable fan noise

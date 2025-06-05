@@ -1,0 +1,6 @@
+Alexa, open capital transit
+Alexa, ask Capital Transit when is the next train?
+Alexa, ask Capital Transit when the next train arrives at Metro Center
+Alexa, ask Capital Transit for departures from Metro Center
+Alexa, ask Capital Transit are there any delays
+Alexa, disable capital transit

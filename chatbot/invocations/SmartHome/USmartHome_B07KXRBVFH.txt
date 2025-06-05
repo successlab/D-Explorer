@@ -1,0 +1,4 @@
+Alexa, turn on bedroom light
+Alexa, turn on TV
+Alexa, turn off AC
+Alexa, disable USmartHome

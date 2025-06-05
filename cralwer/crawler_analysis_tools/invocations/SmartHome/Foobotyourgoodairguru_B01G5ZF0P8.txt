@@ -1,0 +1,5 @@
+Alexa, open foo bot
+Alexa, ask Foobot how is air quality in my bedroom
+Alexa, ask Foobot how I can improve my particulate matter level
+Alexa, ask Foobot to switch OFF device lights
+Alexa, disable foo bot

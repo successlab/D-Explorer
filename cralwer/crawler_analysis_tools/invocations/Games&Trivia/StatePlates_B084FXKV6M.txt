@@ -1,0 +1,5 @@
+Alexa, open state plates
+Alexa, open State Plates.
+Alexa, tell State Plates I found California.
+Alexa, ask State Plates to tell me about New York.
+Alexa, disable state plates

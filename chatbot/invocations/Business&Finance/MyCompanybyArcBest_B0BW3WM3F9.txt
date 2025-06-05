@@ -1,0 +1,4 @@
+Alexa, open my company
+Alexa, ask My Company what is my vacation balance
+Alexa, ask My Company when is pay day
+Alexa, disable my company

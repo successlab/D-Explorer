@@ -1,0 +1,10 @@
+Alexa, open trend micro
+Alexa, tell Trend Micro to scan my network.
+Alexa, ask Trend Micro if my network is ok.
+Alexa, ask Trend Micro what Tom did today.
+Alexa, ask Trend Micro to pause the Internet for Tom.
+Alexa, ask Trend Micro to turn off YouTube for Tom.
+Alexa, open Trend Micro.
+Alexa, ask Trend Micro if my network is OK.
+Alexa, ask Trend Micro to scan my network.
+Alexa, disable trend micro

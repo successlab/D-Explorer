@@ -1,0 +1,4 @@
+Alexa, open chickasaw radio
+Alexa, ask Chickasaw Radio to play music
+Alexa, ask Chickasaw Radio to play
+Alexa, disable chickasaw radio

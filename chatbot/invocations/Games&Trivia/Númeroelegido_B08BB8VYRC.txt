@@ -1,0 +1,3 @@
+Alexa, open número elegido
+Alexa abre número elegido
+Alexa, disable número elegido

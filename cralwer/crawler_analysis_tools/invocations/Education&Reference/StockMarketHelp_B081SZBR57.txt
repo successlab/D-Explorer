@@ -1,0 +1,4 @@
+Alexa, open stock market help
+Alexa, start Stock Market Help
+Alexa, launch Stock Market Help
+Alexa, disable stock market help

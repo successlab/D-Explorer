@@ -1,0 +1,4 @@
+Alexa, open drop connect
+Alexa, ask DROP Connect to check my water usage
+Alexa, ask DROP Connect to turn my water off
+Alexa, disable drop connect

@@ -1,0 +1,4 @@
+Alexa, open laugh machine
+Alexa, tell Laugh Machine to give me a joke
+Alexa, ask Laugh Machine to tell me a joke
+Alexa, disable laugh machine

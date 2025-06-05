@@ -1,0 +1,4 @@
+Alexa, open animal reading
+Alexa, ask animal reading for my fortune
+Alexa, start animal reading
+Alexa, disable animal reading

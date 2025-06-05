@@ -1,0 +1,5 @@
+Alexa, open magic genie
+Alexa, Ask Magic Genie will it rain today
+Alexa, Ask Magic Genie will I win the lottery
+Alexa, Ask Magic Genie will I catch a fish
+Alexa, disable magic genie

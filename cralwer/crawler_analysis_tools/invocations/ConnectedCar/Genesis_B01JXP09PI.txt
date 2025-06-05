@@ -1,0 +1,5 @@
+Alexa, open genesis
+Alexa, tell Genesis to start my Genesis 90 and set the temperature to 72 degrees.
+Alexa, tell Genesis to lock my Genesis 80.
+Alexa, tell Genesis to flash the lights of my Genesis 90.
+Alexa, disable genesis

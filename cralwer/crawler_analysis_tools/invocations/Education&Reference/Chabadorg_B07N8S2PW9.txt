@@ -1,0 +1,4 @@
+Alexa, open chabad
+Alexa ask Chabad what time is sundown
+Alexa ask Chabad what time is sundown in my location
+Alexa, disable chabad

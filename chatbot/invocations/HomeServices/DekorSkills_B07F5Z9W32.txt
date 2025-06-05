@@ -1,0 +1,5 @@
+Alexa, open dekor
+Alexa, launch Dekor
+Alexa, tell Dekor to turn on the hall light
+Alexa, tell Dekor to turn the garden on for 4 hours
+Alexa, disable dekor

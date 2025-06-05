@@ -1,0 +1,4 @@
+Alexa, open bold balance
+Alexa, ask Bold Balance to check my balance
+Alexa, help me check my balance
+Alexa, disable bold balance

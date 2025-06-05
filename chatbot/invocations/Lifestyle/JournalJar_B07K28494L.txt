@@ -1,0 +1,3 @@
+Alexa, open journal jar
+Alexa, ask Journal Jar for today's prompt
+Alexa, disable journal jar

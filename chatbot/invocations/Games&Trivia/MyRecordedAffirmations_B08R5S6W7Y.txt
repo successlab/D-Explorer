@@ -1,0 +1,4 @@
+Alexa, open my recorded affirmations
+Alexa, start my recorded affirmations
+Alexa, launch my recorded affirmations
+Alexa, disable my recorded affirmations

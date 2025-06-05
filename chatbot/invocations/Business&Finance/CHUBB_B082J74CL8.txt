@@ -1,0 +1,4 @@
+Alexa, open chubb
+Alexa, Ask Chubb when my next bill is due
+Alexa, Ask Chubb about my claims
+Alexa, disable chubb

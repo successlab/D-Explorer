@@ -1,0 +1,5 @@
+Alexa, turn on mamaRoo.
+Alexa, set mamaRoo motion to Kangaroo.
+Alexa, set mamaRoo speed to three
+Alexa, turn off mamaRoo.
+Alexa, disable 4momsMamaRoo

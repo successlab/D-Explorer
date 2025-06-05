@@ -1,0 +1,5 @@
+Alexa, open find my phone
+Alexa, Find My Phone.
+Alexa, ask Find My Phone to add another number.
+Alexa, ask Find My Phone to call Noah.
+Alexa, disable find my phone

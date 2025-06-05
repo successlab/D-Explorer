@@ -1,0 +1,2 @@
+Alexa, open weather warnings
+Alexa, disable weather warnings

@@ -1,0 +1,3 @@
+Alexa, turn on vacuum
+Alexa, turn off vacuum
+Alexa, disable SmartEurekaRobot

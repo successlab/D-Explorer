@@ -1,0 +1,5 @@
+Alexa, open chinese new year
+Alexa, ask Chinese New Year about this year
+Alexa, ask Chinese New Year about Chinese New Year
+Alexa, ask Chinese New Year to tell me about the Ox
+Alexa, disable chinese new year

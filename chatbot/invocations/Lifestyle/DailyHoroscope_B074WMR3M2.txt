@@ -1,0 +1,5 @@
+Alexa, open daily horoscope
+Alexa, ask Daily Horoscope What the Horoscope is for Leo
+Alexa, ask Daily Horoscope Sagittarius
+Alexa, ask Daily Horoscope What is the Daily Horoscope for Gemini
+Alexa, disable daily horoscope

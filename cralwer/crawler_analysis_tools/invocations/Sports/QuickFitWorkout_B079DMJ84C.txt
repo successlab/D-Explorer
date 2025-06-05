@@ -1,0 +1,10 @@
+Alexa, open quick fit workout
+Alexa, show me all commands
+Alexa, hear all commands
+Alexa, tell me the commands
+Alexa, Skip this workout
+Alexa, Skip that workout!
+Alexa, Start Quick Fit Workout
+Alexa, Tell Quick Fit Workout to do Core
+Alexa, Lets do Full Body with Quick Fit Workout
+Alexa, disable quick fit workout

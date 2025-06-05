@@ -1,0 +1,9 @@
+Alexa, open rapid math
+Alexa, open Rapid Math.
+Alexa, play a game.
+Alexa, ask Rapid Math to start an easy game.
+Alexa, review the problems I missed.
+Alexa, show the score.
+Alexa, ask rapid math to play an easy game
+Alexa, ask rapid math for a summary
+Alexa, disable rapid math

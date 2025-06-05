@@ -1,0 +1,4 @@
+Alexa, open insight timer
+Alexa, open insight timer for five minutes
+Alexa, open insight timer for half an hour
+Alexa, disable insight timer

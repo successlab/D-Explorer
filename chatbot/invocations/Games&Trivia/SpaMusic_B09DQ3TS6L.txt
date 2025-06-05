@@ -1,0 +1,4 @@
+Alexa, open spa music
+Alexa, pause
+Alexa, resume
+Alexa, disable spa music

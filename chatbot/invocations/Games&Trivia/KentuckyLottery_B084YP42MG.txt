@@ -1,0 +1,5 @@
+Alexa, open kentucky lottery
+Alexa, ask Kentucky Lottery What are the Pick Three winning numbers
+Alexa, ask Kentucky Lottery what the Mega Millions jackpot is
+Alexa, ask Kentucky Lottery when is the powerball drawing
+Alexa, disable kentucky lottery

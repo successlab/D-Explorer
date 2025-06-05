@@ -1,0 +1,6 @@
+Alexa, open personality quiz
+Alexa, start personality quiz
+Alexa, start personality quiz.
+repeat
+help
+Alexa, disable personality quiz

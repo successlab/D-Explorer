@@ -1,0 +1,3 @@
+Alexa, open say something silly
+Alexa, say something silly.
+Alexa, disable say something silly

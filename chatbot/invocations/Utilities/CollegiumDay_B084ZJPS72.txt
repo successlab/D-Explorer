@@ -1,0 +1,3 @@
+Alexa, open collegium calendar
+Alexa ask collegium calendar what the day is
+Alexa, disable collegium calendar

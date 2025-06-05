@@ -1,0 +1,4 @@
+Alexa, open rock paper scissors
+hello
+help
+Alexa, disable rock paper scissors

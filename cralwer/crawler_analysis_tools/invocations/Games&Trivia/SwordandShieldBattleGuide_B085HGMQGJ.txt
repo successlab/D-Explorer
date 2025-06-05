@@ -1,0 +1,4 @@
+Alexa, open battle guide
+Alexa, stop
+Alexa, close the battle guide
+Alexa, disable battle guide

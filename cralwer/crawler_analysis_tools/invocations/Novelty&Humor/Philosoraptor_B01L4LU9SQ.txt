@@ -1,0 +1,5 @@
+Alexa, open philosophy raptor
+Alexa, ask philosophy raptor
+Alexa, ask philosophy raptor for a quote
+Alexa, ask philosophy raptor for a roar
+Alexa, disable philosophy raptor

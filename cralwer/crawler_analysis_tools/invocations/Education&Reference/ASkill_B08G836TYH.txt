@@ -1,0 +1,4 @@
+Alexa, open smart boy
+hello
+open window
+Alexa, disable smart boy

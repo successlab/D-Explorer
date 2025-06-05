@@ -1,0 +1,5 @@
+Alexa, open forty nine degrees north
+Alexa, open 49 Degrees North
+Alexa, ask 49 Degrees North for the snow report
+Alexa, ask 49 Degrees North for latest conditions
+Alexa, disable forty nine degrees north

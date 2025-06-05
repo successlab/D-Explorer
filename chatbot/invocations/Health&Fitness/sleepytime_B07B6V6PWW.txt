@@ -1,0 +1,4 @@
+Alexa, open sleepy time
+Alexa tell sleepy time I have to wake up at 6 AM.
+Alexa ask sleepy time when to get up if I go to bed now.
+Alexa, disable sleepy time

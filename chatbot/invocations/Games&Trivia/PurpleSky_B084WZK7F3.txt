@@ -1,0 +1,5 @@
+Alexa, open purple sky
+Alexa, next
+Alexa, stop
+Alexa, start purple sky
+Alexa, disable purple sky

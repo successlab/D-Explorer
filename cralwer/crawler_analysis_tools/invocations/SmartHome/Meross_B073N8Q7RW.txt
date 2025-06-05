@@ -1,0 +1,4 @@
+Alexa, open smart meross
+Alexa, turn on light.
+Alexa, turn off light.
+Alexa, disable smart meross

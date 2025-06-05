@@ -1,0 +1,5 @@
+Alexa, open music midnight cassette
+Alexa, Open Music Midnight Cassette.
+Alexa, Next.
+Alexa, Previous.
+Alexa, disable music midnight cassette

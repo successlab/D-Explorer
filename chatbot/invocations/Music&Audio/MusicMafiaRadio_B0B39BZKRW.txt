@@ -1,0 +1,4 @@
+Alexa, open music mafia radio
+Alexa, Start Music Mafia Radio
+Alexa, Play Music Mafia Radio
+Alexa, disable music mafia radio

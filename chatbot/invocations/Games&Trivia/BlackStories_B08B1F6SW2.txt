@@ -1,0 +1,6 @@
+Alexa, open black stories
+Alexa, next
+Alexa, stop
+Alexa, start black stories
+Alexa, ask black stories for a fact
+Alexa, disable black stories

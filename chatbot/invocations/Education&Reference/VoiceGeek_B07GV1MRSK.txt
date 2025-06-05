@@ -1,0 +1,5 @@
+Alexa, open voice geek
+Alexa, open voice geek.
+Alexa, tell voice geek to tell me a fact.
+Alexa, ask voice geek to give me a voice fact.
+Alexa, disable voice geek

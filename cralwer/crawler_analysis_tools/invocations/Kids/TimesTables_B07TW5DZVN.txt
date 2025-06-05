@@ -1,0 +1,4 @@
+Alexa, open times tables
+Alexa, play times tables
+Alexa, launch times tables
+Alexa, disable times tables

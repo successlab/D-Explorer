@@ -1,0 +1,4 @@
+Alexa, open chosun trivia
+Alexa, start Chosun Trivia
+Alexa, stop
+Alexa, disable chosun trivia

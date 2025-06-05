@@ -1,0 +1,7 @@
+Alexa, open the bar maid
+Alexa, ask the Bar Maid to list the drink types starting with the letter a
+Alexa, ask the Bar Maid for help
+Alexa, ask the Bar Maid what's in a margarita.
+Alexa, ask the Bar Maid to list the scotch drinks
+Alexa, ask the Bar Maid to send an instruction card.
+Alexa, disable the bar maid

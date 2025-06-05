@@ -1,0 +1,4 @@
+Alexa, open calm radio
+Alexa, ask Calm Radio to play solo piano and guitar
+Alexa, ask Calm Radio to play smooth jazz
+Alexa, disable calm radio

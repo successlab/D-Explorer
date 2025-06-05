@@ -1,0 +1,4 @@
+Alexa, open bill tracker
+Add a bill
+help
+Alexa, disable bill tracker

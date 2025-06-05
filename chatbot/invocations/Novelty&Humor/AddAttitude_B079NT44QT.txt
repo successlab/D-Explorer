@@ -1,0 +1,4 @@
+Alexa, open add attitude
+Alexa, ask Add Attitude give me something to laugh about
+Alexa, ask Add Attitude to tell me something I don't know
+Alexa, disable add attitude

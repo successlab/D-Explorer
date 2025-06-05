@@ -1,0 +1,4 @@
+Alexa, open razer
+Alexa, tell Razer to change Chroma lighting to green
+Alexa, tell Razer to start a Chroma Party
+Alexa, disable razer

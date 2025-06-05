@@ -1,0 +1,4 @@
+Alexa, open song match
+Alexa, tell Song Match let's do The Beatles
+Alexa, tell Song Match thank you
+Alexa, disable song match

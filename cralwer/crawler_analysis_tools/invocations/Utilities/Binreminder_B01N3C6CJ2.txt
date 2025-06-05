@@ -1,0 +1,4 @@
+Alexa, open bin reminder
+Alexa, ask Bin Reminder to reset
+Alexa, ask Bin Reminder to add bin brown
+Alexa, disable bin reminder

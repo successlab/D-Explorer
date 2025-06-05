@@ -1,0 +1,5 @@
+Alexa, open phone com
+Alexa tell phone com to call 888 280 4331
+Alexa tell phone com to ring John Smith
+Alexa tell phone com to dial 888 280 4331
+Alexa, disable phone com

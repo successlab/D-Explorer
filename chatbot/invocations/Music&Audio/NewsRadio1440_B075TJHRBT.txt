@@ -1,0 +1,4 @@
+Alexa, open news radio fourteen forty
+Alexa, pause
+Alexa, resume
+Alexa, disable news radio fourteen forty

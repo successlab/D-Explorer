@@ -1,0 +1,4 @@
+Alexa, open go find
+Create a group
+Add a new member to my group
+Alexa, disable go find

@@ -1,0 +1,4 @@
+Alexa, open chef ken
+Alexa, ask Chef Ken for the definition of truss
+Alexa, ask Chef Ken what the definition of evaporation is
+Alexa, disable chef ken

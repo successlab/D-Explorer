@@ -1,0 +1,6 @@
+Alexa, set Bedroom to ECO.
+Alexa, set Upstairs to HEAT.
+Alexa, set Thermostat temperature to 72
+Alexa, what's the temperature in the Bedroom?
+Alexa, set Thermostat to AUTO
+Alexa, disable LennoxiComfortS30andE30

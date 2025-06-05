@@ -1,0 +1,3 @@
+Alexa, open spokata
+Alexa ask Spokata
+Alexa, disable spokata

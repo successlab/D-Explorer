@@ -1,0 +1,6 @@
+Alexa, open loud bark
+Alexa, start Loud Bark
+Alexa, launch Loud Bark
+Alexa, stop
+Alexa, begin Loud Bark
+Alexa, disable loud bark

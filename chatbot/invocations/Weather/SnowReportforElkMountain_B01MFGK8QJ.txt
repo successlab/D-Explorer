@@ -1,0 +1,4 @@
+Alexa, open elk mountain
+Alexa, ask Elk Mountain for the snow report
+Alexa, ask Elk Mountain for latest conditions
+Alexa, disable elk mountain

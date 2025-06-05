@@ -1,0 +1,3 @@
+Alexa, open magic bag
+Alexa, launch magic bag
+Alexa, disable magic bag

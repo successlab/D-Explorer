@@ -1,0 +1,5 @@
+Alexa, open utah ballot information
+Alexa, ask Utah Ballot Information about Amendment A.
+Alexa, ask Utah Ballot Information for Greg Adams.
+Alexa, open Utah Ballot Information and tell me about Proposition 3.
+Alexa, disable utah ballot information

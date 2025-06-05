@@ -1,0 +1,4 @@
+Alexa, open whose turn
+Alexa, start Whose Turn
+Alexa, launch Whose Turn
+Alexa, disable whose turn

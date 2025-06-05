@@ -1,0 +1,5 @@
+Alexa, open allison house
+Alexa, ask allison house if there are any watches
+Alexa, ask allison house what the forecast is for today
+Alexa, ask allison house where is the nearest lightning strike
+Alexa, disable allison house

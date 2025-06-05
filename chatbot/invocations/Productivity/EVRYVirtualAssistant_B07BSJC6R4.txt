@@ -1,0 +1,5 @@
+Alexa, open eva
+Alexa, start EVA
+Alexa, ask EVA what are the demo solutions showcased today?
+Alexa, ask EVA what is Tech Utsav
+Alexa, disable eva

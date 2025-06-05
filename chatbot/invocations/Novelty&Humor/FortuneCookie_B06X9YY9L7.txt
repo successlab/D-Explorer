@@ -1,0 +1,3 @@
+Alexa, open fortune cookie
+Alexa ask Fortune Cookie What's my fortune?
+Alexa, disable fortune cookie

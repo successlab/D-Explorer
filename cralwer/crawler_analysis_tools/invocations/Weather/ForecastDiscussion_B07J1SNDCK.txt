@@ -1,0 +1,4 @@
+Alexa, open forecast discussion
+Alexa, start Forecast Discussion
+Alexa, play Forecast Discussion
+Alexa, disable forecast discussion

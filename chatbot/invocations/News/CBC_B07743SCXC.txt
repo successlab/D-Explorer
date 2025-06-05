@@ -1,0 +1,5 @@
+Alexa, open c. b. c.
+Alexa, ask CBC to play Radio One Sudbury
+Alexa, ask CBC for today's news.
+Alexa, ask CBC to play CBC Music
+Alexa, disable c. b. c.

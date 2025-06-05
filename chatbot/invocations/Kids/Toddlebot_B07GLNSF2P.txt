@@ -1,0 +1,4 @@
+Alexa, open toddle bot
+my favorite day is Saturday
+my favorite meal is dessert
+Alexa, disable toddle bot

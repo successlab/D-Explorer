@@ -1,0 +1,4 @@
+Alexa, open gentle rain sounds
+Alexa, pause
+Alexa, resume
+Alexa, disable gentle rain sounds

@@ -1,0 +1,4 @@
+Alexa, open visa info
+Alexa, ask visa info if Americans need visa to go to France
+Alexa, ask visa info if I need visa to go to Switzerland I am an Indian citizen
+Alexa, disable visa info

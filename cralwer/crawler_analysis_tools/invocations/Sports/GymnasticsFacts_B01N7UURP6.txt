@@ -1,0 +1,5 @@
+Alexa, open gymnastics facts
+Alexa,ask gymnastics facts to tell me about the Final Five.
+who were the Final Five?
+who won team gold for gymnastics at the Rio Olympics?
+Alexa, disable gymnastics facts

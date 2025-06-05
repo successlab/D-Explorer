@@ -1,0 +1,4 @@
+Alexa, set the Thermostat to 72 degrees
+Alexa, what is the temperature in the Basement
+Alexa, make the Living Room warmer
+Alexa, disable GLAS

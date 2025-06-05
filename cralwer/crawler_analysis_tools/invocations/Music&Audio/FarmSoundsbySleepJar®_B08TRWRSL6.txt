@@ -1,0 +1,9 @@
+Alexa, open farm sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Farm Sounds to turn on Background Mode
+Alexa, ask Farm Sounds to turn Background Mode off
+Alexa, start Farm Sounds
+Alexa, launch Farm Sounds
+Alexa, disable farm sounds

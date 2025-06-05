@@ -1,0 +1,5 @@
+Alexa, open radio renovado
+Alexa, Abre radio renovado.
+Alexa, inicia radio renovado.
+Alexa, reproduce radio renovado.
+Alexa, disable radio renovado

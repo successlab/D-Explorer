@@ -1,0 +1,3 @@
+Alexa, open odd facts
+Alexa launch odd facts
+Alexa, disable odd facts

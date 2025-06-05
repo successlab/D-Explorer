@@ -1,0 +1,4 @@
+Alexa, turn on kitchen light
+Alexa, dim kitchen light to 20 percent
+Alexa, turn on fan
+Alexa, disable LenovoSmartHome

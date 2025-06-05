@@ -1,0 +1,4 @@
+Alexa, open amazing advent calendar
+Alexa, ask amazing advent calendar to open today's door
+Alexa, ask amazing advent calendar to open door number 2
+Alexa, disable amazing advent calendar

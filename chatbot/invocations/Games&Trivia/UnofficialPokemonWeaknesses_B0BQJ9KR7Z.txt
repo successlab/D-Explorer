@@ -1,0 +1,5 @@
+Alexa, open pokemon weaknesses
+Alexa, ask Pokemon Weaknesses, What are the weaknesses of fire type Pokemon?
+Alexa, ask Pokemon Weaknesses what is strong against ground types?
+Alexa, ask Pokemon Weaknesses what are water pokemon weak to?
+Alexa, disable pokemon weaknesses

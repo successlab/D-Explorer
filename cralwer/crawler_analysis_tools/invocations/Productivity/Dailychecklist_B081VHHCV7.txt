@@ -1,0 +1,3 @@
+Alexa, open daily checklist
+Alexa, start Daily checklist
+Alexa, disable daily checklist

@@ -1,0 +1,4 @@
+Alexa, open family meals
+Ask Family Meals to give me a meal idea
+Ask Family Meals to give me a suggestion
+Alexa, disable family meals

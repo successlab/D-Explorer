@@ -1,0 +1,6 @@
+Alexa, open heartbeat sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Heartbeat Sounds
+Alexa, launch Heartbeat Sounds
+Alexa, disable heartbeat sounds

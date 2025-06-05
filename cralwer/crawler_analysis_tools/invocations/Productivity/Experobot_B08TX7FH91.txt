@@ -1,0 +1,5 @@
+Alexa, open experobot
+Alexa, ask experobot to start cleaning.
+Alexa, ask experobot to stop cleaning.
+Alexa, ask experobot to start auto cleaning.
+Alexa, disable experobot

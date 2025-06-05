@@ -1,0 +1,6 @@
+Alexa, open get them
+Alexa, next
+Alexa, stop
+Alexa, start Get Them
+Alexa, ask Get Them for a burn
+Alexa, disable get them

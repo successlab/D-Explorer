@@ -1,0 +1,6 @@
+Alexa, open rain sounds
+Alexa, good night
+Alexa, good night
+Alexa, ask rain sounds to loop
+Alexa, ask rain sounds to play for 3 hours
+Alexa, disable rain sounds

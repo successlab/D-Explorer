@@ -1,0 +1,6 @@
+Alexa, open my movies
+Alexa, ask My Movies to find Star Wars.
+Alexa, ask My Movies what movie we should watch
+Alexa, tell My Movies to pick a random comedy movie
+Alexa, ask My Movies to search for Star Wars
+Alexa, disable my movies

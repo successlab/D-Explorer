@@ -1,0 +1,4 @@
+Alexa, open fun space facts
+Alexa, launch fun space facts
+Alexa, stop
+Alexa, disable fun space facts

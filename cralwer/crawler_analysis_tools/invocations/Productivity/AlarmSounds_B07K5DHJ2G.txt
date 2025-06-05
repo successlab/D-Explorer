@@ -1,0 +1,6 @@
+Alexa, open alarm sounds
+Alexa, start Alarm Sounds
+Alexa, ask Alarm Sounds to play [alarm name]
+Alexa, ask Alarm Sounds to play a burglar alarm
+Alexa, ask Alarm Sounds to play a fire alarm sound
+Alexa, disable alarm sounds

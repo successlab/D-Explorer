@@ -1,0 +1,5 @@
+Alexa, open smart garage
+Alexa, tell Smart Garage to close all doors
+Alexa, ask Smart Garage the status of workshop garage
+Alexa, ask Smart Garage about recent events
+Alexa, disable smart garage

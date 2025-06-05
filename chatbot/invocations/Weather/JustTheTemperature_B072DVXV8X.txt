@@ -1,0 +1,4 @@
+Alexa, open just the temperature
+Alexa, just the temperature
+Alexa, ask just the temperature what the current temperature is
+Alexa, disable just the temperature

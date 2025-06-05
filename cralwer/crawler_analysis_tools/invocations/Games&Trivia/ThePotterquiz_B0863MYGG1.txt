@@ -1,0 +1,5 @@
+Alexa, open the potter quiz
+Alexa, next
+Alexa, stop
+Alexa, start the potter quiz
+Alexa, disable the potter quiz

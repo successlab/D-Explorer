@@ -1,0 +1,4 @@
+Alexa, open lyfai
+Alexa, ask LYFAI to find my skateboard
+Alexa, ask LYFAI to search for camping equipment
+Alexa, disable lyfai

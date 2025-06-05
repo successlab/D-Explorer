@@ -1,0 +1,5 @@
+Alexa, open car link
+Alexa, Ask car link to lock my doors.
+Alexa, Ask car link to start my vehicle
+Alexa, Ask car link status
+Alexa, disable car link

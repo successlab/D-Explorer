@@ -1,0 +1,6 @@
+Alexa, open animal noises
+Alexa, ask Animal Noises to play a t-rex.
+Alexa, ask Animal Noises to list the animals.
+Alexa, ask Animal Noises to play a cow
+Alexa, tell Animal Noises to surprise me
+Alexa, disable animal noises

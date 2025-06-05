@@ -1,0 +1,4 @@
+Alexa, open name game
+Alexa tell name game to play Ada
+Alexa ask name game to sing Samantha
+Alexa, disable name game

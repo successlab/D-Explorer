@@ -1,0 +1,3 @@
+Alexa, open motorcycle forecast
+Alexa ask Motorcycle Forecast if today is a good day for a motorcycle
+Alexa, disable motorcycle forecast

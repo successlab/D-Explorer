@@ -1,0 +1,5 @@
+Alexa, open animal game
+Alexa, Start Animal Game
+Play Animal Game
+Launch Animal Game
+Alexa, disable animal game

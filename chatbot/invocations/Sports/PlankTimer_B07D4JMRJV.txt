@@ -1,0 +1,5 @@
+Alexa, open plank timer
+Alexa ask plank timer for a thirty count
+Alexa ask plank timer for two minutes
+Alexa ask plank timer for sixty
+Alexa, disable plank timer

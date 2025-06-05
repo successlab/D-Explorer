@@ -1,0 +1,5 @@
+Alexa, open g. s. q. radio
+Alexa, play Gsq Radio
+Alexa, open Gsq Radio
+Alexa, start Gsq Radio
+Alexa, disable g. s. q. radio

@@ -1,0 +1,5 @@
+Alexa, open addition quiz
+Alexa, ask Addition Quiz to start quiz
+19
+11
+Alexa, disable addition quiz

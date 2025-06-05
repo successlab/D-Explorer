@@ -1,0 +1,5 @@
+Alexa, open building thirty six
+Alexa, tell Building Thirty Six to turn on the lights
+Alexa, ask Building Thirty Six to set the kitchen thermostat to 72 degrees
+Alexa, tell Building Thirty Six to run sleep scene
+Alexa, disable building thirty six

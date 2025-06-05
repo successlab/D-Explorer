@@ -1,0 +1,4 @@
+Alexa, open starfish messenger
+Alexa, Ask Starfish messenger for my messages
+Alexa, Ask Starfish messenger for my saved messages
+Alexa, disable starfish messenger

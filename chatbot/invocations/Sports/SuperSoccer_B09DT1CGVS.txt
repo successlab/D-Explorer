@@ -1,0 +1,4 @@
+Alexa, open super soccer
+Alexa, ask super soccer for premier league fixtures
+Alexa, ask super soccer for liverpool results
+Alexa, disable super soccer

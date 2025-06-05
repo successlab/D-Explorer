@@ -1,0 +1,5 @@
+Alexa, open trash day
+Alexa, ask Trash day when is the next trash day
+Alexa, ask Trash day when is the next recycle pickup
+Alexa, ask Trash day when is the next trash pickup
+Alexa, disable trash day

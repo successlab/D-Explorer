@@ -1,0 +1,4 @@
+Alexa, turn on air purifier
+Alexa, turn off bedroom fan
+Alexa, set bedroom fan speed to 50 percent
+Alexa, disable Mi(Asia)

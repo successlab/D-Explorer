@@ -1,0 +1,5 @@
+Alexa, open money quiz
+Alexa, next
+Alexa, stop
+Alexa, start money quiz
+Alexa, disable money quiz

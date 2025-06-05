@@ -1,0 +1,4 @@
+Alexa, open guess the truth
+Alexa, start Guess The Truth
+Alexa, launch Guess The Truth
+Alexa, disable guess the truth

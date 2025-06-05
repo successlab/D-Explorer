@@ -1,0 +1,3 @@
+Alexa, open camilo trivia
+Alexa, start camilo trivia
+Alexa, disable camilo trivia

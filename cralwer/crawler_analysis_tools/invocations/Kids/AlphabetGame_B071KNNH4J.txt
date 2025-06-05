@@ -1,0 +1,5 @@
+Alexa, open alphabet game
+Alexa, start the alphabet game
+D is the fourth letter
+Tell me about D
+Alexa, disable alphabet game

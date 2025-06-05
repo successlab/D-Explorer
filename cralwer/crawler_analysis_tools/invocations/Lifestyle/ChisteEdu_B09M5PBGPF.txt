@@ -1,0 +1,5 @@
+Alexa, open chiste edu
+Alexa, siguiente
+Alexa, para
+Alexa, abre chiste edu
+Alexa, disable chiste edu

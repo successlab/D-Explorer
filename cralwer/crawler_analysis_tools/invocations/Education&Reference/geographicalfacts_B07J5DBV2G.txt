@@ -1,0 +1,4 @@
+Alexa, open geographical facts
+Alexa run geographical facts
+Alexa launch geographical facts
+Alexa, disable geographical facts

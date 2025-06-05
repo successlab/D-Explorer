@@ -1,0 +1,4 @@
+Alexa, open have a good day
+Alexa, have a good day
+Alexa, start have a good day
+Alexa, disable have a good day

@@ -1,0 +1,5 @@
+Alexa, open resident portal
+Alexa, start Resident Portal
+Pay my rent
+Get my balance
+Alexa, disable resident portal

@@ -1,0 +1,15 @@
+Alexa, open sparkling ice maker
+Alexa, ask Sparkling Ice Maker for cocktails
+Alexa, ask Sparkling Ice Maker for a cocktail recipe
+Alexa, ask Sparkling Ice Maker for it's favorite cocktail
+Alexa, ask Sparkling Ice Maker to surprise me
+Alexa, ask Sparkling Ice Maker for a new drink
+Alexa, ask Sparkling Ice Maker for a recommendation
+Alexa, ask Sparkling Ice Maker for a vodka drink
+Alexa, ask Sparkling Ice Maker for a gin drink
+Alexa, ask Sparkling Ice Maker for a wine drink
+Alexa, ask Sparkling Ice Maker to make me a drink
+Alexa, ask Sparkling Ice Maker for a drink
+Alexa, launch Sparkling Ice Maker
+Alexa, start Sparkling Ice Maker
+Alexa, disable sparkling ice maker

@@ -1,0 +1,4 @@
+Alexa, open blow a whistle
+Alexa, blow a whistle
+Alexa, start blow a whistle
+Alexa, disable blow a whistle

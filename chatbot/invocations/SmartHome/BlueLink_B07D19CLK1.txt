@@ -1,0 +1,5 @@
+Alexa, set 'House' to 78 degrees
+Alexa, what is Main Floor set to
+Alexa, increase the Main Floor temperature please
+Alexa, decrease my Main Floor temperature by 2 degrees
+Alexa, disable BlueLink

@@ -1,0 +1,7 @@
+Alexa, open carrier smart home
+Alexa, turn off <air purifier name>.
+Alexa, what's the air quality on <air monitor name>.
+Alexa, turn on <your air purifier name>.
+Alexa, turn on the light on <your air monitor name>.
+Alexa, what's the air quality on <your device name>.
+Alexa, disable carrier smart home

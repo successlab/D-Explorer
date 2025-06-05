@@ -1,0 +1,3 @@
+Alexa, open zen radio
+Alexa, Tell Zen Radio to play Study Music
+Alexa, disable zen radio

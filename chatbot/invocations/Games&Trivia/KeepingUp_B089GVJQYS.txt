@@ -1,0 +1,4 @@
+Alexa, open keeping up
+Alexa, start Keeping Up
+Alexa, play Keeping Up
+Alexa, disable keeping up

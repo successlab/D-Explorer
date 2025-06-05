@@ -1,0 +1,5 @@
+Alexa, open spicy chutney
+Alexa, ask Spicy Chutney what's the recipe for coconut chutney
+Alexa, ask Spicy Chutney how do you prepare a beetroot chutney
+Alexa, ask Spicy Chutney what ingredients do I need to cook a mint chutney
+Alexa, disable spicy chutney

@@ -1,0 +1,4 @@
+Alexa, open mike's jokes
+Tell me a dad joke
+Tell me a normal joke
+Alexa, disable mike's jokes

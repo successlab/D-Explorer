@@ -1,0 +1,5 @@
+Alexa, open personajes de pelicula
+Alexa, abre personajes de película
+Alexa, abre personajes de película y cuéntame un personaje
+Alexa, abre personajes de película y busca un personaje
+Alexa, disable personajes de pelicula

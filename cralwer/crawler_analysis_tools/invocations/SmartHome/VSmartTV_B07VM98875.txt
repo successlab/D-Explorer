@@ -1,0 +1,17 @@
+Alexa, turn on Kitchen TV.
+Alexa, turn off Living Room TV.
+Alexa, change channel to 3 on TV.
+Alexa, change channel to <channel name> on TV.
+Alexa, channel up on TV.
+Alexa, channel down on TV.
+Alexa, turn the volume down on TV by 20.
+Alexa, switch input to HDMI 1 on Kitchen TV.
+Alexa, play on TV.
+Alexa, pause on TV.
+Alexa, fast forward on TV.
+Alexa, rewind on TV.
+Alexa, stop on TV.
+Alexa, next channel on TV.
+Alexa, set volume to 20 on TV.
+Alexa, turn off TV.
+Alexa, disable VSmartTV

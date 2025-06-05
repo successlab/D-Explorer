@@ -1,0 +1,5 @@
+Alexa, open my momentum secure
+Alexa, show the Front door
+Alexa, hide the Front door
+Alexa, turn on the Front door Privacy Mode
+Alexa, disable my momentum secure

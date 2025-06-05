@@ -1,0 +1,4 @@
+Alexa, open guess my age
+Alexa, start Guess My Age
+Alexa, launch Guess My Age
+Alexa, disable guess my age

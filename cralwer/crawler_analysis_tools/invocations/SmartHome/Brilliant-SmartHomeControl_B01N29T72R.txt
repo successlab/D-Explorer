@@ -1,0 +1,4 @@
+Alexa, turn on the kitchen lights.
+Alexa, turn off the kitchen lights.
+Alexa, dim the kitchen lights.
+Alexa, disable Brilliant-SmartHomeControl

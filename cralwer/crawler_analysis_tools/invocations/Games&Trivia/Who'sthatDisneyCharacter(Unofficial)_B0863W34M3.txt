@@ -1,0 +1,4 @@
+Alexa, open unofficial disney guessing game
+Alexa start Unofficial Disney Guessing Game
+Alexa play Unofficial Disney Guessing Game
+Alexa, disable unofficial disney guessing game

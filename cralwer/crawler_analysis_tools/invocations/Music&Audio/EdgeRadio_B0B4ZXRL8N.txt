@@ -1,0 +1,7 @@
+Alexa, open edge radio
+Alexa, launch Edge Radio
+Alexa, play Edge Radio
+Alexa, stop
+Alexa, start edge radio
+Alexa, ask edge radio what's playing
+Alexa, disable edge radio

@@ -1,0 +1,4 @@
+Alexa, open home central
+Alexa, open Home Central.
+Alexa, ask Home Central to check for common safety issues around my home.
+Alexa, disable home central

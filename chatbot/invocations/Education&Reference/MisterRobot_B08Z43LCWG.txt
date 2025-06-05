@@ -1,0 +1,3 @@
+Alexa, open mister robot
+Alexa, start mister robot
+Alexa, disable mister robot

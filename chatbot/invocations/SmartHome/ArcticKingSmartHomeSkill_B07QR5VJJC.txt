@@ -1,0 +1,5 @@
+Alexa, discover devices
+Alexa, Turn on living room
+Alexa, Turn off living room
+Alexa, Set living room to 80 degrees
+Alexa, disable ArcticKingSmartHomeSkill

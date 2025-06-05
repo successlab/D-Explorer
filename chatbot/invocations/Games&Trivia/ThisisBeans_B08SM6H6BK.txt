@@ -1,0 +1,4 @@
+Alexa, open this is beans
+Alexa, enable This is Beans skill
+Alexa launch this is beans
+Alexa, disable this is beans

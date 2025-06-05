@@ -1,0 +1,4 @@
+Alexa, open news buddy
+list topics
+read Technology news
+Alexa, disable news buddy

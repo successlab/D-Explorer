@@ -1,0 +1,5 @@
+Alexa, open dice coin
+Alexa, ask Dice Coin to flip a coin
+Alexa, ask Dice Coin to roll a d ten
+Alexa, ask Dice Coin to roll me a d twenty
+Alexa, disable dice coin

@@ -1,0 +1,5 @@
+Alexa, open world pop quiz
+Alexa, next
+Alexa, stop
+Alexa, start world pop quiz
+Alexa, disable world pop quiz

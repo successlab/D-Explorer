@@ -1,0 +1,5 @@
+Alexa, open national calendar
+Alexa, launch National Calendar.
+Alexa, ask National Calendar about today.
+Alexa, ask National Calendar what is on the calendar for October 31?
+Alexa, disable national calendar

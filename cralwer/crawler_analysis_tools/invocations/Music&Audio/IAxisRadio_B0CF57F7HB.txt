@@ -1,0 +1,3 @@
+Alexa, open axis radio
+Alexa, play axis radio
+Alexa, disable axis radio

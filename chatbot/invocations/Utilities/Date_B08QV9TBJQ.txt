@@ -1,0 +1,4 @@
+Alexa, open current time
+what is the date today
+help
+Alexa, disable current time

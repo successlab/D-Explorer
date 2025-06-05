@@ -1,0 +1,3 @@
+Alexa, open pet patrol
+Alexa, start pet patrol
+Alexa, disable pet patrol

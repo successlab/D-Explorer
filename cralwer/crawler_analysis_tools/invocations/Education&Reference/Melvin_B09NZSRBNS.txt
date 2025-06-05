@@ -1,0 +1,4 @@
+Alexa, open melvin genomics
+Alexa, open Melvin Genomics and tell me about TP53
+Alexa, open Melvin Genomics and show me breast cancer
+Alexa, disable melvin genomics

@@ -1,0 +1,6 @@
+Alexa, open wolf sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Wolf Sounds
+Alexa, launch Wolf Sounds
+Alexa, disable wolf sounds

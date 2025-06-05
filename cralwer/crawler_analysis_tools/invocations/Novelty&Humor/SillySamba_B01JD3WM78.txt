@@ -1,0 +1,5 @@
+Alexa, open silly samba
+Alexa, ask silly samba for a joke
+Alexa, ask silly samba to tell a joke
+Alexa, launch silly samba
+Alexa, disable silly samba

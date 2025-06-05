@@ -1,0 +1,4 @@
+Alexa, open take my shower
+start shower
+stop shower
+Alexa, disable take my shower

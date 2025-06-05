@@ -1,0 +1,3 @@
+Alexa, open pythagorean theorem
+Alexa, launch Pythagorean Theorem
+Alexa, disable pythagorean theorem

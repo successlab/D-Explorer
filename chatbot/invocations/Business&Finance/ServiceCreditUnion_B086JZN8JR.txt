@@ -1,0 +1,4 @@
+Alexa, open service credit union
+Alexa ask Service Credit Union for balance
+Alexa ask Service Credit Union for transactions
+Alexa, disable service credit union

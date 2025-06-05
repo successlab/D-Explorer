@@ -1,0 +1,5 @@
+Alexa, open animal guesser
+Alexa, launch animal guesser
+Repeat the question
+Hummingbird
+Alexa, disable animal guesser

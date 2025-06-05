@@ -1,0 +1,6 @@
+Alexa, open food tracker
+Alexa, ask food tracker for help
+Alexa, ask Food Tracker to add milk to the fridge
+Alexa, ask Food Tracker what should I eat
+Alexa, ask Food Tracker to suggest a recipe
+Alexa, disable food tracker

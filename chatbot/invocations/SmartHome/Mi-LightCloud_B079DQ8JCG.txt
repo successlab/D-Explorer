@@ -1,0 +1,6 @@
+Alexa, discover devices
+Alexa, turn off bedroom light
+Alexa, turn on bedroom light
+Alexa, set bedroom light to 80 percent
+Alexa, set bedroom light to 50 percent
+Alexa, disable Mi-LightCloud

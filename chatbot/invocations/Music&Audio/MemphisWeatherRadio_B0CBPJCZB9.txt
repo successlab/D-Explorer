@@ -1,0 +1,3 @@
+Alexa, open memphis weather radio
+Alexa play memphis weather radio
+Alexa, disable memphis weather radio

@@ -1,0 +1,8 @@
+Alexa, open free fun
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, start free fun
+Alexa, ask Free Fun for the latest update
+Alexa, start Free Fun
+Alexa, disable free fun

@@ -1,0 +1,5 @@
+Alexa, open game plan
+Alexa, ask Game Plan, what are my events?
+Alexa, open Game Plan and tell me the Game Plan for John Smith?
+Alexa, open Game Plan and ask John Smith what is the Game Plan?
+Alexa, disable game plan

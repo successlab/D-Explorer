@@ -1,0 +1,5 @@
+Alexa, open create funny story
+Alexa, Create Funny Story
+I pick dog a animal
+How can i use this skill?
+Alexa, disable create funny story

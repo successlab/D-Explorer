@@ -1,0 +1,4 @@
+Alexa, open seasons audio
+Alexa, Start Seasons Audio
+Alexa, Play Seasons Audio
+Alexa, disable seasons audio

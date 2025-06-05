@@ -1,0 +1,6 @@
+Alexa, open tessie control
+Alexa, get the car ready
+Alexa, ask Tessie Control to start climate
+Alexa, ask Tessie Control to open the front trunk
+Alexa, ask Tessie Control to get the charge level
+Alexa, disable tessie control

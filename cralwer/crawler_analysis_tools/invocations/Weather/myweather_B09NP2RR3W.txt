@@ -1,0 +1,2 @@
+Alexa, open my weather
+Alexa, disable my weather

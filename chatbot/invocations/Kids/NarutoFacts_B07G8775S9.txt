@@ -1,0 +1,4 @@
+Alexa, open naruto facts
+Alexa, launch naruto facts
+Alexa, start naruto facts
+Alexa, disable naruto facts

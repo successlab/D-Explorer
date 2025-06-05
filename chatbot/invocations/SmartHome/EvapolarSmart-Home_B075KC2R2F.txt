@@ -1,0 +1,4 @@
+Alexa, turn on the eva Home
+Alexa, set the eva Smart fan speed to 7
+Alexa, change Eva Smart light to blue
+Alexa, disable EvapolarSmart-Home

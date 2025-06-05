@@ -1,0 +1,6 @@
+Alexa, open pittsburgh bus tracker
+Alexa, ask Pittsburgh Bus Tracker, when is the next {bus route} arriving at bus stop number {bus stop number}?
+Alexa, ask pittsburgh bus tracker, when is the next 61C at bus stop number 4407?
+when is the next 75?
+when is the next inbound 71C?
+Alexa, disable pittsburgh bus tracker

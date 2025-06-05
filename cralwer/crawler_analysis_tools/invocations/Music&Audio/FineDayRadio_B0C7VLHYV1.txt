@@ -1,0 +1,5 @@
+Alexa, open fine day radio
+Alexa, play fine day radio
+Alexa, ask fine day radio what is playing
+Alexa, ask fine day radio who's on air now
+Alexa, disable fine day radio

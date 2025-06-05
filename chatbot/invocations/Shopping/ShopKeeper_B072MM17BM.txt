@@ -1,0 +1,5 @@
+Alexa, open shop keeper
+Alexa ask Shop Keeper where is the coffee
+Alexa ask Shop Keeper what is popular in coffee
+Alexa ask Shop Keeper what is on sale
+Alexa, disable shop keeper

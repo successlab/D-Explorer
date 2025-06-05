@@ -1,0 +1,3 @@
+Alexa, turn on Bed Light
+Alexa, turn off Bed Light
+Alexa, disable ComfortBase

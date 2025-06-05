@@ -1,0 +1,4 @@
+Alexa, open running tips
+Alexa, ask Running Tips to give me a tip
+Alexa, ask Running Tips for another tip
+Alexa, disable running tips

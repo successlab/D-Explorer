@@ -1,0 +1,4 @@
+Alexa, open ross lunch
+Alexa ask ross lunch today's menu
+Alexa ask ross lunch this weeks lunches
+Alexa, disable ross lunch

@@ -1,0 +1,4 @@
+Alexa, turn on the light
+Alexa, turn off the switch
+Alexa, brighten the light
+Alexa, disable LifeSmartSmartHome

@@ -1,0 +1,4 @@
+Alexa, open my j. p. s.
+Alexa, ask MyJPS, about the balance on my account
+Alexa, ask MyJPS, the status of my outage report
+Alexa, disable my j. p. s.

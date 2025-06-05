@@ -1,0 +1,5 @@
+Alexa, open lucky cookie
+Alexa, ask lucky cookie What's today's lucky cookie
+Alexa, ask lucky cookie What's my lucky cookie
+Alexa, ask lucky cookie to tell me a lucky cookie
+Alexa, disable lucky cookie

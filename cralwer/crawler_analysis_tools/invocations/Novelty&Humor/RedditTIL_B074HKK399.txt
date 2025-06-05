@@ -1,0 +1,4 @@
+Alexa, open today i learned
+Alexa, ask today I learned to tell me something
+Alexa, ask today I learned, what did you learn today?
+Alexa, disable today i learned

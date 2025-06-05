@@ -1,0 +1,4 @@
+Alexa, open go navy
+Alexa, start go navy
+Alexa, ask go navy for a burn
+Alexa, disable go navy

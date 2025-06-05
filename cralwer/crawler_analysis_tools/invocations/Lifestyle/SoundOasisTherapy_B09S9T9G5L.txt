@@ -1,0 +1,11 @@
+Alexa, open sound oasis therapy
+Alexa, open/launch Sound Oasis Therapy
+Alexa, play Ocean Surf” or another sound of choice. Say 
+Alexa, play random
+Alexa, show/tell me a list of sounds”. To listen to the sound’s description, say 
+Alexa, stop/pause
+Alexa, play Ocean Surf for 5 hours and 30 minutes
+Alexa, going to sleep play Ocean Surf or another sound of choice. Commands 
+Alexa, help
+Alexa, ask sound oasis therapy for a list of sounds
+Alexa, disable sound oasis therapy

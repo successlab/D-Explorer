@@ -1,0 +1,19 @@
+Alexa, play [on Bedroom TV].
+Alexa, stop [on Bedroom TV].
+Alexa, change input to HDMI 1 [on Bedroom TV].
+Alexa, change channel to 7 [on Bedroom TV].
+Alexa, change channel to BBC [on Bedroom TV].
+Alexa, next channel [on Bedroom TV].
+Alexa, channel up [on Bedroom TV].
+Alexa, channel down [on Bedroom TV].
+Alexa, set volume to 50 [on Bedroom TV].
+Alexa, volume up [by 20] [on Bedroom TV].
+Alexa, volume down [by 20] [on Bedroom TV].
+Alexa, mute on [Bedroom] TV.
+Alexa, unmute on [Bedroom] TV.
+Alexa, launch Netflix [on Bedroom TV].
+Alexa, go to Home [on Bedroom TV].
+Alexa, channel down on TV
+Alexa, set volume to 50
+Alexa, change input to HDMI 1 on TV
+Alexa, disable SmartAssistant

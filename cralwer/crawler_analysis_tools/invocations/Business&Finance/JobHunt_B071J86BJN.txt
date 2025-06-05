@@ -1,0 +1,6 @@
+Alexa, open job hunt
+Alexa, open Job Hunt and setup
+Alexa, open Job Hunt and find jobs with skills
+My Location is Chicago
+My Skills are Android Java
+Alexa, disable job hunt

@@ -1,0 +1,5 @@
+Alexa, open smanos
+Alexa, ask smanos to arm away
+Alexa, ask smanos to arm stay
+Alexa, ask smanos to record video
+Alexa, disable smanos

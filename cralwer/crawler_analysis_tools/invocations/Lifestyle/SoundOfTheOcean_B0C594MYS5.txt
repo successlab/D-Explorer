@@ -1,0 +1,4 @@
+Alexa, open sound of the ocean
+pause
+resume
+Alexa, disable sound of the ocean

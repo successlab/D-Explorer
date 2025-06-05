@@ -1,0 +1,7 @@
+Alexa, open t. v. drama quiz
+Alexa, start Quiz
+Alexa, start game
+Alexa, stop
+Alexa, start t. v. drama quiz
+Alexa, play t. v. drama Quiz
+Alexa, disable t. v. drama quiz

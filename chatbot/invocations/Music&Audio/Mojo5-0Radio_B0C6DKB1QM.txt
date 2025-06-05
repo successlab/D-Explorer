@@ -1,0 +1,5 @@
+Alexa, open mojo five oh radio
+Alexa, play mojo five oh radio
+Alexa, start mojo five oh radio
+Alexa, ask mojo five oh radio what song is playing
+Alexa, disable mojo five oh radio

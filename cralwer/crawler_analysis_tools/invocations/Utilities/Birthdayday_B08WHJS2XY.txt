@@ -1,0 +1,3 @@
+Alexa, open birthday day
+Alexa, start birthday day
+Alexa, disable birthday day

@@ -1,0 +1,5 @@
+Alexa, open my celestial white noise
+Alexa, play My Celestial White Noise
+Alexa, stop
+Alexa, ask My Celestial White Noise to play
+Alexa, disable my celestial white noise

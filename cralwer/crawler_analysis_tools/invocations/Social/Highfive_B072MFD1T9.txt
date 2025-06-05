@@ -1,0 +1,5 @@
+Alexa, open high five
+Alexa, ask high five to give me a high five
+alexa, ask high five to give me a high four
+alexa, tell high five to high five
+Alexa, disable high five

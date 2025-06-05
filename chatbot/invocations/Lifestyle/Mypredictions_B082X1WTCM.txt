@@ -1,0 +1,2 @@
+Alexa, open my predictions
+Alexa, disable my predictions

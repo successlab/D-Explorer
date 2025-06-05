@@ -1,0 +1,5 @@
+Alexa, open my channel
+Alexa, open my channel and ask for my subscriber count
+Alexa, open my channel and ask how popular my last video is
+Alexa, ask my channel for my last comment
+Alexa, disable my channel

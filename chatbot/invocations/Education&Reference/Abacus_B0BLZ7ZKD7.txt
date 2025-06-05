@@ -1,0 +1,4 @@
+Alexa, open abacus maths
+Alexa, start Abacus Maths
+Alexa, ask Abacus Maths
+Alexa, disable abacus maths

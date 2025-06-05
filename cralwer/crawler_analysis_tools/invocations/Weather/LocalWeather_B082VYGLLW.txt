@@ -1,0 +1,4 @@
+Alexa, open local weather
+Alexa, start local weather
+Alexa, ask local weather for a burn
+Alexa, disable local weather

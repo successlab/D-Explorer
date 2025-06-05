@@ -1,0 +1,21 @@
+Alexa, open airport weather
+Alexa, ask airport weather to get the forecast for kilo juliet foxtrot kilo
+Alexa, ask airport weather to get the taf for Houston
+Alexa, ask airport weather to report zulu time
+Alexa, ask airport weather to set wind reference to magnetic
+Alexa, ask airport weather to set wind reference to true
+Alexa, ask airport weather to set visibility to miles
+Alexa, ask airport weather to set visibility to kilometers
+Alexa, ask airport weather to set altimeter to inches
+Alexa, ask airport weather to set altimeter to millibar
+Alexa, ask airport weather to set temperature to Fahrenheit
+Alexa, ask airport weather to set temperature to Celsius
+Alexa, ask airport weather to set local airport.
+Alexa, ask airport weather for the local station
+Alexa, ask airport weather for the default station
+Alexa, ask airport weather to set repeat to five.
+Alexa, ask airport weather to set repeat to one.
+Alexa, start airport weather
+Alexa, ask airport weather to read the metar at kilo echo whiskey romeo
+Alexa, ask airport weather to get the atis at Cincinnati
+Alexa, disable airport weather

@@ -1,0 +1,8 @@
+Alexa, turn on the nursery heater.
+Alexa, turn off the living room fan.
+Alexa, turn on the bedroom diffuser.
+Alexa, turn off the office lamp.
+Alexa, turn on the nursery heater
+Alexa, turn off the living room fan
+Alexa, turn off the office Glow light
+Alexa, disable AwairGlow

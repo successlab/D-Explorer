@@ -1,0 +1,3 @@
+Alexa, open lunar calendar
+Alexa, ask lunar calendar for today's date?
+Alexa, disable lunar calendar

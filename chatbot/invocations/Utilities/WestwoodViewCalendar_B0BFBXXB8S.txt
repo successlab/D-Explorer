@@ -1,0 +1,5 @@
+Alexa, open westwood view
+Alexa, ask Westwood View what's for lunch
+Alexa, ask Westwood View what's for lunch tomorrow
+Alexa, ask Westwood View what's for lunch on Friday
+Alexa, disable westwood view

@@ -1,0 +1,3 @@
+Alexa, open kids quiz
+Alexa, start kids quiz
+Alexa, disable kids quiz

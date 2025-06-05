@@ -1,0 +1,7 @@
+Alexa, open luminous radio english
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, ask Luminous Radio English for the latest talk
+Alexa, start Luminous Radio English
+Alexa, disable luminous radio english

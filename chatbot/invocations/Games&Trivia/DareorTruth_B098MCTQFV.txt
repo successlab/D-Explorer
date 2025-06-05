@@ -1,0 +1,4 @@
+Alexa, open dare or truth
+ready
+help
+Alexa, disable dare or truth

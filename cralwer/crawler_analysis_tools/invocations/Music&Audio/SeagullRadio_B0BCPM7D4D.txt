@@ -1,0 +1,4 @@
+Alexa, open seagull radio
+Alexa, play seagull radio
+Alexa, launch seagull radio
+Alexa, disable seagull radio

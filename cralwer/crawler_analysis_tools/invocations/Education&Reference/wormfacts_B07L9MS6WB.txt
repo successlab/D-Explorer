@@ -1,0 +1,5 @@
+Alexa, open worm facts
+Alexa, tell worm facts I want a fact.
+Alexa, ask worm facts for a fact.
+Alexa, tell worm facts to give me a fact.
+Alexa, disable worm facts

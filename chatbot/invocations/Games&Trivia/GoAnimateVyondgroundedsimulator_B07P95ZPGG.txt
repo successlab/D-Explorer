@@ -1,0 +1,3 @@
+Alexa, open grounded simulator
+Alexa, open Grounded simulator.
+Alexa, disable grounded simulator

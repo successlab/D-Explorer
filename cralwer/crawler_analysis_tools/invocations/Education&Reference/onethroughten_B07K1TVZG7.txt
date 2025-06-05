@@ -1,0 +1,4 @@
+Alexa, open one through ten
+Alexa, one through ten
+Alexa, start one through ten
+Alexa, disable one through ten

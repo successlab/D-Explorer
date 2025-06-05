@@ -1,0 +1,4 @@
+Alexa, open animal says
+What does the sheep say
+Dog sound
+Alexa, disable animal says

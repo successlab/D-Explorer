@@ -1,0 +1,4 @@
+Alexa, open my birthday
+Alexa, how many days until ${skillData.schedule[0].name}?
+Alexa, when is ${skillData.schedule[1].name}?
+Alexa, disable my birthday

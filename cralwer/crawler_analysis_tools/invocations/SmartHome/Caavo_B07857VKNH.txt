@@ -1,0 +1,5 @@
+Alexa, open caavo
+Alexa, tell Caavo to watch CNN
+Alexa, tell Caavo to pause
+Alexa, tell Caavo to find my remote
+Alexa, disable caavo

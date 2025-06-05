@@ -1,0 +1,4 @@
+Alexa, open cooking temperature buddy
+Alexa, ask Cooking Temperature Buddy for steak
+Stop
+Alexa, disable cooking temperature buddy

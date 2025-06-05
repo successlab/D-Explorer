@@ -1,0 +1,3 @@
+Alexa, open voice monkey
+Alexa, start Voice Monkey
+Alexa, disable voice monkey

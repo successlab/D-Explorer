@@ -1,0 +1,5 @@
+Alexa, open meal planner
+Alexa, open meal planner.
+What are we making?
+Lets plan a meal.
+Alexa, disable meal planner

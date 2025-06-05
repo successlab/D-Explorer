@@ -1,0 +1,4 @@
+Alexa, open g. home
+Alexa, turn on switch
+Alexa, turn off switch
+Alexa, disable g. home

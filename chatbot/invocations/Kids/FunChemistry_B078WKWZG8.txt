@@ -1,0 +1,5 @@
+Alexa, open fun chemistry
+Alexa, Launch Fun Chemistry
+Alexa, ask Fun Chemistry to tell me about Helium
+Alexa, ask Fun Chemistry who founded Bromine
+Alexa, disable fun chemistry

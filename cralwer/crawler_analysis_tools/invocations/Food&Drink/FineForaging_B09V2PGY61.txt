@@ -1,0 +1,4 @@
+Alexa, open fine foraging
+Alexa, load fine foraging
+Alexa, start fine foraging
+Alexa, disable fine foraging

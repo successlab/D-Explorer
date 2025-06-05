@@ -1,0 +1,4 @@
+Alexa, open pizza maker
+Alexa tell Pizza Maker to start a game
+Alexa tell Pizza Maker I want to play
+Alexa, disable pizza maker

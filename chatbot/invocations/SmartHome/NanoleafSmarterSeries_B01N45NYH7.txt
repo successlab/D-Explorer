@@ -1,0 +1,4 @@
+Alexa, turn on Light Panels.
+Alexa, set Light Panels to 50%.
+Alexa, turn on Northern Lights.
+Alexa, disable NanoleafSmarterSeries

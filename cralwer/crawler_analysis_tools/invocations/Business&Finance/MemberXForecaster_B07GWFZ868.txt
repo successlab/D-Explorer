@@ -1,0 +1,5 @@
+Alexa, open member forecaster
+Alexa, ask member forecaster monthly recurring revenue
+Alexa, ask member forecaster member acquisition cost
+Alexa, ask member forecaster member count
+Alexa, disable member forecaster

@@ -1,0 +1,4 @@
+Alexa, open cairo quran
+Alexa, Start cairo quran
+play
+Alexa, disable cairo quran

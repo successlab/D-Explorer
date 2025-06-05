@@ -1,0 +1,5 @@
+Alexa, open meal ideas
+Alexa, start meal ideas.
+Alexa, ask meal ideas to tell me a meal idea.
+Alexa, ask meal ideas to tell me something.
+Alexa, disable meal ideas

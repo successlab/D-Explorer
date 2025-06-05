@@ -1,0 +1,7 @@
+Alexa, open dirty dozen
+Alexa, ask Dirty Dozen, what fruits are in the dirty dozen list?
+Alexa, ask Dirty Dozen, how dirty are cherry tomatoes?
+Alexa, ask Dirty Dozen, how clean are strawberries?
+Alexa ask Dirty Dozen what fruits are in the dirty dozen list?
+Alexa ask Dirty Dozen how dirty are cherry tomatoes?
+Alexa, disable dirty dozen

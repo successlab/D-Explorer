@@ -1,0 +1,4 @@
+Alexa, open baseball quiz
+Alexa, launch baseball quiz
+Alexa, start baseball quiz
+Alexa, disable baseball quiz

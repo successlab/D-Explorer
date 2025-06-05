@@ -1,0 +1,5 @@
+Alexa, open holiday timer
+Alexa ask holiday timer to create a vacation to spain
+Alexa ask holiday timer how many days until spain
+Alexa ask holiday timer what date is my vacation to spain
+Alexa, disable holiday timer

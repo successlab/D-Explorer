@@ -1,0 +1,4 @@
+Alexa, open silly billy
+Alexa, stop
+Alexa, start silly billy
+Alexa, disable silly billy

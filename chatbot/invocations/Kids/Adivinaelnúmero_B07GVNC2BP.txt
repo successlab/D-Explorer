@@ -1,0 +1,3 @@
+Alexa, open adivina el número
+Alexa, abre Adivina el número.
+Alexa, disable adivina el número

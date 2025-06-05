@@ -1,0 +1,4 @@
+Alexa, open power outage
+Alexa, start power outage
+Alexa, launch power outage
+Alexa, disable power outage

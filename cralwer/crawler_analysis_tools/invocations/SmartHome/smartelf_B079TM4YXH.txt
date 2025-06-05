@@ -1,0 +1,4 @@
+Alexa,turn on Kitchen light.
+Alexa,set Bedroom light to 20 percent.
+Alexa,dim the living room to 20%.
+Alexa, disable smartelf

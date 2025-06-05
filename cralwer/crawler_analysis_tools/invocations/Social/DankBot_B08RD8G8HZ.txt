@@ -1,0 +1,7 @@
+Alexa, open dank bot
+Alexa, ask Dank Bot
+Alexa, stop
+Alexa ask dank bot
+Alexa launch dank bot
+Alexa tell dank bot
+Alexa, disable dank bot

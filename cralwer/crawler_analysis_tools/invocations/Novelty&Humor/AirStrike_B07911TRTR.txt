@@ -1,0 +1,5 @@
+Alexa, open air strike
+Alexa, launch air strike
+Alexa, ask air strike to abort
+Alexa, ask air strike to attack
+Alexa, disable air strike

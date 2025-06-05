@@ -1,0 +1,5 @@
+Alexa, open actor lookup
+Alexa, ask Actor Lookup what movies are Will Smith known for
+Alexa, open Actor Lookup and give me a movie that Tom Hanks is in
+Alexa, ask Actor Lookup what movies were popular in 2017
+Alexa, disable actor lookup

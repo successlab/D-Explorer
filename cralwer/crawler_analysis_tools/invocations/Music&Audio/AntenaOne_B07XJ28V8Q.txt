@@ -1,0 +1,8 @@
+Alexa, open antena one
+Alexa, launch Antena One
+Alexa, play Antena One
+Alexa, stop
+Alexa, ask Antena One who is this?
+Alexa, ask Antena One to play
+Alexa, ask Antena One what music is currently playing
+Alexa, disable antena one

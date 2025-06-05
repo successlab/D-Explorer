@@ -1,0 +1,5 @@
+Alexa, open writing prompts
+Alexa, ask Writing Prompts to give me a writing prompt
+Alexa, ask Writing Prompts to give me an idea
+Alexa, ask Writing Prompts to tell me a prompt
+Alexa, disable writing prompts

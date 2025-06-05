@@ -1,0 +1,4 @@
+Alexa, open songbook network
+Alexa, play SONGBOOK NETWORK
+Alexa, start SONGBOOK NETWORK
+Alexa, disable songbook network

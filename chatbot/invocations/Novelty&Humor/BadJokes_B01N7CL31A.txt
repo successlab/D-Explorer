@@ -1,0 +1,4 @@
+Alexa, open bad jokes
+Tell me a bad joke
+Tell me a joke
+Alexa, disable bad jokes

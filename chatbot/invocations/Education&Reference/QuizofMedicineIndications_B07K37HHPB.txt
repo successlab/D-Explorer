@@ -1,0 +1,4 @@
+Alexa, open medicine indications quiz
+Alexa, start Medicine Indications Quiz
+Alexa, play Medicine Indications Quiz
+Alexa, disable medicine indications quiz

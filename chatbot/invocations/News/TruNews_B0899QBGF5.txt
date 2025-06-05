@@ -1,0 +1,5 @@
+Alexa, open trunews
+Alexa, open TruNews.
+Alexa, ask TruNews to play the latest godcast.
+Alexa, ask TruNews to play the latest show.
+Alexa, disable trunews

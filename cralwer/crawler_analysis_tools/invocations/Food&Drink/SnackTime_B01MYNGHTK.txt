@@ -1,0 +1,5 @@
+Alexa, open snack time
+Alexa, ask Snack Time for a snack.
+Alexa, tell Snack Time to give me a snack.
+Alexa, start Snack Time.
+Alexa, disable snack time

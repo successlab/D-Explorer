@@ -1,0 +1,4 @@
+Alexa, open sapphire valley
+Alexa, ask Sapphire Valley for the snow report
+Alexa, ask Sapphire Valley for latest conditions
+Alexa, disable sapphire valley

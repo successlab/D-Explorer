@@ -1,0 +1,4 @@
+Alexa, open my boxing coach
+Alexa, ask My Boxing Coach for twelve rounds of boxing
+Alexa, tell My Boxing coach to give me five rounds
+Alexa, disable my boxing coach

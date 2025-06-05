@@ -1,0 +1,4 @@
+Alexa, turn on bedroom
+Alexa, switch off kitchen
+Alexa, set bar to red
+Alexa, disable OZOM

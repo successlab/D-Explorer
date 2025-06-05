@@ -1,0 +1,4 @@
+Alexa, open a boy's chicken
+Alexa, stop
+Alexa, start a boy's chicken
+Alexa, disable a boy's chicken

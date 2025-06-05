@@ -1,0 +1,5 @@
+Alexa, open bring
+Alexa, open Bring and add milk.
+Alexa, open Bring.
+Alexa, ask Bring what is on my list?
+Alexa, disable bring

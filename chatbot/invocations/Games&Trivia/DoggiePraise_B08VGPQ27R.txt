@@ -1,0 +1,5 @@
+Alexa, open praise my dog
+Alexa, tell praise my dog my dog's name is Ace.
+help
+His name is Max
+Alexa, disable praise my dog

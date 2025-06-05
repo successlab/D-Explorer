@@ -1,0 +1,6 @@
+Alexa, open brown noise
+Alexa, good night
+Alexa, good night
+Alexa, ask brown noise to loop
+Alexa, ask brown noise to play for 3 hours
+Alexa, disable brown noise

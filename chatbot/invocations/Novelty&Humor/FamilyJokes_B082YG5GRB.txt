@@ -1,0 +1,5 @@
+Alexa, open your ears
+Alexa, open family jokes
+Alexa, start family jokes
+Alexa, ask family jokes for a joke
+Alexa, disable your ears

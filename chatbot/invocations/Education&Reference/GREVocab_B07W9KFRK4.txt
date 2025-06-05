@@ -1,0 +1,4 @@
+Alexa, open g. r. e. vocab
+Alexa ask g. r. e. vocab to get a new vocab word
+Alexa ask g. r. e. vocab to get a new word
+Alexa, disable g. r. e. vocab

@@ -1,0 +1,4 @@
+Alexa, open voice of the day
+Play the clip again
+What was yesterday's answer
+Alexa, disable voice of the day

@@ -1,0 +1,6 @@
+Alexa, open hi karl
+Alexa, ask Hi Karl what's happening in Nashville tonight?
+Alexa, ask Hi Karl who's playing at Mercy Lounge this weekend?
+Alexa Ask Hi Karl what's happening in Nashville tonight
+Alexa Ask Hi Karl who's playing at Good Room next weekend
+Alexa, disable hi karl

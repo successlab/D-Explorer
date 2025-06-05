@@ -1,0 +1,4 @@
+Alexa, open chord whisperer
+Alexa tell Chord Whisperer to list F minor 7
+List B flat minor seven
+Alexa, disable chord whisperer

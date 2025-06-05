@@ -1,0 +1,4 @@
+Alexa, turn on Living Room TV
+Alexa, turn down the volume on living room TV
+Alexa, switch input to HDMI 1 on living room TV
+Alexa, disable PhilipsSAPHISmartTVVoiceControl

@@ -1,0 +1,6 @@
+Alexa, open frog sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Frog Sounds
+Alexa, launch Frog Sounds
+Alexa, disable frog sounds

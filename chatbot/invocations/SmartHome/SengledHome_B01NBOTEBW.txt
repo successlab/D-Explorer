@@ -1,0 +1,6 @@
+Alexa, discover my devices.
+Alexa, dim the Desk Lamp
+Alexa, turn on the desk lamp
+Alexa, turn off the bedroom lights
+Alexa, dim the desk lamp
+Alexa, disable SengledHome

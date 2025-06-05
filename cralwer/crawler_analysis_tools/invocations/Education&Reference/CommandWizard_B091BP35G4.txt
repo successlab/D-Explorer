@@ -1,0 +1,5 @@
+Alexa, open command wizard
+Alexa, ask Command Wizard about the curl command
+Alexa, ask Command Wizard how I can combine two files
+Alexa, ask Command Wizard to lookup options for cut
+Alexa, disable command wizard

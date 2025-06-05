@@ -1,0 +1,4 @@
+Alexa, open philly transit
+What elevators are out
+Alexa, Ask Philly Transit what's the current status of the Market Frankford line
+Alexa, disable philly transit

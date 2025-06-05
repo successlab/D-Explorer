@@ -1,0 +1,5 @@
+Alexa, open eight
+Alexa, ask eight how I slept last night
+Alexa, ask eight to start warming my bed
+Alexa, ask eight to stop warming
+Alexa, disable eight

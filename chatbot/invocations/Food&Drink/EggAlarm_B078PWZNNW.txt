@@ -1,0 +1,4 @@
+Alexa, open egg alarm
+Set a time for a medium boiled egg
+Make a soft boiled egg
+Alexa, disable egg alarm

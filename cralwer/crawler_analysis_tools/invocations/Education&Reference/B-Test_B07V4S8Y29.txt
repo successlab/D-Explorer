@@ -1,0 +1,3 @@
+Alexa, open javascript facts
+Alexa, javascript facts
+Alexa, disable javascript facts

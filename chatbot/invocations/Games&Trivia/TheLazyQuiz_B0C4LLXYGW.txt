@@ -1,0 +1,3 @@
+Alexa, open the lazy quiz
+Alexa, start the lazy quiz
+Alexa, disable the lazy quiz

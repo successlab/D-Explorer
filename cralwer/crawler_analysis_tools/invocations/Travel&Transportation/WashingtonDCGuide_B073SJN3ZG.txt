@@ -1,0 +1,4 @@
+Alexa, open washington d. c. guide
+alexa start washington d. c. guide and tell me top five things to do
+alexa launch washington d. c. guide and tell me what to do
+Alexa, disable washington d. c. guide

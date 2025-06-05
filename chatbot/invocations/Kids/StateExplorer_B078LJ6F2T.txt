@@ -1,0 +1,5 @@
+Alexa, open state explorer
+Alexa, ask State Explorer to tell me about Virginia.
+Tell me about a state.
+Challenge me on state nicknames.
+Alexa, disable state explorer

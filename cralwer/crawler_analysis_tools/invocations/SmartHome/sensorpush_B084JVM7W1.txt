@@ -1,0 +1,5 @@
+Alexa, open sensor push
+Alexa, ask sensor push tell me about all sensors
+Alexa, ask sensor push what is the temperature for backyard
+Alexa, ask sensor push set preference for temperature to celsius
+Alexa, disable sensor push

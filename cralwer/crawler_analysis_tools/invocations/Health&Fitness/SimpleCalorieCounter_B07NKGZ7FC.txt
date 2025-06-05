@@ -1,0 +1,4 @@
+Alexa, open calorie counter
+Alexa, ask Calorie Counter to add one hundred calories
+how many calories have I consumed?
+Alexa, disable calorie counter

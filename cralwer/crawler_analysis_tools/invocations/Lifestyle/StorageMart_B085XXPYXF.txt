@@ -1,0 +1,5 @@
+Alexa, open storage mart
+Alexa, ask StorageMart what size unit I need
+Alexa, ask StorageMart what size unit I need for a 3 bedroom house.
+Alexa, ask StorageMart how do I pay my bill
+Alexa, disable storage mart

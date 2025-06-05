@@ -1,0 +1,5 @@
+Alexa, open santas list
+Alexa ask Santas list
+Are they on the nice list
+Are they on the naughty list
+Alexa, disable santas list

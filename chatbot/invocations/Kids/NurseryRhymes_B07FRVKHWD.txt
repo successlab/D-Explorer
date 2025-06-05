@@ -1,0 +1,4 @@
+Alexa, open nursery rhymes
+Alexa, ask nursery rhymes to tell me a rhyme
+Alexa, ask nursery rhymes to give me some rhymes
+Alexa, disable nursery rhymes

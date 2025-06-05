@@ -1,0 +1,5 @@
+Alexa, open the transit oracle
+Alexa ask the transit oracle when the next inbound 24 is coming
+Alexa ask the transit oracle for the outbound 33
+Alexa ask the transit oracle when the inbound N Judah is coming
+Alexa, disable the transit oracle

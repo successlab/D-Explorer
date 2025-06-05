@@ -1,0 +1,4 @@
+Alexa, open cyber monday
+Alexa, ask Cyber Monday what is the date this year
+Alexa, ask Cyber Monday to tell me the top websites
+Alexa, disable cyber monday

@@ -1,0 +1,4 @@
+Alexa, open language numbers
+Alexa, ask Language Numbers to practice French
+Alexa, ask Language Numbers to begin practice
+Alexa, disable language numbers

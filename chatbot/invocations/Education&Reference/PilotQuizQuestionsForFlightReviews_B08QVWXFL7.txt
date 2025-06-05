@@ -1,0 +1,4 @@
+Alexa, open pilot quiz
+ask question
+close pilot quiz
+Alexa, disable pilot quiz

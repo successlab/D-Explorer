@@ -1,0 +1,4 @@
+Alexa, open random number generator
+Alexa, open random number generator and tell me a random number from one to ten
+Alexa, open random number generator and tell me a random number
+Alexa, disable random number generator

@@ -1,0 +1,4 @@
+Alexa, open joke book
+tell me a joke
+tell me a stupid joke
+Alexa, disable joke book

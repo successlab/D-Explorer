@@ -1,0 +1,4 @@
+Alexa, open holy bible
+mark 1
+help
+Alexa, disable holy bible

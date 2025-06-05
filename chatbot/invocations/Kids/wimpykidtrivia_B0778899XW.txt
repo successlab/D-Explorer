@@ -1,0 +1,4 @@
+Alexa, open wimpy kid trivia
+Alexa, start Wimpy Kid Trivia
+Alexa, launch Wimpy Kid Trivia
+Alexa, disable wimpy kid trivia

@@ -1,0 +1,5 @@
+Alexa, open fun fact
+Alexa, fun fact
+Alexa, play fun fact
+Alexa, load fun fact
+Alexa, disable fun fact

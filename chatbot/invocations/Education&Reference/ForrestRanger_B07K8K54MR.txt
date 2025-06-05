@@ -1,0 +1,5 @@
+Alexa, open forrest ranger
+Alexa tell forrest ranger, I want to hear tiger
+Alexa ask forrest ranger, what does lion says?
+Alexa ask forrest ranger, how does bear sounds?
+Alexa, disable forrest ranger

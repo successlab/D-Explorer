@@ -1,0 +1,3 @@
+Alexa, open motivational quotes
+Alexa ask motivational quotes to read me a motivational quote
+Alexa, disable motivational quotes

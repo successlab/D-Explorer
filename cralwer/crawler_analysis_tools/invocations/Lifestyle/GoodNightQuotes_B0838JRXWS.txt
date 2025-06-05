@@ -1,0 +1,5 @@
+Alexa, open good night quotes
+Alexa, next
+Alexa, stop
+Alexa, start good night quotes
+Alexa, disable good night quotes

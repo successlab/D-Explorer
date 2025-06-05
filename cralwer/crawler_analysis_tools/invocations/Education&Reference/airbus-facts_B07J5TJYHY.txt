@@ -1,0 +1,5 @@
+Alexa, open airbus facts
+Alexa, start airbus facts
+Alexa, ask airbus facts for a fact
+Alexa, ask airbus facts to tell something
+Alexa, disable airbus facts

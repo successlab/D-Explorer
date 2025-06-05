@@ -1,0 +1,5 @@
+Alexa, open red cross blood
+Alexa, ask red cross blood where can I donate blood
+Alexa, ask red cross blood to schedule my donation appointment
+Alexa, ask red cross blood to list my appointment
+Alexa, disable red cross blood

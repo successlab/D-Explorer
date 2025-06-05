@@ -1,0 +1,6 @@
+Alexa, open adam facts
+Alexa, launch Adam Facts
+Alexa, stop
+Alexa, ask Adam Facts to tell me about Adam
+Alexa tell me about Adam
+Alexa, disable adam facts

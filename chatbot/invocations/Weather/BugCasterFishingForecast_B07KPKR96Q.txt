@@ -1,0 +1,5 @@
+Alexa, open bug caster
+Alexa, ask Bug Caster to get today's fishing forecast.
+Alexa, ask Bug Caster what the fishing is like.
+Alexa, ask Bug Caster should I go fishing?
+Alexa, disable bug caster

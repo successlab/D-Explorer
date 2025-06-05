@@ -1,0 +1,8 @@
+Alexa, open sleepy lullabies
+Alexa, stop
+Alexa, loop on
+Alexa, stop in 1 hour
+Alexa, start Sleepy Lullabies.
+Alexa, open Sleepy Lullabies.
+Alexa, ask Sleepy Lullabies to begin.
+Alexa, disable sleepy lullabies

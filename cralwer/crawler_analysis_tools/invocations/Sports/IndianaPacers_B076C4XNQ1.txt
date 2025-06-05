@@ -1,0 +1,5 @@
+Alexa, open pacers
+Alexa, open the Pacers
+Alexa, ask the Pacers who's winning tonight
+Alexa, ask the Pacers, when is the next game
+Alexa, disable pacers

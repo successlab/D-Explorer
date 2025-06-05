@@ -1,0 +1,4 @@
+Alexa, open capital game
+Alexa, start Capital Game
+Alexa, launch Capital Game
+Alexa, disable capital game

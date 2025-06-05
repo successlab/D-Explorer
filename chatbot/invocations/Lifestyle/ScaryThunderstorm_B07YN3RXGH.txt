@@ -1,0 +1,3 @@
+Alexa, open scary thunderstorm
+Alexa, start Scary Thunderstorm
+Alexa, disable scary thunderstorm

@@ -1,0 +1,5 @@
+Alexa, open idea bank
+Alexa, something relaxing from idea bank
+Alexa, something fun from idea bank
+Alexa, some adventure from idea bank
+Alexa, disable idea bank

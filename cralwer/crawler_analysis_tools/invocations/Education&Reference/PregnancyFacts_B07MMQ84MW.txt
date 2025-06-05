@@ -1,0 +1,4 @@
+Alexa, open pregnancy facts
+Alexa, open pregnancy facts.
+Give me a pregnancy fact.
+Alexa, disable pregnancy facts

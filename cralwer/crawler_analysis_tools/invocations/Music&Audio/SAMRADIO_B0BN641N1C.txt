@@ -1,0 +1,5 @@
+Alexa, open sam radio
+Alexa, play SAM RADIO
+Alexa, start SAM RADIO
+Alexa, ask SAM RADIO what song is playing
+Alexa, disable sam radio

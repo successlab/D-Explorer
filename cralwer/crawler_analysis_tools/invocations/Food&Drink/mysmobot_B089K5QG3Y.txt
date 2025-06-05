@@ -1,0 +1,5 @@
+Alexa, open my smobot
+Alexa, ask my smobot temperatures
+Alexa, ask my smobot grill temp
+Alexa, ask my smobot to set grill temperature to 250
+Alexa, disable my smobot

@@ -1,0 +1,5 @@
+Alexa, open lake washington
+Alexa, ask Lake Washington what is the forecast for tomorrow at 6am?
+Alexa, ask Lake Washington will Monday be a good day for rowing?
+Alexa, ask Lake Washington how will the water be at 6am Sunday?
+Alexa, disable lake washington

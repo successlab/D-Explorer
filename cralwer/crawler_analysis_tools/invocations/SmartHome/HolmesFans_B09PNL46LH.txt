@@ -1,0 +1,3 @@
+Alexa, turn on the fan
+Alexa, turn off the fan
+Alexa, disable HolmesFans

@@ -1,0 +1,3 @@
+Alexa, turn on the bedroom light
+Alexa, set the kitchen to daylight
+Alexa, disable Hubspace

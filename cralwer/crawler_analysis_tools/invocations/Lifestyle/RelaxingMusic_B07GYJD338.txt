@@ -1,0 +1,4 @@
+Alexa, open relaxing music
+Alexa, start relaxing music
+Alexa, launch relaxing music
+Alexa, disable relaxing music

@@ -1,0 +1,3 @@
+Alexa, open wopet feeder
+Alexa, launch wopet feeder
+Alexa, disable wopet feeder

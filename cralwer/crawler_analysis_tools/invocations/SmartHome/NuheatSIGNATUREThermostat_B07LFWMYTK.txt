@@ -1,0 +1,10 @@
+Alexa, set the bathroom temperature to 27
+Alexa, increase the basement temperature by 5 degrees
+Alexa, decrease the bathroom temperature
+Alexa, what is the temperature of the bathroom?
+Alexa, what is the kitchen set to?
+Alexa, set the kitchen to heat mode
+Alexa, increase Nuheat SIGNATURE Thermostat
+Alexa, decrease Nuheat SIGNATURE Thermostat by 5 degrees
+Alexa, set Nuheat SIGNATURE Thermostat to 26 degrees
+Alexa, disable NuheatSIGNATUREThermostat

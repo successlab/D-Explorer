@@ -1,0 +1,5 @@
+Alexa, open my daily quotes
+Alexa, next
+Alexa, stop
+Alexa, start my daily quotes
+Alexa, disable my daily quotes

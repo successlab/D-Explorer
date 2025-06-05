@@ -1,0 +1,6 @@
+Alexa, open k. m. n. o.
+Alexa, ask KMNO to play Live
+Alexa, ask KMNO to play 'A Taste Of Jazz'
+Alexa, stop
+Alexa, ask KMNO to play A Taste Of Jazz
+Alexa, disable k. m. n. o.

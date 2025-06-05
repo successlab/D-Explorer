@@ -1,0 +1,6 @@
+Alexa, open air conditioner
+Alexa, good night
+Alexa, good night
+Alexa, ask air conditioner to loop
+Alexa, ask air conditioner to play for 3 hours
+Alexa, disable air conditioner

@@ -1,0 +1,3 @@
+Alexa, open my movies
+Alexa, ask my movies what movie should I watch today?
+Alexa, disable my movies

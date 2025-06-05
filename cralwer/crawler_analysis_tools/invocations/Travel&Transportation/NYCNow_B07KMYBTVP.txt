@@ -1,0 +1,16 @@
+Alexa, open n. y. c. now
+Alexa, ask NYC Now when the next downtown 6 train will arrive at Hunts Point Avenue
+Alexa, ask NYC Now when the next D train to the bronx will arrive at columbus circle
+Alexa, ask NYC Now where's my train
+Alexa, ask NYC Now if school is open tomorrow
+Alexa, ask NYC Now if school is open next monday
+Alexa, ask NYC Now if Cuny is open tomorrow
+Alexa, ask NYC Now if Cuny is open next monday
+Alexa, ask NYC Now if alternate side parking in effect tomorrow
+Alexa, ask NYC Now if alternate side parking in effect on friday
+Alexa, ask NYC Now what's happening in lower manhattan
+Alexa, ask NYC Now what's happening in bed stuy?
+Alexa, ask N. Y. C. Now when my train will arrive
+Alexa, ask N. Y. C. Now if there's school tomorrow
+Alexa, ask N. Y. C. Now if alternate side parking is in effect tomorrow
+Alexa, disable n. y. c. now

@@ -1,0 +1,3 @@
+Alexa, open boom light
+Alexa play Boom Light
+Alexa, disable boom light

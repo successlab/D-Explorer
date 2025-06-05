@@ -1,0 +1,5 @@
+Alexa, open gift ideas
+Alexa, tell Gift Ideas to add Benjamin.
+Alexa, tell Gift Ideas to add toy train for Benjamin.
+Alexa, ask Gift Ideas what is on my list for Benjamin?
+Alexa, disable gift ideas

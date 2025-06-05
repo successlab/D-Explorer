@@ -1,0 +1,5 @@
+Alexa, open space explorer
+Alexa, ask space explorer what is the number of people in space?
+Alexa, ask space explorer how many people are in space?
+Alexa, ask space explorer who is in space
+Alexa, disable space explorer

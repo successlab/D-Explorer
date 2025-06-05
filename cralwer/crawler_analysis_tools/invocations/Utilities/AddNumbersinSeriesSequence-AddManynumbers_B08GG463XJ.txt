@@ -1,0 +1,3 @@
+Alexa, open add numbers
+Reset
+Alexa, disable add numbers

@@ -1,0 +1,4 @@
+Alexa, open ninety nine three the juke box
+Alexa, pause
+Alexa, resume
+Alexa, disable ninety nine three the juke box

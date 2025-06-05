@@ -1,0 +1,4 @@
+Alexa, open points buddy
+Alexa, start points buddy
+Alexa, launch points buddy
+Alexa, disable points buddy

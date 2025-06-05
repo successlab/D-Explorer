@@ -1,0 +1,2 @@
+Alexa, open sleep light
+Alexa, disable sleep light

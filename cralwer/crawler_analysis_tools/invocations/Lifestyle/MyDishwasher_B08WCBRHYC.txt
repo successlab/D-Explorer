@@ -1,0 +1,5 @@
+Alexa, open my dishwasher
+Alexa, tell my dishwasher my dishes are clean.
+Alexa, open my dishwasher.
+Tell my dishwasher the dishes are clean.
+Alexa, disable my dishwasher

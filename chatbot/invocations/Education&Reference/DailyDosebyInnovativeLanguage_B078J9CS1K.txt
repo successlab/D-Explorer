@@ -1,0 +1,4 @@
+Alexa, open daily dose
+Alexa, Japanese Lesson from Daily Dose
+Alexa, play Spanish Lesson from Daily Dose
+Alexa, disable daily dose

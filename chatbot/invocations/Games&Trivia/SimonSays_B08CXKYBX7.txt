@@ -1,0 +1,4 @@
+Alexa, open the simon says game
+Alexa, play the Simon Says game
+Alexa, let's play the Simon Says game
+Alexa, disable the simon says game

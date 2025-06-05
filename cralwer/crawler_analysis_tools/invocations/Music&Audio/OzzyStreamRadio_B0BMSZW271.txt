@@ -1,0 +1,5 @@
+Alexa, open ozzy stream radio
+Alexa, play Ozzy Stream Radio
+Alexa, start Ozzy Stream Radio
+Alexa, ask Ozzy Stream Radio what song is playing
+Alexa, disable ozzy stream radio

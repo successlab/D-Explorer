@@ -1,0 +1,5 @@
+Alexa, open t. h. widget
+Alexa, ask T.H. Widget how tall is a tree
+100 feet away and no offset
+How tall is a house
+Alexa, disable t. h. widget

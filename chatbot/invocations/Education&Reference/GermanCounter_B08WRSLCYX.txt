@@ -1,0 +1,6 @@
+Alexa, open german counter
+Alexa, launch German Counter!
+Alexa, open German Counter.
+Alexa, launch German Counter.
+Alexa, ask German Counter to count to 100.
+Alexa, disable german counter

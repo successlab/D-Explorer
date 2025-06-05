@@ -1,0 +1,5 @@
+Alexa, introduce me to Hey Disney!
+caret
+Hey Disney! Start the magic.
+Hey Disney! What can you do?
+Alexa, disable HeyDisneyAmagicalvoiceassistantforAlexa

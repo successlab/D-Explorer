@@ -1,0 +1,5 @@
+Alexa, open the bard
+Alexa, ask the bard to insult me
+Alexa, tell the bard to give me a Shakespearean insult
+Alexa, tell the bard to insult me
+Alexa, disable the bard

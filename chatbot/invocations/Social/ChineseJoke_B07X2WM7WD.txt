@@ -1,0 +1,3 @@
+Alexa, open the chinese joke
+tell me a Chinese joke
+Alexa, disable the chinese joke

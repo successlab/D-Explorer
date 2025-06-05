@@ -1,0 +1,4 @@
+Alexa, open wheel of lunch
+Alexa, tell wheel of lunch I'm hungry
+Alexa, ask wheel of lunch to give me a recommendation
+Alexa, disable wheel of lunch

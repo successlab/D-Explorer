@@ -1,0 +1,3 @@
+Alexa, open connect me
+Alexa, ask Connect Me for more info
+Alexa, disable connect me

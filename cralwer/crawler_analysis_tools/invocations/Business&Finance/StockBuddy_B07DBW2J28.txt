@@ -1,0 +1,4 @@
+Alexa, open stock buddy
+stocks for Amazon
+give me the stock information on Google
+Alexa, disable stock buddy

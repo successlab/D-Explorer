@@ -1,0 +1,3 @@
+Alexa, turn on Neabot
+Alexa, turn off Neabot
+Alexa, disable Neabot

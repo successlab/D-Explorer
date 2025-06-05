@@ -1,0 +1,4 @@
+Alexa, open white noises
+Alexa, pause
+Alexa, resume
+Alexa, disable white noises

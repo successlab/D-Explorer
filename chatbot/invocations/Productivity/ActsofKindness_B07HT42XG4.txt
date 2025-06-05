@@ -1,0 +1,3 @@
+Alexa, open me a random act of kindness
+Alexa, tell me a random act of kindness
+Alexa, disable me a random act of kindness

@@ -1,0 +1,4 @@
+Alexa, open hero training
+Alexa, start Hero Training
+Alexa, ask Hero Training to start workout
+Alexa, disable hero training

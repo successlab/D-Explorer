@@ -1,0 +1,4 @@
+Alexa, open song quiz
+Alexa, start Song Quiz
+Alexa, play Song Quiz
+Alexa, disable song quiz

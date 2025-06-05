@@ -1,0 +1,3 @@
+Alexa, open airplane spotter
+Alexa, ask airplane spotter for aircraft within ten miles
+Alexa, disable airplane spotter

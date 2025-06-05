@@ -1,0 +1,5 @@
+Alexa, open housekeeper elsa
+Alexa, tell housekeeper elsa to remember that car key was kept on dresser
+Alexa, ask housekeeper elsa where is the car key
+Alexa, tell housekeeper elsa to forget car key
+Alexa, disable housekeeper elsa

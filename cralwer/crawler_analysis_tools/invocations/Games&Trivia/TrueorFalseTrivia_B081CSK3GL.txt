@@ -1,0 +1,5 @@
+Alexa, open true or false trivia
+Alexa, ask True or False Trivia for my high score
+Alexa, play True or False Trivia
+Alexa, ask True or False Trivia to start new game
+Alexa, disable true or false trivia

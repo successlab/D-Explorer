@@ -1,0 +1,4 @@
+Alexa, open yes no sure
+Alexa, ask yes no sure if I'll be rich when I grow up
+Alexa, start yes no sure
+Alexa, disable yes no sure

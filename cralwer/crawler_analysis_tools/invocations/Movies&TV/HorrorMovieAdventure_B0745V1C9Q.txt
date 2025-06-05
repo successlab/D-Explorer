@@ -1,0 +1,4 @@
+Alexa, open horror movie adventure
+tell me more
+describe it
+Alexa, disable horror movie adventure

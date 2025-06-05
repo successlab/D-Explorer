@@ -1,0 +1,5 @@
+Alexa, open kates chores
+'Alexa, ask kates chores, what does kate want?'
+'what else does she want?'
+'what else i can do?'
+Alexa, disable kates chores

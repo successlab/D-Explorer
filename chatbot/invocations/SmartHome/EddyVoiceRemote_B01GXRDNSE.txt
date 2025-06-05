@@ -1,0 +1,5 @@
+Alexa, open voice remote
+Alexa, ask Voice Remote What are My Activities
+Alexa, tell Voice Remote to List my Channels
+Alexa, tell Voice Remote to turn on the tv
+Alexa, disable voice remote

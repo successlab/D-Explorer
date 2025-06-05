@@ -1,0 +1,4 @@
+Alexa, open sky tuner
+Alexa, ask sky tuner for the pressure gradient
+Alexa, ask sky tuner for north boulder
+Alexa, disable sky tuner

@@ -1,0 +1,5 @@
+Alexa, open h. i. c.
+Alexa, Ask H. I. C. if the live stream is playing
+Alexa, Ask H. I. C. what the program is today
+Alexa, Ask H. I. C. what are the prayer times today
+Alexa, disable h. i. c.

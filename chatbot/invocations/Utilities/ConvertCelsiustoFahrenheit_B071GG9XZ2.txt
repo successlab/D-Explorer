@@ -1,0 +1,4 @@
+Alexa, open celsius fahrenheit
+Alexa, open Celsius Fahrenheit and convert 10 Celsius
+Alexa, open Celsius Fahrenheit and 10 Celsius
+Alexa, disable celsius fahrenheit

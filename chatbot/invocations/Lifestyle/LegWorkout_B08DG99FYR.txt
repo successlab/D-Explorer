@@ -1,0 +1,4 @@
+Alexa, open leg workout
+Alexa, start leg workout
+Alexa, ask leg workout to start workout
+Alexa, disable leg workout

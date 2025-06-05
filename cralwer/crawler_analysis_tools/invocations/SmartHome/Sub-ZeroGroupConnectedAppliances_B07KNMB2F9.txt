@@ -1,0 +1,4 @@
+Alexa, turn on the oven light.
+Alexa, what's the oven temperature?
+Alexa, what's the temperature of the freezer?
+Alexa, disable Sub-ZeroGroupConnectedAppliances

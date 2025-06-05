@@ -1,0 +1,5 @@
+Alexa, open pants facts
+Alexa, open Pants Facts and tell me about pants.
+Alexa, ask Pants Facts for more trivia.
+Alexa, ask Pants Facts to give me a fact
+Alexa, disable pants facts

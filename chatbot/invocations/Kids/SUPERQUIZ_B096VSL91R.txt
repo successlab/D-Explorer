@@ -1,0 +1,5 @@
+Alexa, open super quizz
+Alexa, next
+Alexa, stop
+Alexa, start super quizz
+Alexa, disable super quizz

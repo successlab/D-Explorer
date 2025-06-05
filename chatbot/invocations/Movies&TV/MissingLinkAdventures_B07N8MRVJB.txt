@@ -1,0 +1,4 @@
+Alexa, open missing link
+Alexa, start Missing Link
+Alexa, launch Missing Link
+Alexa, disable missing link

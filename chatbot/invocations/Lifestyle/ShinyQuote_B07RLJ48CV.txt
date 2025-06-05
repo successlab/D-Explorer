@@ -1,0 +1,4 @@
+Alexa, open shiny quote
+Alexa, open Shiny Quote.
+Tell me a Shiny Quote.
+Alexa, disable shiny quote

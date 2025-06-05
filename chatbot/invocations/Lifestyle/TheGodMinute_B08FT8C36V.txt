@@ -1,0 +1,11 @@
+Alexa, open the god minute
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask the god minute for the latest talk
+Alexa, start the god minute
+Alexa, disable the god minute

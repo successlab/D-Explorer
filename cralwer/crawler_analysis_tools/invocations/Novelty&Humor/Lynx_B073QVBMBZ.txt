@@ -1,0 +1,5 @@
+Alexa, open lynx
+Alexa, ask Lynx to teach me yoga.
+Alexa, tell Lynx to take a picture.
+Alexa, tell Lynx to move forward.
+Alexa, disable lynx

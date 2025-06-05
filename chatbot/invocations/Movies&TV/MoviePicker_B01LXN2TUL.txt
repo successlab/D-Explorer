@@ -1,0 +1,4 @@
+Alexa, open movie picker
+Alexa, ask movie picker whats a good movie to watch
+Alexa, ask movie picker do you know any good movies
+Alexa, disable movie picker

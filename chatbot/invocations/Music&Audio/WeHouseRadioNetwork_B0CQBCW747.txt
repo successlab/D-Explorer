@@ -1,0 +1,4 @@
+Alexa, open we house radio network
+Alexa, ask we house radio network what's playing.
+Alexa, ask we house radio network to play live.
+Alexa, disable we house radio network

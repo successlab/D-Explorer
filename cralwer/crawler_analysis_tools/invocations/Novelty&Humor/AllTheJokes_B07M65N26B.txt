@@ -1,0 +1,5 @@
+Alexa, open all the jokes
+Alexa, ask all the jokes to tell me a joke
+Alexa, ask all the jokes to tell me another joke
+Alexa, tell all the jokes to make me laugh
+Alexa, disable all the jokes

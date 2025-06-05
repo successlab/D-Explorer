@@ -1,0 +1,17 @@
+Alexa, discover my devices
+Alexa, open the bedroom blind
+Alexa, close the kitchen shutter
+Alexa, set the living room shutter to 50%
+Alexa, raise my bedroom blind by 10%
+Alexa, open the garage door
+Alexa, close the gate
+Alexa, brighten the living room light to 60%
+Alexa, set the kitchen light to pink
+Alexa, turn on the bedroom
+Alexa, open the living room
+Alexa, turn on Good Morning.
+Alexa, turn on Everything Up.
+Alexa, close the kitchen shade
+Alexa, raise the bedroom blind to 10 percent
+Alexa, turn on Good Morning
+Alexa, disable TaHomaBySomfy

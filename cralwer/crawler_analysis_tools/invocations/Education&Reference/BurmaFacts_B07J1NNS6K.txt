@@ -1,0 +1,4 @@
+Alexa, open burma facts
+Alexa, tell Burma Facts to give me a burma fact
+Alexa, tell Burma Facts to give me a fact
+Alexa, disable burma facts

@@ -1,0 +1,11 @@
+Alexa, open hope way
+Alexa, open hope way and turn light on/off
+Alexa, open hope way and then open recording
+Alexa, open hope way and then open all day recording
+Alexa, open hope way, open motion detect recording
+Alexa, open hope way, close recording
+Alexa, ask hope way how to configure WiFi
+Alexa, ask hope way how to share device
+Alexa, open hope way and turn camera alarm on
+Alexa, ask hope way for open recording
+Alexa, disable hope way

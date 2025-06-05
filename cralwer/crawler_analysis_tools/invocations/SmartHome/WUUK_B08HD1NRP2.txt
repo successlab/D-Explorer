@@ -1,0 +1,7 @@
+Alexa, open wuuk doorbell
+Alexa, show me the door
+Alexa, ask WUUK Doorbell how many people have visited today
+Alexa, ask Wuuk Doorbell how many people have visited today?
+Alexa, open Wuuk Doorbell.
+Alexa, show me the door.
+Alexa, disable wuuk doorbell

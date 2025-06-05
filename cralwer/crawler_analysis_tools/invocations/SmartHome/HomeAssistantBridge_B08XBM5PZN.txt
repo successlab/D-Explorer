@@ -1,0 +1,3 @@
+Alexa, turn on bedroom lamp
+Alexa, turn off bedroom lamp
+Alexa, disable HomeAssistantBridge

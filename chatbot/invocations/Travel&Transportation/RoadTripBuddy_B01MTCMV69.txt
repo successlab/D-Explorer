@@ -1,0 +1,5 @@
+Alexa, open road trip buddy
+alexa ask road trip buddy status of CA 101
+alexa ask road trip buddy status of highway CA 101
+alexa ask road trip buddy check status of CA 101
+Alexa, disable road trip buddy

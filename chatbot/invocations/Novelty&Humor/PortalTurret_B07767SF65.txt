@@ -1,0 +1,5 @@
+Alexa, open portal turret
+Alexa, ask Portal Turret to Give me a Portal Turret Quote
+Alexa, ask Portal Turret to Tell me a Portal Turret Quote
+Alexa, ask Portal Turret to quote Portal Turrets
+Alexa, disable portal turret

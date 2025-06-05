@@ -1,0 +1,5 @@
+Alexa, turn on the kitchen light
+Alexa, turn on sleep
+Alexa, set color bulb to 50%
+Alexa, set color bulb to 50 percent
+Alexa, disable CameraGW

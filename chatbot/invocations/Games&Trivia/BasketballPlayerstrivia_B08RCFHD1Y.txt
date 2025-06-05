@@ -1,0 +1,3 @@
+Alexa, open guess basketball player
+Alexa, start guess basketball player
+Alexa, disable guess basketball player

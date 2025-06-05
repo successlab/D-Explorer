@@ -1,0 +1,4 @@
+Alexa, open morning workout
+Alexa, start morning workout
+Alexa, ask morning workout to start workout
+Alexa, disable morning workout

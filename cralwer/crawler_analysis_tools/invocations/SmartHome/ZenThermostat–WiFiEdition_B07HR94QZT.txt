@@ -1,0 +1,4 @@
+Alexa, set the thermostat temperature to 74 degrees
+Alexa, increase the thermostat temperature by 2 degrees
+Alexa, what is the temperature inside?
+Alexa, disable ZenThermostat–WiFiEdition

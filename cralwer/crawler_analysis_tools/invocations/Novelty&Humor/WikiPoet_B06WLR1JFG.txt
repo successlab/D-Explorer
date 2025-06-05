@@ -1,0 +1,5 @@
+Alexa, open wiki poet
+Alexa, ask wiki poet for a poem about Lady Gaga
+Alexa, ask wiki poet for a poem on Indiana
+Alexa, ask wiki poet for a poem about Tom Brady
+Alexa, disable wiki poet

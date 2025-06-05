@@ -1,0 +1,4 @@
+Alexa, open vegas pro assistant
+How can I record audio?
+How do I render to a new track?
+Alexa, disable vegas pro assistant

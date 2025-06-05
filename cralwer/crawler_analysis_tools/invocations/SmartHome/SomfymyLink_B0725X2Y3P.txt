@@ -1,0 +1,5 @@
+Alexa, open my link
+Alexa, ask myLink to lower Bedroom Shades.
+Alexa, tell myLink to raise Kitchen Blinds.
+Alexa, ask myLink to play Good Night scene.
+Alexa, disable my link

@@ -1,0 +1,4 @@
+Alexa, open the truth station
+Alexa, ask the truth station for headlines
+Alexa, play the truth station
+Alexa, disable the truth station

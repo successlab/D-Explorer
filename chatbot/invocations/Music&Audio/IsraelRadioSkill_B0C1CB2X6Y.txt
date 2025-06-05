@@ -1,0 +1,3 @@
+Alexa, open israel radio
+Alexa, play galgalatz
+Alexa, disable israel radio

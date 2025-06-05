@@ -1,0 +1,4 @@
+Alexa, open one piece facts
+Alexa, start one piece facts
+Alexa, ask one piece facts for a fact
+Alexa, disable one piece facts

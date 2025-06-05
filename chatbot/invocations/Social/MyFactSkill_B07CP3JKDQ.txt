@@ -1,0 +1,2 @@
+Alexa, open my fact
+Alexa, disable my fact

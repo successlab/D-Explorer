@@ -1,0 +1,5 @@
+Alexa, open project nursery
+Alexa, open Project Nursery.
+Alexa ask project nursery to turn off bedroom camera motion detection
+Alexa ask project nursery to take a picture with bedroom camera
+Alexa, disable project nursery

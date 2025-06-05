@@ -1,0 +1,6 @@
+Alexa, open random sleep sounds
+Alexa, good night
+Alexa, good night
+Alexa, ask random sleep sounds to loop
+Alexa, ask random sleep sounds to play for 3 hours
+Alexa, disable random sleep sounds

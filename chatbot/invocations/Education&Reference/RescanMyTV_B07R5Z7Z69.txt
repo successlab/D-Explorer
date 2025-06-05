@@ -1,0 +1,3 @@
+Alexa, open rescan my t.v.
+Alexa, launch rescan my t.v.
+Alexa, disable rescan my t.v.

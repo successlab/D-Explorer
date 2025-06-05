@@ -1,0 +1,7 @@
+Alexa, open spurgeon's devotional
+Alexa, tell Spurgeon's Devotional my timezone is (Eastern, Central, Mountain, Pacific, Alaska, or Hawaii).
+Alexa, ask Spurgeon's Devotional to read the morning devotional for January 3rd.
+Alexa, ask Spurgeon's Devotional to read the current devotional.
+Alexa, tell Spurgeon's Devotional my timezone is Central.
+Alexa, ask Spurgeon's Devotional to read the morning devotional for December 25th.
+Alexa, disable spurgeon's devotional

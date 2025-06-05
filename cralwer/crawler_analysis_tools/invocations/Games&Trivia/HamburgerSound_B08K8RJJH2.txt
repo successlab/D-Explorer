@@ -1,0 +1,4 @@
+Alexa, open hamburger sound
+Alexa, start Hamburger Sound
+Alexa, launch Hamburger Sound
+Alexa, disable hamburger sound

@@ -1,0 +1,4 @@
+Alexa, open date night
+Alexa, ask Date Night for a new activity
+Alexa, ask Date Night to suggest an activity for us.
+Alexa, disable date night

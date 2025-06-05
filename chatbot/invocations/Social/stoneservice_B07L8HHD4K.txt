@@ -1,0 +1,10 @@
+Alexa, open stone service
+Alexa, open stone service and call (someone)
+Alexa, ask stone service to dial (digit numbers)
+Alexa, open stone service and receive a call
+Alexa, ask stone service to pick up
+Alexa, open stone service and hang up a call
+Alexa, ask stone service to hang up
+Alexa, ask stone service to receive a call
+Alexa, ask stone service to hang up a call
+Alexa, disable stone service

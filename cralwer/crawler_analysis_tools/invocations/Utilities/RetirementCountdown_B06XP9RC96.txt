@@ -1,0 +1,4 @@
+Alexa, open retirement countdown
+Alexa, ask Retirement Countdown how many days I have left
+Alexa, tell Retirement Countdown to change my retirement date to November 26th, 2021
+Alexa, disable retirement countdown

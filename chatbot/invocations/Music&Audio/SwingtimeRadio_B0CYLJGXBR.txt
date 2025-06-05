@@ -1,0 +1,4 @@
+Alexa, open swing time radio
+Alexa, play Swing time Radio
+Alexa, start Swing time Radio
+Alexa, disable swing time radio

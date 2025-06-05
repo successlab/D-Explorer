@@ -1,0 +1,2 @@
+Alexa, open personality quiz
+Alexa, disable personality quiz

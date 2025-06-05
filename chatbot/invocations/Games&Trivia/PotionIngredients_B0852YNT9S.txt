@@ -1,0 +1,4 @@
+Alexa, open potion ingredients
+Alexa, ask Potion Ingredients to give me three
+Alexa, tell Potion Ingredients I need three
+Alexa, disable potion ingredients

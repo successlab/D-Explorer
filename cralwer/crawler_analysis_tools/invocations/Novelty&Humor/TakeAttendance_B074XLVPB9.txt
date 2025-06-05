@@ -1,0 +1,3 @@
+Alexa, open take attendance
+Alexa ask take attendance how many people are in the room
+Alexa, disable take attendance

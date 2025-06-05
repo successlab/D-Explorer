@@ -1,0 +1,4 @@
+Alexa, open animal categories
+mammals
+tell me about elephant
+Alexa, disable animal categories

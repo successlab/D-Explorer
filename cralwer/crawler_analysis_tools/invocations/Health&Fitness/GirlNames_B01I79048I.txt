@@ -1,0 +1,5 @@
+Alexa, open girl names
+Alexa, ask Girl Names to say a name
+Alexa, ask Girl Names for a name
+Alexa, ask Girl Names to provide a name
+Alexa, disable girl names

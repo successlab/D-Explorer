@@ -1,0 +1,5 @@
+Alexa, open styling radio
+Alexa, play Styling Radio
+Alexa, pause
+Alexa, resume
+Alexa, disable styling radio

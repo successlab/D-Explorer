@@ -1,0 +1,5 @@
+Alexa, open catholic daily
+Alexa, ask Catholic Daily for the readings for today
+Alexa, ask Catholic Daily for the gospel for today
+Alexa, tell Catholic Daily I want the readings for July 26, 2016
+Alexa, disable catholic daily

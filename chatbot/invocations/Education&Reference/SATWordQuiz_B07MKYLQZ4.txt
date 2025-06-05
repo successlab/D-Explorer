@@ -1,0 +1,2 @@
+Alexa, open word quiz
+Alexa, disable word quiz

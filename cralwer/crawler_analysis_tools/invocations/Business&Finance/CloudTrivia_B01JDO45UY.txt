@@ -1,0 +1,5 @@
+Alexa, open cloud trivia
+Alexa start cloud trivia
+repeat
+end
+Alexa, disable cloud trivia

@@ -1,0 +1,4 @@
+Alexa, open joke monkey
+Alexa, launch Joke Monkey and tell me a joke
+Alexa, launch Joke Monkey and tell me a bad joke
+Alexa, disable joke monkey

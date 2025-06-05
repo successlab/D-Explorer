@@ -1,0 +1,4 @@
+Alexa, open mister stock
+Alexa, ask Mister Stock for news about Tesla
+Alexa, ask Mister Stock for most gainer stocks
+Alexa, disable mister stock

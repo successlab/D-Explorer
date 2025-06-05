@@ -1,0 +1,5 @@
+Alexa, open wind noise
+Alexa, pause.” To resume it again, say 
+Alexa, pause
+Alexa, resume
+Alexa, disable wind noise

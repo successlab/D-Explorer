@@ -1,0 +1,13 @@
+Alexa, open petcube
+Alexa, ask Petcube has Rocky been fed?
+Alexa, ask Petcube has Rocky been for a walk?
+Alexa, tell Petcube I fed Rocky
+Alexa, tell Petcube Rocky has been fed
+Alexa, tell Petcube I walked Rocky
+Alexa, tell Petcube Rocky has been walked
+Alexa, turn Petcube Care off on Living Room
+Alexa, turn video recording on on Living Room
+Alexa, ask Petcube to play with Thomas for five minutes
+Alexa, ask Petcube to toss treats
+Alexa, turn on Petcube Care on Living Room
+Alexa, disable petcube

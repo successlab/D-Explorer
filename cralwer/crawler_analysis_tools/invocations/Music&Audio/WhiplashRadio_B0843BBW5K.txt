@@ -1,0 +1,4 @@
+Alexa, open whiplash radio
+Alexa, start whiplash radio
+Alexa, ask whiplash radio what's playing
+Alexa, disable whiplash radio

@@ -1,0 +1,4 @@
+Alexa, open kids animal quiz
+Alexa, play kids animal quiz
+Alexa, load kids animal quiz
+Alexa, disable kids animal quiz

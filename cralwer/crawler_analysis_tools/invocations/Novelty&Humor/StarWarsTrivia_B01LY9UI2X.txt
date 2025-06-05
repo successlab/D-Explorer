@@ -1,0 +1,4 @@
+Alexa, open star trivia
+Repeat
+Help
+Alexa, disable star trivia

@@ -1,0 +1,5 @@
+Alexa, open insult generator
+Alexa, ask insult generator to generate insult for Jessica
+Stop
+Help
+Alexa, disable insult generator

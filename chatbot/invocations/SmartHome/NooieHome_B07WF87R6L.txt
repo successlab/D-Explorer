@@ -1,0 +1,3 @@
+Alexa, turn on kitchen plug
+Alexa, turn off kitchen plug
+Alexa, disable NooieHome

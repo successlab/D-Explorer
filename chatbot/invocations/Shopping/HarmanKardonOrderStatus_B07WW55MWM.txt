@@ -1,0 +1,3 @@
+Alexa, open harman kardon
+Alexa, ask Harman Kardon where is my order?
+Alexa, disable harman kardon

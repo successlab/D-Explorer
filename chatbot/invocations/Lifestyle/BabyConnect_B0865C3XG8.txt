@@ -1,0 +1,5 @@
+Alexa, open baby connect
+Alexa, ask Baby Connect to save a dirty Diaper
+Alexa, ask Baby Connect to save a 3 oz Formula Bottle
+Alexa, ask Baby Connect to start nursing
+Alexa, disable baby connect

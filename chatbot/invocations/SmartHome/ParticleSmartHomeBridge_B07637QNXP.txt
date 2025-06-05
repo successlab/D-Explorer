@@ -1,0 +1,4 @@
+Alexa, Make Photon Red
+Alexa, Lock Bedroom Door
+Alexa, What is the temperature of my blanket?
+Alexa, disable ParticleSmartHomeBridge

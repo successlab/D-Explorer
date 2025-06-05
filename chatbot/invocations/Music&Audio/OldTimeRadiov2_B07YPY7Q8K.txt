@@ -1,0 +1,5 @@
+Alexa, open old time radio
+Alexa, start Old Time Radio
+Alexa, ask Old Time Radio to play Comedy
+Alexa, ask Old Time Radio to play The Life Of Riley
+Alexa, disable old time radio

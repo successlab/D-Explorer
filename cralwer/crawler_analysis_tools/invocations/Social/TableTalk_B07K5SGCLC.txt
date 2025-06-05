@@ -1,0 +1,4 @@
+Alexa, open table talk
+Alexa, Table Talk
+Alexa, Start Table Talk
+Alexa, disable table talk

@@ -1,0 +1,4 @@
+Alexa, open elf names
+Alexa, ask Elf Names for my elf name.
+Alexa, ask Elf Names to elf me.
+Alexa, disable elf names

@@ -1,0 +1,4 @@
+Alexa, turn on the Home TV
+Alexa, turn off the Home TV
+Alexa, turn the volume up on Home TV
+Alexa, disable HomeTV

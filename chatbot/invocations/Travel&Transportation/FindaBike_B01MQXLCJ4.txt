@@ -1,0 +1,5 @@
+Alexa, open find a bike
+Alexa ask Find A Bike how many Divvys are at Millennium Park
+Alexa ask Find A Bike State St. and Randolph St.
+Alexa ask Find A Bike status of Burnham Harbor
+Alexa, disable find a bike

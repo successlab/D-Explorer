@@ -1,0 +1,4 @@
+Alexa, open fruits or vegetables
+I want a big blue vegetable
+Tell me more
+Alexa, disable fruits or vegetables

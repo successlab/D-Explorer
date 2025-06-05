@@ -1,0 +1,4 @@
+Alexa, open router reset wizard
+Alexa, ask Router Reset Wizard to count for me
+Alexa, ask Router Reset Wizard to count for me right now
+Alexa, disable router reset wizard

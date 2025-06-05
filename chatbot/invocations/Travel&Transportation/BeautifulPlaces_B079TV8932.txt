@@ -1,0 +1,4 @@
+Alexa, open beautiful places
+Alexa, ask Beautiful Places to tell me a fact
+Alexa, ask Beautiful Places to tell me something
+Alexa, disable beautiful places

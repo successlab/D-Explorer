@@ -1,0 +1,3 @@
+Alexa, open winter holiday tracker
+Alexa, start Winter Holiday Tracker
+Alexa, disable winter holiday tracker

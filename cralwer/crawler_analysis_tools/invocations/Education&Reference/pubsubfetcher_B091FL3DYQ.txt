@@ -1,0 +1,4 @@
+Alexa, open pub sub fetcher
+is chicken tenders sub currently on sale
+are chicken tenders sub on sale
+Alexa, disable pub sub fetcher

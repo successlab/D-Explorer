@@ -1,0 +1,4 @@
+Alexa, open autumn leaves
+Alexa, Pause
+Alexa, Resume
+Alexa, disable autumn leaves

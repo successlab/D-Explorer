@@ -1,0 +1,5 @@
+Alexa, open chuck facts
+Alexa, ask ChuckFacts to tell me something about Chuck Norris
+Alexa, ask ChuckFacts to tell me a Chuck Norris fact
+Alexa, ask ChuckFacts to give me a Chuck Norris fact
+Alexa, disable chuck facts

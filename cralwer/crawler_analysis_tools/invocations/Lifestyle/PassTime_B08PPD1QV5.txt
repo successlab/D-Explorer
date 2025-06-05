@@ -1,0 +1,3 @@
+Alexa, open pass time
+Alexa, use Pass Time to help me pass some time!
+Alexa, disable pass time

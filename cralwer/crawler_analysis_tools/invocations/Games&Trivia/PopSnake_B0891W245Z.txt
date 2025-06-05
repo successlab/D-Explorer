@@ -1,0 +1,4 @@
+Alexa, open pop snake
+Alexa open pop snake and start game
+Alexa open pop snake and start a two player game
+Alexa, disable pop snake

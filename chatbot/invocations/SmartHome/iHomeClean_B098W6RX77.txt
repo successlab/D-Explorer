@@ -1,0 +1,4 @@
+Alexa, turn on Eclipse
+Alexa, turn off Eclipse
+Alexa, start Eclipse
+Alexa, disable iHomeClean

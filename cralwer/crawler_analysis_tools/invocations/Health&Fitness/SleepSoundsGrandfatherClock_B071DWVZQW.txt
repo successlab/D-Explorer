@@ -1,0 +1,6 @@
+Alexa, open grandfather clock
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Grandfather Clock
+Alexa, launch Grandfather Clock
+Alexa, disable grandfather clock

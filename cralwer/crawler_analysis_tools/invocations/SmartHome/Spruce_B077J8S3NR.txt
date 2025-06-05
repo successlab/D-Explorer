@@ -1,0 +1,5 @@
+Alexa, open spruce
+Alexa, tell Spruce to turn on zone one for five minutes
+Alexa, ask Spruce when the last schedule ran?
+Alexa, tell Spruce to turn on all zones for five minutes
+Alexa, disable spruce

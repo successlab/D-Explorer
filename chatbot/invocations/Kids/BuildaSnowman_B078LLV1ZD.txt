@@ -1,0 +1,4 @@
+Alexa, open build a snowman
+Alexa, build a snowman
+Alexa, ask build a snowman to show my last snowman
+Alexa, disable build a snowman

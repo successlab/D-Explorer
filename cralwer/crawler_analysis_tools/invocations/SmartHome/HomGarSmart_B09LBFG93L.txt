@@ -1,0 +1,5 @@
+Alexa,discover devices.
+Alexa, turn on the water controller
+Alexa, turn off the water controller
+Alexa, open water controller
+Alexa, disable HomGarSmart

@@ -1,0 +1,5 @@
+Alexa, open quadratic solver
+Alexa ask quadratic solver to solve five x squared plus three x minus two.
+Alexa ask quadratic solver to solve negative three b squared minus three b plus one.
+Alexa ask quadratic solver to find roots of negative three b squared minus three b plus one equals zero.
+Alexa, disable quadratic solver

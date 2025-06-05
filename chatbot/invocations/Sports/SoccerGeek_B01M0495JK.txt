@@ -1,0 +1,4 @@
+Alexa, open soccer geek
+Alexa, ask soccer geek to tell me a soccer fact
+Alexa, ask soccer geek to tell me a soccer trivia
+Alexa, disable soccer geek

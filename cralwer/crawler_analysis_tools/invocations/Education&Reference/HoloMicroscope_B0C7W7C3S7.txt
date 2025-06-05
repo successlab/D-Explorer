@@ -1,0 +1,4 @@
+Alexa, open microscope guide
+Alexa, begin microscope guide
+Alexa, start microscope guide
+Alexa, disable microscope guide

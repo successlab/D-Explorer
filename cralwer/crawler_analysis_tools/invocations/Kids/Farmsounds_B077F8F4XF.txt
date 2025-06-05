@@ -1,0 +1,5 @@
+Alexa, open farm sounds
+Alexa, Start Farm sounds
+Start
+Cow
+Alexa, disable farm sounds

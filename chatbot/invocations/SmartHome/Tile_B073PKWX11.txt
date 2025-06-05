@@ -1,0 +1,5 @@
+Alexa, open tile
+Alexa, find my keys.
+Alexa, locate my wallet.
+Alexa, ring my remote?
+Alexa, disable tile

@@ -1,0 +1,6 @@
+Alexa, Open Bedroom Left.
+Alexa, Close Living Room.
+Alexa, Activate 'I'm Leaving.'
+Alexa, Close Kitchen Right shade to fifty percent.
+Alexa, Open Kitchen Right tilt to fifty percent.
+Alexa, disable PowerView®Gen3Automation

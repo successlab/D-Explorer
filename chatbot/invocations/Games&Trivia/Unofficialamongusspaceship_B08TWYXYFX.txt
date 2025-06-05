@@ -1,0 +1,3 @@
+Alexa, open the spaceship trip
+Alexa, start the spaceship trip
+Alexa, disable the spaceship trip

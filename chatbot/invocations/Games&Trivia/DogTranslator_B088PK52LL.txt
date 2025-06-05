@@ -1,0 +1,2 @@
+Alexa, open dog translator
+Alexa, disable dog translator

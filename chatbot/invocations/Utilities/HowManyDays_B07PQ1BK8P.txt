@@ -1,0 +1,3 @@
+Alexa, open my days
+Alexa, start My Days
+Alexa, disable my days

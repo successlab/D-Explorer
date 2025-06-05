@@ -1,0 +1,7 @@
+Alexa, open today's evening prayer
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, ask today's evening prayer for the latest talk
+Alexa, start today's evening prayer
+Alexa, disable today's evening prayer

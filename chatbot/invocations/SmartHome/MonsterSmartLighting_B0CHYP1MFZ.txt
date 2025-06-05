@@ -1,0 +1,4 @@
+Alexa, turn on bedroom light
+Alexa, increase the brightness in the bedroom
+Alexa, set the bedroom light to blue
+Alexa, disable MonsterSmartLighting

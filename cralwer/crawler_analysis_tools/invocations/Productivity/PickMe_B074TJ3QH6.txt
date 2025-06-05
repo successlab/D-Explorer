@@ -1,0 +1,4 @@
+Alexa, open pick me
+Alexa, ask pick me to choose between chinese american or mexican
+pick chinese american or mexican
+Alexa, disable pick me

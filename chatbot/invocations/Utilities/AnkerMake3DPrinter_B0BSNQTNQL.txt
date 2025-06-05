@@ -1,0 +1,8 @@
+Alexa, open my printer
+Alexa, open my printer.
+Alexa, What is the status of my printer?
+Alexa, How much more time will it take to print my model?
+Alexa, How long until my printed model is finished?
+Alexa, ask my printer for printer status.
+Alexa, ask my printer for how long until my printed model is finished.
+Alexa, disable my printer

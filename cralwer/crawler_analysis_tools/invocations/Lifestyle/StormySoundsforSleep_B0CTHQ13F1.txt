@@ -1,0 +1,4 @@
+Alexa, open stormy sounds
+Alexa ask stormy sounds to play for 30 minutes
+Alexa stop
+Alexa, disable stormy sounds

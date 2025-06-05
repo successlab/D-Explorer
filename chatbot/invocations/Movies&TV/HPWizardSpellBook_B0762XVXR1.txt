@@ -1,0 +1,5 @@
+Alexa, open spell book
+'Alexa, Open Spell Book and tell me a spell'
+'Tell me a spell from the Spell Book
+'Search Spell Book for a spell'
+Alexa, disable spell book

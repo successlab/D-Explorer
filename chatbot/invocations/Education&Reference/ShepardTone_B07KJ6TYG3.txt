@@ -1,0 +1,4 @@
+Alexa, open shepard tone
+Alexa, launch Shepard Tone
+Alexa, ask Shepard Tone to play
+Alexa, disable shepard tone

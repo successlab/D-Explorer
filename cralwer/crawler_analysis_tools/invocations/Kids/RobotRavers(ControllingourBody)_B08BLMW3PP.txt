@@ -1,0 +1,4 @@
+Alexa, open robot ravers
+Alexa, start Robot Ravers
+Alexa, launch Robot Ravers
+Alexa, disable robot ravers

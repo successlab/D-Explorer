@@ -1,0 +1,5 @@
+Alexa, open tempest
+Alexa, ask Tempest how is the weather?
+Alexa, ask Tempest what is the temperature?
+Alexa, ask Tempest for a report
+Alexa, disable tempest

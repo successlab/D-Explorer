@@ -1,0 +1,4 @@
+Alexa, turn on kitchen light
+Alexa, turn off Sonos
+Alexa, dim living room light
+Alexa, disable nomossystem

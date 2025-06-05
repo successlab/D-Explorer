@@ -1,0 +1,4 @@
+Alexa, turn up the volume on living room TV
+Alexa, dim the bedroom lamp
+Alexa, turn off the soundbar
+Alexa, disable SmartThings

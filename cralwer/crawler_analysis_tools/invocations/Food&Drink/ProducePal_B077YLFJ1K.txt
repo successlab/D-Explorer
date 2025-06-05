@@ -1,0 +1,5 @@
+Alexa, open produce pal
+Alexa, ask Produce Pal about mandarin oranges
+Alexa, ask Produce Pal where to store eggplants.
+Alexa, ask Produce Pal where tomatoes go.
+Alexa, disable produce pal

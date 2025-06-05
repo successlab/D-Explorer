@@ -1,0 +1,5 @@
+Alexa, open dolphin sounds
+Alexa, start dolphin sounds
+Alexa, ask dolphin sounds which sound a dolphin makes
+Alexa, ask dolphin sounds how does the dolphin make
+Alexa, disable dolphin sounds

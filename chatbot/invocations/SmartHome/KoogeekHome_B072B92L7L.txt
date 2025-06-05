@@ -1,0 +1,4 @@
+Alexa, turn on kitchen light
+Alexa, turn off Kitchen light
+Alexa, set hallway light to 50 percent
+Alexa, disable KoogeekHome

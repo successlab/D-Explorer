@@ -1,0 +1,4 @@
+Alexa, open thermaltake
+Alexa, tell Thermaltake to use flow mode.
+Alexa, tell Thermaltake to say hello tt mode.
+Alexa, disable thermaltake

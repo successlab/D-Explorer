@@ -1,0 +1,2 @@
+Alexa, open share a window
+Alexa, disable share a window

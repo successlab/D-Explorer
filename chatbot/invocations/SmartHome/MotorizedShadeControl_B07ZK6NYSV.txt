@@ -1,0 +1,3 @@
+Alexa, turn on Morning routine.
+Alexa, set living room shade to 50 percent
+Alexa, disable MotorizedShadeControl

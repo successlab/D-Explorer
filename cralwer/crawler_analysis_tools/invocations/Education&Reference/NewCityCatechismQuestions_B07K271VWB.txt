@@ -1,0 +1,5 @@
+Alexa, open catechism
+Alexa ask the catechism for more questions
+Alexa ask the catechism for a question
+Alexa ask the catechism for a new question
+Alexa, disable catechism

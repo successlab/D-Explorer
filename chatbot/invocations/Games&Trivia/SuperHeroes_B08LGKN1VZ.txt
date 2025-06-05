@@ -1,0 +1,4 @@
+Alexa, open super heroes
+hello
+help
+Alexa, disable super heroes

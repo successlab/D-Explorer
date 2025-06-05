@@ -1,0 +1,4 @@
+Alexa, open i love you
+Alexa, stop
+Alexa, start I Love You
+Alexa, disable i love you

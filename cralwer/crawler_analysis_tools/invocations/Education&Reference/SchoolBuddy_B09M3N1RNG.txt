@@ -1,0 +1,5 @@
+Alexa, open school buddy
+Alexa, ask school buddy what are the events in school tomorrow
+Alexa, ask school buddy whats happening in my school
+Alexa, ask school buddy whats happening in school next week
+Alexa, disable school buddy

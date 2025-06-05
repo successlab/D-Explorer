@@ -1,0 +1,5 @@
+Alexa, open air check
+Alexa, ask AirCheck for the air quality in San Francisco.
+Alexa, ask AirCheck for the AQI for San Francisco.
+Alexa, ask AirCheck for the air quality index for 94114.
+Alexa, disable air check

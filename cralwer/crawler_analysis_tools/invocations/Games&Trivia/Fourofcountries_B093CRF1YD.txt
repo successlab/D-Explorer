@@ -1,0 +1,14 @@
+Alexa, open four of countries
+Alexa, use a hint.
+Alexa, use a remover
+Alexa, what is the current score?
+Alexa, delete a user.
+Alexa, what question packs do you have
+Alexa, use a question pack.
+Alexa, repeat.
+Alexa, help
+Alexa, cancel.
+Alexa play four of countries
+Alexa open four of countries and start today's game
+Alexa ask four of countries to tell me the leaderboard
+Alexa, disable four of countries

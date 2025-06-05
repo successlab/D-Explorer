@@ -1,0 +1,5 @@
+Alexa, open george's answering machine
+Alexa, play George's answering machine.
+Alexa, open George's answering machine.
+Alexa, launch George's answering machine.
+Alexa, disable george's answering machine

@@ -1,0 +1,3 @@
+Alexa, turn on hallway light
+Alexa, turn off hallway light
+Alexa, disable BroadLinkBLE

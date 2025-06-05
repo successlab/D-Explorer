@@ -1,0 +1,5 @@
+Alexa, open daily dad jokes
+Alexa, next
+Alexa, stop
+Alexa, start Daily Dad Jokes
+Alexa, disable daily dad jokes

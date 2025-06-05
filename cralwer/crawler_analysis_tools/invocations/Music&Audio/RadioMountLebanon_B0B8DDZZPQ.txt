@@ -1,0 +1,6 @@
+Alexa, open radio mount lebanon
+Alexa, enable Mount Lebanon skill.
+Alexa, stop
+Alexa, launch Radio Mount Lebanon
+Alexa, play Radio Mount Lebanon
+Alexa, disable radio mount lebanon

@@ -1,0 +1,5 @@
+Alexa, open track my bills
+Alexa, launch track my bills
+Alexa, ask track my bills to add a bill
+Alexa, ask track my bills to get total
+Alexa, disable track my bills

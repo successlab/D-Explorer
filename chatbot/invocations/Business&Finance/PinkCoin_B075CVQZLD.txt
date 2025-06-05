@@ -1,0 +1,4 @@
+Alexa, open pink coin
+Alexa, ask Pink Coin Price
+what is the price
+Alexa, disable pink coin

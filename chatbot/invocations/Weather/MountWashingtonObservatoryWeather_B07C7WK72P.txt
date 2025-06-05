@@ -1,0 +1,5 @@
+Alexa, open mount washington
+Alexa, ask Mount Washington what is the weather?
+Alexa, ask Mount Washington what is the forecast?
+Alexa, ask Mount Washington what was the weather on September 6th 1979?
+Alexa, disable mount washington

@@ -1,0 +1,14 @@
+Alexa, turn on the coffee machine
+Alexa, turn off the camera
+Alexa, turn on the spots
+Alexa, turn off ceiling light
+Alexa, set ceiling light to thirty percent
+Alexa, set ceiling light to blue
+Alexa, close bedroom blind
+Alexa, open office shutter to fifty percent
+Alexa, lower kitchen shade by twenty percent
+Alexa, activate Exit
+Alexa, turn on light
+Alexa, set bedroom light to 20 percent
+Alexa, open bedroom blind
+Alexa, disable MyHome_Up

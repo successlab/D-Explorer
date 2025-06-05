@@ -1,0 +1,5 @@
+Alexa, open key locator
+Alexa tell key locator that my keys are on the table
+Alexa ask key locator where my keys are
+Alexa tell key locator that my keys are on the counter
+Alexa, disable key locator

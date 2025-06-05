@@ -1,0 +1,5 @@
+Alexa, open mail triage
+Alexa ask Mail Triage to read emails
+next message
+flag it
+Alexa, disable mail triage

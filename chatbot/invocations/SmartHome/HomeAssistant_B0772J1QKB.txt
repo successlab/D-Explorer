@@ -1,0 +1,4 @@
+Alexa, turn on the kitchen light
+Alexa, set the living room light to 20%
+Alexa, turn on the AC
+Alexa, disable HomeAssistant

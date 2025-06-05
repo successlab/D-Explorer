@@ -1,0 +1,5 @@
+Alexa, open dad simulator
+Alexa ask Dad Simulator to talk to me
+Alexa ask Dad Simulator to tell me a story
+Alexa ask Dad Simulator to tell me a joke
+Alexa, disable dad simulator

@@ -1,0 +1,3 @@
+Alexa, open laptop fact
+Alexa, laptop fact
+Alexa, disable laptop fact

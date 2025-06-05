@@ -1,0 +1,4 @@
+Alexa, open pride radio canada
+Alexa, Start Pride Radio Canada
+Alexa, Play Pride Radio Canada
+Alexa, disable pride radio canada

@@ -1,0 +1,4 @@
+Alexa, show my front door.
+Alexa show the front door
+Alexa go home
+Alexa, disable AJCloud

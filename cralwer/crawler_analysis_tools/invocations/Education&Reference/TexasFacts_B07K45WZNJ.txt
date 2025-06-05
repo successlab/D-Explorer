@@ -1,0 +1,5 @@
+Alexa, open texas facts
+Alexa, ask Texas facts for a fact
+Alexa, ask Texas facts for a Texas fact
+Alexa, ask Texas facts to tell me a neat fact
+Alexa, disable texas facts

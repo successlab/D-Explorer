@@ -1,0 +1,5 @@
+Alexa, open daily horoscope
+Alexa, ask Daily Horoscope what are the zodiac signs
+Alexa, ask Daily Horoscope to tell me about Leo horoscope for today
+Alexa, ask Daily Horoscope tell me about Taurus horoscope for tomorrow
+Alexa, disable daily horoscope

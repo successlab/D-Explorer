@@ -1,0 +1,5 @@
+Alexa, open bulletin board
+Alexa, ask Bulletin Board to start a new board.
+Alexa, ask Bulletin Board to leave the message Walk the Dog for John.
+Alexa, ask Bulletin Board what are the messages for John.
+Alexa, disable bulletin board

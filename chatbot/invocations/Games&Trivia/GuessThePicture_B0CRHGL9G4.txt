@@ -1,0 +1,3 @@
+Alexa, open guess the picture
+Alexa play guess the picture
+Alexa, disable guess the picture

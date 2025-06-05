@@ -1,0 +1,6 @@
+Alexa, open best player
+Alexa, ask best player to vote for messi
+Alexa, ask best player who is the best player
+Alexa, ask best player to tell about messi
+Alexa, ask best player who is messi
+Alexa, disable best player

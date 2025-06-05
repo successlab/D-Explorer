@@ -1,0 +1,5 @@
+Alexa, open maytag
+Alexa, tell Maytag to start the washing machine.
+Alexa, tell Maytag to pause the dryer.
+Alexa, ask Maytag for time remaining on the dryer.
+Alexa, disable maytag

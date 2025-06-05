@@ -1,0 +1,4 @@
+Alexa, open nearby entertainment
+Alexa ask Nearby Entertainment for Nashville
+Alexa ask Nearby Entertainment where Paul Grimshaw is playing
+Alexa, disable nearby entertainment

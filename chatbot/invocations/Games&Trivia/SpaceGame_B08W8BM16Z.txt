@@ -1,0 +1,6 @@
+Alexa, open space game
+Alexa, use the radar
+Alexa, move back
+Alexa, see the sky
+Alexa, use the laser beam
+Alexa, disable space game

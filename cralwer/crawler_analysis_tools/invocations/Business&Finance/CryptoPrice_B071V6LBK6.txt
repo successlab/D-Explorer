@@ -1,0 +1,5 @@
+Alexa, open crypto price
+Alexa, open Crypto Price.
+Alexa, what is the price of Litecoin in pounds from Crypto Price?
+Alexa, get help from Crypto Price.
+Alexa, disable crypto price

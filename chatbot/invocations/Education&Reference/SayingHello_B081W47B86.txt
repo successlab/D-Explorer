@@ -1,0 +1,3 @@
+Alexa, open saying hello
+Alexa, Sayinghello
+Alexa, disable saying hello

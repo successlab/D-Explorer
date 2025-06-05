@@ -1,0 +1,11 @@
+Alexa, open robovac
+Alexa,ask RoboVac to start cleaning
+Alexa, ask RoboVac to stop cleaning
+Alexa, ask RoboVac to go home
+Alexa, ask RoboVac (robot name) to start cleaning
+Alexa, ask RoboVac (robot name) to stop cleaning
+Alexa, ask RoboVac (robot name) to go home
+Alexa, ask RoboVac to start cleaning.
+Alexa, ask RoboVac to stop cleaning.
+Alexa, ask RoboVac to go home.
+Alexa, disable robovac

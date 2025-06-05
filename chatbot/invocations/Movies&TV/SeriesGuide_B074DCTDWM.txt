@@ -1,0 +1,5 @@
+Alexa, open series guide
+Alexa, ask Series Guide when is the next episode of Game of Thrones
+Alexa, ask Series Guide when is the next episode of Bachelorette
+Alexa, ask Series Guide when is the next episode of The Big Bang Theory
+Alexa, disable series guide

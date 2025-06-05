@@ -1,0 +1,6 @@
+Alexa, open my eye dro
+Alexa, ask MyEyedro ...
+Alexa, ask MyEyedro for today's highlights.
+Alexa, ask MyEyedro for my current demand.
+Alexa, ask MyEyedro for the last change.
+Alexa, disable my eye dro

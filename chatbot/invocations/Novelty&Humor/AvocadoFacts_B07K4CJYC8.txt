@@ -1,0 +1,3 @@
+Alexa, open avocado facts
+Alexa, tell avocado facts to tell me a avocado fact
+Alexa, disable avocado facts

@@ -1,0 +1,5 @@
+Alexa, open product metrics
+Alexa, open Product Metrics.
+Alexa, ask Product Metrics, how many users does Instagram have?
+Alexa, ask Product Metrics, when was Snapchat first released?
+Alexa, disable product metrics

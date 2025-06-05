@@ -1,0 +1,4 @@
+Alexa, open eevee sounds
+Alexa, start Eevee Sounds
+Alexa, launch Eevee Sounds
+Alexa, disable eevee sounds

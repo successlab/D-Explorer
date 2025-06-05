@@ -1,0 +1,4 @@
+Alexa, open whitefish mountain resort
+Alexa, ask Whitefish Mountain Resort for the snow report
+Alexa, ask Whitefish Mountain Resort for latest conditions
+Alexa, disable whitefish mountain resort

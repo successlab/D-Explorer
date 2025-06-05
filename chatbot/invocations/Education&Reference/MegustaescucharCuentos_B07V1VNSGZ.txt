@@ -1,0 +1,5 @@
+Alexa, open me gusta escuchar cuentos
+Alexa, abre Megustaescuchar Cuentos.
+Alexa, pídele a Megustaescuchar Cuentos que me lea un cuento.
+Alexa, pídele a Megustaescuchar Cuentos que me cuente los cuentos de hoy.
+Alexa, disable me gusta escuchar cuentos

@@ -1,0 +1,5 @@
+Alexa, open my umbrella
+Alexa ask my umbrella do I need to carry it
+Alexa ask my umbrella I am moving to Manchester, do I need to carry it with me
+Alexa ask my umbrella do i need it today in London
+Alexa, disable my umbrella

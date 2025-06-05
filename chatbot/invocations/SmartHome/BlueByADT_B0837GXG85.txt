@@ -1,0 +1,4 @@
+Alexa, turn on the Front Light.
+Alexa, set the Living Room to 65%.
+Alexa, lock the Back Door.
+Alexa, disable BlueByADT

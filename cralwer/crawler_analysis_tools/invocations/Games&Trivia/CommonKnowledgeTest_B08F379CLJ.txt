@@ -1,0 +1,4 @@
+Alexa, open common knowledge test
+Alexa, start common knowledge test
+Alexa, launch common knowledge test
+Alexa, disable common knowledge test

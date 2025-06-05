@@ -1,0 +1,11 @@
+Alexa, open my church lynchburg
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask my church lynchburg for the latest talk
+Alexa, start my church lynchburg
+Alexa, disable my church lynchburg

@@ -1,0 +1,5 @@
+Alexa, open rooster money
+Alexa, ask Rooster Money what's in Joe's spend pot?
+How much has Joe earned this month?
+What jobs does Joe need to do today?
+Alexa, disable rooster money

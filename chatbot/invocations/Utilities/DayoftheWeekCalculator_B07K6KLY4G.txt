@@ -1,0 +1,5 @@
+Alexa, open day of the week calculator
+Alexa, ask day of the week calculator what day is November 5th
+Alexa, ask day of the week calculator what day was February 29th, 2017
+Alexa, ask day of the week calculator what day is October 31st, 2020
+Alexa, disable day of the week calculator

@@ -1,0 +1,4 @@
+Alexa, open multiplication test
+Alexa, ask Multiplication Test to test me on the 9 times table
+Alexa, ask Multiplication Test to give me a random test
+Alexa, disable multiplication test

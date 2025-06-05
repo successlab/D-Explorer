@@ -1,0 +1,4 @@
+Alexa, open daily azaan
+Alexa, launch daily azaan
+Alexa, start daily azaan
+Alexa, disable daily azaan

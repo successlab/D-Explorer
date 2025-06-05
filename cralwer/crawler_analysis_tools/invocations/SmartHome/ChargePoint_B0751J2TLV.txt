@@ -1,0 +1,5 @@
+Alexa, open chargepoint
+Alexa, ask ChargePoint to start charging my car.
+Alexa, ask ChargePoint if my car is plugged in.
+Alexa, ask ChargePoint how many miles I added in my last charging session.
+Alexa, disable chargepoint

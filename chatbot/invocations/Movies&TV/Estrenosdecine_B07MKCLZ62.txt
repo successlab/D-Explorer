@@ -1,0 +1,5 @@
+Alexa, open estrenos de cine
+Alexa, pide a estrenos de cine las películas de esta semana
+Alexa, pide a estrenos de cine los estrenos de este mes
+Alexa, pide a estrenos de cine las pelis de la semana próxima
+Alexa, disable estrenos de cine

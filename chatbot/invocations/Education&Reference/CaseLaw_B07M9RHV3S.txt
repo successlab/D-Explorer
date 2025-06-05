@@ -1,0 +1,6 @@
+Alexa, open case law
+Alexa, ask case law for a fact
+Alexa, stop
+Alexa, ask Case Law for a fact
+Alexa, tell Case Law to tell me something
+Alexa, disable case law

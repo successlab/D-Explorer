@@ -1,0 +1,4 @@
+Alexa, open focus mate
+Alexa, ask focus mate to complete task
+Alexa, ask focus mate to cancel pomodoro
+Alexa, disable focus mate

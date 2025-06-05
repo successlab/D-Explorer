@@ -1,0 +1,11 @@
+Alexa, open smart camera
+Alexa, ask smart camera for turn up kitchen
+Alexa,ask smart camera for turn down kitchen
+Alexa,ask smart camera for turn left kitchen
+Alexa,ask smart camera for turn right kitchen
+Alexa,ask smart camera for turn on kitchen
+Alexa,ask smart camera for turn off kitchen
+Alexa,ask smart camera for turn up kitchen.
+Alexa,ask smart camera for turn on kitchen.
+Alexa,ask smart camera for turn off kitchen.
+Alexa, disable smart camera

@@ -1,0 +1,5 @@
+Alexa, open smalltalk helper
+Alexa, ask Small Talk Helper for a Conversation Starter.
+Alexa, open Small Talk Helper.
+Ask Small Talk Helper for the different options of Conversation Starters.
+Alexa, disable smalltalk helper

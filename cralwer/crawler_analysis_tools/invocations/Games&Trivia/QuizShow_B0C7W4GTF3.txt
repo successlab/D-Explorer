@@ -1,0 +1,4 @@
+Alexa, open quiz show
+Alexa, start Quiz Show
+Alexa, launch Quiz Show
+Alexa, disable quiz show

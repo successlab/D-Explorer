@@ -1,0 +1,4 @@
+Alexa, open trump news
+Alexa, ask Trump News what he did today
+Alexa, ask Trump News what Trump did today
+Alexa, disable trump news

@@ -1,0 +1,5 @@
+Alexa, open jackson guide
+Alexa, start Jackson Guide
+Alexa, open Jackson Guide and tell me the top five things
+Alexa, ask Jackson Guide where should I go
+Alexa, disable jackson guide

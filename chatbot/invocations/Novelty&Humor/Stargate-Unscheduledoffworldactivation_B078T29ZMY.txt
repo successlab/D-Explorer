@@ -1,0 +1,2 @@
+Alexa, open unscheduled offworld activation
+Alexa, disable unscheduled offworld activation

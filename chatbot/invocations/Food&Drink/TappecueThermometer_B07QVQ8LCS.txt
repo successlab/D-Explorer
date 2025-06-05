@@ -1,0 +1,5 @@
+Alexa, open tappecue thermometer
+Alexa, ask Tappecue Thermometer for my temperatures
+Alexa, ask Tappecue Thermometer to get sessions
+Alexa, ask Tappecue Thermometer to get temperatures
+Alexa, disable tappecue thermometer

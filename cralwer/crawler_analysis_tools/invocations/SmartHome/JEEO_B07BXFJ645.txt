@@ -1,0 +1,4 @@
+Alexa, turn on my livingroom light
+Alexa, turn off my livingroom light
+Alexa, dim my livingroom light
+Alexa, disable JEEO

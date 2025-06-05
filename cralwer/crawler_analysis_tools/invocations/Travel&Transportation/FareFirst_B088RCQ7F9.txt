@@ -1,0 +1,5 @@
+Alexa, open fare first
+Alexa, launch fare first
+find flights from New York to Miami on August 8h
+find cheap flights from New York to Miami on August 8h
+Alexa, disable fare first

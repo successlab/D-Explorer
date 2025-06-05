@@ -1,0 +1,4 @@
+Alexa, open ready or not
+Alexa, start ready or not
+Alexa, launch ready or not
+Alexa, disable ready or not

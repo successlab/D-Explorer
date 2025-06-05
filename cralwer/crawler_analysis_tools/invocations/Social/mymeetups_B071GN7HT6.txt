@@ -1,0 +1,4 @@
+Alexa, open my meetups
+get recommendations
+find events
+Alexa, disable my meetups

@@ -1,0 +1,4 @@
+Alexa, open tricorder sound
+Alexa, start Tricorder Sound
+Alexa, launch Tricorder Sound
+Alexa, disable tricorder sound

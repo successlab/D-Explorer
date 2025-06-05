@@ -1,0 +1,7 @@
+Alexa, open my dog
+Alexa, launch Virtual Dog
+Alexa, Ask my dog to bark at him
+Alexa, launch my dog
+Alexa, ask my dog to lick her
+Alexa, ask my dog to scare him away
+Alexa, disable my dog

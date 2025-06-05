@@ -1,0 +1,5 @@
+Alexa, open oncue plus
+Alexa, ask OnCue Plus to check the status of my generator
+Does my generator have any active alerts?
+Check battery voltage of my generator
+Alexa, disable oncue plus

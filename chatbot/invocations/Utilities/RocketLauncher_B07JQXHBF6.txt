@@ -1,0 +1,6 @@
+Alexa, open rocket launcher
+Alexa, ask Rocket Launcher start from 30
+Alexa, ask Rocket Launcher launch for 60
+Alexa, ask Rocket Launcher for two
+Alexa, ask Rocket Launcher launch for two
+Alexa, disable rocket launcher

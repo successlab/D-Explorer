@@ -1,0 +1,6 @@
+Alexa, open ottawa garbage
+Alexa, when is garbage day
+Alexa, ask Ottawa Garbage when is the next pickup date
+Alexa, ask Ottawa Garbage when is the next pickup date for 24 Sussex Drive
+Alexa, ask Ottawa Garbage to update my address
+Alexa, disable ottawa garbage

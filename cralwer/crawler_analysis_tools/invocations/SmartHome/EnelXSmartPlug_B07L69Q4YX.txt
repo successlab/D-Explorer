@@ -1,0 +1,3 @@
+Alexa, turn on the JuiceBox please
+Alexa, turn off the JuiceBox please
+Alexa, disable EnelXSmartPlug

@@ -1,0 +1,6 @@
+Alexa, open relaxing sleep
+Alexa, good night
+Alexa, good night
+Alexa, ask relaxing sleep to loop
+Alexa, ask relaxing sleep to play for 3 hours
+Alexa, disable relaxing sleep

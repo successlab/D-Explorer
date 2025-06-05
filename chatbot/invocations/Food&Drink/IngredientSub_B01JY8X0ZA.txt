@@ -1,0 +1,5 @@
+Alexa, open ingredient sub
+Alexa, open Ingredient Sub.
+Alexa, ask Ingredient Sub what can I substitute for chicken broth.
+Alexa, ask Ingredient Sub what can I use instead of brown sugar.
+Alexa, disable ingredient sub

@@ -1,0 +1,4 @@
+Alexa, open la cruz radio
+Alexa reproducir la cruz radio
+Alexa abra la cruz radio
+Alexa, disable la cruz radio

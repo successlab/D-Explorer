@@ -1,0 +1,3 @@
+Alexa, open wake up bot
+Alexa, start Wake up bot
+Alexa, disable wake up bot

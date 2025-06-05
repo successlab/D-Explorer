@@ -1,0 +1,4 @@
+Alexa, open noa
+Alexa, ask Noa to play The New York Times
+Alexa, ask Noa to play the latest Financial news
+Alexa, disable noa

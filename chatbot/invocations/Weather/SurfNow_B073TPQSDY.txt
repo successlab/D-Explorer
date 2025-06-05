@@ -1,0 +1,5 @@
+Alexa, open surf now
+Alexa, ask Surf Now what's the surf report in Venice?
+Alexa, ask Surf Now how's the surf in Malibu?
+Alexa, ask Surf Now to get the surf report in El Porto.
+Alexa, disable surf now

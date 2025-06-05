@@ -1,0 +1,4 @@
+Alexa, open bible keyword study
+Alexa tell Bible keyword study to look up Beginning
+Alexa tell Bible keyword study to look up Beginning in Genesis chapter one verse one
+Alexa, disable bible keyword study

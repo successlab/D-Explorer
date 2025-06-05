@@ -1,0 +1,3 @@
+Alexa, open vantage assistant
+Alexa, start vantage assistant
+Alexa, disable vantage assistant

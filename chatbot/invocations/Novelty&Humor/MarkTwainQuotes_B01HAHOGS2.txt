@@ -1,0 +1,5 @@
+Alexa, open mark twain
+Alexa, ask Mark Twain for a quote
+Alexa, tell Mark Twain to say something smart
+Alexa, ask Mark Twain to share a thought
+Alexa, disable mark twain

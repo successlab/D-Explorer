@@ -1,0 +1,5 @@
+Alexa, open airthings
+Alexa, open airthings.
+Alexa, ask airthings to list my rooms.
+Alexa, ask airthings to check radon.
+Alexa, disable airthings

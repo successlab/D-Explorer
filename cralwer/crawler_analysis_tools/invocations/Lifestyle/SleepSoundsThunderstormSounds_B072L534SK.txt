@@ -1,0 +1,6 @@
+Alexa, open thunderstorm sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Thunderstorm Sounds
+Alexa, launch Thunderstorm Sounds
+Alexa, disable thunderstorm sounds

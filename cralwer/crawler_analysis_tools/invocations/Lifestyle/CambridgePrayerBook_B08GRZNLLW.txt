@@ -1,0 +1,5 @@
+Alexa, open cambridge prayer book
+Alexa run Cambridge Prayer Book
+Alexa read me the morning prayer from Cambridge Prayer Book
+Alexa ask Cambridge Prayer Book to give me the evening prayer
+Alexa, disable cambridge prayer book

@@ -1,0 +1,4 @@
+Alexa, open lucky day calendar
+Is today a lucky day
+Tell me about next week
+Alexa, disable lucky day calendar

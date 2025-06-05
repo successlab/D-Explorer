@@ -1,0 +1,4 @@
+Alexa, open n. b. a. schedule
+Alexa ask n. b. a. schedule when is the next game for the nuggets
+Is there a game on October 18th
+Alexa, disable n. b. a. schedule

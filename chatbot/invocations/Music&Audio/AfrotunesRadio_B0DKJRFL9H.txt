@@ -1,0 +1,4 @@
+Alexa, open afro tunes radio
+Alexa, start afro tunes radio
+Alexa, ask afro tunes radio what's playing
+Alexa, disable afro tunes radio

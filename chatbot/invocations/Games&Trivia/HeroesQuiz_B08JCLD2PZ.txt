@@ -1,0 +1,4 @@
+Alexa, open heroes quiz
+guess my hero
+play hero of the day
+Alexa, disable heroes quiz

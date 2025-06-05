@@ -1,0 +1,5 @@
+Alexa, open spider finder
+Alexa, ask Spider Finder to find the spiders
+Alexa, ask Spider Finder to locate the spiders
+Alexa, ask Spider Finder where are the spiders
+Alexa, disable spider finder

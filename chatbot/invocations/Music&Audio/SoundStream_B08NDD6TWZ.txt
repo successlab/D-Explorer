@@ -1,0 +1,4 @@
+Alexa, open sound stream
+Alexa, play Jazz from Sound Stream
+Alexa, ask Sound Stream to play Relax
+Alexa, disable sound stream

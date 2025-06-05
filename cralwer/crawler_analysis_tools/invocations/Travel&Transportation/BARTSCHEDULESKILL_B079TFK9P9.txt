@@ -1,0 +1,4 @@
+Alexa, open bart schedule
+IS BART DELAYED TODAY
+ARE THERE DELAYS IN BART
+Alexa, disable bart schedule

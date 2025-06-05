@@ -1,0 +1,5 @@
+Alexa, open yes machine
+Alexa, start yes machine
+Alexa, begin yes machine
+Alexa, launch yes machine
+Alexa, disable yes machine

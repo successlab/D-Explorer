@@ -1,0 +1,6 @@
+Alexa, open quarantine activities
+Alexa, launch Quarantine Activities
+Alexa, stop
+Alexa ask quarantine activities for something to do
+Alexa give me something to do from quarantine activities
+Alexa, disable quarantine activities

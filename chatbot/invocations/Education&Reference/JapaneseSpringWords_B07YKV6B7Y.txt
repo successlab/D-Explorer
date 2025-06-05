@@ -1,0 +1,7 @@
+Alexa, open japanese spring words
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start Japanese Spring Words
+Alexa, disable japanese spring words

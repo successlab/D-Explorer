@@ -1,0 +1,6 @@
+Alexa, open relaxing piano
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Relaxing Piano
+Alexa, launch Relaxing Piano
+Alexa, disable relaxing piano

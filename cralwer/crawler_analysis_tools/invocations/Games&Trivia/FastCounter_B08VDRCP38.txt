@@ -1,0 +1,5 @@
+Alexa, open fast counter
+Alexa open fast counter.
+Alexa launch fast counter.
+Alexa ask fast counter for 100.
+Alexa, disable fast counter

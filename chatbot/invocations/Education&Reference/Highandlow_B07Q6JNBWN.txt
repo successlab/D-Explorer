@@ -1,0 +1,5 @@
+Alexa, open high low
+Alexa, start high low and Inform me about highest point of United States
+Alexa, start high low and Name lowest point of India
+Alexa, start high low and Give me maximum height and minimum depth of Canada
+Alexa, disable high low

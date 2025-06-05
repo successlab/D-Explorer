@@ -1,0 +1,5 @@
+Alexa, open sanctuary first
+Alexa, tell me a prayer from Sanctuary First.
+Alexa, ask Sanctuary First to tell me a yesterday's prayer.
+Alexa, ask Sanctuary First to tell me a reading.
+Alexa, disable sanctuary first

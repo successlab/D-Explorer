@@ -1,0 +1,5 @@
+Alexa, open daily food
+Alexa, ask Daily Food for Saturday
+Alexa, get food for today from Daily Food
+Alexa, open Daily Food and get food for tomorrow.
+Alexa, disable daily food

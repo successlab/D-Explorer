@@ -1,0 +1,5 @@
+Alexa, open flight guru
+Alexa ask flight guru to flight status for Q R dash five seven three
+Alexa ask flight guru to flight status for G eight dash three twenty six
+Alexa ask flight guru to flight status for A I dash six zero eight
+Alexa, disable flight guru

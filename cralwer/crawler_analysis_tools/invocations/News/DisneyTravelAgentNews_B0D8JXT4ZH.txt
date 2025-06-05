@@ -1,0 +1,4 @@
+Alexa, open disney travel agent news
+Alexa, ask Disney Travel Agent News what's new
+help
+Alexa, disable disney travel agent news

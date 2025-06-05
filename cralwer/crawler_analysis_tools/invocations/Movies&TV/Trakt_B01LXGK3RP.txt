@@ -1,0 +1,5 @@
+Alexa, open trakt t. v.
+Alexa, ask Trakt t.v. what is on TV today?
+Alexa, ask Trakt t.v. what is premiering this week?
+Alexa, ask Trakt t.v. what is on Sunday?
+Alexa, disable trakt t. v.

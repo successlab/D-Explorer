@@ -1,0 +1,5 @@
+Alexa, open ensure
+Alexa, tell me the Ensure tip of the day
+Alexa, ask Ensure to get the tip of the day
+Alexa, ask Ensure to find the best product for me
+Alexa, disable ensure

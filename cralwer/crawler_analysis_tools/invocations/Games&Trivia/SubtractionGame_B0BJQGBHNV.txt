@@ -1,0 +1,4 @@
+Alexa, open subtraction game
+Alexa, start Subtraction Game
+help
+Alexa, disable subtraction game

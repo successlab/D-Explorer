@@ -1,0 +1,4 @@
+Alexa, open simple calculator
+Add two plus two
+Subtract ten minus three
+Alexa, disable simple calculator

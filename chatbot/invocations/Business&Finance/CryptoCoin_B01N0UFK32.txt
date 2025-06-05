@@ -1,0 +1,5 @@
+Alexa, open crypto coin
+Alexa, ask CryptoCoin what's bitcoin's price?
+Alexa, ask CryptoCoin what is the current value of bitcoin?
+Alexa, ask CryptoCoin what is ethereum's price?
+Alexa, disable crypto coin

@@ -1,0 +1,4 @@
+Alexa, open who's mike
+Alexa, start who's mike
+Alexa, ask who's mike for a fact
+Alexa, disable who's mike

@@ -1,0 +1,2 @@
+Alexa, open acme insurance
+Alexa, disable acme insurance

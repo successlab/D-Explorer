@@ -1,0 +1,4 @@
+Alexa, open maldives radio
+Alexa, play maldives radio
+Alexa, ask maldives radio to play
+Alexa, disable maldives radio

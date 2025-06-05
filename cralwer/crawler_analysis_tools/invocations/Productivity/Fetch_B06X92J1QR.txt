@@ -1,0 +1,4 @@
+Alexa, open fetch my calendar
+Alexa, ask Fetch My Calendar what is happening today
+Alexa, ask Fetch My Calendar what is happening on Monday
+Alexa, disable fetch my calendar

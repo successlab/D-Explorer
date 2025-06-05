@@ -1,0 +1,3 @@
+Alexa, open my home guide
+Alexa, start my home guide
+Alexa, disable my home guide

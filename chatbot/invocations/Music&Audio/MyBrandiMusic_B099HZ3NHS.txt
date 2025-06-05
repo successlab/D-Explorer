@@ -1,0 +1,4 @@
+Alexa, open business music stream
+Alexa finish the stream
+Alexa stop the stream
+Alexa, disable business music stream

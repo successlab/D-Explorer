@@ -1,0 +1,6 @@
+Alexa, open fireplace sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Fireplace Sounds
+Alexa, launch Fireplace Sounds
+Alexa, disable fireplace sounds

@@ -1,0 +1,5 @@
+Alexa, open my sensei
+Alexa, ask my sensei for a quote
+Alexa, ask my sensei for wisdom
+Alexa, ask my sensei for advice
+Alexa, disable my sensei

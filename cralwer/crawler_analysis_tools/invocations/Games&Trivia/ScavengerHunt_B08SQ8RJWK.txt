@@ -1,0 +1,6 @@
+Alexa, open scavenger hunt
+Alexa, I found it.
+Alexa, I give up.
+Alexa, open scavenger hunt.
+Alexa, launch scavenger hunt.
+Alexa, disable scavenger hunt

@@ -1,0 +1,4 @@
+Alexa, open zarbi estéreo
+Alexa, Abre Zarbi Estéreo
+Alexa, Empieza Zarbi Estéreo
+Alexa, disable zarbi estéreo

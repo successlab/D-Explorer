@@ -1,0 +1,5 @@
+Alexa, open school schedule
+Alexa, open School Schedule and add Math class
+Alexa, ask school schedule for my Monday classes
+Alexa, ask school schedule what do i have today
+Alexa, disable school schedule

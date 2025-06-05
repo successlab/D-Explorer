@@ -1,0 +1,4 @@
+Alexa, open norse mythology
+alexa, ask norse mythology to tell me a norse fact
+alexa, ask norse mythology to give me some viking information
+Alexa, disable norse mythology

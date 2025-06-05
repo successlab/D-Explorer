@@ -1,0 +1,4 @@
+Alexa, open guessing day
+Alexa launch guessing day
+Alexa, start guessing day
+Alexa, disable guessing day

@@ -1,0 +1,4 @@
+Alexa, open city weather
+Alexa start city weather
+Alexa launch city weather
+Alexa, disable city weather

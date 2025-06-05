@@ -1,0 +1,4 @@
+Alexa, open bamboo learning
+Alexa, start Bamboo Learning
+Alexa, Bamboo Learning
+Alexa, disable bamboo learning

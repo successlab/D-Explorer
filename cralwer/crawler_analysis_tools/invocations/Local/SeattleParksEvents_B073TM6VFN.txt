@@ -1,0 +1,5 @@
+Alexa, open seattle parks
+Alexa, ask seattle parks whats happening tomorrow.
+Alexa, ask seattle parks to get me events for August 3rd.
+Alexa, ask seattle parks to tell me about event 3.
+Alexa, disable seattle parks

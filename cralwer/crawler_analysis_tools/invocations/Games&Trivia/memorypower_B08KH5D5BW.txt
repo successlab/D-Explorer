@@ -1,0 +1,4 @@
+Alexa, open memory power
+the word is hello
+it is hello
+Alexa, disable memory power

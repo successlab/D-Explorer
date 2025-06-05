@@ -1,0 +1,5 @@
+Alexa, open wellness daily
+Alexa ask Wellness Daily for tip of the day
+Alexa ask Wellness Daily for todays tip
+Alexa ask Wellness Daily about todays wellness
+Alexa, disable wellness daily

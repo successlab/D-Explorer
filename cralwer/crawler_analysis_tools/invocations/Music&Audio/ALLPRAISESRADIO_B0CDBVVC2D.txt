@@ -1,0 +1,4 @@
+Alexa, open all praises radio
+Alexa, start all praises radio
+Alexa, ask all praises radio what's playing
+Alexa, disable all praises radio

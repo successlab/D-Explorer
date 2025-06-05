@@ -1,0 +1,4 @@
+Alexa, open houston transit
+Alexa, ask Houston Transit to give me information about stop one
+Tell me about stop one
+Alexa, disable houston transit

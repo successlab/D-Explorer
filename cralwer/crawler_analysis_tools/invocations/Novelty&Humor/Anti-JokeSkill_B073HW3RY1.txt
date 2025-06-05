@@ -1,0 +1,5 @@
+Alexa, open anti joker
+Alexa, ask Anti Joker to tell me a joke
+Alexa, ask Anti Joker to give me an anti joke
+Alexa, ask Anti Joker to give me something
+Alexa, disable anti joker

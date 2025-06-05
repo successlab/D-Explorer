@@ -1,0 +1,4 @@
+Alexa, open my yoga class
+Alexa, start my yoga class
+Alexa, launch my yoga class
+Alexa, disable my yoga class

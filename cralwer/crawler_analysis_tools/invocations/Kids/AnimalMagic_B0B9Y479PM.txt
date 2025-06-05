@@ -1,0 +1,4 @@
+Alexa, open animal magic
+Alexa, start Animal Magic
+Alexa, launch Animal Magic
+Alexa, disable animal magic

@@ -1,0 +1,4 @@
+Alexa, open my a. b. c.
+Alexa, start my a. b. c.
+Alexa, launch my a. b. c.
+Alexa, disable my a. b. c.

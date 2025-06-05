@@ -1,0 +1,3 @@
+Alexa, open david flashcards
+Alexa, start david flashcards
+Alexa, disable david flashcards

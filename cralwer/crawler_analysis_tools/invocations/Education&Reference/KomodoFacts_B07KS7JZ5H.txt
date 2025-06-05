@@ -1,0 +1,4 @@
+Alexa, open komodo facts
+Alexa, ask Komodo Facts to enlighten me
+Alexa, ask Komodo Facts to tell me a fact
+Alexa, disable komodo facts

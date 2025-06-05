@@ -1,0 +1,4 @@
+Alexa, open sleep sounds rainforest
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds rainforest

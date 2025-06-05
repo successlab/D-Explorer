@@ -1,0 +1,5 @@
+Alexa, open master chef
+Alexa, ask Master Chef to search for Lamb Chops with Rosemary Flageolets recipe
+Alexa ask Master Chef what I can make with chicken potato and tomato
+Alexa ask Master Chef how to cook fried rice
+Alexa, disable master chef

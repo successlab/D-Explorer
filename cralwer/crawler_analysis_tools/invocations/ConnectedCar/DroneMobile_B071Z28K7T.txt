@@ -1,0 +1,5 @@
+Alexa, open drone mobile
+Alexa, ask Drone Mobile lock my car
+Alexa, ask Drone Mobile where is vehicle
+Alexa, tell Drone Mobile to unlock truck
+Alexa, disable drone mobile

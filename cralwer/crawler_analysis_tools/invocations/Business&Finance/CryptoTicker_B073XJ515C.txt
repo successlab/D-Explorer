@@ -1,0 +1,5 @@
+Alexa, open crypto ticker
+Alexa, open CryptoTicker.
+Alexa, ask CryptoTicker what is the price of Ethereum?
+Alexa, ask CryptoTicker how much does Litecoin cost?
+Alexa, disable crypto ticker

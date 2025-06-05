@@ -1,0 +1,8 @@
+Alexa, turn on my light
+Alexa, turn off my light
+Alexa, set my light to yellow
+Alexa, set my light to purple
+Alexa, set my light to warm white
+Alexa, set my light to cool white
+Alexa, set my light to 10 percent
+Alexa, disable SuperWarmforSmartHome

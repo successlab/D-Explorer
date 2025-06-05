@@ -1,0 +1,9 @@
+Alexa, open native american flute
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Native American Flute to turn on Background Mode
+Alexa, ask Native American Flute to turn Background Mode off
+Alexa, start Native American Flute
+Alexa, launch Native American Flute
+Alexa, disable native american flute

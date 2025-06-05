@@ -1,0 +1,5 @@
+Alexa, open ram
+Alexa, ask Ram to check the tire pressure of my truck
+Alexa, ask Ram how much gas is in my truck
+Alexa, ask Ram to find the nearest gas station
+Alexa, disable ram

@@ -1,0 +1,5 @@
+Alexa, open garden buddy
+Alexa tell garden buddy I watered the pothos
+Do any plants need water?
+When was the spider plant last watered?
+Alexa, disable garden buddy

@@ -1,0 +1,6 @@
+Alexa, open multiple myeloma info
+Alexa, next
+Alexa, stop
+Alexa, start multiple myeloma info
+Alexa, ask multiple myeloma info for a fact
+Alexa, disable multiple myeloma info

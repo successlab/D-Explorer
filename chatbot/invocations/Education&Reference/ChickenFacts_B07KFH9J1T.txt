@@ -1,0 +1,4 @@
+Alexa, open chicken facts
+Alexa, launch chicken facts
+Alexa, start chicken facts
+Alexa, disable chicken facts

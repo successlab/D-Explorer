@@ -1,0 +1,5 @@
+Alexa, open hebrew calendar
+Alexa, ask Hebrew Calendar if today is a holiday
+Alexa, use Hebrew Calendar to tell me if it is a holiday
+Alexa, can you tell me if it is a holiday from Hebrew Calendar
+Alexa, disable hebrew calendar

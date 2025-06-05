@@ -1,0 +1,4 @@
+Alexa, open smoothed brown noise
+Alexa, Pause
+Alexa, Resume
+Alexa, disable smoothed brown noise

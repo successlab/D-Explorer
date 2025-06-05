@@ -1,0 +1,6 @@
+Alexa, open box fan sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Box Fan Sounds
+Alexa, launch Box Fan Sounds
+Alexa, disable box fan sounds

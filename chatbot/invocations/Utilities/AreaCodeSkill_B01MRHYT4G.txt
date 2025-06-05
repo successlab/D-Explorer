@@ -1,0 +1,5 @@
+Alexa, open area code finder
+Alexa, ask area code finder to lookup area code for seven zero four
+Alexa, ask area code finder to search seven zero four using area code
+Alexa, ask area code finder to find seven zero four using area code
+Alexa, disable area code finder

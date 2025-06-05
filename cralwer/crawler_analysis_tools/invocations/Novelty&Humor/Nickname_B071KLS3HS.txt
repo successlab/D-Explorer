@@ -1,0 +1,4 @@
+Alexa, open nickname me
+Alexa Nickname me
+Give me a nickname
+Alexa, disable nickname me

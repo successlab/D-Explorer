@@ -1,0 +1,4 @@
+Alexa, open seahorse facts
+Alexa, Seahorse Facts
+Alexa, ask Seahorse Facts for a fact
+Alexa, disable seahorse facts

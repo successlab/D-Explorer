@@ -1,0 +1,4 @@
+Alexa, open my camera
+Alexa, open office camera
+Alexa,show me office camera
+Alexa, disable my camera

@@ -1,0 +1,5 @@
+Alexa, open clear skies
+Alexa, ask Clear Skies for the air quality of New York.
+What is the pollution of San Francisco?
+What means moderate?
+Alexa, disable clear skies

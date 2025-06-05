@@ -1,0 +1,5 @@
+Alexa, open landroid
+Alexa, open landroid and start cutting the grass
+Alexa, ask landroid the charging status
+Alexa, open landroid and ask it to go to the charging station
+Alexa, disable landroid

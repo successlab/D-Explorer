@@ -1,0 +1,4 @@
+Alexa, open candy chrome radio
+Alexa, start candy chrome radio
+Alexa, ask candy chrome radio what's playing
+Alexa, disable candy chrome radio

@@ -1,0 +1,5 @@
+Alexa, open check space condition
+Alexa, check space condition.
+What is the solar wind speed?
+Kp index?
+Alexa, disable check space condition

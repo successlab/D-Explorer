@@ -1,0 +1,3 @@
+Alexa, open blanco weather
+Alexa, ask Blanco Weather for current conditions
+Alexa, disable blanco weather

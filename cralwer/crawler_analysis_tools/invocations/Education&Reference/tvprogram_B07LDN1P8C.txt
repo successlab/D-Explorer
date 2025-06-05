@@ -1,0 +1,5 @@
+Alexa, open television program facts
+Alexa, tell television program facts I want a fact.
+Alexa, ask television program facts for a fact.
+Alexa, tell television program facts to give me a fact.
+Alexa, disable television program facts

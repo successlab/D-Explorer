@@ -1,0 +1,4 @@
+Alexa, open cool world
+hello
+help
+Alexa, disable cool world

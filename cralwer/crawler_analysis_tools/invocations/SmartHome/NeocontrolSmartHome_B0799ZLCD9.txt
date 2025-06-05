@@ -1,0 +1,6 @@
+Alexa, turn on Master.
+Alexa, turn on Party
+Alexa, turn on Good Night
+Alexa, turn off Master
+Alexa, turn on Master
+Alexa, disable NeocontrolSmartHome

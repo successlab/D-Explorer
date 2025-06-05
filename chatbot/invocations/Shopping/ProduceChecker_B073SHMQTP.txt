@@ -1,0 +1,4 @@
+Alexa, open produce checker
+Alexa, ask produce checker about 4020
+Alexa, ask produce checker what is the PLU code 4011
+Alexa, disable produce checker

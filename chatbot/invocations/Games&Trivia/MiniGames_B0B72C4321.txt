@@ -1,0 +1,4 @@
+Alexa, open mini games
+play chocolate factory
+play rap robot
+Alexa, disable mini games

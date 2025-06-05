@@ -1,0 +1,8 @@
+Alexa, what is the temperature in Bedroom?
+Alexa, set Bedroom to 21 degrees.
+Alexa, decrease Bedroom by 1 degree.
+Alexa, increase Bedroom by 1 degree.
+Alexa, set living room to 22 degrees.
+Alexa, what is the temperature in the bedroom?
+Alexa, increase bedroom by 2 degrees.
+Alexa, disable Danfoss

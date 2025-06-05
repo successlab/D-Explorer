@@ -1,0 +1,5 @@
+Alexa, open rainforest automation
+Alexa, ask Rainforest Automation how much power am I using right now?
+Alexa, ask Rainforest Automation how much energy have I used in the last week
+Alexa, ask Rainforest Automation for my energy snapshot
+Alexa, disable rainforest automation

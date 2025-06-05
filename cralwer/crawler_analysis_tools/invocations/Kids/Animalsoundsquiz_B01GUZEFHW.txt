@@ -1,0 +1,4 @@
+Alexa, open animal sounds quiz
+Alexa, launch animal sounds quiz
+Alexa, run animal sounds quiz
+Alexa, disable animal sounds quiz

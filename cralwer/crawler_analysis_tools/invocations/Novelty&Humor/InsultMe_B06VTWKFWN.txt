@@ -1,0 +1,5 @@
+Alexa, open insult me
+Alexa ask Insult Me to tell me an insult
+Alexa ask Insult Me to give me an insult
+Alexa ask Insult Me to insult me
+Alexa, disable insult me

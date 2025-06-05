@@ -1,0 +1,4 @@
+Alexa, open c. c. n. a. trainer
+Alexa, ask C. C. N. A. Trainer for a review question
+Alexa, tell C. C. N. A. Trainer to give me a ccna fact
+Alexa, disable c. c. n. a. trainer

@@ -1,0 +1,9 @@
+Alexa, open stitch counter
+Alexa, tell Stitch Counter to add project hat.
+Alexa, tell Stitch Counter to increase one row.
+Alexa, tell Stitch Counter to switch to project scarf
+Alexa, tell Stitch Counter what is my count?
+Alexa, tell Stitch Counter to add project hat
+Alexa, tell Stitch Counter to increase one row
+Alexa, tell Stitch Counter what is my count
+Alexa, disable stitch counter

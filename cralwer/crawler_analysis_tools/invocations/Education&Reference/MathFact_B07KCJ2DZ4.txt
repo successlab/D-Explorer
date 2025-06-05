@@ -1,0 +1,4 @@
+Alexa, open math fact
+Alexa, start Math Fact
+Alexa, launch Math Fact
+Alexa, disable math fact

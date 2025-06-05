@@ -1,0 +1,4 @@
+Alexa, open animal sounds
+Alexa ask Animal Sounds what does a dog sound like?
+Alexa ask Animal Sounds to play a random animal sound
+Alexa, disable animal sounds

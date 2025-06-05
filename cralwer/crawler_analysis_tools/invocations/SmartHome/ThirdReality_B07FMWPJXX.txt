@@ -1,0 +1,6 @@
+Alexa, turn on my switch 1.
+Alexa, lock the front door.
+Alexa, turn on the downstairs switch.
+Alexa, turn on my switch
+Alexa, turn off my switch
+Alexa, disable ThirdReality

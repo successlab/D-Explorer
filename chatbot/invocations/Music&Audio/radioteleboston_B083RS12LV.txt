@@ -1,0 +1,4 @@
+Alexa, open radio tele boston
+Alexa, Start Radio Tele Boston
+Alexa, Play Radio Tele Boston
+Alexa, disable radio tele boston

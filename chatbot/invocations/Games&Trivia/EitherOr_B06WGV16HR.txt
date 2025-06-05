@@ -1,0 +1,9 @@
+Alexa, open would you rather
+Alexa, play standard edition
+Alexa, let's start over
+Alexa, repeat
+Alexa, skip
+Alexa, help
+Alexa, play would you rather
+Alexa, start would you rather
+Alexa, disable would you rather

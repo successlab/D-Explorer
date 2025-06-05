@@ -1,0 +1,4 @@
+Alexa, open pipe snake
+Alexa, start pipe snake
+Alexa, launch pipe snake
+Alexa, disable pipe snake

@@ -1,0 +1,5 @@
+Alexa, open gro
+Alexa, ask Gro to start watering.
+Alexa, ask Gro to water zone five for six minutes.
+Alexa, ask Gro to stop.
+Alexa, disable gro

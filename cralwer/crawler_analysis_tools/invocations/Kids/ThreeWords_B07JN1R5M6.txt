@@ -1,0 +1,4 @@
+Alexa, open three words
+Alexa, Launch Three Words
+Alexa, Begin Three Words
+Alexa, disable three words

@@ -1,0 +1,11 @@
+Alexa, open bible study
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask bible study for the latest talk
+Alexa, start bible study
+Alexa, disable bible study

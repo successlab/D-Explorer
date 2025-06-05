@@ -1,0 +1,5 @@
+Alexa, open the blinds.
+Alexa, close the curtain.
+Alexa, raise the curtain
+Alexa, lower the curtain
+Alexa, disable SomfyInteO

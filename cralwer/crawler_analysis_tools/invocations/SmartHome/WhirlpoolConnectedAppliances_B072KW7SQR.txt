@@ -1,0 +1,5 @@
+Alexa, open whirlpool
+Alexa, microwave for 3 minutes
+Alexa, tell Whirlpool to start the washing machine.
+Alexa, ask Whirlpool to preheat the oven.
+Alexa, disable whirlpool

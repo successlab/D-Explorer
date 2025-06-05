@@ -1,0 +1,4 @@
+Alexa, open what's my fortune
+Tell me my fortune
+What is my fortune
+Alexa, disable what's my fortune

@@ -1,0 +1,3 @@
+Alexa, open tick tock
+Alexa, tick tock
+Alexa, disable tick tock

@@ -1,0 +1,8 @@
+Alexa, open ambient soundscapes
+Alexa, ask Ambient Soundscapes to play Magic Forest
+Alexa, help
+Alexa, pause.” To resume it again, say 
+Alexa, launch Ambient Soundscapes
+Alexa, ask Ambient Soundscapes to play ocean waves
+Alexa, ask Ambient Soundscapes to play Thunderstorm
+Alexa, disable ambient soundscapes

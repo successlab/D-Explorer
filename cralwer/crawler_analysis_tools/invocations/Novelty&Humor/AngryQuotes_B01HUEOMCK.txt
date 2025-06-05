@@ -1,0 +1,4 @@
+Alexa, open angry quotes
+Alexa, ask angry quotes to tell me something angry
+Alexa, ask angry quotes to be angry
+Alexa, disable angry quotes

@@ -1,0 +1,4 @@
+Alexa, Arm my Security System in Away mode.
+Is my front door open?
+What is the temperature in the garage?
+Alexa, disable EyezOn

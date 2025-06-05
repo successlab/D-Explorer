@@ -1,0 +1,5 @@
+Alexa, open food combinator
+Alexa, ask food combinator what pairs well with chicken
+Alexa, ask food combinator about salmon
+Alexa, ask food combinator what combines well with apricots
+Alexa, disable food combinator

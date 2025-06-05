@@ -1,0 +1,4 @@
+Alexa, open simple math quiz
+Alexa ask Simple Math Quiz for a ten question quiz
+Alexa ask simple math quiz to play an eight question quiz
+Alexa, disable simple math quiz

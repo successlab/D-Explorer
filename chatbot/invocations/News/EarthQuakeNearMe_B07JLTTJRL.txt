@@ -1,0 +1,4 @@
+Alexa, open earthquake near me
+Are there earth quakes near me
+Is there a earth quake near my location
+Alexa, disable earthquake near me

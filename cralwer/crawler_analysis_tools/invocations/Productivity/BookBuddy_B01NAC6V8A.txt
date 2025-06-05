@@ -1,0 +1,4 @@
+Alexa, open book buddy
+Get the book Alice in Wonderland
+Who is the author?
+Alexa, disable book buddy

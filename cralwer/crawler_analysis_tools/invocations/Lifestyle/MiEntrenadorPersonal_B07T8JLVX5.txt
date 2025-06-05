@@ -1,0 +1,5 @@
+Alexa, open mi entrenador personal
+Alexa, abre mi entrenador personal.
+Alexa, abre mi entrenador personal y muéstrame las listas de entrenamiento.
+Alexa, abre mi entrenador personal y busca ejercicios para abdominales.
+Alexa, disable mi entrenador personal

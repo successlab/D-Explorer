@@ -1,0 +1,5 @@
+Alexa, open c. sun calendar
+Alexa, ask c sun calendar, for today events.
+get me stuff happening Tuesday
+events for 18th of July
+Alexa, disable c. sun calendar

@@ -1,0 +1,5 @@
+Alexa, open habla ñero
+Alexa, abre habla ñero
+Alexa, lanza habla ñero
+Alexa, pon habla ñero
+Alexa, disable habla ñero

@@ -1,0 +1,7 @@
+Alexa, open trivia facts
+Alexa, launch Space Facts
+Alexa, open Space Facts
+Alexa, stop
+Alexa launch trivia facts
+Alexa start trivia facts
+Alexa, disable trivia facts

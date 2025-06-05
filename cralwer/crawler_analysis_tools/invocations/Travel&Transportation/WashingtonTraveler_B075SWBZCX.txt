@@ -1,0 +1,5 @@
+Alexa, open washington traveler
+Alexa, ask Washington Traveler, when is the next ferry to Seattle?
+Alexa, ask Washington Traveler, where is the Edmonds ferry?
+Alexa, ask Washington Traveler, are there any alerts for the Bainbridge Island ferry?
+Alexa, disable washington traveler

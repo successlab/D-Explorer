@@ -1,0 +1,5 @@
+Alexa, open soothing sounds
+Alexa, ask soothing sounds to play (Name of the sound)
+Alexa, ask soothing sounds to play babbling brook
+Play the audio
+Alexa, disable soothing sounds

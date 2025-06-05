@@ -1,0 +1,99 @@
+Folder: ../crawler_2.0/result/
+  Unique files: 0
+  Total files: 0
+
+Folder: ../crawler_2.0/result/Food&Drink
+  Unique files: 1218
+  Total files: 1218
+
+Folder: ../crawler_2.0/result/Travel&Transportation
+  Unique files: 1039
+  Total files: 1039
+
+Folder: ../crawler_2.0/result/Shopping
+  Unique files: 303
+  Total files: 303
+
+Folder: ../crawler_2.0/result/SmartHome
+  Unique files: 3531
+  Total files: 3531
+
+Folder: ../crawler_2.0/result/ConnectedCar
+  Unique files: 107
+  Total files: 107
+
+Folder: ../crawler_2.0/result/Lifestyle
+  Unique files: 6238
+  Total files: 6238
+
+Folder: ../crawler_2.0/result/Sports
+  Unique files: 1373
+  Total files: 1373
+
+Folder: ../crawler_2.0/result/Local
+  Unique files: 1156
+  Total files: 1156
+
+Folder: ../crawler_2.0/result/Utilities
+  Unique files: 1451
+  Total files: 1451
+
+Folder: ../crawler_2.0/result/Social
+  Unique files: 1906
+  Total files: 1906
+
+Folder: ../crawler_2.0/result/Business&Finance
+  Unique files: 1844
+  Total files: 1844
+
+Folder: ../crawler_2.0/result/News
+  Unique files: 5929
+  Total files: 5929
+
+Folder: ../crawler_2.0/result/Movies&TV
+  Unique files: 960
+  Total files: 960
+
+Folder: ../crawler_2.0/result/Games&Trivia
+  Unique files: 5076
+  Total files: 5076
+
+Folder: ../crawler_2.0/result/Education&Reference
+  Unique files: 6217
+  Total files: 6217
+
+Folder: ../crawler_2.0/result/Music&Audio
+  Unique files: 6190
+  Total files: 6190
+
+Folder: ../crawler_2.0/result/Weather
+  Unique files: 751
+  Total files: 751
+
+Folder: ../crawler_2.0/result/Communication
+  Unique files: 354
+  Total files: 354
+
+Folder: ../crawler_2.0/result/Health&Fitness
+  Unique files: 3143
+  Total files: 3143
+
+Folder: ../crawler_2.0/result/Kids
+  Unique files: 3540
+  Total files: 3540
+
+Folder: ../crawler_2.0/result/Novelty&Humor
+  Unique files: 2930
+  Total files: 2930
+
+Folder: ../crawler_2.0/result/HomeServices
+  Unique files: 327
+  Total files: 327
+
+Folder: ../crawler_2.0/result/Productivity
+  Unique files: 4112
+  Total files: 4112
+
+Total unique files across all folders: 50348
+Total files across all folders: 59695
+

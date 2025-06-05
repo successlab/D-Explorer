@@ -1,0 +1,5 @@
+Alexa, open cryptic crossword helper
+Alexa, ask cryptic crossword helper what is meant by headless
+Alexa, ask cryptic crossword helper what upwards is an indicator of
+Alexa, ask cryptic crossword helper what are some hints for broken
+Alexa, disable cryptic crossword helper

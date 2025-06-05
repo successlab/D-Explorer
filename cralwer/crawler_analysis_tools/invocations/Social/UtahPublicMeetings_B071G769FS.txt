@@ -1,0 +1,5 @@
+Alexa, open utah public meetings
+Alexa, ask utah public meetings meetings in zipcode 84111
+Alexa, ask utah public meetings get upcoming meetings for city of Salt Lake City
+Alexa, ask utah public meetings get todays meetings for zipcode 84111
+Alexa, disable utah public meetings

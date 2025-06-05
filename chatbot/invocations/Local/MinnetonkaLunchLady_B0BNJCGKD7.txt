@@ -1,0 +1,5 @@
+Alexa, open lunch lady
+Alexa, ask lunch lady what's for lunch today
+Alexa, ask lunch lady what's for lunch at Groveland Elementary
+Alexa, ask lunch lady what's for lunch tomorrow at the High School
+Alexa, disable lunch lady

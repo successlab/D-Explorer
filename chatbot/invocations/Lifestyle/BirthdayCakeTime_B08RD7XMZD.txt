@@ -1,0 +1,5 @@
+Alexa, open birthday cake time
+Alexa, ask Birthday Cake Time when is my birthday
+Alexa, open Birthday Cake Time.
+Alexa, ask Birthday Cake Time when is my birthday.
+Alexa, disable birthday cake time

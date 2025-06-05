@@ -1,0 +1,4 @@
+Alexa, open asheville hike finder
+Alexa, start Asheville HIke Finder
+Alexa, launch Asheville HIke Finder
+Alexa, disable asheville hike finder

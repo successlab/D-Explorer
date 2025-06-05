@@ -1,0 +1,4 @@
+Alexa, show me the front door.
+Alexa, show the backyard camera.
+Alexa, show me the garage camera.
+Alexa, disable EufySecurity

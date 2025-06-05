@@ -1,0 +1,5 @@
+Alexa, open my quotes
+Alexa, next
+Alexa, stop
+Alexa, start my quotes
+Alexa, disable my quotes

@@ -1,0 +1,3 @@
+Alexa, open g. fuel randomizer
+Alexa, start g. fuel randomizer
+Alexa, disable g. fuel randomizer

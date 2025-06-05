@@ -1,0 +1,3 @@
+Alexa, open ping domain
+Alexa, check www dot google dot com using ping domain
+Alexa, disable ping domain

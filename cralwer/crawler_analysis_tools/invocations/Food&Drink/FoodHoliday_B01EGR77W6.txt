@@ -1,0 +1,5 @@
+Alexa, open food holiday
+Alexa, ask Food Holiday about today.
+Alexa, ask Food Holiday about June Fifteenth.
+Alexa, ask Food Holiday for my weekly list.
+Alexa, disable food holiday

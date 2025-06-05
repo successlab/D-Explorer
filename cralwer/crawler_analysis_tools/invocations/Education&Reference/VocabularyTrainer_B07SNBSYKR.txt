@@ -1,0 +1,3 @@
+Alexa, open vocabulary trainer
+Alexa, start vocabulary trainer
+Alexa, disable vocabulary trainer

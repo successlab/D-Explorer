@@ -1,0 +1,5 @@
+Alexa, open cooking competition
+Alexa, ask Cooking Competition what the basket ingredients are for the appetizer round
+Alexa, ask Cooking Competition for the basket ingredients for the entree round
+Alexa, ask Cooking Competition for the ingredients for the dessert round
+Alexa, disable cooking competition

@@ -1,0 +1,5 @@
+Alexa, open crypto agent
+Alexa, ask Crypto Agent for prices
+Alexa, ask Crypto Agent to add ripple
+Alexa, ask Crypto Agent to quote ripple
+Alexa, disable crypto agent

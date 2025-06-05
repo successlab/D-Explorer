@@ -1,0 +1,4 @@
+Alexa, open my bar
+Alexa, ask My Bar to make me a Screwdriver
+Alexa, ask My Bar to give me the menu
+Alexa, disable my bar

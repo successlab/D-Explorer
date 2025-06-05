@@ -1,0 +1,4 @@
+Alexa, open family movie fun
+Alexa ask Family Movie Fun to give me a fact
+Alexa give me a movie fact using Family Movie Fun
+Alexa, disable family movie fun

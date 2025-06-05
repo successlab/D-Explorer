@@ -1,0 +1,7 @@
+Alexa, open sleep sounds
+Alexa, tell Sleep Sounds to play Thunderstorm
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa ask Sleep Sounds to play Thunderstorm
+Alexa ask Sleep Sounds to play Rain
+Alexa, disable sleep sounds

@@ -1,0 +1,2 @@
+Alexa, open guess the language
+Alexa, disable guess the language

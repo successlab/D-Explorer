@@ -1,0 +1,5 @@
+Alexa, open present moment
+Alexa, launch Present Moment
+Alexa, stop
+Alexa, ask Present Moment for a quote
+Alexa, disable present moment

@@ -1,0 +1,5 @@
+Alexa, open kitchen scale
+Alexa ask Kitchen Scale how much does one cup of honey weigh
+Alexa ask Kitchen Scale how much does two cups of peanut butter weigh
+Alexa ask Kitchen Scale about bananas
+Alexa, disable kitchen scale

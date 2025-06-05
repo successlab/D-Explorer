@@ -1,0 +1,5 @@
+Alexa, open text reminders
+Alexa, start text reminders
+Alexa, open text reminders and add 3234567890 under MOM
+Alexa, launch text reminders
+Alexa, disable text reminders

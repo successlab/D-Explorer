@@ -1,0 +1,3 @@
+Alexa, open flash blue tag
+Alexa, ask flash blue tag for top products
+Alexa, disable flash blue tag

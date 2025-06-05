@@ -1,0 +1,5 @@
+Alexa, open crush radio
+Alexa, Abre Crush Radio
+Alexa, Reproduce Crush Radio
+Alexa, Escuchar Crush Radio
+Alexa, disable crush radio

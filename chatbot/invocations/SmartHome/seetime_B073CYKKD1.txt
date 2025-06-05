@@ -1,0 +1,4 @@
+Alexa, turn on the light
+Alexa,turn off the light
+Alexa,set the light to blue
+Alexa, disable seetime

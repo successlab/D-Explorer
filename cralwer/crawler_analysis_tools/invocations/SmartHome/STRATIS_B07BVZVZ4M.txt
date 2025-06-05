@@ -1,0 +1,4 @@
+'Alexa, Turn On The Light'
+'Alexa, Set The Thermostat To Cool'
+'Alexa, Set The Thermostat to 72'
+Alexa, disable STRATIS

@@ -1,0 +1,5 @@
+Alexa, open personal trainer
+Alexa, launch personal trainer
+Alexa, tell personal trainer to start 7 Minute Workout.
+Alexa, ask personal trainer to find a rep-based workout that focuses on chest.
+Alexa, disable personal trainer

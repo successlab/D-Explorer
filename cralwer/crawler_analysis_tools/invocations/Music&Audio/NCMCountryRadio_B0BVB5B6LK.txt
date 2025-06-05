@@ -1,0 +1,4 @@
+Alexa, open n. c. m. radio
+Alexa, play n. c. m. radio
+Alexa, ask n. c. m. radio what is playing
+Alexa, disable n. c. m. radio

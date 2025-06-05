@@ -1,0 +1,5 @@
+Alexa, open habit log
+Alexa tell Habit Log to add Workout
+Alexa ask Habit Log to list my habits
+Alexa tell Habit Log to log Workout
+Alexa, disable habit log

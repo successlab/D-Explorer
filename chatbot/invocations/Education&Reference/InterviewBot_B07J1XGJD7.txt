@@ -1,0 +1,5 @@
+Alexa, open interview bot
+Alexa, ask Interview Bot to ask a question.
+Alexa ask interview bot about leadership principles
+Alexa ask interview bot about customer obsession
+Alexa, disable interview bot

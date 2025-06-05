@@ -1,0 +1,3 @@
+Alexa, open makka azan
+Alexa play Makka Azan
+Alexa, disable makka azan

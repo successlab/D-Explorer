@@ -1,0 +1,5 @@
+Alexa, open watch aid
+Alexa, ask Watch Aid when is the next The Walking Dead?
+Alexa, ask Watch Aid what show is on next Monday?
+Alexa, ask Watch Aid what's new?
+Alexa, disable watch aid

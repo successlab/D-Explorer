@@ -1,0 +1,5 @@
+Alexa, open health tips
+Alexa ask Health Tips for a Tip.
+Alexa ask Health Tips to tell me a Health Tip.
+Alexa ask Health Tips to give me a Lifestyle Tip.
+Alexa, disable health tips

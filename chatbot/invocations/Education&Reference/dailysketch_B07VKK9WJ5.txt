@@ -1,0 +1,4 @@
+Alexa, open daily sketch
+Alexa ask daily sketch what do I sketch today
+Alexa ask daily sketch for a cool sketch topic
+Alexa, disable daily sketch

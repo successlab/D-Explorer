@@ -1,0 +1,5 @@
+Alexa, open super buddy
+Alexa, open Super Buddy and leave a message for Jack
+Alexa, ask Super Buddy to read messages for Dave
+Alexa, open Super Buddy and leave a message
+Alexa, disable super buddy

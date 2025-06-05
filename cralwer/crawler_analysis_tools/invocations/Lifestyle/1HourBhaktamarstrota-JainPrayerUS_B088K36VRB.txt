@@ -1,0 +1,4 @@
+Alexa, open bhaktamar prayer
+start audio
+begin the audio
+Alexa, disable bhaktamar prayer

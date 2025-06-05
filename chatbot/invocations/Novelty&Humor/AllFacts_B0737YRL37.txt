@@ -1,0 +1,5 @@
+Alexa, open all facts
+Alexa, ask All Facts to give me a fact
+Alexa, tell All Facts to give me a Mind Blowing fact
+Alexa, open All Facts and give me a fact
+Alexa, disable all facts

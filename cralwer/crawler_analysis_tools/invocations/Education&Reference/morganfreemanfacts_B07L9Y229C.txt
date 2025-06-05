@@ -1,0 +1,5 @@
+Alexa, open morgan freeman facts
+Alexa, tell morgan freeman facts I want a fact.
+Alexa, ask morgan freeman facts for a fact.
+Alexa, tell morgan freeman facts to give me a fact.
+Alexa, disable morgan freeman facts

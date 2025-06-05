@@ -1,0 +1,4 @@
+Alexa, open bitcoin exchange
+Alexa, ask bitcoin exchange for the current exchange rate of Euro
+Alexa, ask bitcoin exchange for the value of 2000 British Pounds
+Alexa, disable bitcoin exchange

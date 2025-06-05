@@ -1,0 +1,5 @@
+Alexa, open my gold wallet
+Alexa, ask My Gold Wallet how much is gold?
+Alexa, ask My Gold Wallet my balance.
+Alexa, ask My Gold Wallet list my wallets.
+Alexa, disable my gold wallet

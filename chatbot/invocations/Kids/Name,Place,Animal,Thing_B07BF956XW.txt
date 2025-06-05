@@ -1,0 +1,4 @@
+Alexa, open name place animal thing
+Alexa, play Name, Place Animal, Thing
+Alexa, start Name, Place Animal, Thing
+Alexa, disable name place animal thing

@@ -1,0 +1,4 @@
+Alexa, open cook mate
+Alexa, Find a chocolate cake with COOK mate
+Alexa, Ask COOK mate to list chicken recipes
+Alexa, disable cook mate

@@ -1,0 +1,5 @@
+Alexa, open roast master
+Alexa, launch Roast Master
+Alexa, ask Roast Master to insult Joe
+Alexa, ask Roast Master to roast Joe
+Alexa, disable roast master

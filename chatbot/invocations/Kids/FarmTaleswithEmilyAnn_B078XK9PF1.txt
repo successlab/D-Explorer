@@ -1,0 +1,5 @@
+Alexa, open farm tales
+Alexa, launch Farm Tales
+Alexa, ask Farm Tales to continue
+Alexa, ask Farm Tales to start over
+Alexa, disable farm tales

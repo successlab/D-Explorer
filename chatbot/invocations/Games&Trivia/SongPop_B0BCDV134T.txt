@@ -1,0 +1,8 @@
+Alexa, open song pop
+Alexa, open SongPop
+Alexa, ask SongPop to challenge a friend.
+Alexa, ask SongPop to list my challenges.
+Alexa, tell SongPop to play on my own.
+Alexa, Launch Song Pop
+Alexa, Play Song Pop
+Alexa, disable song pop

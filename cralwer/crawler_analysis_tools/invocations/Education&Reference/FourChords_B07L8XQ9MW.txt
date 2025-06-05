@@ -1,0 +1,3 @@
+Alexa, open four chords
+Alexa ask Four Chords to recommend a song
+Alexa, disable four chords

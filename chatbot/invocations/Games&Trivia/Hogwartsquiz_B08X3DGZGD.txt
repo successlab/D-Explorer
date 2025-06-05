@@ -1,0 +1,4 @@
+Alexa, open hogwarts quiz
+Alexa, repeat question
+Alexa, option 2
+Alexa, disable hogwarts quiz

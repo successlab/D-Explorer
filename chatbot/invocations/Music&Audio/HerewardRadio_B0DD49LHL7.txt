@@ -1,0 +1,4 @@
+Alexa, open hereward radio
+Alexa, start Hereward Radio
+Alexa, play Hereward Radio
+Alexa, disable hereward radio

@@ -1,0 +1,2 @@
+Alexa, open fitness quote
+Alexa, disable fitness quote

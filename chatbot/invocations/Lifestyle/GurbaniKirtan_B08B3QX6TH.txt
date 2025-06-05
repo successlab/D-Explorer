@@ -1,0 +1,4 @@
+Alexa, open gurbani kirtan
+Alexa, start Gurbani Kirtan
+Alexa, launch Gurbani Kirtan
+Alexa, disable gurbani kirtan

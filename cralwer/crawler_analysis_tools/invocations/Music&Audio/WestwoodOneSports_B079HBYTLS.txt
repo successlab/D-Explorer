@@ -1,0 +1,4 @@
+Alexa, open westwood one sports
+Alexa, pause
+Alexa, resume
+Alexa, disable westwood one sports

@@ -1,0 +1,4 @@
+Alexa, open yes or no
+Alexa start Yes or No
+Alexa launch Yes or No
+Alexa, disable yes or no

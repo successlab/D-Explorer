@@ -1,0 +1,5 @@
+Alexa, open coin flip
+Alexa, tell coin flip to flip a coin
+tell coin flip flip a coin with thirty percent odds
+Tell coin flip to flip a coin with even odds
+Alexa, disable coin flip

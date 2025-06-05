@@ -1,0 +1,5 @@
+Alexa, open my shopper
+Alexa, ask My Shopper to add Milk to list
+Alexa, ask My Shopper to add Beef to list
+Alexa, ask My Shopper to add Sugar to list
+Alexa, disable my shopper

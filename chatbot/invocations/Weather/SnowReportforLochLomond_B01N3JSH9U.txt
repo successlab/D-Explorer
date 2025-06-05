@@ -1,0 +1,4 @@
+Alexa, open loch lomond
+Alexa, ask Loch Lomond for the snow report
+Alexa, ask Loch Lomond for latest conditions
+Alexa, disable loch lomond

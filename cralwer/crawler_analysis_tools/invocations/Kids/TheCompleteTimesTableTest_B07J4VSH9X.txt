@@ -1,0 +1,4 @@
+Alexa, open times table
+Alexa tell times table to start
+Alexa launch times table
+Alexa, disable times table

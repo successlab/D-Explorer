@@ -1,0 +1,5 @@
+Alexa, open audio station
+Alexa, ask Audio Station to play Let it go
+Alexa, ask Audio Station to play the music by Michael Jackson
+Alexa, ask Audio Station what's playing
+Alexa, disable audio station

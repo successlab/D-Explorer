@@ -1,0 +1,5 @@
+Alexa, open u. b. dining
+Alexa, ask UB Dining to tell me what is open in SU today?
+Alexa, ask UB Dining to check if Perks is open on Sunday?
+Alexa, ask UB Dining to give me the breakfast menu for C3 on 27th January.
+Alexa, disable u. b. dining

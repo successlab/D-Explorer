@@ -1,0 +1,5 @@
+Alexa, open is the l. train running
+Alexa, Is the L train running?
+Alexa, ask, is the L train running
+Alexa, open Is the L train running
+Alexa, disable is the l. train running

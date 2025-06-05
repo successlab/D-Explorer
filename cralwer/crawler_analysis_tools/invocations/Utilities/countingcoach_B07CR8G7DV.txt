@@ -1,0 +1,6 @@
+Alexa, open counting coach
+Alexa, ask Counting Coach to count to 10 in whale
+Alexa, ask Counting Coach to count to five
+Alexa, tell Counting Coach to count from five to eight
+Alexa, ask Counting Coach to count to three very slowly
+Alexa, disable counting coach

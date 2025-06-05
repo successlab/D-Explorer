@@ -1,0 +1,5 @@
+Alexa, open guru devs
+Alexa, launch guru devs
+Alexa, ask guru devs to play episode 1
+Alexa, ask guru devs to play episode 6
+Alexa, disable guru devs

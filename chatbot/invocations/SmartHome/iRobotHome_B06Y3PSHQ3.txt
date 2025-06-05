@@ -1,0 +1,30 @@
+Alexa, open roomba
+Alexa, ask Roomba to start vacuuming
+Alexa, ask Braava to start mopping
+Alexa, ask iRobot to clean with *Rosie and *Bob
+Alexa, tell Roomba to vacuum for 20 minutes
+Alexa, tell Roomba to vacuum in 15 minutes
+Alexa, turn on Rosie
+Alexa, ask Roomba to vacuum the master bedroom
+Alexa, ask Braava to mop my kitchen with a lot of water
+Alexa, tell Roomba there is a mess in the kitchen and living room
+Alexa, tell Roomba to vacuum and Braava to mop the kitchen
+Alexa, tell Roomba to vacuum in front of the couch once
+Alexa, tell iRobot to run my dinnertime favorite
+Alexa, tell Roomba to vacuum the dirty rooms
+Alexa, tell Roomba party in the den
+Alexa, tell Roomba to pause vacuuming
+Alexa, ask Braava to resume mopping
+Alexa, tell Roomba to go home
+Alexa, tell Roomba to stop vacuuming
+Alexa, tell Braava to stop sweeping
+Alexa, tell Roomba to not disturb me
+Alexa, tell Roomba to skip this room
+Alexa, ask Roomba where it is
+Alexa, ask Roomba what it's doing
+Alexa, ask Braava if it's done yet
+Alexa, ask Roomba to schedule vacuuming
+Alexa, ask Roomba to start vacuuming.
+Alexa, ask Roomba to stop vacuuming.
+Alexa, ask Roomba to go home.
+Alexa, disable roomba

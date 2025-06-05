@@ -1,0 +1,14 @@
+Alexa, open crestron
+Alexa, ask Crestron to turn on the lights in the kitchen
+Alexa, tell Crestron to set the kitchen lights to 50 percent
+Alexa, ask Crestron to lower the kitchen lights by 20 percent
+Alexa, tell Crestron to set the temperature in the living room to 70 degrees
+Alexa, ask Crestron to lower the living room temperature by 5 degrees
+Alexa, tell Crestron to lower the shades in the office
+Alexa, ask Crestron to set the office shades to half
+Alexa, ask Crestron to recall the morning scene in the master bathroom
+Alexa, tell Crestron I'd like to watch a movie in the living room
+Alexa, launch Crestron
+Alexa, tell Crestron I'd like to read in the bedroom
+Alexa, ask Crestron to raise the shades in the living room
+Alexa, disable crestron

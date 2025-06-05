@@ -1,0 +1,5 @@
+Alexa, open easy cocktail
+Alexa, launch Easy Cocktail
+Alexa, ask Easy Cocktail to what's the recipe for margarita
+Alexa, ask Easy Cocktail how can I make margarita
+Alexa, disable easy cocktail

@@ -1,0 +1,4 @@
+Alexa, open trivia rush
+Alexa, Play Trivia Rush
+Alexa, Start Trivia Rush
+Alexa, disable trivia rush

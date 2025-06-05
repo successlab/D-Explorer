@@ -1,0 +1,5 @@
+Alexa, open clean bot
+Alexa, ask clean bot to start cleaning.
+Alexa, ask clean bot to start charging.
+Alexa, ask clean bot for his status.
+Alexa, disable clean bot

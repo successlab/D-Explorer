@@ -1,0 +1,5 @@
+Alexa, open medicine tracker
+Alexa, ask medicine tracker have I taken my pain medication for 4 pm
+Alexa, tell medicine tracker to add pain medication for 4 pm
+Alexa, tell medicine tracker I've taken my pain medication for 4 pm
+Alexa, disable medicine tracker

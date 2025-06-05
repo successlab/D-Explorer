@@ -1,0 +1,7 @@
+Alexa, open tide chart
+Alexa, Ask Tide Chart for Myrtle Beach
+Alexa, Ask Tide Chart when is high tide today in Miami
+Alexa, Ask Tide Chart for Santa Monica tomorrow
+Alexa, ask Tide Chart for tide times on sunday
+Alexa, ask Tide Chart what time is high tide today in Palm Beach
+Alexa, disable tide chart

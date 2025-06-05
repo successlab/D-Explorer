@@ -1,0 +1,4 @@
+Alexa, open my cafe
+Alexa launch my cafe
+Alexa play my cafe
+Alexa, disable my cafe

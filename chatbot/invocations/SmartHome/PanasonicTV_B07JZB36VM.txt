@@ -1,0 +1,9 @@
+Alexa, turn on the TV.
+Alexa, change volume to 20 on the TV.
+Alexa, mute the TV.
+Alexa, change channel to 110 on the TV.
+Alexa, change input to HDMI 1 on the TV.
+Alexa, turn on the TV
+Alexa, volume up on the TV
+Alexa, change channel to 110 on the TV
+Alexa, disable PanasonicTV

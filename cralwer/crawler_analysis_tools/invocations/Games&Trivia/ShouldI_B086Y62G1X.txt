@@ -1,0 +1,4 @@
+Alexa, open should i
+Alexa, ask should i if I'll be rich when I grow up
+Alexa, start should i
+Alexa, disable should i

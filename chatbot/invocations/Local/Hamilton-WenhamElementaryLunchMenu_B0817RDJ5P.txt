@@ -1,0 +1,4 @@
+Alexa, open hamilton elementary
+Alexa, ask hamilton elementary what's for lunch.
+Alexa, ask hamilton elementary what's for lunch tomorrow.
+Alexa, disable hamilton elementary

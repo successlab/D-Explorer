@@ -1,0 +1,4 @@
+Alexa, open delta waves
+Alexa, start delta waves
+Alexa, launch delta waves
+Alexa, disable delta waves

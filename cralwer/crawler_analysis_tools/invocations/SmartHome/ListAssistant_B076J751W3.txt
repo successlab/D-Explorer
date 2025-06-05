@@ -1,0 +1,5 @@
+Alexa, open list assistant
+alexa, ask list assistant to email my shopping list
+alexa, ask list assistant to email my todo list
+alexa, ask list assistant email my shopping list
+Alexa, disable list assistant

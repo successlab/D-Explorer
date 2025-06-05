@@ -1,0 +1,5 @@
+Alexa, open guess the animal
+Alexa, open guess the animal.
+Alexa, play guess the animal.
+The animal is a sea turtle.
+Alexa, disable guess the animal

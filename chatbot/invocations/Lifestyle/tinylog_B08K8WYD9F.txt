@@ -1,0 +1,4 @@
+Alexa, open tiny log
+Alexa ask tiny log to record five ounces
+Alexa ask tiny log last feeding
+Alexa, disable tiny log

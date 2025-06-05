@@ -1,0 +1,4 @@
+Alexa, open mars tycoon
+help
+start game
+Alexa, disable mars tycoon

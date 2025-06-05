@@ -1,0 +1,4 @@
+Alexa, open the history show
+Alexa, ask the history show for the latest talk
+Alexa, start the history show
+Alexa, disable the history show

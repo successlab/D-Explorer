@@ -1,0 +1,4 @@
+Alexa, open sleep music
+Alexa, start Sleep Music
+Alexa, launch Sleep Music
+Alexa, disable sleep music

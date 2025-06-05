@@ -1,0 +1,6 @@
+Alexa, open chat bot
+Alexa, launch chat bot
+Alexa, stop
+hello
+howdy
+Alexa, disable chat bot

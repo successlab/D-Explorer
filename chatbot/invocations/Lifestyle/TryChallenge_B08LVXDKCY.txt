@@ -1,0 +1,2 @@
+Alexa, open try challenge
+Alexa, disable try challenge

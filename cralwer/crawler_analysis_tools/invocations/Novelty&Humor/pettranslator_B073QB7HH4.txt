@@ -1,0 +1,5 @@
+Alexa, open pet translator
+Alexa, ask pet translator what did my cat just say
+what did my dog just say
+what is my pet saying
+Alexa, disable pet translator

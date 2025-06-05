@@ -1,0 +1,3 @@
+Alexa, show the Front Door camera
+Alexa, show the latest event from the Front door camera
+Alexa, disable LogiCircle-Live

@@ -1,0 +1,4 @@
+Alexa, open tough guy
+Alexa, ask Tough Guy to tell me a Chuck Norris joke
+Alexa, ask Tough Guy how tough is Chuck Norris
+Alexa, disable tough guy

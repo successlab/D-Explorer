@@ -1,0 +1,4 @@
+Alexa, open are we playing tennis
+Alexa, ask are we playing tennis today
+Alexa, ask are we playing tennis on Friday.
+Alexa, disable are we playing tennis

@@ -1,0 +1,5 @@
+Alexa, open dallas three one one
+Alexa, ask Dallas three one one who is the mayor of Dallas?
+Alexa, ask Dallas three one one when is my trash day?
+Alexa, ask dallas three one one who is my council member?
+Alexa, disable dallas three one one

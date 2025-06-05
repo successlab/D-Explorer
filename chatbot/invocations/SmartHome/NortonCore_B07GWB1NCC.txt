@@ -1,0 +1,5 @@
+Alexa, open norton core
+Alexa, ask Norton Core what is my Security Score
+Alexa, ask Norton Core to pause the internet for Sarah
+Alexa, ask Norton core to enable guest network for 7 days
+Alexa, disable norton core

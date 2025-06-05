@@ -1,0 +1,5 @@
+Alexa, open camect home
+Alexa, ask Camect Home to view camera front yard
+Alexa, tell Camect Home to view camera driveway at eleven am
+Alexa, tell Camect home to play latest alert
+Alexa, disable camect home

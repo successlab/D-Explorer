@@ -1,0 +1,5 @@
+Alexa, open broma loca
+Alexa, siguiente
+Alexa, para
+Alexa, abre broma loca
+Alexa, disable broma loca

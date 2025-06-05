@@ -1,0 +1,9 @@
+Alexa, open space deck
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Space Deck to turn on Background Mode
+Alexa, ask Space Deck to turn Background Mode off
+Alexa, start Space Deck
+Alexa, launch Space Deck
+Alexa, disable space deck

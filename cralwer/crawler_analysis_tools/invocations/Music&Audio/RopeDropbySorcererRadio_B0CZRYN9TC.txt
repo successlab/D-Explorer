@@ -1,0 +1,4 @@
+Alexa, open rope drop audio
+Alexa, play Rope Drop Audio
+Alexa, start Rope Drop Audio
+Alexa, disable rope drop audio

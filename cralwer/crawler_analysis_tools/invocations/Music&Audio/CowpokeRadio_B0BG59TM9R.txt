@@ -1,0 +1,4 @@
+Alexa, open cowpoke radio
+Alexa start Cowpoke Radio
+Alexa launch Cowpoke Radio
+Alexa, disable cowpoke radio

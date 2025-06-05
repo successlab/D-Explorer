@@ -1,0 +1,4 @@
+Alexa, open the jim rome show
+Alexa, pause
+Alexa, resume
+Alexa, disable the jim rome show

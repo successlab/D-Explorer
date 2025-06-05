@@ -1,0 +1,5 @@
+Alexa, open buddhist quotes
+Alexa, next
+Alexa, stop
+Alexa, start buddhist quotes
+Alexa, disable buddhist quotes

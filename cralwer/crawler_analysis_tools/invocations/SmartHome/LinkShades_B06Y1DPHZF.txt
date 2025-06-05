@@ -1,0 +1,4 @@
+Alexa, set kitchen shade to 50%
+Alexa, raise the living room left shade
+Alexa, lower the bedroom shade to 20%
+Alexa, disable LinkShades

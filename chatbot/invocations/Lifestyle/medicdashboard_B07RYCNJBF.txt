@@ -1,0 +1,4 @@
+Alexa, open medic dashboard
+Alexa start medic dashboard
+Alexa launch medic dashboard
+Alexa, disable medic dashboard

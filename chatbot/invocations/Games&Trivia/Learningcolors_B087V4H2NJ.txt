@@ -1,0 +1,6 @@
+Alexa, open learning colors
+Alexa, stop
+Alexa, start learning colors
+Alexa, start learning colors and play on screen
+Alexa, start learning colors and play without buttons
+Alexa, disable learning colors

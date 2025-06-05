@@ -1,0 +1,4 @@
+Alexa, open softball fact
+Alexa start Softball Fact
+Alexa launch Softball Fact
+Alexa, disable softball fact

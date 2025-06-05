@@ -1,0 +1,4 @@
+Alexa, open daily schedule
+Add John
+reset
+Alexa, disable daily schedule

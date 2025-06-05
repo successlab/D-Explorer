@@ -1,0 +1,4 @@
+Alexa, open jackson hole
+Alexa, ask Jackson Hole for the snow report
+Alexa, ask Jackson Hole for latest conditions
+Alexa, disable jackson hole

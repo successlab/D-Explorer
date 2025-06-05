@@ -1,0 +1,4 @@
+Alexa, lock my front door
+Alexa, unlock the back door
+Alexa, is front door locked?
+Alexa, disable Turbolock

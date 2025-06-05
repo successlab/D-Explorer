@@ -1,0 +1,4 @@
+Alexa, open unofficial chuck norris facts
+Alexa, tell Unofficial Chuck Norris Facts to tell me a chuck norris fact
+Alexa, tell Unofficial Chuck Norris Facts to tell me something
+Alexa, disable unofficial chuck norris facts

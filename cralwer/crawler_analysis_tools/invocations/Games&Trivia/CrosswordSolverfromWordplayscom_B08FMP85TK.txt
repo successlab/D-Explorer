@@ -1,0 +1,5 @@
+Alexa, open crossword solver
+Alexa, tell Crossword Solver the clue is
+Alexa, Tell Crossword Solver the clue is Clever Conversations
+Alexa, Tell Crossword Solver the clue is Clever Conversations 9 letters
+Alexa, disable crossword solver

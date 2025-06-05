@@ -1,0 +1,5 @@
+Alexa, open my love
+Alexa, next
+Alexa, stop
+Alexa, start My Love
+Alexa, disable my love

@@ -1,0 +1,5 @@
+Alexa, open frases de sabios
+Alexa, abre Frases de Sabios
+Alexa, abre Frases de Sabios y dime una
+Alexa, abre Frases de Sabios y dame una frase
+Alexa, disable frases de sabios

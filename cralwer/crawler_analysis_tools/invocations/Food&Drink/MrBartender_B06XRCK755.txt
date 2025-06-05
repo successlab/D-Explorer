@@ -1,0 +1,4 @@
+Alexa, open mister bartender
+Alexa, Ask Mister Bartender what's in a Manhattan
+What can I make with champagne and lemon juice
+Alexa, disable mister bartender

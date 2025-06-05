@@ -1,0 +1,4 @@
+Alexa, open ping loud
+Alexa, open ping loud.
+Alexa, ask ping loud to check my messages.
+Alexa, disable ping loud

@@ -1,0 +1,4 @@
+Alexa, open rowdy radio
+Alexa play Rowdy Radio
+Alexa start Rowdy Radio
+Alexa, disable rowdy radio

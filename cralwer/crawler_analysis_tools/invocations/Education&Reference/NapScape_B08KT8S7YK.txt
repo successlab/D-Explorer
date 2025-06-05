@@ -1,0 +1,4 @@
+Alexa, open nap scape
+Alexa, start Nap Scape
+Alexa, start nap scape
+Alexa, disable nap scape

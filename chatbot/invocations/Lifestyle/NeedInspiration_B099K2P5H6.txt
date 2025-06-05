@@ -1,0 +1,5 @@
+Alexa, open i need inspiration
+Alexa, next
+Alexa, stop
+Alexa, start i need inspiration
+Alexa, disable i need inspiration

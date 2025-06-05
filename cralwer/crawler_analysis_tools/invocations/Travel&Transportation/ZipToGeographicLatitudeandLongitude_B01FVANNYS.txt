@@ -1,0 +1,4 @@
+Alexa, open zip geo
+my zipcode is 49423
+What is my geolocation?
+Alexa, disable zip geo

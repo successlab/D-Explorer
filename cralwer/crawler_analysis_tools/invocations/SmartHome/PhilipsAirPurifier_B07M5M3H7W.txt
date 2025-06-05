@@ -1,0 +1,12 @@
+Alexa, open air purifier
+Alexa, turn <bedroom> on
+Alexa, turn <bedroom> off
+Alexa, set <living room> to sleep
+Alexa, switch <kitchen purifier> to turbo
+Alexa, set <bedroom> to allergen
+Alexa, set <bedroom> to general
+Alexa, what is the air quality in the <living room>
+Alexa, turn bedroom on
+Alexa, turn bedroom off
+Alexa, what is the air quality in the living room?
+Alexa, disable air purifier

@@ -1,0 +1,9 @@
+Alexa, open air conditioner sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Air Conditioner Sounds to turn on Background Mode
+Alexa, ask Air Conditioner Sounds to turn Background Mode off
+Alexa, start Air Conditioner Sounds
+Alexa, launch Air Conditioner Sounds
+Alexa, disable air conditioner sounds

@@ -1,0 +1,8 @@
+Alexa, turn on kitchen light
+Alexa, turn off kitchen light
+Alexa, dim livingroom light
+Alexa, brighten livingroom light
+Alexa, set the Livingroom light to 20 percent
+Alexa, turn on bedroom heater
+Alexa, dim kitchen light
+Alexa, disable NexxtSolutionsHome

@@ -1,0 +1,4 @@
+Alexa, turn on the bedroom light.
+Alexa, turn off the bedroom light.
+Alexa, turn on my fridge socket.
+Alexa, disable Kisslinkhome

@@ -1,0 +1,5 @@
+Alexa, open l. a. city
+Alexa, Ask L. A. City for family events
+Alexa, Ask L. A. City if there was an earthquake
+Alexa, Ask L. A. City to play the news
+Alexa, disable l. a. city

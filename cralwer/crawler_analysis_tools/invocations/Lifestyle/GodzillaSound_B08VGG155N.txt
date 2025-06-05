@@ -1,0 +1,4 @@
+Alexa, open godzilla sound
+Alexa, start Godzilla Sound
+Alexa, launch Godzilla Sound
+Alexa, disable godzilla sound

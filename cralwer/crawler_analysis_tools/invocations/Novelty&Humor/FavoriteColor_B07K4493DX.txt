@@ -1,0 +1,4 @@
+Alexa, open favorite color
+Alexa, ask Favorite Color to give me a color
+Alexa, ask Favorite Color to give me a random color
+Alexa, disable favorite color

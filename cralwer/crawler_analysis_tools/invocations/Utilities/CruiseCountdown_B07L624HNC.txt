@@ -1,0 +1,5 @@
+Alexa, open cruise countdown
+Alexa, start Cruise Countdown
+Alexa, ask Cruise Countdown to add a cruise
+Alexa, ask Cruise Countdown to list all my cruises
+Alexa, disable cruise countdown

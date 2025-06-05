@@ -1,0 +1,5 @@
+Alexa, open metronet
+Alexa, ask Metronet to tune to The Weather Channel
+Alexa, tell Metronet to watch channel 3
+Alexa, ask Metronet to search for Big Bang Theory
+Alexa, disable metronet

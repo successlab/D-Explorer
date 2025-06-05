@@ -1,0 +1,3 @@
+Alexa, open star commander
+Alexa, play Star Commander
+Alexa, disable star commander

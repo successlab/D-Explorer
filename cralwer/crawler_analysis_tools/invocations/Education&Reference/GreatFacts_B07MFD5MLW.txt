@@ -1,0 +1,4 @@
+Alexa, open great facts
+Alexa, start great facts
+Alexa, launch great facts
+Alexa, disable great facts

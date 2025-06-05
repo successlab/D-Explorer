@@ -1,0 +1,4 @@
+Alexa, open sleep sanctuary
+Alexa, Launch Sleep Sanctuary
+Alexa, Play Sleep Sanctuary
+Alexa, disable sleep sanctuary

@@ -1,0 +1,6 @@
+Alexa, open family jokes
+Alexa, next
+Alexa, stop
+Alexa, start Family Jokes
+Alexa, ask Family Jokes for a joke
+Alexa, disable family jokes

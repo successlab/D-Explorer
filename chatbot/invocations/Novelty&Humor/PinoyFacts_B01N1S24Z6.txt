@@ -1,0 +1,4 @@
+Alexa, open pinoy facts
+Alexa ask pinoy facts to give me a pinoy fact
+Alexa ask pinoy facts for a fact
+Alexa, disable pinoy facts

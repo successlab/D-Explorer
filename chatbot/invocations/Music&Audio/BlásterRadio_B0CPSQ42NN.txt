@@ -1,0 +1,4 @@
+Alexa, open blaster radio
+Alexa, abre blaster radio
+alexa, pide a blaster radio reproducir
+Alexa, disable blaster radio

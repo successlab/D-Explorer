@@ -1,0 +1,8 @@
+Alexa, discover my devices
+Alexa, turn on the living room light
+Alexa, turn off the living room light
+Alexa, set the living room light to 50%
+Alexa, set the living room light to green
+Alexa, turn on the light
+Alexa, turn off the plug
+Alexa, disable GreenliteSmartHome

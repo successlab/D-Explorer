@@ -1,0 +1,4 @@
+Alexa, open find me a job
+Alexa, find me a job
+Alexa, launch find me a job
+Alexa, disable find me a job

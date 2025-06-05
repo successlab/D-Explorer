@@ -1,0 +1,3 @@
+Alexa,Turn on the TV
+Alexa,Turn off the living room light
+Alexa, disable Revogi

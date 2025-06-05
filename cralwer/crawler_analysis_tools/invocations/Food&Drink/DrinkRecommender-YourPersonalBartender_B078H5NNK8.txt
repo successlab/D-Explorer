@@ -1,0 +1,4 @@
+Alexa, open drink recommender
+yes
+tell me more
+Alexa, disable drink recommender

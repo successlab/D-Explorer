@@ -1,0 +1,4 @@
+Alexa, open thunderstorm noise
+Alexa ask Thunderstorm Noise to play for 8 hours
+Alexa, pause
+Alexa, disable thunderstorm noise

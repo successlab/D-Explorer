@@ -1,0 +1,5 @@
+Alexa, open blue link
+Alexa, tell Blue Link to start my Sonata and set the temperature to 72 degrees.
+Alexa, tell Blue Link to lock my Sonata.
+Alexa, tell Blue Link to flash the lights of my Sonata.
+Alexa, disable blue link

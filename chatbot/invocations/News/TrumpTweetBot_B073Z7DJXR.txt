@@ -1,0 +1,5 @@
+Alexa, open trump tweet bot
+Alexa, tell Trump Tweet Bot to read Trump's latest tweet.
+Alexa, ask Trump Tweet Bot what did the president post last?
+Alexa, ask Trump Tweet Bot for Trump's most recent tweet.
+Alexa, disable trump tweet bot

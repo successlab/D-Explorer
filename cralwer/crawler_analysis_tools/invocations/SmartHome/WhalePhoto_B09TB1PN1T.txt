@@ -1,0 +1,4 @@
+Alexa, turn on Frame.
+Alexa, turn off Frame.
+Alexa, mute on Frame.
+Alexa, disable WhalePhoto

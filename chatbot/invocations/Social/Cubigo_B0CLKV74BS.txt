@@ -1,0 +1,4 @@
+Alexa, open my community
+Alexa, ask my community what is on my schedule Today
+Alexa, ask my community which commands I can use
+Alexa, disable my community

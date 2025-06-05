@@ -1,0 +1,6 @@
+Alexa, open be a speaker
+Alexa, next
+Alexa, stop
+Alexa, start be a speaker
+Alexa, ask be a speaker for a fact
+Alexa, disable be a speaker

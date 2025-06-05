@@ -1,0 +1,3 @@
+Alexa, open one minute
+Alexa, start one minute
+Alexa, disable one minute

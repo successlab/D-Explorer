@@ -1,0 +1,5 @@
+Alexa, open i'm hungry
+Alexa, I'm Hungry
+Alexa, ask I'm Hungry, "What Should I Eat?
+Alexa, ask I'm Hungry, "Find Me Food
+Alexa, disable i'm hungry

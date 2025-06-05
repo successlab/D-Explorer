@@ -1,0 +1,4 @@
+Alexa, open test alarm
+Alexa, wake me up at 7:00 AM to test alarm
+Alexa, set an alarm at 7:00 AM to test alarm
+Alexa, disable test alarm

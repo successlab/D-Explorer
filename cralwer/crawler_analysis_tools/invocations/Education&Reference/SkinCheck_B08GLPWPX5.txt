@@ -1,0 +1,2 @@
+Alexa, open skin check
+Alexa, disable skin check

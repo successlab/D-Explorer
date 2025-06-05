@@ -1,0 +1,5 @@
+Alexa, open bird sounds
+Alexa, start bird sounds
+Alexa, launch bird sounds
+Alexa, resume bird sounds
+Alexa, disable bird sounds

@@ -1,0 +1,5 @@
+Alexa, open sunshine radio network
+Alexa, play Sunshine Radio Network
+Alexa, start Sunshine Radio Network
+Alexa, ask Sunshine Radio Network what song is playing
+Alexa, disable sunshine radio network

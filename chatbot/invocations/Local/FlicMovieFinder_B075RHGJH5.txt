@@ -1,0 +1,5 @@
+Alexa, open flic finder
+Alexa, ask Flic Finder to find Cars 3
+ask Flic Finder where Total Recall is streaming
+ask Flic Finder where I can watch Talladega Nights
+Alexa, disable flic finder

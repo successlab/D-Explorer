@@ -1,0 +1,9 @@
+Alexa, enable the guest network
+Alexa, enable the Wi-Fi schedule
+Alexa, set the signal strength to standard mode
+Alexa, turn on the LED indicator
+Alexa, enable the parental control of (group name)
+Alexa, enable Guest WiFi
+Alexa, enable WiFi Schedule
+Alexa, enable Parental Control for 'group name'
+Alexa, disable Tenda

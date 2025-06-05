@@ -1,0 +1,4 @@
+Alexa, open zoo quiz
+first answer
+last one
+Alexa, disable zoo quiz

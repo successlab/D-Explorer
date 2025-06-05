@@ -1,0 +1,4 @@
+Alexa, open joke break
+Alexa, launch joke break
+Alexa, start joke break
+Alexa, disable joke break

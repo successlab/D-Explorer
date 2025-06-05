@@ -1,0 +1,5 @@
+Alexa, open yoga studio
+Alexa, open Yoga Studio and start for 30 minutes
+Alexa, open Yoga Studio and start for 10 minutes
+Alexa, open Yoga Studio and start for 60 minutes
+Alexa, disable yoga studio

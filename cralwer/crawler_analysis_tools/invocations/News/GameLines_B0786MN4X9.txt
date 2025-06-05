@@ -1,0 +1,6 @@
+Alexa, open game lines
+Alexa, ask game lines for the West Virginia college basketball game.
+Alexa, ask game lines for Steelers
+Alexa, ask game lines for West Virginia basketball team
+Alexa, ask game lines for Milwaukee NBA game
+Alexa, disable game lines

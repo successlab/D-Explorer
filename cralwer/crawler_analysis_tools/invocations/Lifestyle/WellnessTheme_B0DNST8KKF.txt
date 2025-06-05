@@ -1,0 +1,4 @@
+Alexa, open wellness theme
+Alexa, start wellness theme
+Alexa, enable wellness theme
+Alexa, disable wellness theme

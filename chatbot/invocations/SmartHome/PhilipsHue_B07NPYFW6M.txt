@@ -1,0 +1,5 @@
+Alexa, detecta dispositivos
+Alexa, enciende las luces
+Alexa, apaga las luces del dormitorio
+Alexa, ilumina el salón en morado
+Alexa, disable PhilipsHue

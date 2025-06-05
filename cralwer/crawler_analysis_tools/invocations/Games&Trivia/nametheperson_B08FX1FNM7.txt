@@ -1,0 +1,9 @@
+Alexa, open name the person
+Alexa, what are Echo Buttons?
+Alexa, repeat that
+Alexa, what are the scores?
+Alexa, help!
+Alexa, start over
+Alexa, stop
+Alexa, start name the person
+Alexa, disable name the person

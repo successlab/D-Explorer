@@ -1,0 +1,5 @@
+Alexa, open random number
+Alexa, start random number
+Give me another
+Help
+Alexa, disable random number

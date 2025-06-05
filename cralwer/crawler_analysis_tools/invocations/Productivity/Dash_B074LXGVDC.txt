@@ -1,0 +1,6 @@
+Alexa, open dash guide
+Alexa, ask dash to tell me something about Java
+Alexa, ask dash guide who developed this skill
+Alexa, ask dash guide what can you tell me about java
+Alexa, ask dash guide to tell me something interesting about ruby on rails
+Alexa, disable dash guide

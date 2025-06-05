@@ -1,0 +1,4 @@
+Alexa, open sports analyst
+Alexa ask sports analyst for his opinion of Duke?
+Alexa ask sports analyst what is your opinion of Arizona?
+Alexa, disable sports analyst

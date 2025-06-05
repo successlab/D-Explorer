@@ -1,0 +1,6 @@
+Alexa, open go army
+Alexa, start Go Army
+Alexa, stop
+Alexa, start go army
+Alexa, ask go army for a burn
+Alexa, disable go army

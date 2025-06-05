@@ -1,0 +1,4 @@
+Alexa, open my slides
+Alexa, ask my slides to show Mountain trip
+help
+Alexa, disable my slides

@@ -1,0 +1,4 @@
+Alexa, open cloud fact
+Alexa launch cloud fact
+cloud fact
+Alexa, disable cloud fact

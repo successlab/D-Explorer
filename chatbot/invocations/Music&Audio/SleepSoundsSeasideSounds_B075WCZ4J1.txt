@@ -1,0 +1,6 @@
+Alexa, open seaside sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Seaside Sounds
+Alexa, launch Seaside Sounds
+Alexa, disable seaside sounds

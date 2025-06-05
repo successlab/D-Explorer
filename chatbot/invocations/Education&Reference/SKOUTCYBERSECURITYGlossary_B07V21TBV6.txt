@@ -1,0 +1,4 @@
+Alexa, open skout glossary
+Alexa, ask SKOUT Glossary what phishing is.
+Alexa, ask SKOUT Glossary what is a SOC?
+Alexa, disable skout glossary

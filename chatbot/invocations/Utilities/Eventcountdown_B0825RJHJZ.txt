@@ -1,0 +1,4 @@
+Alexa, open event countdown
+Alexa, open birthday tracker
+Alexa, start birthday tracker
+Alexa, disable event countdown

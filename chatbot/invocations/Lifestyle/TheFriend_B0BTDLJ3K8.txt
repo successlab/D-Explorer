@@ -1,0 +1,5 @@
+Alexa, open the friend magazine
+Alexa, open The Friend magazine.
+Alexa, ask The Friend magazine to play the friend playlist
+Alexa, ask The Friend magazine to play the story of the day
+Alexa, disable the friend magazine

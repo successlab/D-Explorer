@@ -1,0 +1,5 @@
+Alexa, open name the show
+Alexa, open Name The Show.
+Alexa, start Name The Show
+Alexa, play Name The Show
+Alexa, disable name the show

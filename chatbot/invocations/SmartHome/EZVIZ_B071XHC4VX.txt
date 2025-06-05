@@ -1,0 +1,3 @@
+Alexa, show me the baby room
+Alexa, show me the front door
+Alexa, disable EZVIZ

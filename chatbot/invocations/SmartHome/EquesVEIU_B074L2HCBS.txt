@@ -1,0 +1,4 @@
+Alexa, show the door camera
+Alexa, show the feed from the door camera
+Alexa, hide the door camera
+Alexa, disable EquesVEIU

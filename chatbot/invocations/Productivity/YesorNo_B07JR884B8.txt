@@ -1,0 +1,4 @@
+Alexa, open yes or no
+Alexa, open Yes or No and give me a decision
+Alexa, open Yes or No and choose
+Alexa, disable yes or no

@@ -1,0 +1,5 @@
+Alexa, open know bot
+Alexa ask Know Bot Who won the 1976 World Series?
+Alexa ask Know Bot How far is it from the Earth to the Sun?
+Alexa ask Know Bot Who was the Wizard of Menlo Park?
+Alexa, disable know bot

@@ -1,0 +1,4 @@
+Alexa, open thing f. m.
+Alexa, start thing f. m.
+Alexa, ask thing f. m. what's playing
+Alexa, disable thing f. m.

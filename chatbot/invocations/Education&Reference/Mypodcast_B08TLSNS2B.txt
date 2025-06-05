@@ -1,0 +1,11 @@
+Alexa, open my podcast
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask my podcast for the latest talk
+Alexa, start my podcast
+Alexa, disable my podcast

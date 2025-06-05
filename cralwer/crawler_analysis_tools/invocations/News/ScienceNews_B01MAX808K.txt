@@ -1,0 +1,5 @@
+Alexa, open science news
+Alexa, ask Science News for the latest post
+Alexa, ask Science News for the third post
+Alexa, ask Science News for the latest news
+Alexa, disable science news

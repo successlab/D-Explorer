@@ -1,0 +1,10 @@
+Alexa, turn on <Scene Name>
+Alexa, turn on Family Room
+Alexa, turn on the Kitchen Lights
+Alexa, turn off the Kitchen Lights
+Alexa, set the Kitchen Lights to 40%
+Alexa, brighten the Kitchen Lights
+Alexa, dim the Kitchen Lights
+Alexa, turn on Movie Night
+Alexa, set Kitchen Lights to 40%
+Alexa, disable Savant

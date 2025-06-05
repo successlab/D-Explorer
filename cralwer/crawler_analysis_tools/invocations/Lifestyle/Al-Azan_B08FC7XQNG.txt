@@ -1,0 +1,5 @@
+Alexa, open al azan
+Alexa, start Al-Azan.
+Alexa start al azan
+Alexa play al azan
+Alexa, disable al azan

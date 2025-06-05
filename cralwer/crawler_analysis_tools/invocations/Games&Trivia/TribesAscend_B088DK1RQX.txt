@@ -1,0 +1,4 @@
+Alexa, open tribes ascend
+Alexa, ask Tribes Ascend if anybody is on community servers
+Alexa, ask Tribes Ascend for help
+Alexa, disable tribes ascend

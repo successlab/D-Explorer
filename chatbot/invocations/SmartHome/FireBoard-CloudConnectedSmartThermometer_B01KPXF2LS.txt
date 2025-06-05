@@ -1,0 +1,5 @@
+Alexa, open fireboard
+Alexa, ask FireBoard temperature
+Alexa, ask FireBoard to set an alert for 200 degrees on channel 1
+Alexa, ask FireBoard to set my smoker to 225 degrees
+Alexa, disable fireboard

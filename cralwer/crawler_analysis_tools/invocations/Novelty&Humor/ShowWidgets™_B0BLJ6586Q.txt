@@ -1,0 +1,2 @@
+Alexa, open show widgets
+Alexa, disable show widgets

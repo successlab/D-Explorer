@@ -1,0 +1,5 @@
+Alexa, open alligator finder
+Alexa, launch alligator finder
+Alexa, ask Alligator Finder to find the gators
+Alexa, ask Alligator Finder where are the gators
+Alexa, disable alligator finder

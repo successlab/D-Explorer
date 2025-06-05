@@ -1,0 +1,5 @@
+Alexa, open cardio workout
+Alexa open cardioworkout
+start
+tell me the workout for Monday
+Alexa, disable cardio workout

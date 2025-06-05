@@ -1,0 +1,5 @@
+Alexa, open the body coach
+Alexa, start the Body Coach
+Alexa, ask the Body Coach for my last workout
+Alexa, ask the Body Coach for workout five
+Alexa, disable the body coach

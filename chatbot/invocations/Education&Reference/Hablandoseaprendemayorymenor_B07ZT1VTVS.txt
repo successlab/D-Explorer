@@ -1,0 +1,5 @@
+Alexa, open mayor y menor
+Alexa, abre mayor y menor
+Alexa, empieza mayor y menor
+Alexa, juega mayor y menor
+Alexa, disable mayor y menor

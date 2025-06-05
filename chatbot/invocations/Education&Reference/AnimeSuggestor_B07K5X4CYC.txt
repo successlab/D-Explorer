@@ -1,0 +1,4 @@
+Alexa, open anime suggestor
+Alexa, give me an anime from anime suggestor
+Alexa, can I have an anime from anime suggestor?
+Alexa, disable anime suggestor

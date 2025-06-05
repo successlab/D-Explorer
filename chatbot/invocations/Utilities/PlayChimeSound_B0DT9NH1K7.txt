@@ -1,0 +1,3 @@
+Alexa, open chime sound
+Alexa play chime sound
+Alexa, disable chime sound

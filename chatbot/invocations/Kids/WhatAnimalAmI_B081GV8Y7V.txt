@@ -1,0 +1,4 @@
+Alexa, open what animal am i
+Alexa, ask What Animal Am I to start a new game
+Alexa, launch What Animal Am I
+Alexa, disable what animal am i

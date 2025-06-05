@@ -1,0 +1,7 @@
+Alexa, turn on Good Morning
+Alexa, turn on I'm Home
+Alexa, turn on Good Night
+Alexa, turn on
+Alexa, turn on Good Morning in the Bedroom
+Alexa, turn on Good Night in the Living Room
+Alexa, disable PowerView®Scenes

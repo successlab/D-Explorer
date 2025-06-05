@@ -1,0 +1,4 @@
+Alexa, open meow meow
+Alexa, open meow meow and tell me a cat breed
+Alexa, open meow meow and tell me how to raise my cat
+Alexa, disable meow meow

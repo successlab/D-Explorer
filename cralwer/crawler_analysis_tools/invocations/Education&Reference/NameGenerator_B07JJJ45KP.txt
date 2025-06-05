@@ -1,0 +1,5 @@
+Alexa, open name generator
+Alexa, name generator
+Alexa, ask name generator to make a name
+Alexa, ask name generator to generate a name
+Alexa, disable name generator

@@ -1,0 +1,5 @@
+Alexa, open netatmo
+Alexa, ask Netatmo is it noisy at Home?
+Alexa, ask Netatmo if the air is polluted in the Living Room?
+Alexa, ask Netatmo to get the rain measurements for The Summer House
+Alexa, disable netatmo

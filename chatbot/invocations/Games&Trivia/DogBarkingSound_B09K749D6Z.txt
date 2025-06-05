@@ -1,0 +1,4 @@
+Alexa, open dog barking sound
+Alexa, pause
+Alexa, resume
+Alexa, disable dog barking sound

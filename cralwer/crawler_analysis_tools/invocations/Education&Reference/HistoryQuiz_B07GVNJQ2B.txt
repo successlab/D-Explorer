@@ -1,0 +1,4 @@
+Alexa, open history quiz
+Alexa, start history quiz
+Alexa, launch history quiz
+Alexa, disable history quiz

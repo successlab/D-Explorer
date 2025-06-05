@@ -1,0 +1,4 @@
+Alexa, open my mitsubishi connect
+Alexa, ask My MITSUBISHI CONNECT to enable the battery charging schedule
+Alexa, ask My MITSUBISHI CONNECT to lock the doors
+Alexa, disable my mitsubishi connect

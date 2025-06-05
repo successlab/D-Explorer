@@ -1,0 +1,5 @@
+Alexa, open port numbers
+Alexa, ask port numbers on which port runs SSH
+What runs on port eighty
+What is the port of SMTP
+Alexa, disable port numbers

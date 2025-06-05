@@ -1,0 +1,5 @@
+Alexa, open currency converter
+Alexa, begin Currency Converter
+Alexa, ask currency converter to convert 15 Mexican Pesos to Argentine Pesos
+Alexa, get me exchange from Euro in currency converter
+Alexa, disable currency converter

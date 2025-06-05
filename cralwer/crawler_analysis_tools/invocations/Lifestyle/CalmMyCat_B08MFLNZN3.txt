@@ -1,0 +1,4 @@
+Alexa, open calm my cat
+Alexa start calm my cat
+Alexa calm my cat
+Alexa, disable calm my cat

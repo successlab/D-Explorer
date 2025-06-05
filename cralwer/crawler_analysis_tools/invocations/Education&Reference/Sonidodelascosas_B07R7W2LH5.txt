@@ -1,0 +1,5 @@
+Alexa, open sonido de las cosas
+« Alexa, lance son des choses »
+« Alexa, demande à son des choses de me faire entendre le son de la mer »
+« Quel est le bruit de la brosse à dent ? »
+Alexa, disable sonido de las cosas

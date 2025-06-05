@@ -1,0 +1,3 @@
+Alexa, open pilates class
+Alexa, start pilates class
+Alexa, disable pilates class

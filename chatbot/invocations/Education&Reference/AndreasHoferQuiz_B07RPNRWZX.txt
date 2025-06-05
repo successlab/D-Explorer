@@ -1,0 +1,6 @@
+Alexa, open andreas hofer quiz
+Alexa, next
+Alexa, stop
+Alexa, start Andreas Hofer Quiz
+Alexa, ask Andreas Hofer Quiz for a fact
+Alexa, disable andreas hofer quiz

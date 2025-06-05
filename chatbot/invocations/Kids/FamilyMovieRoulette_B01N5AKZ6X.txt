@@ -1,0 +1,5 @@
+Alexa, open family movie roulette
+Alexa, play family movie roulette
+What movie should I watch?
+Add the movie Goonies
+Alexa, disable family movie roulette

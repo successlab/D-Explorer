@@ -1,0 +1,5 @@
+Alexa, open hunt wise
+Alexa, open HuntWise
+Alexa, ask HuntWise for the whitetail deer forecast
+Alexa, ask HuntWise for the turkey forecast on Saturday
+Alexa, disable hunt wise

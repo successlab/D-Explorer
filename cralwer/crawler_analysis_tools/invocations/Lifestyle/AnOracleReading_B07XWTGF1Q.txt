@@ -1,0 +1,4 @@
+Alexa, open an oracle card
+Alexa, ask an oracle card for my fortune
+Alexa, start an oracle card
+Alexa, disable an oracle card

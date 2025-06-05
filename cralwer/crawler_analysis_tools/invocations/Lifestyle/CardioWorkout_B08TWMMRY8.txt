@@ -1,0 +1,4 @@
+Alexa, open cardio workout
+Alexa, start cardio workout
+Alexa, ask cardio workout to start workout
+Alexa, disable cardio workout

@@ -1,0 +1,4 @@
+Alexa, open grow radio
+Alexa, start grow radio
+Alexa, ask grow radio what's playing
+Alexa, disable grow radio

@@ -1,0 +1,4 @@
+Alexa, open pentair home
+Alexa begin Pentair Home
+Alexa launch Pentair Home
+Alexa, disable pentair home

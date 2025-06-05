@@ -1,0 +1,3 @@
+Alexa, open ambient visions
+Alexa, start Ambient Visions
+Alexa, disable ambient visions

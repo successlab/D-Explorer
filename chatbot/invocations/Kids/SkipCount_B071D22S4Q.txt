@@ -1,0 +1,5 @@
+Alexa, open skip count
+Alexa, Ask Skip Count
+Alexa, Ask skip count for 5 in backwards
+Alexa, Ask Skip Count for 5 limit 50
+Alexa, disable skip count

@@ -1,0 +1,5 @@
+Alexa, open nutrition label
+Alexa, ask Nutrition Label what's in a serving of oreos.
+Alexa, ask Nutrition Label for a slice of apple pie.
+Alexa, ask Nutrition Label to get protein in bacon.
+Alexa, disable nutrition label

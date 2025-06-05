@@ -1,0 +1,4 @@
+Alexa, open downstairs list
+Alexa, ask downstairs list to read my chore list
+Alexa, ask downstairs list to log a chore
+Alexa, disable downstairs list

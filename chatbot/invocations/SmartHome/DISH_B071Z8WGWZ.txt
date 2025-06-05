@@ -1,0 +1,4 @@
+Alexa, change the channel to HGTV
+Alexa, show me Tom Hanks movies
+Alexa, launch Game Finder
+Alexa, disable DISH

@@ -1,0 +1,5 @@
+Alexa, open curiosidades científicas
+Alexa, pídele a Curiosidades Científicas una curiosidad
+Alexa, pídele a Curiosidades Científicas más sobre naturaleza
+Alexa, pídele a Curiosidades Científicas más datos
+Alexa, disable curiosidades científicas

@@ -1,0 +1,5 @@
+Alexa, open pound kilo
+Alexa launch Pound Kilo
+Alexa ask Pound Kilo how much is 15 pound
+convert 15 pound to kilo
+Alexa, disable pound kilo

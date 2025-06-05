@@ -1,0 +1,5 @@
+Alexa, open hindi quiz
+Alexa, next
+Alexa, stop
+Alexa, start hindi quiz
+Alexa, disable hindi quiz

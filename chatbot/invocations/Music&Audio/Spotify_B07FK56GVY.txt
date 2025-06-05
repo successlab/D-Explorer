@@ -1,0 +1,4 @@
+Alexa, Play Spotify
+Alexa, Play Today's Top Hits on Spotify
+Alexa, Play An Oral History of The Office podcast on Spotify
+Alexa, disable Spotify

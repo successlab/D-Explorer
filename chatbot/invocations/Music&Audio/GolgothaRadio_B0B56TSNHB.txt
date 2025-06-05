@@ -1,0 +1,4 @@
+Alexa, open golgotha radio
+Alexa launch golgotha radio
+Alexa play golgotha radio
+Alexa, disable golgotha radio

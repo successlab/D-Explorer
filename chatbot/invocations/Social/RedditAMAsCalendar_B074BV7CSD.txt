@@ -1,0 +1,5 @@
+Alexa, open a. m. a. calendar
+Alexa, ask a. m. a. calendar is there an AMA today
+Alexa, ask a. m. a. calendar what are the AMAs tomorrow
+Alexa, ask a. m. a. calendar get me AMAs happening today
+Alexa, disable a. m. a. calendar

@@ -1,0 +1,4 @@
+Alexa, open score tracker
+Alexa, ask score tracker for update
+Alexa, ask score tracker to add India to favorites
+Alexa, disable score tracker

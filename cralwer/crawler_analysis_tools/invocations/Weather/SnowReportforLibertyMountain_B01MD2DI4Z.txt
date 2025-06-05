@@ -1,0 +1,4 @@
+Alexa, open liberty mountain
+Alexa, ask Liberty Mountain for the snow report
+Alexa, ask Liberty Mountain for latest conditions
+Alexa, disable liberty mountain

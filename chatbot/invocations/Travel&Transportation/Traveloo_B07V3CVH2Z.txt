@@ -1,0 +1,5 @@
+Alexa, open travel loo
+Alexa, ask Traveloo for a flight to montreal on july 20.
+Alexa, open Travel Loo.
+Alexa ask Travel Loo to fly to Montreal on July 20
+Alexa, disable travel loo

@@ -1,0 +1,4 @@
+Alexa, open vocabulary time
+Alexa, open vocabulary time and give me a word
+Alexa, open vocabulary time and give me a vocabulary word
+Alexa, disable vocabulary time

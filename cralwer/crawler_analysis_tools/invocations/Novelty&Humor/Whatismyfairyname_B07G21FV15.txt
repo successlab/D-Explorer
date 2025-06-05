@@ -1,0 +1,4 @@
+Alexa, open fairy name
+Alexa, ask Fairy Name what my fairy name would be
+Alexa, launch Fairy Name
+Alexa, disable fairy name

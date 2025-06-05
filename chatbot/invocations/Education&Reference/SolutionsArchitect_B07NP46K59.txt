@@ -1,0 +1,3 @@
+Alexa, open solutions architect
+Alexa, ask solutions architect to tell me what is Amazon SageMaker?
+Alexa, disable solutions architect

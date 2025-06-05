@@ -1,0 +1,5 @@
+Alexa, open spacex launches
+Alexa, ask spacex launches, next launch
+Alexa, ask spacex launches, last launch
+Alexa, ask spacex launches, fact
+Alexa, disable spacex launches

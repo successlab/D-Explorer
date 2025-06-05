@@ -1,0 +1,4 @@
+Alexa, open safety tip of the day
+Alexa, start safety tip of the day
+Alexa, launch safety tip of the day
+Alexa, disable safety tip of the day

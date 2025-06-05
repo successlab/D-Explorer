@@ -1,0 +1,5 @@
+Alexa, open islamic calendar
+Alexa start islamic calendar
+Alexa, ask islamic calendar what is the date
+Alexa, ask islamic calendar which date do we have today
+Alexa, disable islamic calendar

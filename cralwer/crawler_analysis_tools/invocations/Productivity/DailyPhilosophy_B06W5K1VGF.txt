@@ -1,0 +1,5 @@
+Alexa, open daily philosophy
+Alexa, ask daily philosophy to give me a philosophy quote
+Alexa, ask daily philosophy to give me inspiration
+Alexa, ask daily philosophy to give me a quote
+Alexa, disable daily philosophy

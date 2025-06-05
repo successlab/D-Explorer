@@ -1,0 +1,5 @@
+Alexa, open bob's chalkboard
+Alexa, ask Bob's Chalkboard what the burger of the day is
+Alexa, ask Bob's Chalkboard about today's burger of the day
+Alexa, ask Bob's Chalkboard about today's burger
+Alexa, disable bob's chalkboard

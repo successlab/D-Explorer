@@ -1,0 +1,4 @@
+Alexa, open trade shows
+Alexa, start trade shows
+Alexa, launch trade shows
+Alexa, disable trade shows

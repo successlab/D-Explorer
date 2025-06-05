@@ -1,0 +1,5 @@
+Alexa, open cat facts
+Alexa, ask Cat Facts to tell me a cat fact
+Alexa, ask Cat Facts to give me a cat fact
+Alexa, ask Cat Facts to give me some cat information
+Alexa, disable cat facts

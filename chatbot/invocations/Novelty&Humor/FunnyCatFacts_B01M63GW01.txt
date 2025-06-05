@@ -1,0 +1,5 @@
+Alexa, open funny cat facts
+Alexa, ask funny cat facts to give me a cat fact
+Alexa, tell funny cat facts to give me a cat fact
+Alexa, tell funny cat facts to give me a funny cat fact
+Alexa, disable funny cat facts

@@ -1,0 +1,4 @@
+Alexa, open five minute workout
+Alexa pause
+Alexa resume
+Alexa, disable five minute workout

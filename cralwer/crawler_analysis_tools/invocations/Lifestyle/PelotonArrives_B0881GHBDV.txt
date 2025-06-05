@@ -1,0 +1,4 @@
+Alexa, open peloton arrives
+tell me how many seconds until the peloton arrives
+how many days until the peloton comes
+Alexa, disable peloton arrives

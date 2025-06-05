@@ -1,0 +1,4 @@
+Alexa, open bolivar coin
+Alexa ask Bolivar Coin the price
+Alexa ask Bolivar Coin the price of 25 bolis
+Alexa, disable bolivar coin

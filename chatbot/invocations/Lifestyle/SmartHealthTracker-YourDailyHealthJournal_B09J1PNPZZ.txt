@@ -1,0 +1,8 @@
+Alexa, open health journal
+Alexa, ask Health Journal my oxygen is 99
+Alexa, ask Health Journal my blood sugar is 80
+Alexa, ask Health Journal my temperature is 101.20
+Alexa, ask Health Journal send me weekly report
+Alexa launch Health Journal
+Alexa, ask Health Journal send weekly report
+Alexa, disable health journal

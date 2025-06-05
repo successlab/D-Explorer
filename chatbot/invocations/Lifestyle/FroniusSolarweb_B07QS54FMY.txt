@@ -1,0 +1,5 @@
+Alexa, open solar web
+Alexa, launch solar web
+Alexa, ask solar web for the height of my self sufficiency value today
+Alexa, ask solar web what the current state of charge of my battery is
+Alexa, disable solar web

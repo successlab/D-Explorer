@@ -1,0 +1,5 @@
+Alexa, open smart rutherford
+Alexa, ask Smart Rutherford what's the value of my property?
+Alexa, open Smart Rutherford.
+Alexa, ask Smart Rutherford to set my address to 3552 Quaker Court, Murfreesboro Tennessee.
+Alexa, disable smart rutherford

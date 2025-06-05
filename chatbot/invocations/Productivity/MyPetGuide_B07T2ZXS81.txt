@@ -1,0 +1,4 @@
+Alexa, open my pet guide
+Alexa, what is Bandit's evening schedule?
+Alexa, start My Pet Guide
+Alexa, disable my pet guide

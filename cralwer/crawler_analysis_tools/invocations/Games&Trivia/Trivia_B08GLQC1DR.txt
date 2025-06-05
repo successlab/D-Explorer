@@ -1,0 +1,4 @@
+Alexa, open trivia time
+Start a game
+The answer is three
+Alexa, disable trivia time

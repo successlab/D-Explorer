@@ -1,0 +1,5 @@
+Alexa, open care meter
+Alexa, ask care meter do I care?
+Alexa, ask care meter how much do I care?
+Alexa, ask care meter on a scale of zero to ten how much do I care?
+Alexa, disable care meter

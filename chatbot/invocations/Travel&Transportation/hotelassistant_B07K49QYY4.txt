@@ -1,0 +1,3 @@
+Alexa, open hotel assistant
+Alexa, launch hotel assistant
+Alexa, disable hotel assistant

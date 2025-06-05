@@ -1,0 +1,4 @@
+Alexa, open slides rides
+Alexa, start Slides rides
+Alexa, launch Slides rides
+Alexa, disable slides rides

@@ -1,0 +1,6 @@
+Alexa, open norwex
+Alexa, ask Norwex where’s my package
+Alexa, start Norwex
+Alexa, ask norwex where is my package
+Alexa, start norwex
+Alexa, disable norwex

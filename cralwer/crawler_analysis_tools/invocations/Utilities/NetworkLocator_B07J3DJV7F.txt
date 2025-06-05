@@ -1,0 +1,5 @@
+Alexa, open network locator
+Alexa, ask network locator where is eight dot eight dot eight dot eight located
+Alexa, launch network locator
+Alexa, ask network locator for help
+Alexa, disable network locator

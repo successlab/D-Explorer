@@ -1,0 +1,5 @@
+Alexa, open hey duggee quiz
+Alexa, two
+Alexa, start Hey Duggee Quiz
+Alexa, play Hey Duggee Quiz
+Alexa, disable hey duggee quiz

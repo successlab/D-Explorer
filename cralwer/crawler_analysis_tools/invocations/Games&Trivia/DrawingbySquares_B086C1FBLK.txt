@@ -1,0 +1,4 @@
+Alexa, open drawing squares
+I want to draw a turtle
+Next picture
+Alexa, disable drawing squares

@@ -1,0 +1,4 @@
+Alexa, open luminate quiz
+Alexa, start Luminate Quiz
+Alexa, launch Luminate Quiz
+Alexa, disable luminate quiz

@@ -1,0 +1,2 @@
+Alexa, open rain music
+Alexa, disable rain music

@@ -1,0 +1,5 @@
+Alexa, open one nation
+Alexa, ask one nation what the workout is
+Alexa, open one nation and tell me the workout
+Alexa, open one nation and tell me what i'm doing
+Alexa, disable one nation

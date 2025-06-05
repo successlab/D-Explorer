@@ -1,0 +1,4 @@
+Alexa, open locum tenens
+Alexa, ask locum tenens to search for psychiatry jobs in Georgia
+Alexa, ask locum tenens to connect me with an internal medicine recruiter
+Alexa, disable locum tenens

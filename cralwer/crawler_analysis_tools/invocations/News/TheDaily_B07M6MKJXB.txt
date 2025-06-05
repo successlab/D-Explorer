@@ -1,0 +1,3 @@
+Alexa, open the daily
+Alexa, launch The Daily
+Alexa, disable the daily

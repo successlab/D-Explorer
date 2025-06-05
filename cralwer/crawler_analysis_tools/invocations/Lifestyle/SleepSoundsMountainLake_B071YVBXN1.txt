@@ -1,0 +1,6 @@
+Alexa, open mountain lake
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Mountain Lake
+Alexa, launch Mountain Lake
+Alexa, disable mountain lake

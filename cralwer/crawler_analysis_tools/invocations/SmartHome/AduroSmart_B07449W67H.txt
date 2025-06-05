@@ -1,0 +1,4 @@
+Alexa, turn on lights
+Alexa, turn on Wake up scene
+Alexa, set color light to red
+Alexa, disable AduroSmart

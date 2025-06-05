@@ -1,0 +1,4 @@
+Alexa, open yard hype radio
+Alexa, Start Yard Hype Radio
+Alexa, Play Yard Hype Radio
+Alexa, disable yard hype radio

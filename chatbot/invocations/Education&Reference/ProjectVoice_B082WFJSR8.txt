@@ -1,0 +1,5 @@
+Alexa, open project voice
+Alexa, ask Project Voice what is happening on Tuesday?
+Alexa, ask Project Voice to tell me about Nick Laidlaw.
+Alexa, ask Project Voice to tell me about the Emergence of Hearbles panel.
+Alexa, disable project voice

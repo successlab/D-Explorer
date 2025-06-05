@@ -1,0 +1,3 @@
+Alexa, open football trivia
+Alexa, start football trivia
+Alexa, disable football trivia

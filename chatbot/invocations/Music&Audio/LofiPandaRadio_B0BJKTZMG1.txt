@@ -1,0 +1,4 @@
+Alexa, open lofi panda radio
+Alexa, Start Lofi Panda Radio
+Alexa, Play Lofi Panda Radio
+Alexa, disable lofi panda radio

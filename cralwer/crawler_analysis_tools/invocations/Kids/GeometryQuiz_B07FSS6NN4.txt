@@ -1,0 +1,4 @@
+Alexa, open geometry quiz
+Alexa, start Geometry Quiz
+Alexa, ask Geometry Quiz to start a new game
+Alexa, disable geometry quiz

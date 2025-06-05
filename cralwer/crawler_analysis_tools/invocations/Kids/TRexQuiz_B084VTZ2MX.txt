@@ -1,0 +1,3 @@
+Alexa, open t rex quiz
+Alexa, start t rex quiz
+Alexa, disable t rex quiz

@@ -1,0 +1,4 @@
+Alexa, open b. c. d. converter
+Alexa, ask B. C. D. Converter what's 42
+Alexa, ask B. C. D. Converter what's 971
+Alexa, disable b. c. d. converter

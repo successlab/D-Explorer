@@ -1,0 +1,5 @@
+Alexa, open doctor house
+Alexa, launch Doctor House and ask Doctor House for a quote
+Alexa, open Doctor House and ask for trivia
+Alexa, launch Doctor House and play theme song
+Alexa, disable doctor house

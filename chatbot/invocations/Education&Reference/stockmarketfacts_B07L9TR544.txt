@@ -1,0 +1,5 @@
+Alexa, open stock market facts
+Alexa, tell stock market facts I want a fact.
+Alexa, ask stock market facts for a fact.
+Alexa, tell stock market facts to give me a fact.
+Alexa, disable stock market facts

@@ -1,0 +1,6 @@
+Alexa, open christmas countdown
+Alexa, Open Santa Claus
+Alexa, open Christmas Countdown.
+Alexa, Ask Christmas Countdown how many weeks till Christmas.
+Alexa, Ask Christmas Countdown how many sleeps until Christmas.
+Alexa, disable christmas countdown

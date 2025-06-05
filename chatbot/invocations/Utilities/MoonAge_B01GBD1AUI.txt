@@ -1,0 +1,3 @@
+Alexa, open moon age
+Alexa, Ask Moon Age
+Alexa, disable moon age

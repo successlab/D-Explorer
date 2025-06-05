@@ -1,0 +1,5 @@
+Alexa, open clever bot
+Alexa, ask clever bot to start cleaning.
+Alexa, ask clever bot to start charging.
+Alexa, ask clever bot for his status.
+Alexa, disable clever bot

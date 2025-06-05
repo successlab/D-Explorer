@@ -1,0 +1,5 @@
+Alexa, open resistor reader
+Alexa Ask Resistor Reader Red Violet Orange Silver
+Alexa Ask Resistor Reader what is the value for Red Violet Orange Silver
+Alexa Ask Resistor Reader how many ohms are Red Violet Orange Silver
+Alexa, disable resistor reader

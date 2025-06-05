@@ -1,0 +1,4 @@
+Alexa, open end game
+Alexa, start end game
+Alexa, launch end game
+Alexa, disable end game

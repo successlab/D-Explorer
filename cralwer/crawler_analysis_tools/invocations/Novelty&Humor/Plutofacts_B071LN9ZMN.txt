@@ -1,0 +1,5 @@
+Alexa, open pluto facts
+Alexa ask pluto facts to tell me a pluto fact
+help
+tell me a pluto fact
+Alexa, disable pluto facts

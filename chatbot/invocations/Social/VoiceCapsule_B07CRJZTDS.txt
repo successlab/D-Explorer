@@ -1,0 +1,4 @@
+Alexa, open voice capsule
+Alexa start Voice Capsule
+Alexa launch Voice Capsule
+Alexa, disable voice capsule

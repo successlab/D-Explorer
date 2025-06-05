@@ -1,0 +1,4 @@
+Alexa, open ethereum ticker
+Alexa, ask ethereum ticker what the exchange rate is
+Alexa, ask ethereum ticker what the conversion rate is
+Alexa, disable ethereum ticker

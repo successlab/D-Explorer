@@ -1,0 +1,3 @@
+Alexa, open alarm sounds routine
+Alexa, start Alarm Sounds Routine
+Alexa, disable alarm sounds routine

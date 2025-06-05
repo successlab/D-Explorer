@@ -1,0 +1,5 @@
+Alexa, open real choice
+Alexa, ask RealChoice when is annual enrollment?
+Alexa, tell RealChoice I need medical insurance.
+Alexa, ask RealChoice when will I receive my card?
+Alexa, disable real choice

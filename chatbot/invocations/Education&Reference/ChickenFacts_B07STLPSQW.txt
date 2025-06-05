@@ -1,0 +1,4 @@
+Alexa, open chicken facts
+Alexa, ask chicken facts for a fact
+Alexa, tell chicken facts to give me a fact
+Alexa, disable chicken facts

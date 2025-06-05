@@ -1,0 +1,5 @@
+Alexa, open ukulele tuner
+Alexa, open Ukulele Tuner.
+Alexa, ask Ukulele Tuner to start tuning.
+Alexa, ask Ukulele Tuner to tune my ukulele.
+Alexa, disable ukulele tuner

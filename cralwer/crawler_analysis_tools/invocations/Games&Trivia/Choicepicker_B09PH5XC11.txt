@@ -1,0 +1,4 @@
+Alexa, open choice picker
+Alexa, stop
+Alexa, start choice picker
+Alexa, disable choice picker

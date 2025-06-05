@@ -1,0 +1,5 @@
+Alexa, open kryptonite machine
+Alexa, ask Kryptonite Machine how much is currently being offered for Bitcoin in dollar
+Alexa, ask Kryptonite Machine how much is fifty Bitcoin in dollars
+Alexa, ask Kryptonite Machine how high is the Bitcoin currently in dollar
+Alexa, disable kryptonite machine

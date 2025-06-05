@@ -1,0 +1,5 @@
+Alexa, open inspire me today
+Alexa, next
+Alexa, stop
+Alexa, start Inspire Me Today
+Alexa, disable inspire me today

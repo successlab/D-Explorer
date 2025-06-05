@@ -1,0 +1,5 @@
+Alexa, open work books
+Alexa, open Work Books and create new document
+Alexa, open Work Books and update document
+Alexa, open Work Books and export
+Alexa, disable work books

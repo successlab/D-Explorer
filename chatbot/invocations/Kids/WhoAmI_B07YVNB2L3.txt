@@ -1,0 +1,5 @@
+Alexa, open guess me
+Alexa, next
+Alexa, stop
+Alexa, start Guess Me
+Alexa, disable guess me

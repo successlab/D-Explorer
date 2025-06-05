@@ -1,0 +1,4 @@
+Alexa, open naughty dice
+Alexa, start Naughty Dice
+Alexa, ask Naughty Dice to roll some dice
+Alexa, disable naughty dice

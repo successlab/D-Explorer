@@ -1,0 +1,5 @@
+Alexa, open sueño a. s. m. r.
+Alexa, abre sueño a. s. m. r.
+Alexa, pausa
+Alexa, reanudar
+Alexa, disable sueño a. s. m. r.

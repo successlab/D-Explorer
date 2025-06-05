@@ -1,0 +1,5 @@
+Alexa, open smart shower
+Alexa, tell smart shower to turn on
+Alexa, tell smart shower to turn steam on
+Alexa, tell smart shower to turn on mood light
+Alexa, disable smart shower

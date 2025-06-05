@@ -1,0 +1,5 @@
+Alexa, open sales tax calculator
+Alexa, ask Sales Tax Calculator one thousand and thirty seven dollars at eight percent
+sales tax for one hundred ninety nine dollars and ninety nine cents at four point five percent
+sales tax for one hundred point thirty five at twenty point three three percent
+Alexa, disable sales tax calculator

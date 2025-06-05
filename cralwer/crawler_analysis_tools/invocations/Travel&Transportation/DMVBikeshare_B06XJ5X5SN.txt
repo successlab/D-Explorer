@@ -1,0 +1,5 @@
+Alexa, open my local bikeshare
+Alexa, ask my local bikeshare how many bikes are at station 31,000
+Alexa, ask my local bikeshare how full is station 31,005
+Alexa, ask my local bikeshare what is the status of station 31,100
+Alexa, disable my local bikeshare

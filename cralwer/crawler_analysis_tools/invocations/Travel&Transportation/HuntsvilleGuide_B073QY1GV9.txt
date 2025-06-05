@@ -1,0 +1,6 @@
+Alexa, open huntsville guide
+Alexa, open Huntsville Guide.
+Alexa, start Huntsville Guide and tell me what to do.
+Alexa, launch Huntsville Guide and tell me top five things to do.
+Alexa, ask Huntsville Guide to give me an attraction.
+Alexa, disable huntsville guide

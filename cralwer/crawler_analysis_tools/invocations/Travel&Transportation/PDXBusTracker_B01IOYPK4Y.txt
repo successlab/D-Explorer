@@ -1,0 +1,5 @@
+Alexa, open p. d. x. bus tracker
+Alexa, Launch P. D. X. Bus Tracker.
+Alexa, Ask P. D. X. Bus Tracker for two two six six.
+Alexa, Ask P. D. X. Bus Tracker for help
+Alexa, disable p. d. x. bus tracker

@@ -1,0 +1,5 @@
+Alexa, open follow me
+Alexa tell follow me set a timer for 10 minutes to take out the dog
+Alexa tell follow me transfer my timers here
+Alexa tell follow me set a timer for 10 minutes for check the oven
+Alexa, disable follow me

@@ -1,0 +1,5 @@
+Alexa, open smart rabbi
+Alexa, ask Smart Rabbi what is this week's Parasha
+Alexa, ask Smart Rabbi what is today hebrew date
+Alexa, ask Smart Rabbi when does shabbat start in New York
+Alexa, disable smart rabbi

@@ -1,0 +1,4 @@
+Alexa, open metal money
+Alexa, ask metal money how much gold costs
+Alexa, ask metal money, what is the price of iridium?
+Alexa, disable metal money

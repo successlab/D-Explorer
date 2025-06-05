@@ -1,0 +1,5 @@
+Alexa, open party time
+Alexa ask Party Time how many days until Christmas.
+Alexa tell Party Time to add Bob's birthday on March 22.
+Alexa ask Party Time how long until Bob's birthday.
+Alexa, disable party time

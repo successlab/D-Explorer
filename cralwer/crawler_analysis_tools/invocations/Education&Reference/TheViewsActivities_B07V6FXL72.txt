@@ -1,0 +1,4 @@
+Alexa, open the views activities
+Alexa, start The Views Activities
+Alexa, launch The Views Activities
+Alexa, disable the views activities

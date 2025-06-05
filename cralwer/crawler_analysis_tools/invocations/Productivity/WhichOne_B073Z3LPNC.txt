@@ -1,0 +1,4 @@
+Alexa, open which one
+Alexa, ask which one should I pick? the red one or the black one
+Alexa open which one and pick between odds or evens?
+Alexa, disable which one

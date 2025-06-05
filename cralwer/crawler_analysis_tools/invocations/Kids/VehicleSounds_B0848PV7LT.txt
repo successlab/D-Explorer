@@ -1,0 +1,3 @@
+Alexa, open vehicle sounds
+Alexa, ask vehicle sounds what the airplane sounds like
+Alexa, disable vehicle sounds

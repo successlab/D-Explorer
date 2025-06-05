@@ -1,0 +1,5 @@
+Alexa, open walkman facts
+Alexa, start walkman facts
+Alexa, ask walkman facts for a fact
+Alexa, ask walkman facts for a trivia
+Alexa, disable walkman facts

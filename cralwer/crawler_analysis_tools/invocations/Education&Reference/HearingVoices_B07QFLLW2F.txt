@@ -1,0 +1,4 @@
+Alexa, open hearing voices
+Alexa, start Hearing Voices
+Alexa, begin Hearing Voices
+Alexa, disable hearing voices

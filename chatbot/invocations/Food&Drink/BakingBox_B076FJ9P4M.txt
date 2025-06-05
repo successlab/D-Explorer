@@ -1,0 +1,4 @@
+Alexa, open baking box
+Alexa, open baking box and ask for something to bake
+Alexa, ask baking box to tell me a baking idea
+Alexa, disable baking box

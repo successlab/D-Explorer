@@ -1,0 +1,5 @@
+Alexa, open the horse race
+Alexa, start the horse race
+Alexa, begin the horse race
+Alexa, run the horse race
+Alexa, disable the horse race

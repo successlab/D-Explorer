@@ -1,0 +1,2 @@
+Alexa, open scary movie picker
+Alexa, disable scary movie picker

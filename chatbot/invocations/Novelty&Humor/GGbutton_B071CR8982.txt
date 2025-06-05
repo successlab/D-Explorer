@@ -1,0 +1,4 @@
+Alexa, open g. g. button
+Alexa, open GG button
+Alexa, start GG button
+Alexa, disable g. g. button

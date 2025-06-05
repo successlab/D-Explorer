@@ -1,0 +1,2 @@
+Alexa, open chicken facts
+Alexa, disable chicken facts

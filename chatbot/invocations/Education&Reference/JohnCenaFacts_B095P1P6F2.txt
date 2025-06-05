@@ -1,0 +1,4 @@
+Alexa, open cena facts
+Alexa, Launch cena Facts
+Alexa, stop
+Alexa, disable cena facts

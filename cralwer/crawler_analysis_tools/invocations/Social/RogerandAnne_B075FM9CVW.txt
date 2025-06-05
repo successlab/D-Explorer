@@ -1,0 +1,3 @@
+Alexa, open roger and anne
+Alexa, ask Roger and Anne if they've had their baby yet.
+Alexa, disable roger and anne

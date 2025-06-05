@@ -1,0 +1,5 @@
+Alexa, open challenge america
+Alexa, ENABLE, Challenge America
+Alexa Start Challenge America
+Alexa Play Challenge America
+Alexa, disable challenge america

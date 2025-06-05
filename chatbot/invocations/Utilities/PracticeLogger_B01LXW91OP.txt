@@ -1,0 +1,5 @@
+Alexa, open practice logger
+Alexa Ask Practice Logger how am I doing
+add twenty minutes
+remove 10 minutes from September fifth
+Alexa, disable practice logger

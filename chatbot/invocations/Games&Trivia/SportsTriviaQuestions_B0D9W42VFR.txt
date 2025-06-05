@@ -1,0 +1,4 @@
+Alexa, open sports trivia questions
+Alexa, start sports trivia questions
+Alexa, launch sports trivia questions
+Alexa, disable sports trivia questions

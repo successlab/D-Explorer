@@ -1,0 +1,4 @@
+Alexa, open mobile link
+Alexa, ask mobile link what is my generator status
+Alexa, ask mobile link am I ready for a power outage
+Alexa, disable mobile link

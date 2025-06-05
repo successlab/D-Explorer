@@ -1,0 +1,3 @@
+Alexa, open serenade radio
+Alexa play serenade radio
+Alexa, disable serenade radio

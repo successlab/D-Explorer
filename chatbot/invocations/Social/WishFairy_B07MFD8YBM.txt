@@ -1,0 +1,5 @@
+Alexa, open wish fairy
+Alexa, ask wish fairy to wish my daughter Sofia happy birthday
+Alexa, ask wish fairy to wish good morning to my dog Lucy
+Alexa, ask wish fairy to say good morning to my wife Julia
+Alexa, disable wish fairy

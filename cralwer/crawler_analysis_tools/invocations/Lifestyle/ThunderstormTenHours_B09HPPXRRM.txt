@@ -1,0 +1,4 @@
+Alexa, open thunderstorm ten hours
+Alexa, pause
+Alexa, resume
+Alexa, disable thunderstorm ten hours

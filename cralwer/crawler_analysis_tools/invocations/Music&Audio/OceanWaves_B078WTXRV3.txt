@@ -1,0 +1,7 @@
+Alexa, open ocean waves
+Alexa, next
+Alexa, go back
+Alexa, loop
+Alexa, loop off
+Alexa, start ocean waves
+Alexa, disable ocean waves

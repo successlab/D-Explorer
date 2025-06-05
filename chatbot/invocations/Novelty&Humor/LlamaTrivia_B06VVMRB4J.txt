@@ -1,0 +1,3 @@
+Alexa, open llama trivia
+Alexa llama trivia
+Alexa, disable llama trivia

@@ -1,0 +1,5 @@
+Alexa, open s. g. buses
+Alexa, launch SG Buses
+Alexa, ask SG Buses when is bus 33 arriving
+Alexa, ask SG Buses when is bus 33 arriving at bus stop 82159
+Alexa, disable s. g. buses

@@ -1,0 +1,4 @@
+Alexa, open virginia breeze
+Alexa, start virginia breeze
+Alexa, ask virginia breeze what's playing
+Alexa, disable virginia breeze

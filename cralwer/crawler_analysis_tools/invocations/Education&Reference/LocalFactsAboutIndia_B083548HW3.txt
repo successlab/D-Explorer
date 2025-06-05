@@ -1,0 +1,4 @@
+Alexa, open local facts
+Alexa, launch local facts and tell me a local fact
+Alexa, begin local facts
+Alexa, disable local facts

@@ -1,0 +1,5 @@
+Alexa, open constitución española
+Alexa, pide a Constitución española el artículo número 42
+Alexa, abre Constitución española y dime el artículo número 2
+Alexa, abre Constitución española
+Alexa, disable constitución española

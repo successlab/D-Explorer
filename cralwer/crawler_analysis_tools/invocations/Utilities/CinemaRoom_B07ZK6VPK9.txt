@@ -1,0 +1,4 @@
+Alexa, open cinema room
+Alexa, open Cinema Room and tell me if it is open
+Alexa, open Cinema room and show schedule
+Alexa, disable cinema room

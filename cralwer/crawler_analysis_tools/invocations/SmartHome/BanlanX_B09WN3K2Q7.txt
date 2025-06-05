@@ -1,0 +1,6 @@
+Alexa, turn on the living room light.
+Alexa, turn off the living room light.
+Alexa, set the living room light color to red.
+Alexa, set the living room light to 20 percent.
+Alexa, dim the living room light by 25 percent.
+Alexa, disable BanlanX

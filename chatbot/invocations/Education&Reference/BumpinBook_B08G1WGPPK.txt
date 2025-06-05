@@ -1,0 +1,3 @@
+Alexa, open bumpin book
+Alexa, open bumpin book.
+Alexa, disable bumpin book

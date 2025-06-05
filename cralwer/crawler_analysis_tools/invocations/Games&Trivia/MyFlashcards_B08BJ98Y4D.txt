@@ -1,0 +1,7 @@
+Alexa, open my flashcards
+Alexa, review mode
+Alexa, test mode
+Alexa, next
+Alexa, what's my score
+Alexa, start my flashcards
+Alexa, disable my flashcards

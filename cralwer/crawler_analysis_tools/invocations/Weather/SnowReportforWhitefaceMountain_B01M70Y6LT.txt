@@ -1,0 +1,4 @@
+Alexa, open whiteface mountain
+Alexa, ask Whiteface Mountain for the snow report
+Alexa, ask Whiteface Mountain for latest conditions
+Alexa, disable whiteface mountain

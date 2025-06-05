@@ -1,0 +1,4 @@
+Alexa, open random smash character
+Alexa, start Random Smash Character
+Alexa, launch Random Smash Character
+Alexa, disable random smash character

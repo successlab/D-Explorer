@@ -1,0 +1,4 @@
+Alexa, open state capital quiz
+Alexa start state capital quiz
+Alexa, state capital quiz
+Alexa, disable state capital quiz

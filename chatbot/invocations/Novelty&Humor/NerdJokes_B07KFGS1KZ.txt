@@ -1,0 +1,4 @@
+Alexa, open nerd jokes
+Alexa, tell nerd jokes to tell me a joke
+Alexa, ask nerd jokes to tell me a joke
+Alexa, disable nerd jokes

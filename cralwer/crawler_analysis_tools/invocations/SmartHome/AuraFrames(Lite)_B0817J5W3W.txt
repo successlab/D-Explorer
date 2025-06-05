@@ -1,0 +1,3 @@
+Alexa, next on home
+Alexa, previous on home
+Alexa, disable AuraFrames(Lite)

@@ -1,0 +1,4 @@
+Alexa, open houston housing
+Alexa, start Houston Housing
+Alexa, launch Houston Housing
+Alexa, disable houston housing

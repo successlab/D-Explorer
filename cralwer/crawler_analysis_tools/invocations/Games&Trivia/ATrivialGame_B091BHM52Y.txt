@@ -1,0 +1,3 @@
+Alexa, open a trivial game
+Alexa, start a trivial game
+Alexa, disable a trivial game

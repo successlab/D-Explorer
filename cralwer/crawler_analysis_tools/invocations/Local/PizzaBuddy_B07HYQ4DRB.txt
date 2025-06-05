@@ -1,0 +1,4 @@
+Alexa, open pizza buddy
+Alexa, ask pizza buddy to give me a pizza
+Alexa, ask pizza buddy to give me a pizza with 3 toppings
+Alexa, disable pizza buddy

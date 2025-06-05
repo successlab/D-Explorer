@@ -1,0 +1,4 @@
+Alexa, open cat translator
+Alexa, start cat translator
+Alexa, launch cat translator
+Alexa, disable cat translator

@@ -1,0 +1,4 @@
+Alexa, turn on the Air Purifier
+Alexa, set the Air Purifier to smart mode
+Alexa, set the the Air Purifier to one hour
+Alexa, disable CowaySmartHome

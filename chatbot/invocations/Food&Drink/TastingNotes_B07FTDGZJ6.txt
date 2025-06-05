@@ -1,0 +1,4 @@
+Alexa, open tasting notes
+Alexa, ask tasting notes what wine goes well with Korean Food.
+Alexa, ask tasting notes what goes well with a merlot.
+Alexa, disable tasting notes

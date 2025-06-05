@@ -1,0 +1,5 @@
+Alexa, open big talk
+Alexa, launch Big Talk
+Alexa, ask Big Talk for a family topic
+Alexa, ask Big Talk for a music topic
+Alexa, disable big talk

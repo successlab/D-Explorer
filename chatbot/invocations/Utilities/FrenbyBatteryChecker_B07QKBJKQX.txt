@@ -1,0 +1,3 @@
+Alexa, open power condition
+Alexa, start power condition
+Alexa, disable power condition

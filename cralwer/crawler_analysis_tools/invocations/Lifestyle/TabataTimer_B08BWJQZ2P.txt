@@ -1,0 +1,4 @@
+Alexa, open tabata timer
+Alexa, ask Tabata Timer to start a 10 round Tabata
+Alexa, open Tabata Timer and start a Tabata with 30 seconds of work
+Alexa, disable tabata timer

@@ -1,0 +1,4 @@
+Alexa, open haystack reviews
+I love this skill
+I hate this skill
+Alexa, disable haystack reviews

@@ -1,0 +1,3 @@
+Alexa, open explore destinations
+Alexa, ask Explore Destinations what to see and do in Europe
+Alexa, disable explore destinations

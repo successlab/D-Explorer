@@ -1,0 +1,5 @@
+Alexa, open the wine advisor
+alexa ask the wine advisor what wine is good with fish
+ask the wine advisor which wine is good with steak
+ask the wine advisor which wines go with oysters
+Alexa, disable the wine advisor

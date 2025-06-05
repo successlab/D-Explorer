@@ -1,0 +1,5 @@
+Alexa, open t. t. v.
+Alexa, ask TTV for my pin
+Alexa, ask TTV to speak
+Alexa, open TTV
+Alexa, disable t. t. v.

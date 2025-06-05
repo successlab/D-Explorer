@@ -1,0 +1,4 @@
+Alexa, open movie trivia
+Alexa, ask Movie Trivia for a question
+Alexa, ask Movie Trivia to start
+Alexa, disable movie trivia

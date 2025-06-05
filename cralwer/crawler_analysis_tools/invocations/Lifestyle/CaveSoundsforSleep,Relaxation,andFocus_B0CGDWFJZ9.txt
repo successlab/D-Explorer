@@ -1,0 +1,4 @@
+Alexa, open cave sounds
+Alexa ask cave sounds to play for 30 minutes
+Alexa stop
+Alexa, disable cave sounds

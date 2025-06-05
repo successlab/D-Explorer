@@ -1,0 +1,5 @@
+Alexa, open call santa
+Alexa, open Call Santa Claus,
+Alexa, enable call santa
+Alexa, open call santa claus
+Alexa, disable call santa

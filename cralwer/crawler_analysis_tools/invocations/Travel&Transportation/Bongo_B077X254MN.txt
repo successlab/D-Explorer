@@ -1,0 +1,5 @@
+Alexa, open bon go
+Alexa, ask Bon Go for bus times at stop one zero five zero
+Alexa, ask Bon Go if there's buses soon
+Alexa, ask Bon Go if there's buses soon at ten fifty
+Alexa, disable bon go

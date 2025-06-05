@@ -1,0 +1,4 @@
+Alexa, open animal sounds
+Alexa, ask animal sounds for a dolphin
+What sound does an owl make?
+Alexa, disable animal sounds

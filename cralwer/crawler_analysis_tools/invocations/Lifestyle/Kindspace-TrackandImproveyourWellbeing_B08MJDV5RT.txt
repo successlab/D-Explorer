@@ -1,0 +1,8 @@
+Alexa, open kind space
+Alexa, ask Kindspace for my daily check-in
+Alexa, ask Kindspace for the tip of the day
+Alexa, ask Kindspace for a sleep tip
+Alexa, ask Kindspace for a wellness activity
+Alexa, ask kind space for daily checkin
+Alexa, ask kind space for tip of the day
+Alexa, disable kind space

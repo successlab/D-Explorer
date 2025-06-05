@@ -1,0 +1,4 @@
+Alexa, open big bark
+Alexa, Play Big Bark
+Alexa, Start Big Bark
+Alexa, disable big bark

@@ -1,0 +1,5 @@
+Alexa, open dyson
+Alexa, enable Auto mode on Purifier
+Alexa, turn off oscillation on Purifier
+Alexa, is Night mode on in Purifier?
+Alexa, disable dyson

@@ -1,0 +1,21 @@
+Alexa, turn on Living Room TV
+Alexa, turn off TV
+Alexa, next channel on TV
+Alexa, change channel to 5 on TV
+Alexa, set volume to 15 on Living Room TV
+Alexa, volume down
+Alexa, mute TV
+Alexa, unmute
+Alexa, switch input to Blu-ray on Bedroom TV
+Alexa, switch input to HDMI 1 on TV
+Alexa, play on TV
+Alexa, pause TV
+Alexa, fast forward
+Alexa, rewind
+Alexa, turn on Ambilight on Living Room TV
+Alexa, turn on Ambilight Follow video on TV
+Alexa, turn on Ambilight Follow audio on TV
+Alexa, change channel to 5 on TV
+Alexa, turn down the volume on Living Room TV
+Alexa, switch input to HDMI 1 on Living Room TV
+Alexa, disable PhilipsSmartTV

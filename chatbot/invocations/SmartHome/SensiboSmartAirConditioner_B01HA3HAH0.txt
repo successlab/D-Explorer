@@ -1,0 +1,5 @@
+Alexa, turn off the living room AC
+Alexa, turn on Bedroom
+Alexa, turn off Living Room
+Alexa, increase Living Room by 5 degrees
+Alexa, disable SensiboSmartAirConditioner

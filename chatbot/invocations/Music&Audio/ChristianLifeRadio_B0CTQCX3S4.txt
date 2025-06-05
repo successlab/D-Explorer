@@ -1,0 +1,4 @@
+Alexa, open christian life radio
+Alexa, ask christian life radio what's playing.
+Alexa, ask christian life radio to play live.
+Alexa, disable christian life radio

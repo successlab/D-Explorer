@@ -1,0 +1,5 @@
+Alexa, open photography facts
+Alexa, open photography facts and tell me a fact.
+Alexa, open photography facts.
+Alexa, open photography facts and give me a fact.
+Alexa, disable photography facts

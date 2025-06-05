@@ -1,0 +1,38 @@
+Alexa, open lametric time
+Alexa, ask LaMetric Time to wake me up at 7 AM.
+Alexa, ask LaMetric Time to set radio to wake me up at 8 AM.
+Alexa, ask LaMetric Time to enable alarm.
+Alexa, ask LaMetric Time to disable alarm.
+Alexa, ask LaMetric Time to set timer for 10 minutes.
+Alexa, ask LaMetric Time to pause the timer.
+Alexa, ask LaMetric Time to resume the timer.
+Alexa, ask LaMetric Time to reset the timer.
+Alexa, ask LaMetric Time to start a stopwatch.
+Alexa, ask LaMetric Time to pause the stopwatch.
+Alexa, ask LaMetric Time to resume the stopwatch.
+Alexa, ask LaMetric Time to reset the stopwatch.
+Alexa, ask LaMetric Time to turn on the radio.
+Alexa, ask LaMetric Time to play next radio station.
+Alexa, ask LaMetric Time to play previous radio station.
+Alexa, ask LaMetric Time to stop the radio.
+Alexa, ask LaMetric Time to show weather forecast.
+Alexa, ask LaMetric Time to activate clock.
+Alexa, ask LaMetric Time to activate next app.
+Alexa, ask LaMetric Time to switch to previous app.
+Alexa, ask LaMetric Time to activate weather.
+Alexa, ask LaMetric Time to enable Bluetooth.
+Alexa, ask LaMetric Time to disable Bluetooth.
+Alexa, ask LaMetric Time to set volume to 100 percent.
+Alexa, ask LaMetric Time to increase volume.
+Alexa, ask LaMetric Time to decrease volume.
+Alexa, ask LaMetric Time to set brightness to 80 percent.
+Alexa, ask LaMetric Time to set brightness to the highest value.
+Alexa, ask LaMetric Time to set brightness to the lowest value.
+Alexa, ask LaMetric Time to set auto brightness mode.
+Alexa, ask LaMetric Time to enable screensaver when dark.
+Alexa, ask LaMetric Time to enable screensaver between 10 PM. and 6 AM.
+Alexa, ask LaMetric Time to disable screensaver.
+Alexa, ask LaMetric Time for help.
+Alexa, open LaMetric Time.
+Alexa, ask LaMetric Time to set the timer for fifteen minutes.
+Alexa, disable lametric time

@@ -1,0 +1,4 @@
+Alexa, open rejuvenating sounds
+Alexa ask rejuvenating sounds to play for 30 minutes
+Alexa stop
+Alexa, disable rejuvenating sounds

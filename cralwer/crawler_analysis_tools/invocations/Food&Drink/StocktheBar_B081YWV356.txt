@@ -1,0 +1,4 @@
+Alexa, open stock the bar
+Alexa, Stock the Bar
+Alexa, launch Stock the Bar
+Alexa, disable stock the bar

@@ -1,0 +1,4 @@
+Alexa, open monster check
+Alexa, ask Monster Check to search under the bed for monsters
+Alexa, ask Monster Check to scan the house for monsters
+Alexa, disable monster check

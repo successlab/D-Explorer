@@ -1,0 +1,4 @@
+Alexa, open go irish
+Alexa, Go Irish
+Alexa, launch Go Irish
+Alexa, disable go irish

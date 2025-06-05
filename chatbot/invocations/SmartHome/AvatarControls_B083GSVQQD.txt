@@ -1,0 +1,4 @@
+Alexa, turn on hallway light
+Alexa, turn off fan
+Alexa, turn off Patio lights
+Alexa, disable AvatarControls

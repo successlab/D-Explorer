@@ -1,0 +1,3 @@
+Alexa, open naruto trivia
+Alexa, start naruto trivia
+Alexa, disable naruto trivia

@@ -1,0 +1,5 @@
+Alexa, open coin convert
+Alexa, ask Coin Convert One Million dogecoin to U.S. Dollar
+Alexa, ask Coin Convert One Million Dogecoin to US Dollars
+Alexa, ask Coin Convert Five Thousand Bitcoin to Ethereum
+Alexa, disable coin convert

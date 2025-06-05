@@ -1,0 +1,5 @@
+Alexa, open sleep tracker
+Alexa, ask Sleeptracker how I slept last night
+Alexa, ask Sleeptracker to start recording sleep
+Alexa, ask Sleeptracker to set my alarm for 7 am
+Alexa, disable sleep tracker

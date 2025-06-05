@@ -1,0 +1,4 @@
+Alexa, play Beatles in the Living Room
+Alexa, stop playing in the Bedroom
+Alexa, set volume to 5 in the Kitchen
+Alexa, disable Play-Fi

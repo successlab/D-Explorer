@@ -1,0 +1,4 @@
+Alexa, open scott bot
+Alexa, start Scott Bot
+Alexa, launch Scott Bot
+Alexa, disable scott bot

@@ -1,0 +1,3 @@
+Alexa, open cartoon trivia
+Alexa, start cartoon trivia
+Alexa, disable cartoon trivia

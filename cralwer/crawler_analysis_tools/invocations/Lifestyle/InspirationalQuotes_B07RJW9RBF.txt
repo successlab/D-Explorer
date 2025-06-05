@@ -1,0 +1,5 @@
+Alexa, open inspirational quotes
+Alexa, next
+Alexa, stop
+Alexa, start Inspirational Quotes
+Alexa, disable inspirational quotes

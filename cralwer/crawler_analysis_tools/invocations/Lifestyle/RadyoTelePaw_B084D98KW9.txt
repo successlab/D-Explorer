@@ -1,0 +1,4 @@
+Alexa, open radio tele pam
+Alexa, start radio tele pam
+Alexa, launch radio tele pam
+Alexa, disable radio tele pam

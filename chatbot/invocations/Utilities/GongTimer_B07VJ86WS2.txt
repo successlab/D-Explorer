@@ -1,0 +1,3 @@
+Alexa, open gong timer
+Alexa, start gong timer.
+Alexa, disable gong timer

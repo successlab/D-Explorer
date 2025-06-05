@@ -1,0 +1,5 @@
+Alexa, open morse code
+Alexa ask morse code to say a fact
+Alexa ask morse code to get a fact
+Alexa ask morse code to say morse code
+Alexa, disable morse code

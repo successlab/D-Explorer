@@ -1,0 +1,5 @@
+Alexa, open supernatural quotes
+Alexa, next
+Alexa, stop
+Alexa, start supernatural quotes
+Alexa, disable supernatural quotes

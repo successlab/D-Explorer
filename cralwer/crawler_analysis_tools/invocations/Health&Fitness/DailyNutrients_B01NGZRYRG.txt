@@ -1,0 +1,5 @@
+Alexa, open daily nutrients
+Alexa, launch Daily Nutrients.
+Alexa, ask Daily Nutrients about calcium intake.
+Alexa, ask Daily Nutrients how much potassium should I take.
+Alexa, disable daily nutrients

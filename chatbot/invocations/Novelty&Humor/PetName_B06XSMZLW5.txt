@@ -1,0 +1,5 @@
+Alexa, open pet name
+Alexa, ask pet name to give me a new pet name
+Alexa, ask pet name to give me an adjective
+Alexa, ask pet name to give me an animal
+Alexa, disable pet name

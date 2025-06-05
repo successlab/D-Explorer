@@ -1,0 +1,4 @@
+Alexa, open emotion pal
+Alexa, start emotion pal
+Alexa, launch emotion pal
+Alexa, disable emotion pal

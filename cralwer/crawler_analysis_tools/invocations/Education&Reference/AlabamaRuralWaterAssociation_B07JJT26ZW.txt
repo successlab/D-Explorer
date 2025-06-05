@@ -1,0 +1,5 @@
+Alexa, open a. r. w. a.
+Alexa, open A-R-W-A
+Alexa, ask A-R-W-A to tell me about upcoming training classes.
+Alexa, tell A-R-W-A that I need some training.
+Alexa, disable a. r. w. a.

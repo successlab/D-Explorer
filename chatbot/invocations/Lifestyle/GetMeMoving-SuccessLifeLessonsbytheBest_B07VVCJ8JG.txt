@@ -1,0 +1,7 @@
+Alexa, open get me moving
+Alexa, ask get me moving about
+Alexa, next
+Alexa, pause
+Alexa, stop
+Alexa, play get me moving
+Alexa, disable get me moving

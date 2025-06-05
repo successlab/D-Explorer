@@ -1,0 +1,4 @@
+Alexa, open the daily question
+Alexa, play the Daily Question
+Alexa, start the Daily Question
+Alexa, disable the daily question

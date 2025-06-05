@@ -1,0 +1,5 @@
+Alexa, open e. bags
+Alexa, ask e. bags where is my order?
+Alexa, ask e. bags where is my laptop backpack?
+Alexa, ask e. bags i want to return an item
+Alexa, disable e. bags

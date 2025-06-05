@@ -1,0 +1,4 @@
+Alexa, open napoleon facts
+Alexa, launch Napoleon facts
+Alexa, start Napoleon facts
+Alexa, disable napoleon facts

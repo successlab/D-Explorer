@@ -1,0 +1,4 @@
+Alexa, show the front door camera.
+Alexa, stop camera.
+Alexa, hide camera.
+Alexa, disable Cam720SmartHome

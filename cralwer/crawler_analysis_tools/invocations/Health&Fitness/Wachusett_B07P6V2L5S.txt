@@ -1,0 +1,5 @@
+Alexa, open wachusett mountain
+Alexa, ask Wachusett Mountain for weather
+Alexa, ask Wachusett Mountain for trail count
+Alexa, ask Wachusett Mountain for lift count
+Alexa, disable wachusett mountain

@@ -1,0 +1,4 @@
+Alexa, open vigon voice
+Alexa, open Vigon Voice.
+Alexa, ask Vigon Voice to request a sample.
+Alexa, disable vigon voice

@@ -1,0 +1,4 @@
+Alexa, open mystery animal
+Alexa, start mystery animal
+Alexa, launch mystery animal
+Alexa, disable mystery animal

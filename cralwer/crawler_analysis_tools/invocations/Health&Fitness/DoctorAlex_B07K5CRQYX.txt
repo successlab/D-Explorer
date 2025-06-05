@@ -1,0 +1,4 @@
+Alexa, open doctor alex
+Alexa, tell Doctor Alex, I have fever
+Alexa, tell Doctor Alex, I am feeling nausea
+Alexa, disable doctor alex

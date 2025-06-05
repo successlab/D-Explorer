@@ -1,0 +1,5 @@
+Alexa, open my calculator
+Alexa, ask my calculator to add two numbers
+Alexa, tell my calculator to divide two numbers
+Alexa, tell my calculator to multiply two numbers
+Alexa, disable my calculator

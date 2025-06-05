@@ -1,0 +1,4 @@
+Alexa, open random quiz
+Alexa, start random quiz
+Alexa, random quiz
+Alexa, disable random quiz

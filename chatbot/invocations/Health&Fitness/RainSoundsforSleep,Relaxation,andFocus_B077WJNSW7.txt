@@ -1,0 +1,4 @@
+Alexa, open rain sounds
+Alexa ask rain sounds to play for 8 hours
+Alexa stop
+Alexa, disable rain sounds

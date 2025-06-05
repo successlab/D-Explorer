@@ -1,0 +1,4 @@
+Alexa, open hit workout
+Alexa, start hit workout
+Alexa, ask hit workout to start workout
+Alexa, disable hit workout

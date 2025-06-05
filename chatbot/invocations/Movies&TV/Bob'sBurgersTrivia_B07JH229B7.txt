@@ -1,0 +1,5 @@
+Alexa, open bobs burgers trivia
+Alexa, open Bobs Burgers Trivia.
+Alexa, play Bobs Burgers Trivia.
+Alexa, start Bobs Burgers Trivia.
+Alexa, disable bobs burgers trivia

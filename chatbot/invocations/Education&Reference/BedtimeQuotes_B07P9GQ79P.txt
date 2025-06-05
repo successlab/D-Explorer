@@ -1,0 +1,4 @@
+Alexa, open bedtime quotes
+Alexa, start Bedtime quotes
+Alexa, launch Bedtime quotes
+Alexa, disable bedtime quotes

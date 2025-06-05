@@ -1,0 +1,3 @@
+Alexa, open harry bot
+Alexa, ask harry bot where did Harry Potter study?
+Alexa, disable harry bot

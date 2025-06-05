@@ -1,0 +1,5 @@
+Alexa, open food genie
+Alexa open the Food Genie
+Alexa ask the Food Genie what food holiday is Thursday
+Alexa ask the Food Genie what tomorrow is
+Alexa, disable food genie

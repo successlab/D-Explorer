@@ -1,0 +1,3 @@
+Alexa, open my roommate
+Alexa, start my roommate
+Alexa, disable my roommate

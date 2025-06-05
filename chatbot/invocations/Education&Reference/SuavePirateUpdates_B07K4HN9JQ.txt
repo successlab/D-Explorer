@@ -1,0 +1,5 @@
+Alexa, open suave pirate
+Alexa, ask Suave Pirate, what are the latest posts?
+Alexa, ask Suave Pirate, what are the latest blog posts from alexdunn.org?
+Alexa, ask Suave Pirate, what are the latest posts from suavepirate.com?
+Alexa, disable suave pirate

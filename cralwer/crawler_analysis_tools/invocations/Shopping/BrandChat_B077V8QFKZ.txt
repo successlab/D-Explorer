@@ -1,0 +1,5 @@
+Alexa, open brand chat
+Alexa, Ask BrandChat what do you do
+Alexa, Ask BrandChat who made you
+Alexa, Ask BrandChat can you give me an example
+Alexa, disable brand chat

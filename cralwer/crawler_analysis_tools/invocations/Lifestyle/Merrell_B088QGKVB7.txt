@@ -1,0 +1,4 @@
+Alexa, open merrell
+Alexa, ask Merrell to find a trail near me
+Alexa, ask Merrell to show me hiking trails in Grand Rapids
+Alexa, disable merrell

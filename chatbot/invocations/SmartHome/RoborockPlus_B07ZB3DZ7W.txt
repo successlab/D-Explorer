@@ -1,0 +1,6 @@
+Alexa, open robo rock
+Alexa, ask robo rock to start cleaning with Bobby.
+Alexa, ask robo rock to start clean the bedroom.
+Alexa, ask robo rock to stop cleaning.
+Alexa, ask robo rock to recharge.
+Alexa, disable robo rock

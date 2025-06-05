@@ -1,0 +1,4 @@
+Alexa, open daily facts
+Alexa, open Daily Facts.
+Alexa, start Daily Facts.
+Alexa, disable daily facts

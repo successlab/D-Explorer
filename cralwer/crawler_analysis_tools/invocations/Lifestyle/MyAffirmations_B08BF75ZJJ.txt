@@ -1,0 +1,4 @@
+Alexa, open my affirmations
+Alexa, ask my affirmations to compliment me
+Alexa, ask my affirmations for a compliment
+Alexa, disable my affirmations

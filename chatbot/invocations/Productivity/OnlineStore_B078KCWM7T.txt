@@ -1,0 +1,4 @@
+Alexa, open online store
+Alexa, Start Online Store
+Alexa, launch Online Store
+Alexa, disable online store

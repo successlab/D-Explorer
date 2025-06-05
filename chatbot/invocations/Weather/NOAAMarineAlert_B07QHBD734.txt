@@ -1,0 +1,5 @@
+Alexa, open noaa marine
+Alexa, ask NOAA Marine alerts in Alaska
+Alexa, ask NOAA Marine to give me alerts in Great Lakes
+Alexa, ask NOAA Marine alerts in Pacific
+Alexa, disable noaa marine

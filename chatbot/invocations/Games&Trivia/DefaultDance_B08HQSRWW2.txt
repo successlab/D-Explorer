@@ -1,0 +1,4 @@
+Alexa, open default dance
+Alexa, start Default Dance
+Alexa, launch Default Dance
+Alexa, disable default dance

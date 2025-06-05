@@ -1,0 +1,4 @@
+Alexa, open hong kong weather
+Alexa, ask Hong Kong Weather today
+Alexa, ask Hong Kong Weather for forecast today
+Alexa, disable hong kong weather

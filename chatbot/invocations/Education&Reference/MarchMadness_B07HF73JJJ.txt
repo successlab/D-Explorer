@@ -1,0 +1,6 @@
+Alexa, open football facts
+Alexa, launch Football Facts
+Alexa, stop
+Alexa ask football facts for a fact
+Alexa tell football facts to tell me trivia
+Alexa, disable football facts

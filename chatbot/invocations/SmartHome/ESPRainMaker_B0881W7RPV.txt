@@ -1,0 +1,3 @@
+Alexa, turn on the kitchen light
+Alexa, set the brightness of the kitchen light to 75
+Alexa, disable ESPRainMaker

@@ -1,0 +1,4 @@
+Alexa, open campfire sounds
+Alexa ask campfire sounds to play for 30 minutes
+Alexa stop
+Alexa, disable campfire sounds

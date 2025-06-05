@@ -1,0 +1,5 @@
+Alexa, open eight ball
+Alexa ask Eight Ball Am I smart?
+Alexa ask Eight Ball Should I buy this?
+Alexa ask Eight Ball Is this a good idea?
+Alexa, disable eight ball

@@ -1,0 +1,5 @@
+Alexa, open earthcam
+Alexa, ask EarthCam to show me a sunrise.
+Alexa, ask EarthCam to show me a sunset.
+Alexa, ask EarthCam to show me something cool.
+Alexa, disable earthcam

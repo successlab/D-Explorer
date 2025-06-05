@@ -1,0 +1,4 @@
+Alexa, open cadet personal trainer
+Alexa, start cadet personal trainer
+Alexa, ask cadet personal trainer to start workout
+Alexa, disable cadet personal trainer

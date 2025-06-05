@@ -1,0 +1,3 @@
+Alexa, turn ON boiler
+Alexa,turn OFF boiler
+Alexa, disable SwitcherSmartSkill

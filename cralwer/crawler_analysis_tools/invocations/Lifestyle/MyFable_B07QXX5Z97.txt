@@ -1,0 +1,4 @@
+Alexa, open my learning story
+Alexa, stop
+Alexa, start my Learning Story
+Alexa, disable my learning story

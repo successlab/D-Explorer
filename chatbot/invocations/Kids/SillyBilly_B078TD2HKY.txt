@@ -1,0 +1,5 @@
+Alexa, open silly billy
+Alexa ask silly billy to add word silly
+Alexa ask silly billy to add word billy
+Alexa ask silly billy to play
+Alexa, disable silly billy

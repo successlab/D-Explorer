@@ -1,0 +1,5 @@
+Alexa, open my security system
+Alexa, ask My Security System for status.
+Alexa, tell My Security System to disarm.
+Alexa, tell My Security System to arm.
+Alexa, disable my security system

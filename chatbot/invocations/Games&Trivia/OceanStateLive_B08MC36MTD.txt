@@ -1,0 +1,4 @@
+Alexa, open ocean state live
+Alexa, start Ocean State Live
+Alexa, play Ocean State Live
+Alexa, disable ocean state live

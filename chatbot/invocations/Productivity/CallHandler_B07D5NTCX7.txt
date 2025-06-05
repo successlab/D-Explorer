@@ -1,0 +1,15 @@
+Alexa, open call handler
+Alexa, ask Call Handler to take this
+Alexa, ask Call Handler to reject this call
+Alexa, ask Call Handler to play hold music
+Alexa, play something else
+Alexa, remember this song
+Alexa, ask Call Handler to stay quiet
+Alexa, take this call
+Alexa, ask Call Handler to get rid of this caller
+Alexa, ask Call Handler to play hold music
+Alexa, tell Call Handler to disconnect
+Alexa, remember this track
+Alexa, clear settings
+Alexa, ask Call Handler to take this call
+Alexa, disable call handler

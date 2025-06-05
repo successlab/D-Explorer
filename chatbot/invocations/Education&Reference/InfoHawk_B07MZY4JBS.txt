@@ -1,0 +1,4 @@
+Alexa, open info hawk
+Alexa ask Info Hawk to search for a book by Dan Brown
+Alexa ask Info Hawk to search for an events organized by Greg Davis
+Alexa, disable info hawk

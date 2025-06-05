@@ -1,0 +1,3 @@
+Alexa, open parade countdown
+Alexa, start parade countdown
+Alexa, disable parade countdown

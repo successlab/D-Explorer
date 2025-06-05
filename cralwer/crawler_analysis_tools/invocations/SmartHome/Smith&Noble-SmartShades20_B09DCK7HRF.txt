@@ -1,0 +1,5 @@
+Alexa, open Roller Shades.
+Alexa, open Drapes
+Alexa, close Shade
+Alexa, close Wood Blinds
+Alexa, disable Smith&Noble-SmartShades20

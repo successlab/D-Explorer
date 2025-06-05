@@ -1,0 +1,5 @@
+Alexa, open jersey transport
+Alexa ask Jersey Transport about the 113 bus
+whats up with the number 2 bus
+how is the Raritan line
+Alexa, disable jersey transport

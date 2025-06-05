@@ -1,0 +1,4 @@
+Alexa, open surf board
+Alexa, Ask Surfboard, to enable my guest network.
+Alexa, Ask Surfboard to restart my gateway.
+Alexa, disable surf board

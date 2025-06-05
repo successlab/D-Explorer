@@ -1,0 +1,5 @@
+Alexa, open rad recommendation
+Alexa, ask Rad Recommendation what we should eat for dinner
+Alexa, ask Rad Recommendation what I should eat
+Alexa, ask Rad Recommendation where we should eat
+Alexa, disable rad recommendation

@@ -1,0 +1,4 @@
+Alexa, open golden knights cup counter
+Alexa, ask Golden Knights Cup Counter how many days
+Alexa, ask Golden Knights Cup Counter what is the status
+Alexa, disable golden knights cup counter

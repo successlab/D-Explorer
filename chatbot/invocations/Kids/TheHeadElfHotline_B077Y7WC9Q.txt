@@ -1,0 +1,7 @@
+Alexa, open head elf
+Alexa, tell Head Elf that Charlie has been naughty
+Alexa, tell Head Elf that Sam has been good.
+Alexa tell Head Elf that Jane has been nice
+Alexa tell Head Elf that John has been naughty
+Alexa tell Head Elf that Joan has been nice
+Alexa, disable head elf

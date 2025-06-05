@@ -1,0 +1,9 @@
+Alexa, open enjoying everyday life
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, disable enjoying everyday life

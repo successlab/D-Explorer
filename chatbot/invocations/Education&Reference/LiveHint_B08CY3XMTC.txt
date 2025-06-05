@@ -1,0 +1,4 @@
+Alexa, open live hint
+Alexa, start Live Hint
+Alexa, launch Live Hint
+Alexa, disable live hint

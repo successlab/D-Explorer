@@ -1,0 +1,10 @@
+Alexa, open rhino
+Alexa, ask Rhino where are my devices?
+Alexa, tell Rhino to list my drivers.
+Alexa, ask Rhino where Steve is.
+Alexa, ask Rhino where Jeep is.
+Alexa, ask Rhino who is at the Office?
+Alexa, ask Rhino to assign driver Steve to device Jeep.
+Alexa, ask Rhino where are my vehicles?
+Alexa, ask Rhino where my drivers are?
+Alexa, disable rhino

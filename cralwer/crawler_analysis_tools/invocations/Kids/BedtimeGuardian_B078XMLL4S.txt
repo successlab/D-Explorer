@@ -1,0 +1,4 @@
+Alexa, open bedtime guardian
+Alexa, ask the Bedtime Guardian to scan the room for bad guys
+Alexa, ask the Bedtime Guardian to protect the room
+Alexa, disable bedtime guardian

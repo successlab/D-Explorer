@@ -1,0 +1,5 @@
+Alexa, open united states trivia
+Alexa, ask United States Trivia to tell me about North Dakota
+Ask United States Trivia to tell me about Ohio
+Ask United States Trivia to tell me about Hawaii
+Alexa, disable united states trivia

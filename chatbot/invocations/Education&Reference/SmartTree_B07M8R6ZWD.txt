@@ -1,0 +1,4 @@
+Alexa, open smart tree
+Alexa, tell smart tree white
+Alexa, tell smart tree fade white
+Alexa, disable smart tree

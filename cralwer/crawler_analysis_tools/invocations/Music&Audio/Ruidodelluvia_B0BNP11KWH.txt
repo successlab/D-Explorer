@@ -1,0 +1,5 @@
+Alexa, open ruido de lluvia
+Alexa, abre ruido de lluvia
+Alexa, pausa
+Alexa, reanudar
+Alexa, disable ruido de lluvia

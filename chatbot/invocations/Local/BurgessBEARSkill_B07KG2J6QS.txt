@@ -1,0 +1,5 @@
+Alexa, open burgess bear
+Alexa, ask Burgess Bear what is for lunch tomorrow?
+Alexa, ask Burgess Bear what is tomorrow's special?
+Alexa, ask Burgess Bear to add a student.
+Alexa, disable burgess bear

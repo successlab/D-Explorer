@@ -1,0 +1,5 @@
+Alexa, open me where
+Alexa, Tell Me Where is my phone
+Alexa, Tell Me Where my phone is
+Alexa, Tell Me Where are my keys
+Alexa, disable me where

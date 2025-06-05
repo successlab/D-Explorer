@@ -1,0 +1,4 @@
+Alexa, open federal government status
+Alexa, ask Federal Government Status if I have to work today
+Alexa, ask Federal Government Status if the government is open
+Alexa, disable federal government status

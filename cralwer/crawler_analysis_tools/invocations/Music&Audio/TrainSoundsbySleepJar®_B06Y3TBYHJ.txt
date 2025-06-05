@@ -1,0 +1,9 @@
+Alexa, open train sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Train Sounds to turn on Background Mode
+Alexa, ask Train Sounds to turn Background Mode off
+Alexa, start Train Sounds
+Alexa, launch Train Sounds
+Alexa, disable train sounds

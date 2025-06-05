@@ -1,0 +1,4 @@
+Alexa, open whiskey country radio
+Alexa, ask whiskey country radio what's playing.
+Alexa, ask whiskey country radio to play live.
+Alexa, disable whiskey country radio

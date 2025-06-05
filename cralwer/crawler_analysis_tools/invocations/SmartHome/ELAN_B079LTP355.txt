@@ -1,0 +1,6 @@
+Alexa, turn on Bedroom.
+Alexa, set Downstairs temperature to 72 degrees.
+Alexa, turn on the Kitchen Lights.
+Alexa, set upstairs temperature to 72 degrees.
+Alexa, lock the Front Door.
+Alexa, disable ELAN

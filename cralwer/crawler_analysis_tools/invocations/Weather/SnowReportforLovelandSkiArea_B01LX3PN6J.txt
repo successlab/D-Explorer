@@ -1,0 +1,4 @@
+Alexa, open loveland ski area
+Alexa, ask Loveland Ski Area for the snow report
+Alexa, ask Loveland Ski Area for latest conditions
+Alexa, disable loveland ski area

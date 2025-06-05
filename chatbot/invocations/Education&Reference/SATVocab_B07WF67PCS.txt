@@ -1,0 +1,4 @@
+Alexa, open s. a. t. vocab
+Alexa ask s. a. t. vocab to get a new word
+Alexa ask s. a. t. vocab to get a new vocab word
+Alexa, disable s. a. t. vocab

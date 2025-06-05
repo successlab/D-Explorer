@@ -1,0 +1,6 @@
+Alexa, open gravity facts
+Alexa, launch Gravity Facts
+Alexa, stop
+Alexa ask gravity facts for a fact
+Alexa tell gravity facts to tell me trivia
+Alexa, disable gravity facts

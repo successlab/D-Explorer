@@ -1,0 +1,4 @@
+Alexa, open my place
+Alexa Ask My Place For a Fact
+Alexa Ask My Place For a Home Fact
+Alexa, disable my place

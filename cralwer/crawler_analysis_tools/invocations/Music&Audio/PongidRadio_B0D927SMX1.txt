@@ -1,0 +1,2 @@
+Alexa, open my music
+Alexa, disable my music

@@ -1,0 +1,4 @@
+Alexa, open meat thermometer
+Alexa, ask Meat Thermometer the temperature for pork
+Alexa, ask Meat Thermometer how I should cook chicken
+Alexa, disable meat thermometer

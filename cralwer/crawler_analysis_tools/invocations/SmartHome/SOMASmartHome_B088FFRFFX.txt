@@ -1,0 +1,4 @@
+Alexa, close Bedroom
+Alexa, open Bedroom
+Alexa, set Bedroom to 50
+Alexa, disable SOMASmartHome

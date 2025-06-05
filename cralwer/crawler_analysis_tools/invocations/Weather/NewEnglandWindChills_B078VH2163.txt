@@ -1,0 +1,5 @@
+Alexa, open wind chill
+Alexa, ask wind chill for Mount Washington
+Alexa, ask wind chill to tell me how cold it feels in Boston
+Alexa, ask wind chill what's the reading in Providence
+Alexa, disable wind chill

@@ -1,0 +1,4 @@
+Alexa, open the daily stoic
+Alexa Give me a quote from The Daily Stoic
+Alexa Ask The Daily Stoic for a quote
+Alexa, disable the daily stoic

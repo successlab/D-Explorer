@@ -1,0 +1,5 @@
+Alexa, open i am grootu
+Alexa, ask I am Grootu what I'm doing tomorrow
+Alexa, ask I am Grootu what the time is?
+Alexa, ask I am Grootu what's for dinner tonight
+Alexa, disable i am grootu

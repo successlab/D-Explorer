@@ -1,0 +1,3 @@
+Alexa turn off name
+Alexa turn on name
+Alexa, disable NixplayFrame(SmartHome)

@@ -1,0 +1,3 @@
+Alexa, open tea kettle
+Alexa, play Tea Kettle
+Alexa, disable tea kettle

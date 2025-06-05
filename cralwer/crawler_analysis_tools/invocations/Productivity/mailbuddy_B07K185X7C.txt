@@ -1,0 +1,5 @@
+Alexa, open mail buddy
+Alexa ask mail buddy for mailboxes near me
+Alexa ask mail buddy to find mailboxes
+Alexa ask mail buddy for mailboxes
+Alexa, disable mail buddy

@@ -1,0 +1,3 @@
+Alexa, turn on front door
+Alexa, turn off front door
+Alexa, disable Doorbell

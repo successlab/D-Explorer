@@ -1,0 +1,4 @@
+Alexa, open tyro tarot
+Alexa, start Tyro Tarot
+Alexa, launch Tyro Tarot
+Alexa, disable tyro tarot

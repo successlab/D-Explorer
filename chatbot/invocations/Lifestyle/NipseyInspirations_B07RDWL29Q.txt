@@ -1,0 +1,5 @@
+Alexa, open nipsey inspirations
+Alexa, next
+Alexa, stop
+Alexa, start Nipsey Inspirations
+Alexa, disable nipsey inspirations

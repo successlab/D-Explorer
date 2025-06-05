@@ -1,0 +1,3 @@
+Alexa, open flight tracker
+Alexa, start flight tracker
+Alexa, disable flight tracker

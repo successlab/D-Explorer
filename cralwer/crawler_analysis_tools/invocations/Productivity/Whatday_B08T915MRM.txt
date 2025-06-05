@@ -1,0 +1,3 @@
+Alexa, open what day
+Alexa, start what day
+Alexa, disable what day

@@ -1,0 +1,5 @@
+Alexa, open roll twenty
+Alexa open Roll Twenty and roll
+Alexa ask Roll Twenty to give me a new roll
+Alexa ask Roll Twenty for new roll
+Alexa, disable roll twenty

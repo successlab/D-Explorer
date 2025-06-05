@@ -1,0 +1,5 @@
+Alexa, open super quiz of the day
+Alexa, Launch Super Quiz of the Day
+Repeat the question
+Is the answer, A
+Alexa, disable super quiz of the day

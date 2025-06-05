@@ -1,0 +1,4 @@
+Alexa, open true or false drinking game
+Alexa, start True or False Drinking Game
+Alexa, launch True or False Drinking Game
+Alexa, disable true or false drinking game

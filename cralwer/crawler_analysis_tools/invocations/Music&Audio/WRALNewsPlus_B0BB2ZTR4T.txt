@@ -1,0 +1,4 @@
+Alexa, open w. r. a. l. news plus
+Alexa, pause
+Alexa, resume
+Alexa, disable w. r. a. l. news plus

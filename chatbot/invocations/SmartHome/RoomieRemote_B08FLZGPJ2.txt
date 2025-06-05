@@ -1,0 +1,5 @@
+Alexa, open roomie remote
+Alexa, tell Roomie Remote to watch TV
+Alexa, tell Roomie Remote to mute the Guest Room
+Alexa, tell Roomie Remote to power off the living room
+Alexa, disable roomie remote

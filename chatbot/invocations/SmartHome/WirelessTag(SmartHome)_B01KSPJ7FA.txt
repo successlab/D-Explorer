@@ -1,0 +1,4 @@
+Alexa, show motion alert in Mailbox
+Alexa, what is the temperature in Living Room
+Alexa, what is the temperature in Plant
+Alexa, disable WirelessTag(SmartHome)

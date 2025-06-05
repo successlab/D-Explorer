@@ -1,0 +1,11 @@
+Alexa, open daily devotions
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask daily devotions for the latest talk
+Alexa, start daily devotions
+Alexa, disable daily devotions

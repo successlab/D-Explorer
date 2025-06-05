@@ -1,0 +1,4 @@
+Alexa, open jackson county facts
+Alexa, start jackson county facts
+Alexa, ask jackson county facts for a fact
+Alexa, disable jackson county facts

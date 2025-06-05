@@ -1,0 +1,5 @@
+Alexa, open bus bus
+Alexa, ask Bus Bus for the next twelve at rawlings hall
+Alexa, ask Bus Bus for the next buses at rosa parks downtown station
+Alexa, ask Bus Bus
+Alexa, disable bus bus

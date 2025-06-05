@@ -1,0 +1,5 @@
+Alexa, open hear full
+Alexa, ask Hearful what are my biggest product risks?
+Alexa, ask Hearful how do I improve sentiment?
+Alexa, ask Hearful what are my most talked about items?
+Alexa, disable hear full

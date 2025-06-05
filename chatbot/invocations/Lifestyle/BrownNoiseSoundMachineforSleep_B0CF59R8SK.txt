@@ -1,0 +1,7 @@
+Alexa, open brown noise sound machine
+Alexa, open White Noise Sound Machine
+Alexa, open Pink Noise Sound Machine
+Alexa, stop.” To resume it again say, 
+Alexa, launch brown noise sound machine
+Alexa, start brown noise sound machine
+Alexa, disable brown noise sound machine

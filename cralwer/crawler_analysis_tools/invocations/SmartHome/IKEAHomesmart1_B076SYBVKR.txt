@@ -1,0 +1,4 @@
+Alexa, open the Bedroom blinds
+Alexa, turn on the Bedroom lights
+Alexa, brighten the Kitchen lights
+Alexa, disable IKEAHomesmart1

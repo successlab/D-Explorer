@@ -1,0 +1,5 @@
+Alexa, open grocery manager
+Alexa, ask grocery manager to get my grocery list
+Alexa, ask grocery manager to add onion 1 lb
+Alexa, ask grocery manager to clear my grocery list
+Alexa, disable grocery manager

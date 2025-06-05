@@ -1,0 +1,6 @@
+Alexa, open sky link net
+Alexa, ask SkylinkNet to check sensor status
+Alexa, ask SkylinkNet to arm away
+Alexa, ask SkylinkNet to check the alarm status
+Alexa, ask SkylinkNet to close the garage door
+Alexa, disable sky link net

@@ -1,0 +1,5 @@
+Alexa, open san jose guide
+Alexa, Start San Jose Guide
+Alexa, Ask San Jose Guide for top five things to do
+Alexa, Ask San Jose Guide for local news
+Alexa, disable san jose guide

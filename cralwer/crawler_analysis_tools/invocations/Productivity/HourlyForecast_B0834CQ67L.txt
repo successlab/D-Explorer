@@ -1,0 +1,4 @@
+Alexa, open hourly forecast
+Alexa, Play Hourly Forecast
+Alexa, Launch Hourly Forecast
+Alexa, disable hourly forecast

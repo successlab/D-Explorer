@@ -1,0 +1,3 @@
+Alexa, open daily poems
+Alexa, play daily poems
+Alexa, disable daily poems

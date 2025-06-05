@@ -1,0 +1,4 @@
+Alexa, turn on light
+Alexa, turn off Fan plug
+Alexa, set bedroom light to 20 percent
+Alexa, disable LegrandHome

@@ -1,0 +1,5 @@
+Alexa, open air quality
+Alexa, Ask Air Quality For Air Quality in New York
+Alexa, Ask Air Quality What is the air quality in New York
+Alexa, Ask Air Quality New York Air Quality
+Alexa, disable air quality

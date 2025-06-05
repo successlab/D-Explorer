@@ -1,0 +1,5 @@
+Alexa, open article reader
+Alexa, ask Article Reader to read an article
+Alexa, ask Article Reader to read my articles
+Alexa, ask Article Reader to Login
+Alexa, disable article reader

@@ -1,0 +1,4 @@
+Alexa, open trivia royale
+Alexa, play Trivia Royale
+Alexa, start Trivia Royale
+Alexa, disable trivia royale

@@ -1,0 +1,4 @@
+Alexa, open cooking tips
+Alexa, Open Cooking Tips and give me a tip
+Alexa, Open Cooking Tips and give me a cooking tip
+Alexa, disable cooking tips

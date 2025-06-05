@@ -1,0 +1,4 @@
+Alexa, open magicians trivia
+Alexa, start magicians trivia
+Alexa, launch magicians trivia
+Alexa, disable magicians trivia

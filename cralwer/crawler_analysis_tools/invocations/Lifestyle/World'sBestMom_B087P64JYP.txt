@@ -1,0 +1,4 @@
+Alexa, open happy mother's day
+Alexa, stop
+Alexa, start happy mother's day
+Alexa, disable happy mother's day

@@ -1,0 +1,3 @@
+Alexa, open random joke
+Alexa, open random joke and tell me a joke
+Alexa, disable random joke

@@ -1,0 +1,3 @@
+Alexa, open i. q. test
+Alexa, open IQ test
+Alexa, disable i. q. test

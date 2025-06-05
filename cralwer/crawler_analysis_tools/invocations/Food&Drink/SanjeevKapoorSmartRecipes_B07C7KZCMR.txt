@@ -1,0 +1,6 @@
+Alexa, open sanjeev kapoor recipes
+Alexa, enable Sanjeev Kapoor Recipes
+Alexa, ask Sanjeev Kapoor Recipes how to prepare cake
+Alexa, ask Sanjeev Kapoor Recipes how to cook vegetable biryani
+Alexa, ask Sanjeev Kapoor Recipes to show me dinner recipes
+Alexa, disable sanjeev kapoor recipes

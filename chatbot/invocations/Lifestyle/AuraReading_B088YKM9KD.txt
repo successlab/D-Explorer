@@ -1,0 +1,4 @@
+Alexa, open aura reading
+Alexa, ask aura reading for my fortune
+Alexa, start aura reading
+Alexa, disable aura reading

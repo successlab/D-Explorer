@@ -1,0 +1,4 @@
+Alexa, open wuzz radio
+Alexa, ask wuzz radio what's playing.
+Alexa, ask wuzz radio to play live.
+Alexa, disable wuzz radio

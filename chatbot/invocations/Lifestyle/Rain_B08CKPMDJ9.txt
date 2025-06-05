@@ -1,0 +1,4 @@
+Alexa, open rain sounds
+Alexa, play Rain Sounds
+Alexa, ask Rain Sounds to play
+Alexa, disable rain sounds

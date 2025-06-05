@@ -1,0 +1,4 @@
+Alexa, show my living room
+Alexa, hide my living room
+Alexa, stop
+Alexa, disable NetvueLiveVideo

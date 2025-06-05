@@ -1,0 +1,4 @@
+Alexa, open animal finder
+I want jungle animals
+I want farm animals
+Alexa, disable animal finder

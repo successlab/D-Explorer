@@ -1,0 +1,5 @@
+Alexa, open hound me
+Alexa, ask hound me who is the best dog in the world.
+Alexa, ask hound me to set my dogs name to Buddy.
+Alexa, ask hound me to give a command.
+Alexa, disable hound me

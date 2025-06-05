@@ -1,0 +1,6 @@
+Alexa, open cpi
+Alexa, ask CPI...
+Alexa, tell CPI to turn on the lights
+Alexa, ask CPI what the temperature is
+Alexa, tell CPI to lock the doors
+Alexa, disable cpi

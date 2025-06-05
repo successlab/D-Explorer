@@ -1,0 +1,4 @@
+Alexa, open good job
+Alexa, stop
+Alexa, start Good Job
+Alexa, disable good job

@@ -1,0 +1,5 @@
+Alexa, open time clock
+Alexa, ask Time Clock to add an hour for meetings
+Tell me my hours
+What tasks can I track?
+Alexa, disable time clock

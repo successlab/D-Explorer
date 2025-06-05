@@ -1,0 +1,6 @@
+Alexa, open memory verse
+Alexa, next
+Alexa, stop
+Alexa, start memory verse
+Alexa, ask memory verse for a fact
+Alexa, disable memory verse

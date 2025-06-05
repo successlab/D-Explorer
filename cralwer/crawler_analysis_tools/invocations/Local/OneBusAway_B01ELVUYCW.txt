@@ -1,0 +1,6 @@
+Alexa, open one bus away
+Alexa, open OneBusAway
+Alexa, open OneBusAway
+Alexa, ask OneBusAway to set my stop to 6497
+Alexa, ask OneBusAway to filter routes
+Alexa, disable one bus away

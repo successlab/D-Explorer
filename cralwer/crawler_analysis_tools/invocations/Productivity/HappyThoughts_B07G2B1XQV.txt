@@ -1,0 +1,4 @@
+Alexa, open happy thoughts
+Alexa, ask Happy Thoughts to cheer me up
+Alexa, tell Happy Thoughts to encourage me
+Alexa, disable happy thoughts

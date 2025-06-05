@@ -1,0 +1,15 @@
+Alexa, turn on/off (TV name).
+Alexa, switch input to HDMI 1 on (TV name).
+Alexa, switch input to SmartCast.
+Alexa, open WatchFree Plus on (TV name).
+Alexa, set volume to 15 on (TV name).
+Alexa, turn down the volume.
+Alexa, mute/unmute (TV name).
+Alexa, play on (TV name).
+Alexa, pause.
+Alexa, fast forward.
+Alexa, rewind.
+Alexa, show comedy movies on Smartcast
+Alexa, launch prime video on Smartcast
+Alexa, switch input to HDMI 1 on Smartcast
+Alexa, disable VIZIOSmartCast

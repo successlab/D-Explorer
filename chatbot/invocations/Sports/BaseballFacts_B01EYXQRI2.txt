@@ -1,0 +1,5 @@
+Alexa, open baseball nerd
+Alexa, ask Baseball Nerd for a fact
+Alexa, ask Baseball Nerd for some trivia
+Alexa ask Baseball Nerd for a baseball fact
+Alexa, disable baseball nerd

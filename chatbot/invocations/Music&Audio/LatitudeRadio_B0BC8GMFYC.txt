@@ -1,0 +1,3 @@
+Alexa, open latitude radio
+Alexa play latitude radio
+Alexa, disable latitude radio

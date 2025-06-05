@@ -1,0 +1,5 @@
+Alexa, open sorting sock
+Alexa, ask SortingSock what house is Diana in.
+Alexa, ask SortingSock to tell me about Thomas.
+Alexa, ask SortingSock about Joseph
+Alexa, disable sorting sock

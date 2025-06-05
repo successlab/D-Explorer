@@ -1,0 +1,4 @@
+Alexa, open fitness gym
+Alexa, start Fitness gym
+Alexa, ask Fitness gym to start workout
+Alexa, disable fitness gym

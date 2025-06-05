@@ -1,0 +1,5 @@
+Alexa, open hide seek
+Alexa, ask Hide Seek to play
+Alexa, tell Hide Seek I am safe
+Alexa, tell Hide Seek to start game
+Alexa, disable hide seek

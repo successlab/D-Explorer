@@ -1,0 +1,5 @@
+Alexa, open scripture chase
+Alexa start scripture chase
+My answer is one
+exit skill
+Alexa, disable scripture chase

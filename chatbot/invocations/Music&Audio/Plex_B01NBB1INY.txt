@@ -1,0 +1,4 @@
+Alexa, open plex
+Alexa, ask Plex to play some music
+Alexa, ask Plex to suggest something to watch
+Alexa, disable plex

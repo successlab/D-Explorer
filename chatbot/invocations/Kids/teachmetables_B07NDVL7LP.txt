@@ -1,0 +1,4 @@
+Alexa, open teach me tables
+Alexa, ask teach me tables to teach me seven table
+help
+Alexa, disable teach me tables

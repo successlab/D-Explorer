@@ -1,0 +1,5 @@
+Alexa, open similar words
+Alexa, ask Similar Words to start
+salt
+pepper
+Alexa, disable similar words

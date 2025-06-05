@@ -1,0 +1,9 @@
+Alexa, open animal yoga
+Alexa, play Animal Yoga
+Alexa, ask Animal Yoga to play Bee
+Alexa, ask Animal Yoga to play random
+Alexa, ask Animal Yoga for a list
+Alexa, Random
+Alexa, Seahorse
+Alexa, ask Animal Yoga to play Octopus
+Alexa, disable animal yoga

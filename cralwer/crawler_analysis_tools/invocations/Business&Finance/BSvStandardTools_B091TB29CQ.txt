@@ -1,0 +1,5 @@
+Alexa, open b. s. v. standard tools
+Alexa, launch BSv Standard Tools
+Alexa, open BSv Standard Tools
+Alexa, load BSv Standard Tools
+Alexa, disable b. s. v. standard tools

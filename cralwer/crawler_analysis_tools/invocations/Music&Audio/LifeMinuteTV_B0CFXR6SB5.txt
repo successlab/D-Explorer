@@ -1,0 +1,4 @@
+Alexa, open life minute
+Alexa, ask life minute to play a video with Kevin Bacon
+Alexa, ask life minute to play the live channel
+Alexa, disable life minute

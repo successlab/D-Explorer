@@ -1,0 +1,8 @@
+Alexa, open pentair chat
+Alexa, ask Pentair Chat to turn on my Waterfall.
+Alexa, ask Pentair Chat what my pool temperature is.
+Alexa, ask Pentair Chat what my pool status is
+Alexa, ask pentair chat what the pool temperature is
+Alexa, ask pentair chat what the spa temperature is
+help
+Alexa, disable pentair chat

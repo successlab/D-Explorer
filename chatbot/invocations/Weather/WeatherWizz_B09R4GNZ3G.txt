@@ -1,0 +1,5 @@
+Alexa, open my weather station
+Alexa ask my weather station the outdoor temperature
+Alexa ask my weather station the indoor temperature
+Alexa ask my weather station the humidity
+Alexa, disable my weather station

@@ -1,0 +1,5 @@
+Alexa, open quick bits
+Alexa, ask quick bits to tell me recipe of french toast
+Alexa, ask quick bits what is the recipe for pizza sandwich
+Alexa, ask quick bits how is tuna rice made
+Alexa, disable quick bits

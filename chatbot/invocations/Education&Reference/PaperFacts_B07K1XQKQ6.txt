@@ -1,0 +1,4 @@
+Alexa, open paper facts
+Alexa Ask Paper Facts to give me a paper fact
+Alexa ask Paper Facts to tell me a paper fact
+Alexa, disable paper facts

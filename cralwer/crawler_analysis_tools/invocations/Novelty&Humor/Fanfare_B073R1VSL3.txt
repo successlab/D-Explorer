@@ -1,0 +1,5 @@
+Alexa, open the horn section
+Alexa, ask the horn section to give me a fanfare
+Alexa, ask the horn section to play a fanfare
+Alexa, ask the horn section to play
+Alexa, disable the horn section

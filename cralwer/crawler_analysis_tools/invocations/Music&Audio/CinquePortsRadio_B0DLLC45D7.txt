@@ -1,0 +1,4 @@
+Alexa, open cinque ports radio
+Alexa, start Cinque Ports Radio
+Alexa, play Cinque Ports Radio
+Alexa, disable cinque ports radio

@@ -1,0 +1,4 @@
+Alexa, turn on the door
+Alexa, show the door
+Alexa, turn off the door
+Alexa, disable Closeli

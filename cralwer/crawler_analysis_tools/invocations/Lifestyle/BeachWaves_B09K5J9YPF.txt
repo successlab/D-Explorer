@@ -1,0 +1,4 @@
+Alexa, open beach waves
+Alexa, pause
+Alexa, resume
+Alexa, disable beach waves

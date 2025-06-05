@@ -1,0 +1,10 @@
+Alexa, show the baby room camera
+Alexa, show the feed from the kitchen camera
+Alexa, hide the kids room camera
+Alexa, what is the temperature of baby room
+Alexa, turn off the kids room camera
+Alexa, turn on the kids room camera
+Alexa, show me the baby room
+Alexa, what's the temperature of kitchen
+Alexa, turn off baby room camera
+Alexa, disable Invidyo

@@ -1,0 +1,4 @@
+Alexa, open name game
+Alexa, start Name Game
+Alexa, launch Name Game
+Alexa, disable name game

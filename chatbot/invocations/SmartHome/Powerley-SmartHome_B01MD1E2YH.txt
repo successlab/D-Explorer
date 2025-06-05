@@ -1,0 +1,6 @@
+Alexa, turn on the kitchen light
+Alexa, turn off the bathroom light
+Alexa, set thermostat to 72 degrees
+Alexa, turn on the coffee machine
+Alexa, discover devices
+Alexa, disable Powerley-SmartHome

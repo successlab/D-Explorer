@@ -1,0 +1,2 @@
+Alexa, open escape scenarios
+Alexa, disable escape scenarios

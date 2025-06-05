@@ -1,0 +1,4 @@
+Alexa, open canna buddy
+Alexa start canna buddy
+Alexa launch canna buddy
+Alexa, disable canna buddy

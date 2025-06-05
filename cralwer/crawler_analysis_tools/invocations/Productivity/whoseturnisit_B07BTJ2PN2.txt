@@ -1,0 +1,5 @@
+Alexa, open whose turn
+Alexa ask whose turn is it to take out the trash
+Alexa ask whose turn who is on my list
+Alexa ask whose turn to add person Joe
+Alexa, disable whose turn

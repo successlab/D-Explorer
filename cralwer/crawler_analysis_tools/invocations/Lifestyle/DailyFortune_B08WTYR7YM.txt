@@ -1,0 +1,5 @@
+Alexa, open daily fortune
+Alexa, open Daily Fortune!
+Alexa open daily fortune.
+Alexa launch daily fortune.
+Alexa, disable daily fortune

@@ -1,0 +1,5 @@
+Alexa, open watch dog
+Alexa, tell watch dog Spencer is leaving for work
+Alexa, ask watch dog how long Spencer has been gone
+Alexa, tell watch dog Spencer is back
+Alexa, disable watch dog

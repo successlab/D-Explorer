@@ -1,0 +1,5 @@
+Alexa, open ghost detector
+Alexa, launch Ghost Detector
+Alexa, ask Ghost Detector to catch a ghost
+Alexa, launch Ghost Detector and help
+Alexa, disable ghost detector

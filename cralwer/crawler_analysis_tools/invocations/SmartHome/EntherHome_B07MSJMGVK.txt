@@ -1,0 +1,3 @@
+Alexa, turn on my bedroom
+Alexa, turn off my bedroom
+Alexa, disable EntherHome

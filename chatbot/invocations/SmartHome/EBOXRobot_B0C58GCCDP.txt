@@ -1,0 +1,11 @@
+Alexa, set 'Robot' to stand up
+Alexa, set 'Guardian' to stand up
+Alexa, set 'Kitten' to stand up
+Alexa, set 'Electric Pet' to stand up
+Alexa, set 'Smart Companion' to stand up
+Alexa, set 'Robot' to sit down
+Alexa, set 'Robot' to follow me
+Alexa, set 'Robot' to recharge
+Alexa, set 'Robot' to freeze
+Alexa, set 'Robot' to capture smiling face
+Alexa, disable EBOXRobot

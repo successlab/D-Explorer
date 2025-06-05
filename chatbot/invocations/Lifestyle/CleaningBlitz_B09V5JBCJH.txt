@@ -1,0 +1,4 @@
+Alexa, open cleaning blitz
+Alexa, stop
+Alexa, start cleaning blitz
+Alexa, disable cleaning blitz

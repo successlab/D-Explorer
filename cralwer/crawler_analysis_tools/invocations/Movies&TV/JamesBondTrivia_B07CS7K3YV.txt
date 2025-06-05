@@ -1,0 +1,4 @@
+Alexa, open james bond trivia
+Alexa, tell James Bond Trivia to start.
+Alexa, ask James Bond Trivia for help.
+Alexa, disable james bond trivia

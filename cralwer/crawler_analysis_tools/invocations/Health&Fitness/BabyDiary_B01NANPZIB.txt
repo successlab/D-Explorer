@@ -1,0 +1,5 @@
+Alexa, open baby diary
+Alexa, ask BabyDiary to record two ounce of breast milk
+When was the last feeding
+Alexa, ask babydiary to record a dirty diaper
+Alexa, disable baby diary

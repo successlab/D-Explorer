@@ -1,0 +1,5 @@
+Alexa, open cruise planners
+Alexa, ask Cruise Planners about Royal Caribbean.
+ask Cruise Planners when is my next vacation
+Alexa, ask Cruise Planners who is my agent.
+Alexa, disable cruise planners

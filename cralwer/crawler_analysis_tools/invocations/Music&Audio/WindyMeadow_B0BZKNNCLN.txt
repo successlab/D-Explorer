@@ -1,0 +1,4 @@
+Alexa, open windy meadow
+Alexa, start windy meadow
+Alexa, launch windy meadow
+Alexa, disable windy meadow

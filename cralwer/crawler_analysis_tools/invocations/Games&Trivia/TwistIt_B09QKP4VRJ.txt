@@ -1,0 +1,4 @@
+Alexa, open twist it
+spin
+help
+Alexa, disable twist it

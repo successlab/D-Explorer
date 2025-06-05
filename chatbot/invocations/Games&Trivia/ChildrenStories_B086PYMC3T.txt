@@ -1,0 +1,3 @@
+Alexa, open children stories
+Alexa, balmuni aaimutta from children stories
+Alexa, disable children stories

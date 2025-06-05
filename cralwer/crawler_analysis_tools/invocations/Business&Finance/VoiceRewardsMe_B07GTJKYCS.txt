@@ -1,0 +1,5 @@
+Alexa, open voice rewards
+Alexa, launch Voice Rewards
+Alexa, ask Voice Rewards for a Nike survey
+Alexa, open Voice Rewards and give me the Nike survey
+Alexa, disable voice rewards

@@ -1,0 +1,5 @@
+Alexa, open hello grandparents
+Alexa, open Hello Grandparents and Grandma and Grandpa are here.
+Alexa, open Hello Grandparents and look its Grandma and Grandpa.
+Alexa, open Hello Grandparents and say hello to Grandma and Grandpa.
+Alexa, disable hello grandparents

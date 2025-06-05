@@ -1,0 +1,5 @@
+Alexa, open fun quiz
+Alexa, next
+Alexa, stop
+Alexa, start fun quiz
+Alexa, disable fun quiz

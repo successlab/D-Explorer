@@ -1,0 +1,5 @@
+Alexa, open space man
+Alexa, ask Space Man what's in space
+Alexa, ask Space Man what's up for tomorrow
+Alexa, ask Space Man what's happening tomorrow through Friday
+Alexa, disable space man

@@ -1,0 +1,4 @@
+Alexa, open i. s. s. tracker
+Alexa, start i. s. s. tracker
+Alexa, launch i. s. s. tracker
+Alexa, disable i. s. s. tracker

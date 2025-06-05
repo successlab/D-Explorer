@@ -1,0 +1,4 @@
+Alexa, open wave sound
+Alexa, Pause
+Alexa, Resume
+Alexa, disable wave sound

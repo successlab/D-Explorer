@@ -1,0 +1,3 @@
+Alexa, open encuentra mi gato
+Alexa, abre encuentra mi gato
+Alexa, disable encuentra mi gato

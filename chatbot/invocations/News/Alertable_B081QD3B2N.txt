@@ -1,0 +1,5 @@
+Alexa, open alertable
+Alexa, open Alertable.
+Add an alert location
+Change alert types
+Alexa, disable alertable

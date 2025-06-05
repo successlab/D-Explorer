@@ -1,0 +1,3 @@
+alexa, turn on light.
+alexa, turn off light.
+Alexa, disable SmartHomeG4Control

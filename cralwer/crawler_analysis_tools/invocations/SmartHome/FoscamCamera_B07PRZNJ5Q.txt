@@ -1,0 +1,5 @@
+Alexa,show me the Doorway.
+Alexa, show me the doorway
+Alexa, show me the bedroom
+Alexa, show me the babyroom
+Alexa, disable FoscamCamera

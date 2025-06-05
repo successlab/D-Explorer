@@ -1,0 +1,5 @@
+Alexa, open tick tick
+Alexa, ask TickTick what is in my inbox?
+Alexa, ask TickTick what are my to-dos for Today?
+Alexa, ask TickTick to remind me to go to gym at 8pm.
+Alexa, disable tick tick

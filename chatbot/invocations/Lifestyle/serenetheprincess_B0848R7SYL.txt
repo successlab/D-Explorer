@@ -1,0 +1,4 @@
+Alexa, open serene the princess
+Alexa, stop
+Alexa, start serene the princess
+Alexa, disable serene the princess

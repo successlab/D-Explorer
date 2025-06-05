@@ -1,0 +1,6 @@
+Alexa, open interesting history facts
+Alexa, open History Facts
+Alexa, stop
+Alexa ask Interesting History Facts for a fact
+Alexa tell Interesting History Facts to tell me trivia
+Alexa, disable interesting history facts

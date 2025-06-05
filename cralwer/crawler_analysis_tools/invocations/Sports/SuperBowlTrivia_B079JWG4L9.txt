@@ -1,0 +1,4 @@
+Alexa, open super bowl trivia
+Alexa tell super bowl trivia to start a game
+Alexa tell super bowl trivia I want to play
+Alexa, disable super bowl trivia

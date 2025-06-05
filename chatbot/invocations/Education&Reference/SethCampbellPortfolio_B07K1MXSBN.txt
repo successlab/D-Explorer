@@ -1,0 +1,4 @@
+Alexa, open seth campbell's portfolio
+Alexa, ask Seth Campbell's Portfolio to tell me about a project that seth has done
+Alexa, ask Seth Campbell's Portfolio to tell me about seth's work history
+Alexa, disable seth campbell's portfolio

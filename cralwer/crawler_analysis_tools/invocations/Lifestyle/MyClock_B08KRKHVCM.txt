@@ -1,0 +1,5 @@
+Alexa, open my clock
+Alexa, my clock
+Alexa, ask my clock for help
+Alexa, tell my clock to change settings
+Alexa, disable my clock

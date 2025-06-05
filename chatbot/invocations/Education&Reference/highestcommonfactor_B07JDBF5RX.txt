@@ -1,0 +1,4 @@
+Alexa, open highest common factor
+Alexa, open Highest Common Factor and solve 18 and 30
+Alexa, open highest common factor and solve 12 and 34
+Alexa, disable highest common factor

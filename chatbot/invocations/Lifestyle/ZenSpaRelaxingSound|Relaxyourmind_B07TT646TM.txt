@@ -1,0 +1,7 @@
+Alexa, open zen spa
+Alexa, start Zen Spa
+Alexa, play Zen Spa
+Alexa, stop
+Alexa, stop playing in 1 hour
+Alexa, open Zen Spa and send me other relaxing sounds
+Alexa, disable zen spa

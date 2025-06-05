@@ -1,0 +1,5 @@
+Alexa, open tollywood dialogue
+Alexa, ask tollywood dialogue
+play the dialogue
+begin dialogue
+Alexa, disable tollywood dialogue

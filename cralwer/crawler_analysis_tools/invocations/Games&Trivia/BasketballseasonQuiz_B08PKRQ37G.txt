@@ -1,0 +1,5 @@
+Alexa, open basketball season quiz
+Alexa, next
+Alexa, stop
+Alexa, start basketball season quiz
+Alexa, disable basketball season quiz

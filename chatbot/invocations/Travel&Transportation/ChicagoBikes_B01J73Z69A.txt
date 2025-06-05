@@ -1,0 +1,5 @@
+Alexa, open chicago bikes
+Alexa, ask Chicago Bikes for station info for Peoria Street and Jackson Boulevard
+station status of Millennium Park
+about Bissell Street and Armitage Avenue
+Alexa, disable chicago bikes

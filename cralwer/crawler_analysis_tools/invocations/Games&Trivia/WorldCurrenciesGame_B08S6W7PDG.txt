@@ -1,0 +1,4 @@
+Alexa, open currencies game
+start the game
+give me a hint
+Alexa, disable currencies game

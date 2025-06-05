@@ -1,0 +1,5 @@
+Alexa, open a. b. c.
+Alexa, start abc
+Alexa, open abc
+Alexa, launch abc
+Alexa, disable a. b. c.

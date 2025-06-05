@@ -1,0 +1,4 @@
+Alexa, turn on entry light
+Alexa, set bedroom light to 60%
+Alexa, turn off kitchen
+Alexa, disable IOTAS

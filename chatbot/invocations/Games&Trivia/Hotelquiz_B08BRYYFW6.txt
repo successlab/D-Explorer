@@ -1,0 +1,3 @@
+Alexa, open hotel quiz
+Alexa, start hotel quiz
+Alexa, disable hotel quiz

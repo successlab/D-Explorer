@@ -1,0 +1,4 @@
+Alexa, open translate this
+Please translate How Are You
+I want to use Spanish
+Alexa, disable translate this

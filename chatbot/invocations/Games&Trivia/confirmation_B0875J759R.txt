@@ -1,0 +1,2 @@
+Alexa, open proactive confirmation
+Alexa, disable proactive confirmation

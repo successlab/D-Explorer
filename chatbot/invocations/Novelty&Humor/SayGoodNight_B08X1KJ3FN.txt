@@ -1,0 +1,4 @@
+Alexa, open say good night
+Alexa open say good night.
+Alexa launch say good night.
+Alexa, disable say good night

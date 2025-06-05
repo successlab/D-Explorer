@@ -1,0 +1,2 @@
+Alexa, show me the Dog Camera.
+Alexa, disable eufyPet

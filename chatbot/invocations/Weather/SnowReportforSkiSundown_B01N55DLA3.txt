@@ -1,0 +1,4 @@
+Alexa, open ski sundown
+Alexa, ask Ski Sundown for the snow report
+Alexa, ask Ski Sundown for latest conditions
+Alexa, disable ski sundown

@@ -1,0 +1,4 @@
+Alexa, open sleep tracker
+Alexa, ask sleep tracker how did my sleep go
+Alexa, ask sleep tracker How was my sleep tracking
+Alexa, disable sleep tracker

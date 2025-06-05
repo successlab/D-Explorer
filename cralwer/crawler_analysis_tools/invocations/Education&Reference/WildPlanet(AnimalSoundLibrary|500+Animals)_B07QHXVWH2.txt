@@ -1,0 +1,5 @@
+Alexa, open wild planet
+Alexa, what is the scientific name of the lion
+Alexa, play Tiger Sound from Wild Planet
+Alexa, play Puppy Sound from Wild Planet
+Alexa, disable wild planet

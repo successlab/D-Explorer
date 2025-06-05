@@ -1,0 +1,5 @@
+Alexa, open sonidos de agua
+Alexa, abre Sonidos de agua
+Alexa, pausa
+Alexa, reanudar
+Alexa, disable sonidos de agua

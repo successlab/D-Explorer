@@ -1,0 +1,5 @@
+Alexa, open daily tarot
+Alexa, ask Daily Tarot what is my card for today.
+Alexa, ask Daily Tarot to draw a tarot card.
+Alexa, ask Daily Tarot to tell me daily tarot card.
+Alexa, disable daily tarot

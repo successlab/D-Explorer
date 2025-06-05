@@ -1,0 +1,4 @@
+Alexa, open college admission facts
+Tell me a college admission fact
+Give me a fact
+Alexa, disable college admission facts

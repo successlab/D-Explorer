@@ -1,0 +1,4 @@
+Alexa, open space facts
+Alexa, start space facts
+Alexa, launch space facts
+Alexa, disable space facts

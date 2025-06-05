@@ -1,0 +1,5 @@
+Alexa, open crypto prices
+Alexa, ask crypto prices to get ethereum price
+Alexa, ask crypto prices to get dogecoin price
+Alexa, ask crypto prices to get bitcoin price
+Alexa, disable crypto prices

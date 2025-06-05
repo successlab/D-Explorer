@@ -1,0 +1,4 @@
+Alexa, open my honey
+Alexa, ask my honey to compliment me
+Alexa, ask my honey for a compliment
+Alexa, disable my honey

@@ -1,0 +1,5 @@
+Alexa, open linear
+Alexa, ask Linear about the door status
+Alexa, ask Linear to turn off my light
+Alexa, ask Linear to close my door
+Alexa, disable linear

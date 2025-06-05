@@ -1,0 +1,4 @@
+Alexa, turn on the light
+Alexa,turn on the socket
+Alexa,set the light to red
+Alexa, disable JohoSmart

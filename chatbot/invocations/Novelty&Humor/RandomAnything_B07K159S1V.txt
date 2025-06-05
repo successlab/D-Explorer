@@ -1,0 +1,5 @@
+Alexa, open random anything
+Alexa, tell Random Anything to give me three numbers.
+What should I eat today?
+Tell me something.
+Alexa, disable random anything

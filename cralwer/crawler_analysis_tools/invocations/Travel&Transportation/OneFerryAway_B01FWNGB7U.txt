@@ -1,0 +1,5 @@
+Alexa, open one ferry
+Alexa, ask one ferry for what cities
+Alexa, talk to one ferry
+Alexa, ask one ferry for, seattle to bremerton
+Alexa, disable one ferry

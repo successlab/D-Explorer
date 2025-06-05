@@ -1,0 +1,5 @@
+Alexa, open fit coach
+Alexa, Ask fit coach to motivate me
+Alexa, Ask fit coach to give me a quote
+Alexa, Tell fit coach to give me a motivation quote
+Alexa, disable fit coach

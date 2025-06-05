@@ -1,0 +1,4 @@
+Alexa, open barnyard animals alarm
+Alexa, wake me up at 7:00 AM to barnyard animals alarm tone
+Alexa, set an alarm at 7:00 AM to barnyard animals alarm tone
+Alexa, disable barnyard animals alarm

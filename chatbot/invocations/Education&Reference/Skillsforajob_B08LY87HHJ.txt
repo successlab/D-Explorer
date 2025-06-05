@@ -1,0 +1,3 @@
+Alexa, open job skills
+help
+Alexa, disable job skills

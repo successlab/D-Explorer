@@ -1,0 +1,5 @@
+Alexa, open hotel transylvania
+Alexa, open Hotel Transylvania.
+Alexa, tell Hotel Transylvania to sing a nursery rhyme.
+Alexa, ask Hotel Transylvania to read me a story.
+Alexa, disable hotel transylvania

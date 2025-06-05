@@ -1,0 +1,5 @@
+Alexa, open words of hope
+Alexa, next
+Alexa, stop
+Alexa, start words of hope
+Alexa, disable words of hope

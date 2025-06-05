@@ -1,0 +1,5 @@
+Alexa, open magic conch
+Alexa, ask Magic Conch
+Alexa, ask Magic Conch to answer me
+Alexa, ask Magic Conch to answer my question
+Alexa, disable magic conch

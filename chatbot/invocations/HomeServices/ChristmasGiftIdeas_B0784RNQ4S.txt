@@ -1,0 +1,4 @@
+Alexa, open christmas gift ideas
+Yes
+No
+Alexa, disable christmas gift ideas

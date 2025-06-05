@@ -1,0 +1,5 @@
+Alexa, open datos perrunos
+Alexa, abre datos perrunos y dime un dato interesante sobre perros
+Alexa, lanza datos perrunos y dime un dato interesante
+Alexa, abre datos perrunos
+Alexa, disable datos perrunos

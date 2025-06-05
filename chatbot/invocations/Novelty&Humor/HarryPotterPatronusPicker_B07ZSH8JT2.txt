@@ -1,0 +1,4 @@
+Alexa, open harry potter patronus picker
+Alexa, launch Harry Potter Patronus Picker
+Alexa, ask Harry Potter Patronus Picker to chose a patronus for me
+Alexa, disable harry potter patronus picker

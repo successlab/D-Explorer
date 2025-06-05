@@ -1,0 +1,4 @@
+Alexa, open little fable
+Alexa, stop
+Alexa, start little fable
+Alexa, disable little fable

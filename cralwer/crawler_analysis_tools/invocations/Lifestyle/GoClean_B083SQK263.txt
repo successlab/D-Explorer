@@ -1,0 +1,4 @@
+Alexa, open go clean
+Alexa, ask go clean to read my chore list
+Alexa, ask go clean to log a chore
+Alexa, disable go clean

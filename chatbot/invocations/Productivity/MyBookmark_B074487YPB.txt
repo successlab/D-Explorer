@@ -1,0 +1,5 @@
+Alexa, open my bookmark
+Alexa, ask my bookmark to save my page
+Alexa, tell my bookmark that I'm on page 93 in Jurassic Park
+Alexa, ask my bookmark how far along I am in Jurassic Park
+Alexa, disable my bookmark

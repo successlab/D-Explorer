@@ -1,0 +1,4 @@
+Alexa, open baby names
+list 10 christian baby boy names
+list some baby girl names
+Alexa, disable baby names

@@ -1,0 +1,2 @@
+Alexa, open exact time
+Alexa, disable exact time

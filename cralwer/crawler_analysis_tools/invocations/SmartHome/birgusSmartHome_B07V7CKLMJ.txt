@@ -1,0 +1,3 @@
+Alexa, turn on diffuser mist
+Alexa, set diffuser light to 50%
+Alexa, disable birgusSmartHome

@@ -1,0 +1,11 @@
+Alexa, open our savior's rockford
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask our savior's rockford for the latest talk
+Alexa, start our savior's rockford
+Alexa, disable our savior's rockford

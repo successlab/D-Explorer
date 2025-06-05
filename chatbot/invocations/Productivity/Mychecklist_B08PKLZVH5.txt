@@ -1,0 +1,3 @@
+Alexa, open my checklist
+Alexa, start my checklist
+Alexa, disable my checklist

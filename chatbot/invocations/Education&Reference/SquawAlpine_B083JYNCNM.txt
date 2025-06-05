@@ -1,0 +1,4 @@
+Alexa, open squaw alpine
+Alexa, launch Squaw Alpine
+Alexa, start Squaw Alpine
+Alexa, disable squaw alpine

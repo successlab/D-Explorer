@@ -1,0 +1,4 @@
+Alexa, open sleep sounds thunder
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds thunder

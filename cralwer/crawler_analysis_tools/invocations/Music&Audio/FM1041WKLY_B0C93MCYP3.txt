@@ -1,0 +1,5 @@
+Alexa, open w. k. l. y. radio
+Alexa, enable the WKLY Radio skill
+Alexa play WKLY Radio
+Alexa open WKLY Radio
+Alexa, disable w. k. l. y. radio

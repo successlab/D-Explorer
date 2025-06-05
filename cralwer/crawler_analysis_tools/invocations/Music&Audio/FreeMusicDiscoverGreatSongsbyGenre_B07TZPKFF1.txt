@@ -1,0 +1,10 @@
+Alexa, open free music
+Alexa, Play Free Music
+Alexa, Start Free Music
+Alexa, ask Free Music to play Pop Music
+Alexa, ask Free Music to play Hip-Hop Music
+Alexa, Pause
+Alexa, Stop
+Alexa, Resume
+Alexa, Continue
+Alexa, disable free music

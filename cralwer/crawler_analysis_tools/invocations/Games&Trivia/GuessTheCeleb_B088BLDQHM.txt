@@ -1,0 +1,5 @@
+Alexa, open guess the celeb
+Alexa, next
+Alexa, stop
+Alexa, start guess the celeb
+Alexa, disable guess the celeb

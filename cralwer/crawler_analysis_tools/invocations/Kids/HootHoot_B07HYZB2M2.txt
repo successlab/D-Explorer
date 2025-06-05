@@ -1,0 +1,4 @@
+Alexa, open hoot hoot
+Alexa, start hoot hoot
+Alexa, ask hoot hoot to start a new game
+Alexa, disable hoot hoot

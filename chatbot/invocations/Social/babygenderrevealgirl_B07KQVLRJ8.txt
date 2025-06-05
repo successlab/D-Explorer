@@ -1,0 +1,4 @@
+Alexa, open baby gender
+Alexa, tell baby gender
+Alexa, ask baby gender to reveal gender
+Alexa, disable baby gender

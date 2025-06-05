@@ -1,0 +1,5 @@
+Alexa, open scrub dub dub
+Alexa, stop
+Alexa ask scrub dub dub help me wash my hands
+Alexa tell scrub dub dub tell me a fact about handwashing
+Alexa, disable scrub dub dub

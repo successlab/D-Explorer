@@ -1,0 +1,5 @@
+Alexa, open route planner
+Alexa, ask route planner to find journey time from Bank to Westminster
+Alexa, ask route planner Journey time from Bank to Westminster
+Alexa, ask route planner Quickest time from Bank to Westminster
+Alexa, disable route planner

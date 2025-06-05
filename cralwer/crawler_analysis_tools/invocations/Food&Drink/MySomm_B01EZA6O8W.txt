@@ -1,0 +1,5 @@
+Alexa, open wine gal
+Alexa, ask Wine Gal to recommend a wine for prime rib
+Recommend a wine for a pepperoni pizza
+What goes with a roast chicken?
+Alexa, disable wine gal

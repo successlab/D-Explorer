@@ -1,0 +1,5 @@
+Alexa, open rim settler
+Alexa, ask Rim Settler to Play a Demo Game
+Alexa, Open Rim Settler.
+Alexa, ask Rim Settler to Play a Demo Game.
+Alexa, disable rim settler

@@ -1,0 +1,4 @@
+Alexa, open teams quiz
+Alexa, launch teams quiz
+Alexa, start teams quiz
+Alexa, disable teams quiz

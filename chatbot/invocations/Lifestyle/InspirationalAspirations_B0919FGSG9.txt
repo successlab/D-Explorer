@@ -1,0 +1,5 @@
+Alexa, open inspirational aspirations
+Alexa, next
+Alexa, stop
+Alexa, start inspirational aspirations
+Alexa, disable inspirational aspirations

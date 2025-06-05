@@ -1,0 +1,3 @@
+Alexa, open yes bot
+Alexa, ask Yes Bot if my daughter still needs to clean her room.
+Alexa, disable yes bot

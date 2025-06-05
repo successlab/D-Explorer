@@ -1,0 +1,4 @@
+Alexa, open zoo tycoon
+Alexa, start Zoo Tycoon.
+Alexa, open Zoo Tycoon.
+Alexa, disable zoo tycoon

@@ -1,0 +1,11 @@
+Alexa, open control hub
+Alexa, ask Control Hub to arm.
+Alexa, ask Control Hub to disarm.
+Alexa, ask Control Hub to panic.
+Alexa, ask Control Hub to part arm.
+Alexa, ask Control Hub to start group one.
+Alexa, ask Control Hub to start recording.
+Alexa, ask Control Hub to arm away
+Alexa, ask Control Hub to disarm
+Alexa, ask Control Hub to start group one
+Alexa, disable control hub

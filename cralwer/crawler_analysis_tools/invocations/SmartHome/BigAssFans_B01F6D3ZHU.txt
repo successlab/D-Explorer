@@ -1,0 +1,4 @@
+Alexa, set Family Room fan to 20%
+Alexa, turn on Living Room lights
+Alexa, increase Bedroom fan speed
+Alexa, disable BigAssFans

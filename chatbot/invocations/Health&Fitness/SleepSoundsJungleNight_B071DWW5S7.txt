@@ -1,0 +1,6 @@
+Alexa, open jungle night
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Jungle Night
+Alexa, launch Jungle Night
+Alexa, disable jungle night

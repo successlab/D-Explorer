@@ -1,0 +1,3 @@
+Alexa, open book recommendations
+Alexa, book recommendations
+Alexa, disable book recommendations

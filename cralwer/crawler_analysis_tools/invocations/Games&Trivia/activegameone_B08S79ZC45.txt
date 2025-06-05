@@ -1,0 +1,5 @@
+Alexa, open active game one
+Alexa, next
+Alexa, stop
+Alexa, start active game one
+Alexa, disable active game one

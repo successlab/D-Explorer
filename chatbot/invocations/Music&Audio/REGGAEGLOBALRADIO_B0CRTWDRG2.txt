@@ -1,0 +1,4 @@
+Alexa, open reggae global radio
+Alexa, ask reggae global radio what's playing.
+Alexa, ask reggae global radio to play live.
+Alexa, disable reggae global radio

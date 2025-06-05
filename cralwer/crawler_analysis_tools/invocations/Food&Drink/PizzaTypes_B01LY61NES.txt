@@ -1,0 +1,5 @@
+Alexa, open pizza types
+Alexa, ask Pizza Types what's a hawaiian pizza
+Alexa, ask Pizza Types what's in a california style pizza
+Alexa, tell Pizza Types to describe a new york style pizza
+Alexa, disable pizza types

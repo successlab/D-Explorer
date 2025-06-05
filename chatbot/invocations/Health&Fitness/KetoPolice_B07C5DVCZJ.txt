@@ -1,0 +1,5 @@
+Alexa, open keto police
+Alexa, ask Keto Police about pizza
+Alexa, ask Keto Police about a burger
+Alexa, ask Keto Police for mushrooms
+Alexa, disable keto police

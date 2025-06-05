@@ -1,0 +1,4 @@
+Alexa, open family chores
+Alexa, ask family chores to read my chore list
+Alexa, ask family chores to log a chore
+Alexa, disable family chores

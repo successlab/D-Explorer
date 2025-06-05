@@ -1,0 +1,6 @@
+Alexa, open babbling brook
+Alexa, good night
+Alexa, good night
+Alexa, ask babbling brook to loop
+Alexa, ask babbling brook to play for 3 hours
+Alexa, disable babbling brook

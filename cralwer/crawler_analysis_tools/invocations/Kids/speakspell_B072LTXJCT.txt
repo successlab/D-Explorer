@@ -1,0 +1,3 @@
+Alexa, open speak spell
+Level D
+Alexa, disable speak spell

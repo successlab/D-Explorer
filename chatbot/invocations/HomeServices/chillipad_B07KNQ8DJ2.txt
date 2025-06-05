@@ -1,0 +1,5 @@
+Alexa, open chilly pad
+Alexa, ask chilly pad to Go up one degree
+Alexa, ask chilly pad to Go down one degree
+Alexa, ask chilly pad to turn off
+Alexa, disable chilly pad

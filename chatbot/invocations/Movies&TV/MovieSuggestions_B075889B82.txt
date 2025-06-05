@@ -1,0 +1,5 @@
+Alexa, open movie suggestions
+Alexa, ask Movie Suggestions to give me a good movie suggestion
+Alexa, ask Movie Suggestions to give me a good nice suggestion
+Alexa, ask Movie Suggestions to give me a great movie suggestion
+Alexa, disable movie suggestions

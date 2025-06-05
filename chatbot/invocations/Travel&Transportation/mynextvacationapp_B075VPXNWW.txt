@@ -1,0 +1,4 @@
+Alexa, open vacation picker
+Alexa, launch vacation picker
+Alexa, start vacation picker
+Alexa, disable vacation picker

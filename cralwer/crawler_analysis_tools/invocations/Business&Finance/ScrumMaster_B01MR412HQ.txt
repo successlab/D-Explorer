@@ -1,0 +1,5 @@
+Alexa, open scrum master
+Alexa ask Scrum Master to start the scrum
+Alexa ask Scrum Master to end Scrum
+Alexa ask Scrum Master for the time
+Alexa, disable scrum master

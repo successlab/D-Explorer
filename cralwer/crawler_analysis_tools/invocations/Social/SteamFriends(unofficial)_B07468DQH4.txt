@@ -1,0 +1,4 @@
+Alexa, open steam friends
+Alexa, ask steam friends if my friends are online
+Alexa, ask steam friends who is online
+Alexa, disable steam friends

@@ -1,0 +1,5 @@
+Alexa, open my dad
+Alexa, tell my dad hello.
+Alexa, ask my dad for advice.
+Alexa, ask my dad what he thinks.
+Alexa, disable my dad

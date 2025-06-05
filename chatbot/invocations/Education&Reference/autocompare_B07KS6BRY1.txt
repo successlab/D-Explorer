@@ -1,0 +1,4 @@
+Alexa, open autocompare
+Autocompare apples to oranges
+Autocompare Avengers 3 to Captain Marvel
+Alexa, disable autocompare

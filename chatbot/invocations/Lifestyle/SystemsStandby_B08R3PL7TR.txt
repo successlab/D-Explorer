@@ -1,0 +1,3 @@
+Alexa, open systems standby
+Alexa, start systems standby
+Alexa, disable systems standby

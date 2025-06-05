@@ -1,0 +1,5 @@
+Alexa, open hello diary
+Alexa, new diary, I went to gym today and working out for 1 hour
+Alexa, read my diary today
+new diary I went to Bondi beach today
+Alexa, disable hello diary

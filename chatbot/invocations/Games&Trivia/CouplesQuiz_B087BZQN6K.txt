@@ -1,0 +1,3 @@
+Alexa, open couples quiz
+Alexa, start couples quiz
+Alexa, disable couples quiz

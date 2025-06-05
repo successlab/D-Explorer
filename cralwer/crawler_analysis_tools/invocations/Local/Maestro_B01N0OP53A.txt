@@ -1,0 +1,4 @@
+Alexa, open opera maestro
+What operas are playing
+Tell me opera schedule on december fifth
+Alexa, disable opera maestro

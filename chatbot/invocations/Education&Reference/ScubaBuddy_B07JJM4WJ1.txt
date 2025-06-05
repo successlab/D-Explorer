@@ -1,0 +1,5 @@
+Alexa, open scuba buddy
+Alexa ask Scuba Buddy what is the M O D for thirty six percent nitrox?
+Alexa ask Scuba Buddy what is the best mix for ninety five feet?
+Alexa ask Scuba Buddy what is the partial pressure of oxygen for fifty percent nitrox at seventy feet?
+Alexa, disable scuba buddy

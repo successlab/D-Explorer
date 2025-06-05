@@ -1,0 +1,4 @@
+Alexa, open your home
+Alexa, stop
+Alexa, start Your Home
+Alexa, disable your home

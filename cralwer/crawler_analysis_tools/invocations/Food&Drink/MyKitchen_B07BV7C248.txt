@@ -1,0 +1,5 @@
+Alexa, open my kitchen
+Alexa, ask My Kitchen What's For Dinner?
+Alexa, ask My Kitchen What Should I Make For Dinner?
+Alexa, ask My Kitchen Help Me With Dinner
+Alexa, disable my kitchen

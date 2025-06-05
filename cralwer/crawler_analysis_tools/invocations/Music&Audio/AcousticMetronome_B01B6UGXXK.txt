@@ -1,0 +1,4 @@
+Alexa, open metronome
+Alexa, ask metronome to play 60
+Alexa, ask metronome to play 120
+Alexa, disable metronome

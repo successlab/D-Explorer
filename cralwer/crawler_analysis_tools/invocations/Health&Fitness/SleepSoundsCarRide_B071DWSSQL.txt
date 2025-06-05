@@ -1,0 +1,6 @@
+Alexa, open car ride
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Car Ride
+Alexa, launch Car Ride
+Alexa, disable car ride

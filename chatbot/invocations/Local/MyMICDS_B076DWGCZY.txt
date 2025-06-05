@@ -1,0 +1,5 @@
+Alexa, open my m. i. c. d. s.
+Alexa, ask MyMICDS what's for lunch tomorrow.
+Alexa, ask MyMICDS what lunch is on Monday.
+Alexa, ask MyMICDS what day it is tomorrow.
+Alexa, disable my m. i. c. d. s.

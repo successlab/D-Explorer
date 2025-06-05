@@ -1,0 +1,5 @@
+Alexa, open current top stories
+Alexa ask current top stories what are the headlines
+Alexa ask current top stories what are the latest headlines
+Alexa ask current top stories tell me the top stories
+Alexa, disable current top stories

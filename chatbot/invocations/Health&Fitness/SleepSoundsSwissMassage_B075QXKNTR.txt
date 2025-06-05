@@ -1,0 +1,6 @@
+Alexa, open swiss massage
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Swiss Massage
+Alexa, launch Swiss Massage
+Alexa, disable swiss massage

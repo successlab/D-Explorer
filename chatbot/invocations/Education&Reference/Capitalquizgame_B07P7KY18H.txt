@@ -1,0 +1,3 @@
+Alexa, open capital quiz game
+Alexa, start capital quiz game
+Alexa, disable capital quiz game

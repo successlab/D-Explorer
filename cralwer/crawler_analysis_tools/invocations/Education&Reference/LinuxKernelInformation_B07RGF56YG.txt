@@ -1,0 +1,3 @@
+Alexa, open linux kernel
+Alexa, ask the linux kernel
+Alexa, disable linux kernel

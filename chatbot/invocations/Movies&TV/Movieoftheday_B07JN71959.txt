@@ -1,0 +1,4 @@
+Alexa, open movie of the day
+Alexa, start movie of the day
+Alexa, launch movie of the day
+Alexa, disable movie of the day

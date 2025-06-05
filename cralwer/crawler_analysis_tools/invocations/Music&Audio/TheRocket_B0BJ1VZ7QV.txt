@@ -1,0 +1,4 @@
+Alexa, open the rocket
+Alexa, launch the rocket
+Alexa, start the rocket
+Alexa, disable the rocket

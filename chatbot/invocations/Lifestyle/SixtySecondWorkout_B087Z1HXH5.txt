@@ -1,0 +1,7 @@
+Alexa, open sixty second workout
+Alexa, Start
+Alexa, Skip
+Alexa, Status
+Alexa, Stop
+Alexa, start sixty second workout
+Alexa, disable sixty second workout

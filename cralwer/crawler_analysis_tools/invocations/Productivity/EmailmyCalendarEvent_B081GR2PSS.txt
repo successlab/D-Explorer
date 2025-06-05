@@ -1,0 +1,3 @@
+Alexa, open email my calendar event
+Alexa, email my calendar event
+Alexa, disable email my calendar event

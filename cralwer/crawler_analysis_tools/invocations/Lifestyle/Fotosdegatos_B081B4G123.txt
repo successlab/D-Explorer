@@ -1,0 +1,4 @@
+Alexa, open fotos de gatos
+Alexa, siguiente
+Alexa, abre fotos de gatos
+Alexa, disable fotos de gatos

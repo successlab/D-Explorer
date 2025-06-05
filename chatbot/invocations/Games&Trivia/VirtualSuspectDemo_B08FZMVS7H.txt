@@ -1,0 +1,4 @@
+Alexa, open virtual suspect
+hello
+how are you
+Alexa, disable virtual suspect

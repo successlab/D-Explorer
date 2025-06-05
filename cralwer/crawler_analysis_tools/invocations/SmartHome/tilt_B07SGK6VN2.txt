@@ -1,0 +1,4 @@
+Alexa, activate close all shades
+Alexa, turn on good morning
+Alexa, run movie time
+Alexa, disable tilt

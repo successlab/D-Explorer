@@ -1,0 +1,5 @@
+Alexa, open filter minder
+Alexa, tell Filter Minder that I just changed my filter.
+Alexa, tell Filter Minder that I replaced my filter.
+Alexa, ask Filter Minder when I last changed my filter.
+Alexa, disable filter minder

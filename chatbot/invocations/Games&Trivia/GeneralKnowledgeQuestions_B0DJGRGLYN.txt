@@ -1,0 +1,4 @@
+Alexa, open general knowledge questions
+Alexa, start general knowledge questions
+Alexa, launch general knowledge questions
+Alexa, disable general knowledge questions

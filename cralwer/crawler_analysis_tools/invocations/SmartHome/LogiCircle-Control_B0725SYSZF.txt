@@ -1,0 +1,5 @@
+Alexa, open logi circle
+Alexa, ask Logi Circle to record.
+Alexa, ask Logi Circle to turn on Living Room.
+Alexa, ask Logi Circle to disable privacy mode on all cameras.
+Alexa, disable logi circle

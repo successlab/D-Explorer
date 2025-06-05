@@ -1,0 +1,9 @@
+Alexa, open cricket sounds
+Alexa, stop
+Alexa, set a sleep timer for 6 hours
+Alexa, loop off
+Alexa, ask Cricket Sounds to turn on Background Mode
+Alexa, ask Cricket Sounds to turn Background Mode off
+Alexa, start Cricket Sounds
+Alexa, launch Cricket Sounds
+Alexa, disable cricket sounds

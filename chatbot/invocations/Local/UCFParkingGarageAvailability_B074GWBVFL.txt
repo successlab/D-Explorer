@@ -1,0 +1,3 @@
+Alexa, open university parking
+Alexa, ask University Parking, how full are the garages?
+Alexa, disable university parking

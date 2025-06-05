@@ -1,0 +1,5 @@
+Alexa, open sun life
+Alexa, ask Sun Life to submit a claim
+Alexa, ask Sun Life to do a health check in
+Alexa, ask Sun Life to check my workplace investments
+Alexa, disable sun life

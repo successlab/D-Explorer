@@ -1,0 +1,4 @@
+Alexa, open bedtime game
+Alexa, open the bedtime game
+Alexa, play the bedtime game
+Alexa, disable bedtime game

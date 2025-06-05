@@ -1,0 +1,4 @@
+Alexa, open movie clips trivia
+Alexa, play Movie Clips Trivia
+Alexa, launch Movie Clips Trivia
+Alexa, disable movie clips trivia

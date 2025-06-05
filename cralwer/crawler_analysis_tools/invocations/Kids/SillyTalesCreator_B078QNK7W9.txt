@@ -1,0 +1,4 @@
+Alexa, open silly tales
+Alexa, launch Silly Tales
+Alexa, play Silly Tales
+Alexa, disable silly tales

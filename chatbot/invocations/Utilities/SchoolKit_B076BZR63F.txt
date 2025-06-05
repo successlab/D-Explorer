@@ -1,0 +1,14 @@
+Alexa, open school kit
+Alexa, ask School Kit to add kit for Tuesday
+Alexa, open School Kit. Add Games Kit for Thomas for Tuesday
+Alexa, ask School Kit what kit I need for Tomorrow
+Alexa, ask School Kit what kit Sarah needs on Wednesday
+Alexa, ask School Kit to remove kit for Wednesday
+Alexa, open School Kit. Remove Games Kit from Thomas on Tuesday
+Alexa, open School Kit. Set the timetable to two weeks.
+Alexa, ask School Kit to switch weeks
+Alexa, ask School Kit to switch weeks
+Alexa, ask School Kit to set the timetable to one week
+Add games kit for Thomas for Tuesday
+What kit do I need for Tuesday
+Alexa, disable school kit

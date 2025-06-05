@@ -1,0 +1,4 @@
+Alexa, open family trivia questions
+Alexa, start family trivia questions
+Alexa, launch family trivia questions
+Alexa, disable family trivia questions

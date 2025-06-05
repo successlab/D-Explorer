@@ -1,0 +1,4 @@
+Alexa, open japanese flute
+Alexa, Start Japanese Flute
+Alexa, Launch Japanese Flute
+Alexa, disable japanese flute

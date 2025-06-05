@@ -1,0 +1,4 @@
+Alexa, open dinosaur name
+Alexa, ask Dinosaur Name to make a name
+Alexa, launch Dinosaur Name
+Alexa, disable dinosaur name

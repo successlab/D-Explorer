@@ -1,0 +1,5 @@
+Alexa, open trash finder
+Alexa, start trash finder
+Alexa, ask trash finder where my trash bin is
+Alexa, launch trash finder
+Alexa, disable trash finder

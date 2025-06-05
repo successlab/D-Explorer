@@ -1,0 +1,5 @@
+Alexa, open power shades
+Alexa, tell power shades to open dining room
+Alexa, tell power shades to close bedroom
+Alexa, tell power shades to run scene good morning
+Alexa, disable power shades

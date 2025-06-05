@@ -1,0 +1,2 @@
+Alexa, open speaking test
+Alexa, disable speaking test

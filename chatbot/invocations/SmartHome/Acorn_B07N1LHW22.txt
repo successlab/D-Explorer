@@ -1,0 +1,4 @@
+Alexa, unlock door lock
+Alexa,lock door lock
+Alexa,lock the door lock
+Alexa, disable Acorn

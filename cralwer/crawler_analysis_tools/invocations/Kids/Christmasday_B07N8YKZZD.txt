@@ -1,0 +1,5 @@
+Alexa, open christmas day
+Alexa, ask Christmas Day how long it is until Christmas
+Alexa, ask Christmas Day when Santa will arrive
+Alexa, ask Christmas Day how long is it until Santa gets here
+Alexa, disable christmas day

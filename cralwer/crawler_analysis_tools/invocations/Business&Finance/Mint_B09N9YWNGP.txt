@@ -1,0 +1,5 @@
+Alexa, open mint
+Alexa, Ask Mint to open budgets
+Alexa, Ask Mint to get transactions
+Alexa, Ask Mint to show me my trends
+Alexa, disable mint

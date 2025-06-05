@@ -1,0 +1,4 @@
+Alexa, open space trivia
+Alexa ask space trivia for a fact
+Alexa tell space trivia to tell me trivia
+Alexa, disable space trivia

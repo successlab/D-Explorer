@@ -1,0 +1,5 @@
+Alexa, open que libros leer
+Alexa, para
+Alexa, abre que libros leer
+Alexa, inicia que libros leer
+Alexa, disable que libros leer

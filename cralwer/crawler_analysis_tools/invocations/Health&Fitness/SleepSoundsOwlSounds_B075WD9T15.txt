@@ -1,0 +1,6 @@
+Alexa, open owl sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Owl Sounds
+Alexa, launch Owl Sounds
+Alexa, disable owl sounds

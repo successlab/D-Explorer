@@ -1,0 +1,5 @@
+Alexa, open hamster facts
+Alexa, ask hamster facts to tell me a fact
+Alexa, ask hamster facts give me hamster information.
+Alexa, ask hamster facts to tell me about hamsters.
+Alexa, disable hamster facts

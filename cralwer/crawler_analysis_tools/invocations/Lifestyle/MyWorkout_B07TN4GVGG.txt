@@ -1,0 +1,4 @@
+Alexa, open my workout
+Alexa, start My Workout
+Alexa, ask My Workout to start workout
+Alexa, disable my workout

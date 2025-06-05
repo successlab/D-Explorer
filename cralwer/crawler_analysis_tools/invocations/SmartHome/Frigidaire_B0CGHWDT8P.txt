@@ -1,0 +1,4 @@
+Alexa, turn on the air conditioner
+Alexa, set the air conditioner to 64 degrees
+Alexa, decrease the air conditioner temperature by 2 degrees
+Alexa, disable Frigidaire

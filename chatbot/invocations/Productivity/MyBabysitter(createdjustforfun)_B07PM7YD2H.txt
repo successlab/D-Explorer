@@ -1,0 +1,4 @@
+Alexa, open my babysitter
+Alexa, what is the baby's afternoon schedule?
+Alexa, start My Babysitter
+Alexa, disable my babysitter

@@ -1,0 +1,4 @@
+Alexa, open climate change
+Alexa, ask climate change to tell me a change in climate fact
+Alexa, ask climate change to tell me a change in climate trivia
+Alexa, disable climate change

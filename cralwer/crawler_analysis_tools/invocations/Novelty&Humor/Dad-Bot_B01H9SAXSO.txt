@@ -1,0 +1,4 @@
+Alexa, open dad bot
+Alexa, launch Dad Bot
+Alexa, run Dad Bot
+Alexa, disable dad bot

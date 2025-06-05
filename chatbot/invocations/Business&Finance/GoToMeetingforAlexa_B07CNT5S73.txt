@@ -1,0 +1,5 @@
+Alexa, open go to meeting
+Alexa, ask go to meeting to get my meetings for today
+Alexa, ask go to meeting to schedule a Review meeting for 9am tomorrow
+Alexa, ask go to meeting to reschedule my Review meeting from 9am tomorrow to 11am Tuesday
+Alexa, disable go to meeting

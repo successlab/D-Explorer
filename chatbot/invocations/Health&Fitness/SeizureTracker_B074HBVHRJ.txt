@@ -1,0 +1,7 @@
+Alexa, open seizure tracker
+Alexa, tell Seizure Tracker to track a seizure.
+Alexa, tell Seizure Tracker the seizure is over.
+Alexa, tell Seizure Tracker to count the seizures.
+Alexa, ask Seizure Tracker when was the last seizure?
+Alexa, tell Seizure Tracker to track a rescue medication.
+Alexa, disable seizure tracker

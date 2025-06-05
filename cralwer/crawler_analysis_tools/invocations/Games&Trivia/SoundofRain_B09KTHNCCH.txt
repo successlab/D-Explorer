@@ -1,0 +1,4 @@
+Alexa, open sound of rain
+Alexa, pause
+Alexa, resume
+Alexa, disable sound of rain

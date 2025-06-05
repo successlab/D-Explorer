@@ -1,0 +1,4 @@
+Alexa, open rosetta stone
+Alexa, start rosetta stone
+Alexa, launch rosetta stone
+Alexa, disable rosetta stone

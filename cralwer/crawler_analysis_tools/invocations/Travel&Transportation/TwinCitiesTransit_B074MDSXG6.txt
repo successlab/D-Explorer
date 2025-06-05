@@ -1,0 +1,5 @@
+Alexa, open twin cities transit
+Alexa, ask twin cities transit about stop number 16112
+Alexa, ask twin cities transit to check stop number 16112
+Alexa, ask twin cities transit to check stop 16112
+Alexa, disable twin cities transit

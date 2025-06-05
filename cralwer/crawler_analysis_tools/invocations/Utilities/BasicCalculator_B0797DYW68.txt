@@ -1,0 +1,5 @@
+Alexa, open cal c.
+Alexa, ask Cal C for three minus two
+Alexa, ask Cal C what is the value of one plus twenty three
+Alexa, ask Cal C what is the product of six and seven
+Alexa, disable cal c.

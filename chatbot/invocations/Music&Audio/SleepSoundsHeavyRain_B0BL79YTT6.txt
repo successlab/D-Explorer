@@ -1,0 +1,4 @@
+Alexa, open sleep sounds heavy rain
+Alexa, pause
+Alexa, resume
+Alexa, disable sleep sounds heavy rain

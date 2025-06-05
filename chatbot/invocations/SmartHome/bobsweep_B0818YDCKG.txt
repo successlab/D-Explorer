@@ -1,0 +1,8 @@
+Alexa, start vaccum.
+Alexa, start Bob.
+Alexa, turn on vacuum.
+Alexa, turn on Bob.
+Alexa, turn off vacuum.
+Alexa, turn off Bob.
+Alexa, turn on Bob
+Alexa, disable bobsweep

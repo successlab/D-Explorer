@@ -1,0 +1,2 @@
+Alexa, open stock market
+Alexa, disable stock market

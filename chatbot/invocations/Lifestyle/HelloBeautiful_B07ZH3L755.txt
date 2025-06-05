@@ -1,0 +1,3 @@
+Alexa, open hello beautiful
+Alexa, hello beautiful
+Alexa, disable hello beautiful

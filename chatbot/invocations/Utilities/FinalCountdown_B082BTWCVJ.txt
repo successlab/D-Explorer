@@ -1,0 +1,4 @@
+Alexa, open final countdown
+Alexa, tell Final Countdown I'm going April 11
+Alexa, tell Final Countdown my vacation is April 9
+Alexa, disable final countdown

@@ -1,0 +1,4 @@
+Alexa, open settle a bet
+Alexa, start settle a bet
+Alexa, play settle a bet
+Alexa, disable settle a bet

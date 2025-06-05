@@ -1,0 +1,4 @@
+Alexa, open christmas wish
+Alexa, ask Christmas wish tell me a wish
+Alexa, ask Christmas wish give Christmas wish to me
+Alexa, disable christmas wish

@@ -1,0 +1,4 @@
+Alexa, open bamboo math
+Alexa, start Bamboo Math
+Alexa, Bamboo Math
+Alexa, disable bamboo math

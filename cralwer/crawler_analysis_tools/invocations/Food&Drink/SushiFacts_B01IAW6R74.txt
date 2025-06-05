@@ -1,0 +1,5 @@
+Alexa, open sushi facts
+Alexa, ask Sushi Facts to tell me a fact
+Alexa, ask Sushi Facts to tell me an interesting fact about sushi
+Alexa, ask Sushi Facts to tell me a sushi fact
+Alexa, disable sushi facts

@@ -1,0 +1,4 @@
+Alexa, open go green
+Alexa, start Go Green
+Alexa, launch Go Green
+Alexa, disable go green

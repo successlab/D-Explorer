@@ -1,0 +1,5 @@
+Alexa, open raider nation
+Alexa, ask raider nation how many days until kickoff
+Alexa, ask raider nation how long until kickoff
+Alexa, ask raider nation how far away is kickoff
+Alexa, disable raider nation

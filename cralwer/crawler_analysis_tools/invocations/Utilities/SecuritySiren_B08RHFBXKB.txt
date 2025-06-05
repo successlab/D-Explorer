@@ -1,0 +1,8 @@
+Alexa, open security siren
+Alexa, start Security Siren
+Alexa, launch Security Siren
+Alexa, stop
+Alexa, start security siren
+Alexa, begin security siren
+Alexa, launch security siren
+Alexa, disable security siren

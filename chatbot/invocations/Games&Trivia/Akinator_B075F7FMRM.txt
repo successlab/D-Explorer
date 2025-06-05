@@ -1,0 +1,5 @@
+Alexa, open akinator
+Alexa, start Akinator.
+Alexa, open Akinator.
+Alexa, play Akinator.
+Alexa, disable akinator

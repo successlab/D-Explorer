@@ -1,0 +1,7 @@
+Alexa, open movie master
+Alexa, ask movie master for the upcoming movies.
+Alexa, ask movie master for the now playing movies.
+Alexa, ask Movie Master to give me the upcoming movies.
+Alexa, ask Movie Master for now playing movies.
+Alexa, ask Movie Master for help.
+Alexa, disable movie master

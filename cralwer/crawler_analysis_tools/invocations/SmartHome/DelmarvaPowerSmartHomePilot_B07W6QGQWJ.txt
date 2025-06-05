@@ -1,0 +1,4 @@
+Alexa, turn on Office Light.
+Alexa, increase Thermostat temperature.
+Alexa, dim my Family Room.
+Alexa, disable DelmarvaPowerSmartHomePilot

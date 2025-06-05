@@ -1,0 +1,5 @@
+Alexa, open workouts at home
+Alexa, open workouts at home for a random five minute workout
+Alexa, open workouts at home and give me a random five minute workout
+Alexa, open workouts at home for a ten minute workout
+Alexa, disable workouts at home

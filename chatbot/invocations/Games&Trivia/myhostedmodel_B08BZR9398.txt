@@ -1,0 +1,4 @@
+Alexa, open my hosted model
+hello
+help
+Alexa, disable my hosted model

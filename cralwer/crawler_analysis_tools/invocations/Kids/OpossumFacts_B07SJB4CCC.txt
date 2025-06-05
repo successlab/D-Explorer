@@ -1,0 +1,4 @@
+Alexa, open possum facts
+Alexa, start possum facts
+Alexa, ask possum facts for a fact
+Alexa, disable possum facts

@@ -1,0 +1,3 @@
+Alexa, open k. sat
+Alexa, open KSAT
+Alexa, disable k. sat

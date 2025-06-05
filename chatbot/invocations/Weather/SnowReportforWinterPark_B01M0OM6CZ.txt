@@ -1,0 +1,4 @@
+Alexa, open winter park
+Alexa, ask Winter Park for the snow report
+Alexa, ask Winter Park for latest conditions
+Alexa, disable winter park

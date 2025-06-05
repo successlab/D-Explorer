@@ -1,0 +1,5 @@
+Alexa, open sensio air
+Alexa, tell Sensio air to check the air quality
+Alexa, open Sensio air and give me the outdoor air quality
+Alexa, ask Sensio Air how is the air quality
+Alexa, disable sensio air

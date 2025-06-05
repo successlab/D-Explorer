@@ -1,0 +1,4 @@
+Alexa, turn on kitchen light
+Alexa, set bedroom to 24 degrees
+Alexa, dim den light
+Alexa, disable Node-RED

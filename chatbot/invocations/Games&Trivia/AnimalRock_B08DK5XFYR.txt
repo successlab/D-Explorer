@@ -1,0 +1,4 @@
+Alexa, open animal rock
+Alexa, start Animal Rock
+Alexa, launch Animal Rock
+Alexa, disable animal rock

@@ -1,0 +1,4 @@
+Alexa, open fun trivia
+Alexa, ask fun trivia for a fact
+Alexa, tell fun trivia to tell me something
+Alexa, disable fun trivia

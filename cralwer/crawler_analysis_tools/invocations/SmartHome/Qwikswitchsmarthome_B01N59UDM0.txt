@@ -1,0 +1,4 @@
+Alexa, turn on Lounge
+Alexa, turn off Lounge
+Alexa, set Lounge to 50 percent
+Alexa, disable Qwikswitchsmarthome

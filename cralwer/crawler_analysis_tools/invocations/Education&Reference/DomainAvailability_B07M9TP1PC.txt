@@ -1,0 +1,4 @@
+Alexa, open domain availability
+Check example.com
+Can I buy amazon.com
+Alexa, disable domain availability

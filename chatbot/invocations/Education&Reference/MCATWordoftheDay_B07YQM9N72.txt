@@ -1,0 +1,3 @@
+Alexa, open m. cat word of the day
+Alexa, open MCAT Word of the Day.
+Alexa, disable m. cat word of the day

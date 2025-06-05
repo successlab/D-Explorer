@@ -1,0 +1,4 @@
+Alexa, open multiplication teacher
+Alexa, multiplication teacher
+Alexa, ask multiplication teacher to Practice multiplication by seven
+Alexa, disable multiplication teacher

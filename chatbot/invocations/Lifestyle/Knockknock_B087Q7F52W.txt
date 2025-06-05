@@ -1,0 +1,4 @@
+Alexa, open knock knock
+Alexa, stop
+Alexa, start knock knock
+Alexa, disable knock knock

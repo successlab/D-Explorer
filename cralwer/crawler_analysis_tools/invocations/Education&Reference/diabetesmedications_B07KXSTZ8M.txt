@@ -1,0 +1,4 @@
+Alexa, open diabetes medications
+Alexa, start diabetes medications
+Alexa, launch diabetes medications
+Alexa, disable diabetes medications

@@ -1,0 +1,5 @@
+Alexa, open marketing podcast
+Alexa, play marketing podcast.
+Alexa, tell marketing podcast play the latest episode.
+Alexa, tell marketing podcast browse recent episodes.
+Alexa, disable marketing podcast

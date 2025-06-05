@@ -1,0 +1,5 @@
+Alexa, open firefly fan
+Alexa ask firefly fan for episode 1
+Alexa get episode 1 from firefly fan
+Alexa get the airdate for episode 1 from firefly fan
+Alexa, disable firefly fan

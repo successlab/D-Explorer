@@ -1,0 +1,6 @@
+Alexa, open rainforest sounds
+Alexa, Stop
+Alexa, set a sleep timer for 2 hours
+Alexa, start Rainforest Sounds
+Alexa, launch Rainforest Sounds
+Alexa, disable rainforest sounds

@@ -1,0 +1,4 @@
+Alexa, open clip quiz
+Alexa, launch clip quiz
+Alexa, start clip quiz
+Alexa, disable clip quiz

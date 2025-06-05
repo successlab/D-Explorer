@@ -1,0 +1,5 @@
+Alexa, discover my devices
+Alexa, turn on robot cleaner.
+Alexa, set air conditioner to sixty-five degrees.
+Alexa, set volume to twelve on TV.
+Alexa, disable LGThinQ

@@ -1,0 +1,3 @@
+Alexa, open night light
+Alexa, open Night Light for time 20 seconds
+Alexa, disable night light

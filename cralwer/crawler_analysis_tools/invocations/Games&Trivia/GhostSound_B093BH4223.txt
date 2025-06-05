@@ -1,0 +1,4 @@
+Alexa, open ghost sound
+Alexa, start ghost sound
+Alexa, launch ghost sound
+Alexa, disable ghost sound

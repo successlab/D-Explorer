@@ -1,0 +1,5 @@
+Alexa, open virtual keypad
+Alexa, tell Virtual Keypad to arm my system.
+Alexa, tell Virtual Keypad to arm my system home.
+Alexa, tell Virtual Keypad to arm my system away.
+Alexa, disable virtual keypad

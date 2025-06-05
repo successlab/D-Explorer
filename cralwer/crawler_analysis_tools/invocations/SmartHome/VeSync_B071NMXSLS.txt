@@ -1,0 +1,8 @@
+Alexa, open vesync
+Alexa, turn on the air purifier.
+Alexa, ask VeSync what‘s my weight.
+Alexa, ask VeSync what's my latest blood pressure reading.
+Alexa, ask VeSync Add two minutes to the Smart Air Fryer.
+Alexa, turn on the kitchen lights.
+Alexa, turn on the bedroom humidifier.
+Alexa, disable vesync

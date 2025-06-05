@@ -1,0 +1,5 @@
+Alexa, open weather link
+Alexa, ask WeatherLink what are the current conditions
+Alexa, ask WeatherLink to get the current conditions
+Alexa, open WeatherLink
+Alexa, disable weather link

@@ -1,0 +1,5 @@
+Alexa, open código de colores
+Alexa, abre código de colores.
+Alexa, abre código de colores y consulta café, rojo, verde, plata.
+Alexa, abre código de colores y dime el valor de café, negro, amarillo, dorado.
+Alexa, disable código de colores

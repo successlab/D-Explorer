@@ -1,0 +1,2 @@
+Alexa, open radio planeta
+Alexa, disable radio planeta

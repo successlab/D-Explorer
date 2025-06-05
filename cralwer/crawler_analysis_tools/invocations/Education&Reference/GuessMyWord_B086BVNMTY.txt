@@ -1,0 +1,4 @@
+Alexa, open guess my word
+Alexa, start guess my word
+Alexa, launch guess my word
+Alexa, disable guess my word

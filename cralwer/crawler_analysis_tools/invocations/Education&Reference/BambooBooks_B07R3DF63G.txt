@@ -1,0 +1,4 @@
+Alexa, open bamboo books
+Alexa, start Bamboo Books
+Alexa, Bamboo Books
+Alexa, disable bamboo books

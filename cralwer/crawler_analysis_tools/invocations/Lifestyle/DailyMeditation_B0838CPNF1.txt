@@ -1,0 +1,4 @@
+Alexa, open daily meditation
+Alexa, stop.
+Alexa, start Daily Meditation
+Alexa, disable daily meditation

@@ -1,0 +1,3 @@
+Alexa, open who is better
+Alexa, ask who is better Kobe or Lebron?
+Alexa, disable who is better

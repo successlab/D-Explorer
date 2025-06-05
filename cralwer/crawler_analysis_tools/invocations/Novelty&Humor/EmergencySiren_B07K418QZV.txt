@@ -1,0 +1,2 @@
+Alexa, open emergency siren
+Alexa, disable emergency siren

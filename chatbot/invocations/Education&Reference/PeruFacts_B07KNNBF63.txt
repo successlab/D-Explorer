@@ -1,0 +1,4 @@
+Alexa, open peru facts
+Alexa, start Peru Facts
+Alexa, launch Peru Facts
+Alexa, disable peru facts

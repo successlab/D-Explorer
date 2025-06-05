@@ -1,0 +1,7 @@
+Alexa, open nanit
+Alexa, ask Nanit, how long did Lilly sleep last night?
+Alexa, ask Nanit to turn on the lights in Lilly's room
+Alexa, open Nanit.
+Alexa, ask Nanit how Lilly's night was?
+Alexa, ask Nanit to turn on Lilly's nightlight
+Alexa, disable nanit

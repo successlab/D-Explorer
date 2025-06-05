@@ -1,0 +1,5 @@
+Alexa, set the Kitchen shade to 50%
+Alexa, set the Bedroom shade to 50%
+Alexa, open the Kitchen shade
+Alexa, activate Good Night
+Alexa, disable TheShadeStoreV2

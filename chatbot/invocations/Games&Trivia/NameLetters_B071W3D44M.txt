@@ -1,0 +1,4 @@
+Alexa, open name letters
+Start New Game
+John
+Alexa, disable name letters

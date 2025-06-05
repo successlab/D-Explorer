@@ -1,0 +1,5 @@
+Alexa, open earthquake forecast
+Alexa, ask Earthquake Forecast about Seattle within ten days
+about Seattle
+ten days
+Alexa, disable earthquake forecast

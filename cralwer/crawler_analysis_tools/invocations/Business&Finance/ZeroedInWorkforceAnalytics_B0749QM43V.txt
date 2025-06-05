@@ -1,0 +1,12 @@
+Alexa, open zeroedin
+Alexa, ask ZeroedIn to update my profile.
+Alexa, ask ZeroedIn to list my key measures.
+Alexa, ask ZeroedIn to list my flash briefings.
+Alexa, ask ZeroedIn to describe {title of a key measure}
+Alexa, ask ZeroedIn, what is Employee Turnover
+Alexa, ask ZeroedIn, what is Employee Turnover for the quarter ending March 31st 2018
+Alexa, ask ZeroedIn for a flash briefing on Recruiting
+Alexa, ask ZeroedIn to update my profile
+What flash briefings are available
+Retrieve a flash briefing on recruiting
+Alexa, disable zeroedin

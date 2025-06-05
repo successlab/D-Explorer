@@ -1,0 +1,3 @@
+Alexa, open say something
+Alexa, say something
+Alexa, disable say something

@@ -1,0 +1,4 @@
+Alexa, open weekday quiz
+Alexa start weekday quiz
+Alexa launch weekday quiz
+Alexa, disable weekday quiz

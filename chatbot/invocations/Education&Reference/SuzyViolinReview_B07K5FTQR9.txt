@@ -1,0 +1,10 @@
+Alexa, open suzy violin
+Alexa, tell Suzy Violin that I am currently learning {name of song}
+Alexa, tell Suzy Violin that I am on {name of song}
+Alexa, ask Suzy Violin for a song
+Alexa, tell Suzy Violin I passed off my current song
+Alexa, tell Suzy Violin I am on the next piece
+Alexa ask suzy violin for a review song.
+Alexa get a practice song from suzy violin.
+Alexa tell suzy violin my current song is the happy farmer.
+Alexa, disable suzy violin

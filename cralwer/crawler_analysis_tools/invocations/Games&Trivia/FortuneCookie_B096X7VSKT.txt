@@ -1,0 +1,2 @@
+Alexa, open fortune cookie
+Alexa, disable fortune cookie

@@ -1,0 +1,5 @@
+Alexa, open silly joke
+Alexa, ask silly joke to tell me a joke.
+Alexa, ask silly joke to joke please.
+Alexa, open silly joke and tell me a silly joke.
+Alexa, disable silly joke

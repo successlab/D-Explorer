@@ -1,0 +1,6 @@
+Alexa, open airplane sounds
+Alexa, good night
+Alexa, good night
+Alexa, ask airplane sounds to loop
+Alexa, ask airplane sounds to play for 3 hours
+Alexa, disable airplane sounds

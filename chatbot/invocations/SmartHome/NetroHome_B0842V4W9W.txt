@@ -1,0 +1,6 @@
+Alexa, open netro home
+Alexa, ask Netro Home to water zone one for 5 minutes. 
+Alexa, ask Netro Home to water all zones for 5 minutes.
+Alexa, ask Netro Home to stop watering.
+Alexa, ask Netro Home to water zone one for 5 minutes.
+Alexa, disable netro home

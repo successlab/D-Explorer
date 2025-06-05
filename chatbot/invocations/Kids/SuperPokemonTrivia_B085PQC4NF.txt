@@ -1,0 +1,3 @@
+Alexa, open super pokemon trivia
+Alexa, start super pokemon trivia
+Alexa, disable super pokemon trivia

@@ -1,0 +1,5 @@
+Alexa, open dreame bot
+Alexa, ask Dreame bot to clean
+Alexa, ask Dreame bot to recharge
+Alexa, ask Dreame bot to pause
+Alexa, disable dreame bot

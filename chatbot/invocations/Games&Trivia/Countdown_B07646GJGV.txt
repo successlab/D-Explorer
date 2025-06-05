@@ -1,0 +1,5 @@
+Alexa, open count down
+Alexa, start countdown
+Alexa, tell countdown to start from 5
+Alexa, tell countdown to start from 100
+Alexa, disable count down

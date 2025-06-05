@@ -1,0 +1,7 @@
+Alexa, open who's turn is it
+Alexa, whose turn is it
+Alexa, ask whose turn is it to pick between Sarah or Nathan
+Alexa, open who's turn is it?
+Alexa, ask who's turn is it to pick between Sarah or Nathan
+Alexa, ask who's turn is it to change the saved names
+Alexa, disable who's turn is it

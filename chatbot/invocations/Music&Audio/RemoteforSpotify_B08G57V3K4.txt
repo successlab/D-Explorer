@@ -1,0 +1,5 @@
+Alexa, open playback control
+Alexa, ask playback control to play on "Living room
+Set volume to sixty percent
+Next song
+Alexa, disable playback control

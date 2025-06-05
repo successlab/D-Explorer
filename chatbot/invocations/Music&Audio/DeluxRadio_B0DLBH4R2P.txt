@@ -1,0 +1,4 @@
+Alexa, open delux radio
+Alexa, start Delux Radio
+Alexa, play Delux Radio
+Alexa, disable delux radio

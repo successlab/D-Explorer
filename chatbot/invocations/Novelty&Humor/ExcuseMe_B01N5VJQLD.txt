@@ -1,0 +1,5 @@
+Alexa, open excuse me
+Alexa, ask Excuse Me for an excuse.
+Alexa, open Excuse Me.
+Alexa, ask Excuse Me to give me an excuse.
+Alexa, disable excuse me

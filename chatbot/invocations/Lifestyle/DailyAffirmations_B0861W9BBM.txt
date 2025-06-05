@@ -1,0 +1,2 @@
+Alexa, open daily affirmations
+Alexa, disable daily affirmations

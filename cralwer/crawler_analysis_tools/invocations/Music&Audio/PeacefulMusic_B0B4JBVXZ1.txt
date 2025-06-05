@@ -1,0 +1,4 @@
+Alexa, open peaceful music
+Alexa, Play Peaceful Music
+Alexa, Start Peaceful Music
+Alexa, disable peaceful music

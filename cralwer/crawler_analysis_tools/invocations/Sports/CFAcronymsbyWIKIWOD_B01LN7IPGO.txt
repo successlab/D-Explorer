@@ -1,0 +1,5 @@
+Alexa, open wiki wod acronyms
+Alexa, ask WIKIWOD Acronyms what is "W-O-D"?
+Alexa, ask WIKIWOD Acronyms what does set mean?
+Alexa, ask WIKIWOD Acronyms what does "K-B" stand for?
+Alexa, disable wiki wod acronyms

@@ -1,0 +1,4 @@
+Alexa, open peanut butter jar
+Give me a sweet recipe
+Give me a savory recipe
+Alexa, disable peanut butter jar

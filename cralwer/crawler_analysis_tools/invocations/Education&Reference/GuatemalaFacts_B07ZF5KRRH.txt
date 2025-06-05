@@ -1,0 +1,4 @@
+Alexa, open guatemala facts
+Alexa, ask Guatemala Facts to tell me something about Guatemala
+Alexa, ask Guatemala Facts who is the president of Guatemala
+Alexa, disable guatemala facts

@@ -1,0 +1,4 @@
+Alexa, open space sounds
+Alexa, Pause
+Alexa, Resume
+Alexa, disable space sounds

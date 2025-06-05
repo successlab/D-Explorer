@@ -1,0 +1,4 @@
+Alexa, open year progress
+Alexa, ask year progress how many seconds left
+Alexa, ask year progress how many hours left
+Alexa, disable year progress

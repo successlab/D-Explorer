@@ -1,0 +1,3 @@
+Alexa, open door chimes
+Alexa, door chimes
+Alexa, disable door chimes

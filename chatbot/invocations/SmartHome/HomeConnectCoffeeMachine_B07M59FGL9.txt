@@ -1,0 +1,22 @@
+Alexa, open my coffee machine
+Alexa, tell My Coffee Machine to assist me
+Alexa, ask My Coffee Machine when it needs to be cleaned
+Alexa, ask My Coffee Machine to turn the rinse on/off
+Alexa, tell My Coffee Machine I want a large, very strong Cappuccino.
+Alexa, tell My Coffee Machine to prepare a latte and start now.
+Alexa, ask My Coffee Machine for a small Americano.
+Alexa, ask My Coffee Machine to assist me.
+Alexa, ask My Coffee Machine for its status.
+Alexa, ask My Coffee Machine if it needs to be cleaned.
+Alexa, tell My Coffee Machine to turn on.
+Alexa, tell My Coffee Machine to turn off.
+Alexa, ask My Coffee Machine to disable rinsing on start.
+Alexa, tell My Coffee Machine to make my favorite espresso.
+Alexa, tell My Coffee Machine to start my favorite.
+Alexa, ask My Coffee Machine about my favorites.
+Alexa, ask My Coffee Machine what coffee I can get.
+Alexa, ask My Coffee Machine for a strong Espresso and start now
+Alexa, start My Coffee Machine.
+Alexa, tell My Coffee Machine to prepare an Espresso.
+Alexa, tell My Coffee Machine to prepare a large very strong Cappuccino.
+Alexa, disable my coffee machine

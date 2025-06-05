@@ -1,0 +1,5 @@
+Alexa, open baby music box
+Alexa, stop.” To resume it again, say 
+Alexa, start Baby Music box
+Alexa, launch Baby Music box
+Alexa, disable baby music box

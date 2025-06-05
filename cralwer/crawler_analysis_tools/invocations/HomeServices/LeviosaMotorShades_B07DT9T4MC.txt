@@ -1,0 +1,5 @@
+Alexa, open leviosa
+Alexa, tell Leviosa raise my kitchen shades
+Alexa, tell Leviosa open deck
+Alexa, tell Leviosa close office
+Alexa, disable leviosa

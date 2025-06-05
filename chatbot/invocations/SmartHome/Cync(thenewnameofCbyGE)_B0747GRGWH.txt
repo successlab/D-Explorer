@@ -1,0 +1,4 @@
+Alexa, turn on bedroom light
+Alexa, dim hallway light by 50 percent
+Alexa, set living room light to daylight
+Alexa, disable Cync(thenewnameofCbyGE)

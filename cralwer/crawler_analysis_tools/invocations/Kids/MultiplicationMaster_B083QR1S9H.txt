@@ -1,0 +1,7 @@
+Alexa, open multiplication master
+Alexa, test mode
+Alexa, review mode
+Alexa, next
+Alexa, what's my score
+Alexa, start multiplication master
+Alexa, disable multiplication master

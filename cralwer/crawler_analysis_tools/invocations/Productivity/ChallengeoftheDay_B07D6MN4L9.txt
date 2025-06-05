@@ -1,0 +1,5 @@
+Alexa, open challenge of the day
+Alexa, open Challenge of the Day.
+Alexa, start Challenge of the Day.
+Alexa, run Challenge of the Day.
+Alexa, disable challenge of the day

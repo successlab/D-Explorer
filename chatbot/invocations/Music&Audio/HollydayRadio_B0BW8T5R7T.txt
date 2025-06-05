@@ -1,0 +1,4 @@
+Alexa, open holiday radio dot com
+Alexa play Holiday Radio dot com
+Alexa stop
+Alexa, disable holiday radio dot com

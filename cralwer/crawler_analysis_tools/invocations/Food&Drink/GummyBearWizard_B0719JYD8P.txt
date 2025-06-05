@@ -1,0 +1,5 @@
+Alexa, open gummy bear wizard
+Alexa, ask Gummy bear wizard for a recommendation
+Alexa, ask Gummy bear wizard for a drink
+Alexa, ask Gummy bear wizard for a green pairing
+Alexa, disable gummy bear wizard

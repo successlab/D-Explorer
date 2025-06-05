@@ -1,0 +1,4 @@
+Alexa, open daily multiplication quiz
+Alexa, start Daily Multiplication Quiz
+Alexa, begin Daily Multiplication Quiz
+Alexa, disable daily multiplication quiz

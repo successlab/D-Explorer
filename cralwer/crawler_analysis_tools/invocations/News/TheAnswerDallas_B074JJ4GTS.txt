@@ -1,0 +1,5 @@
+Alexa, open the answer dallas
+Alexa, play The Answer Dallas
+Alexa, ask The Answer Dallas to play
+Alexa, tell The Answer Dallas to play
+Alexa, disable the answer dallas

@@ -1,0 +1,4 @@
+Alexa, open dinosaur jokes
+Alexa, Launch Dinosaur Jokes and give me a joke
+Alexa, Start Dinosaur Jokes and tell me a joke
+Alexa, disable dinosaur jokes

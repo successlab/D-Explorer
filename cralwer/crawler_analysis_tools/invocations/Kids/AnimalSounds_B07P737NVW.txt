@@ -1,0 +1,5 @@
+Alexa, open animal sounds
+Alexa, ask animal sounds what sound does a cow make?
+Alexa, open animal sounds.
+chicken
+Alexa, disable animal sounds

@@ -1,0 +1,5 @@
+Alexa, open jewel
+Alexa, ask jewel to set the temperature to 140 degrees Fahrenheit.
+Alexa, ask jewel for a status update.
+Alexa, ask jewel to cook steak.
+Alexa, disable jewel

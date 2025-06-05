@@ -1,0 +1,11 @@
+Alexa, open heaven view
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask Heaven View for the latest talk
+Alexa, start Heaven View
+Alexa, disable heaven view

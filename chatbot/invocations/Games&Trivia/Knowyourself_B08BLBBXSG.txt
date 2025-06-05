@@ -1,0 +1,4 @@
+Alexa, open know yourself
+Alexa, launch know yourself
+Alexa, play know yourself
+Alexa, disable know yourself

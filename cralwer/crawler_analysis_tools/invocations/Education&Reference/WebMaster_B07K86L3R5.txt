@@ -1,0 +1,4 @@
+Alexa, open web master
+Alexa start web master
+Alexa ask web master
+Alexa, disable web master

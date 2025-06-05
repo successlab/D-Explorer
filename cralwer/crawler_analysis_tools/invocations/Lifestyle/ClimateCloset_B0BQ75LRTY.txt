@@ -1,0 +1,4 @@
+Alexa, open climate closet
+Alexa, launch climate closet
+Alexa, climate closet
+Alexa, disable climate closet

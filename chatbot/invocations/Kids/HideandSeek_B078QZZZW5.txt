@@ -1,0 +1,3 @@
+Alexa, open hiding game
+Alexa, ask hiding game to give me four tries
+Alexa, disable hiding game

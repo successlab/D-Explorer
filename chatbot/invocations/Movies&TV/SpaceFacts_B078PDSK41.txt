@@ -1,0 +1,4 @@
+Alexa, open space facts
+Alexa ask Space Facts to give me some information about Space
+Alexa ask Space Facts to tell me a Space Fact
+Alexa, disable space facts

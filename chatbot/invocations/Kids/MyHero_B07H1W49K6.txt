@@ -1,0 +1,4 @@
+Alexa, open my hero
+Tell me a story about Henry
+Henry is the hero!
+Alexa, disable my hero

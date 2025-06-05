@@ -1,0 +1,4 @@
+Alexa, open golf kingdom
+Alexa, start Golf Kingdom
+Alexa, run Golf Kingdom
+Alexa, disable golf kingdom

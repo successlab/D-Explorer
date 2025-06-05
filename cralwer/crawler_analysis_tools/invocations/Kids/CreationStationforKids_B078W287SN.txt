@@ -1,0 +1,4 @@
+Alexa, open creation station
+Alexa, start creation station
+Alexa, make a story with creation station
+Alexa, disable creation station

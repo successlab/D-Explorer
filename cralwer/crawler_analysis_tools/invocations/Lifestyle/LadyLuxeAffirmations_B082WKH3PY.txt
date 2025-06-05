@@ -1,0 +1,11 @@
+Alexa, open lady luxe affirmations
+Alexa, pause
+Alexa, resume.
+Alexa, stop
+Alexa, shuffle
+Alexa, loop
+Alexa, previous
+Alexa, next
+Alexa, ask lady luxe affirmations for the latest talk
+Alexa, start lady luxe affirmations
+Alexa, disable lady luxe affirmations

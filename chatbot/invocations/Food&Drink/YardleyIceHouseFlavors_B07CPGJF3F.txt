@@ -1,0 +1,5 @@
+Alexa, open ice house
+Alexa, ask Ice House what their flavors are today
+Alexa, ask Ice House if they have Lemon
+Alexa, ask Ice House what flavors they have
+Alexa, disable ice house

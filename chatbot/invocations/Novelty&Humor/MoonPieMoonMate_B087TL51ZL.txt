@@ -1,0 +1,3 @@
+Alexa, open moonpie moonmate
+Alexa, launch MoonPie MoonMate.
+Alexa, disable moonpie moonmate

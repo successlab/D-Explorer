@@ -1,0 +1,5 @@
+Alexa, open merck holidays
+Alexa, ask Merck Holidays when is the next holiday
+Alexa, ask Merck Holidays how many days till the next holiday
+Alexa, ask Merck Holidays is today a holiday
+Alexa, disable merck holidays

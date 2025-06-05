@@ -1,0 +1,4 @@
+Alexa, open fitness facts
+give me a fitness fact
+tell me a fitness fact
+Alexa, disable fitness facts

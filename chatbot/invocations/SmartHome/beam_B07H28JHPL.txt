@@ -1,0 +1,5 @@
+Alexa, open beam home
+Alexa, ask beam Home to close my door
+Alexa, ask beam Home to open my door
+Alexa, ask beam Home if my door is open
+Alexa, disable beam home

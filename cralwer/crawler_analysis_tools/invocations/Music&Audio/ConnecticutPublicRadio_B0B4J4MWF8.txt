@@ -1,0 +1,5 @@
+Alexa, open connecticut public radio
+Alexa, play Connecticut Public Radio.
+Alexa, ask Connecticut Public Radio what's playing
+Alexa, play Connecticut Public Radio
+Alexa, disable connecticut public radio

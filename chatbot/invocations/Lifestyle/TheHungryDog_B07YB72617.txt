@@ -1,0 +1,5 @@
+Alexa, open the hungry dog
+Alexa, tell The Hungry Dog that I fed Fido
+Alexa, ask The Hungry Dog when Murphy was fed.
+Alexa, open The Hungry Dog.
+Alexa, disable the hungry dog

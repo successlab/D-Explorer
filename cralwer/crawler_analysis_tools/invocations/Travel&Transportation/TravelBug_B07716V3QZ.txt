@@ -1,0 +1,5 @@
+Alexa, open travel bug
+Alexa, ask Travel Bug where I should travel to next.
+Alexa, ask Travel Bug to suggest a cool place to go to.
+Alexa, ask Travel Bug where I can travel to.
+Alexa, disable travel bug

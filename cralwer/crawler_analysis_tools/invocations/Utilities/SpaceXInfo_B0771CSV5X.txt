@@ -1,0 +1,5 @@
+Alexa, open space x. info
+Alexa, open SpaceX info.
+Alexa, ask SpaceX Info when is the next launch
+Alexa, ask SpaceX Info what is the next launch
+Alexa, disable space x. info

@@ -1,0 +1,6 @@
+Alexa, open mi horario
+Alexa, abre Mi Horario
+Alexa, abre mi horario
+Alexa, pregunta a mi horario qué me toca el martes
+Alexa, pregunta a mi horario qué me toca mañana
+Alexa, disable mi horario

@@ -1,0 +1,5 @@
+Alexa, open common unit conversion
+Alexa, ask common unit conversion unit digital
+Alexa, ask common unit conversion get distance
+Alexa, ask common unit conversion what's for temperature
+Alexa, disable common unit conversion

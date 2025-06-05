@@ -1,0 +1,4 @@
+Alexa, open funny words
+Alexa, ask Funny Words to say some funny words
+Alexa, tell Funny Words to say 10 funny words
+Alexa, disable funny words

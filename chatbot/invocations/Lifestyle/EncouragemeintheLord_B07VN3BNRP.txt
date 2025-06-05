@@ -1,0 +1,6 @@
+Alexa, open encourage me
+Alexa, next
+Alexa, stop
+Alexa, start encourage me
+Alexa, ask encourage me for a fact
+Alexa, disable encourage me

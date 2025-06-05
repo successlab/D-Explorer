@@ -1,0 +1,5 @@
+Alexa, open sound of rain on the tent
+Alexa, activate premium
+Alexa, pause
+Alexa, resume
+Alexa, disable sound of rain on the tent

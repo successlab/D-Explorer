@@ -1,0 +1,5 @@
+Alexa, open crazy animal facts
+Alexa open Crazy Animal Facts.
+Alexa tell Crazy Animal Facts to provide a fact.
+Alexa ask Crazy Animal Facts for a fact.
+Alexa, disable crazy animal facts

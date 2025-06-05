@@ -1,0 +1,5 @@
+Alexa, open días festivos
+Alexa, abre días festivos
+Alexa, pregunta a días festivos cuándo es el próximo feriado
+Alexa, pregunta a días festivos cuántos días feriados tiene febrero
+Alexa, disable días festivos

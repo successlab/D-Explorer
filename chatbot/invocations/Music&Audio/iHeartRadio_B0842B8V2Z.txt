@@ -1,0 +1,5 @@
+Alexa, open i. h. r. song requestor
+Alexa, play z. one hundred
+Alexa, play Stuff You Should Know podcast on iHeartRadio
+Alexa, play country music on iHeartRadio
+Alexa, disable i. h. r. song requestor

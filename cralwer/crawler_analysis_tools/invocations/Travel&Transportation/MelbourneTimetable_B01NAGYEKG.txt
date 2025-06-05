@@ -1,0 +1,5 @@
+Alexa, open melbourne time table
+Alexa ask Melbourne time table for trains leaving Richmond
+when is the next train leaving Willison
+when is the next train leaving Baxter railway station
+Alexa, disable melbourne time table

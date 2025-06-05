@@ -1,0 +1,5 @@
+Alexa, open indy guide
+Alexa, open indyguide
+tell me the top five things
+tell me the local news
+Alexa, disable indy guide

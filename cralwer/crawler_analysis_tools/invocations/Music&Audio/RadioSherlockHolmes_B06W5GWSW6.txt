@@ -1,0 +1,5 @@
+Alexa, open radio sherlock holmes
+Alexa, stop
+Alexa, repeat
+Alexa, open Radio Sherlock Holmes.
+Alexa, disable radio sherlock holmes

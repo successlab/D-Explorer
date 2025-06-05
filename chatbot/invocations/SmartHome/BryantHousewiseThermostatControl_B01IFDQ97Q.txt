@@ -1,0 +1,4 @@
+Alexa, set My Home to 72 degrees
+Alexa, decrease upstairs by 2 degrees
+Alexa, increase thermostat
+Alexa, disable BryantHousewiseThermostatControl

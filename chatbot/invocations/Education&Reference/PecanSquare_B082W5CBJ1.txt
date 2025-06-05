@@ -1,0 +1,4 @@
+Alexa, open pecan square
+Alexa ask pecan square to contact Home Pro
+Alexa ask pecan square to find an answer
+Alexa, disable pecan square

@@ -1,0 +1,4 @@
+Alexa, open best sellers
+What are the Fiction best sellers?
+Alexa, ask Best Sellers for Sports best sellers
+Alexa, disable best sellers

@@ -1,0 +1,4 @@
+Alexa, open arizona radio
+Alexa, start arizona radio
+Alexa, ask arizona radio what's playing
+Alexa, disable arizona radio

@@ -1,0 +1,5 @@
+Alexa, open scout
+Alexa, set Scout to away mode.
+Alexa, disarm Scout.
+Alexa, is Scout armed?
+Alexa, disable scout

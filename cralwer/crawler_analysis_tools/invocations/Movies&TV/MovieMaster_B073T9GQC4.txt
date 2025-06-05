@@ -1,0 +1,5 @@
+Alexa, open movie master
+Alexa, ask Movie Master about the godfather
+Alexa, ask Movie Master for the summary of movie inception
+Alexa, open Movie Master and tell me about the movie fight club
+Alexa, disable movie master

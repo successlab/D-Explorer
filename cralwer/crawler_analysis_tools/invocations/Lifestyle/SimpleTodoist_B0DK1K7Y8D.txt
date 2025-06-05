@@ -1,0 +1,5 @@
+Alexa, open easy add
+Alexa, add file taxes using easy add
+Alexa, add file taxes to my inbox using easy add
+Alexa, add file taxes to my to do list using easy add
+Alexa, disable easy add

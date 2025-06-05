@@ -1,0 +1,5 @@
+Alexa, open three day rule
+Alexa, ask Three Day Rule for today's tip.
+Alexa, open Three Day Rule.
+Alexa, ask Three Day Rule what's today's tip?
+Alexa, disable three day rule

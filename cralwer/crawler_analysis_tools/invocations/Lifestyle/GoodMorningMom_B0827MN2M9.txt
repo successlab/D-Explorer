@@ -1,0 +1,4 @@
+Alexa, open good morning mom
+Alexa, stop
+Alexa, start good morning mom
+Alexa, disable good morning mom

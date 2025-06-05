@@ -1,0 +1,5 @@
+Alexa, open my pregnancy
+Alexa, ask My Pregnancy for my weekly update
+Alexa, tell My Pregnancy to set my due date
+Alexa, ask My Pregnancy how far along I am
+Alexa, disable my pregnancy

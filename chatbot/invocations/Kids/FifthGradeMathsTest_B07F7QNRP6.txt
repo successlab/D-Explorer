@@ -1,0 +1,3 @@
+Alexa, open maths test
+Alexa, play maths test
+Alexa, disable maths test

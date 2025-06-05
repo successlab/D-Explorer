@@ -1,0 +1,4 @@
+Alexa, open stock invest
+Alexa, Ask Stock Invest to Check my Stock portfolio
+Alexa, Ask Stock Invest How are markets doing today
+Alexa, disable stock invest

@@ -1,0 +1,4 @@
+Alexa, open animal quiz
+Alexa, launch animal quiz
+Alexa, start animal quiz
+Alexa, disable animal quiz

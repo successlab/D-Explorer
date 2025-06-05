@@ -1,0 +1,5 @@
+Alexa, open yenkasa radio
+Alexa, start Yenkasa Radio
+Alexa, play Yenkasa Radio
+Alexa, ask Yenkasa Radio what is the current song
+Alexa, disable yenkasa radio

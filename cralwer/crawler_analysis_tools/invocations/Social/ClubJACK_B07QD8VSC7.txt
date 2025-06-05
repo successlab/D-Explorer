@@ -1,0 +1,5 @@
+Alexa, open club jack
+Alexa, ask club jack if jack Thistledown has any promotions.
+Alexa, ask club jack if I have any offers at Cleveland.
+Alexa, ask club jack for my offers at Thistledown.
+Alexa, disable club jack

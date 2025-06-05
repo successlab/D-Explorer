@@ -1,0 +1,3 @@
+Alexa, open my drawings timer
+Alexa, start my drawings timer
+Alexa, disable my drawings timer

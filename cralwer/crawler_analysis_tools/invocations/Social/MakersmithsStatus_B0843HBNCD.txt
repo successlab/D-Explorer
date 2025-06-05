@@ -1,0 +1,4 @@
+Alexa, open what is the space status
+Alexa, stop
+Alexa what is the space status
+Alexa, disable what is the space status
